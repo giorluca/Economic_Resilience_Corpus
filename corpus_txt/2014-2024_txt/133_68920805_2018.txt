@@ -1,0 +1,1239 @@
+Gender Resilience in Times of Economic Crisis: Findings from Greece
+
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PACO, ISSN: 2035-6609 - Copyright © 2018 - University of Salento, SIBA: http://siba-ese.unisalento.it 
+ 
+ 
+ 
+PArtecipazione e COnflitto 
+* The Open Journal of Sociopolitical Studies 
+http://siba-ese.unisalento.it/index.php/paco 
+ISSN: 1972-7623 (print version)    
+ISSN: 2035-6609 (electronic version) 
+PACO, Issue 11(1) 2018: 145-174 
+     DOI: 10.1285/i20356609v11i1p145 
+ 
+Published in March 15, 2018 
+Work licensed under a Creative Commons 
+Attribution-Non commercial-Share alike 3.0 
+Italian License  
+RESEARCH ARTICLE 
+ 
+GENDER RESILIENCE IN TIMES OF ECONOMIC CRISIS  
+Findings from Greece  
+ 
+Yota Papageorgiou  
+University of Crete 
+ 
+Vasiliki Petousi 
+University of Crete  
+ 
+ABSTRACT: The aim of this article is to examine and compare the perceptions and effects of the economic 
+crisis on Greek women and men, as well as their resilience actions. Specifically, in this paper, we compare 
+men’s and women’s perceptions of the economic crisis; secondly, in order to determine the extent of its 
+effect on gender, we consider employment as a key variable, and investigate if and how employment 
+differentiation leads to inequalities between men and women and among women themselves. Finally, we 
+investigate gender resilience to adversity (actions) at both the personal (e.g., everyday behaviour), and the 
+organisational level (e.g. membership in organisations and political participation). Based on data derived 
+from the LIVEWHAT project, the results demonstrate that both men and women have been affected by the 
+economic crisis and have sustained significant losses. Nevertheless, our data show that, among women, it 
+is those in the lower occupational categories who have withstood more severe losses in employment and 
+working conditions. Resilient to adversities, both men and women, albeit in different ways, adjust, 
+accommodate and resist hardships through personal actions, networking and political actions. Our study 
+finally points to the need for the inclusion of gender in any analysis of the impact of crises, as well as in the 
+methods, ways and resources mobilised for resilience.  
+KEYWORDS: economic crisis, gender effects, gender perceptions, political actions, resilience  
+CORRESPONDING AUTHORS: Yota Papageorgiou, Email: papageo@uoc.gr ; Vasiliki Petousi, Email: 
+petousiv@uoc.gr  
+ 
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+146 
+ 
+1. Introduction 
+ 
+Greece is going through the eighth year (2010-2017) of its economic crisis. During 
+this extended period, the austerity measures imposed by the lending institutions 
+(IMF/EU /ECB)1, and adopted by the Greek State, have had a detrimental impact on 
+multiple aspects of the socioeconomic and the personal lives of a large number of 
+individuals and groups. Unprecedented in severity, volume and extent, these measures 
+imposed limitations on socioeconomic rights and opportunities, caused significant 
+problems on people’s everyday lives and compromised long-term prospects. 
+Additionally, public expenditure cuts (e.g., in health and family care services, social 
+benefits, housing, education, etc.) disproportionately impacted low-income and 
+unemployment-stricken households, single-parent families, as well as other vulnerable 
+social groups (Zambarloukou 2015).  
+Employment statistics are indicative of the situation. The unemployment rate for all 
+working/occupational groups skyrocketed, from 9.6% in 2009, to 27.5% by 2013 and 
+slightly declined to 23.6% in 2016 (EUROSTAT 2017)2. Part time jobs, of 6-7 or even 8 
+hours, usually without overtime compensation, became the dominant mode of 
+employment; more so for women, who constitute 60.51% of part-time workers (GSGE, 
+Gender Equality Observatory 2016)3. Despite unemployment being widespread, it 
+varies, depending on demographic characteristics such as age and gender. One 
+example is high unemployment rates among young people (reaching 74% in October 
+2016) (ELSTAT 2017)4, which resulted in many young professionals seeking 
+employment outside the country (Bank of Greece 2016)5. On the other hand, in 1995, 
+women constituted 38.1% of the workforce, compared to 47.4% in 2006. In 2013, at 
+the peak of the economic crisis, women’s workforce participation plummeted to 
+28.45% (ELSTAT 2017)6. In 2016, Greek women’s unemployment rate rose to 31.4%, 
+ 
+1 International Monetary Fund (IMF), the European Central Bank (ECB) and the European Commission (EC) 
+2EUROSTAT Unemployment by sex and age-annual average 
+ http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=une_rt_a&lang=en 
+3(GSGE) General Secretarial of Gender Equality, Gender Equality Observatory 
+  http://paratiritirio.isotita.gr/genqua_portal/ 
+4(ELSTAT) Hellenic Statistical Authority http://www.statistics.gr/el/statistics/-/publication/SJO02/2017-
+M10 
+5According to the Bank of Greece’s Report (2017) from 2008 to 2015 the total number of Greeks who 
+sought employment abroad in the 15 to 64-year age range surpassed 427,000; while 223,000 young 
+people between the ages of 25-39 were college graduates. . 
+6 (ELSTAT) Hellenic Statistical Authority http://www.statistics.gr/el/statistics/-/publication/SJO02/2017-
+M106 
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+147 
+ 
+much higher than the EU average of 10.2%, whereas the unemployment rate among 
+women, ages 15 to 29, climbed to 57.5% (ELSTAT 2017)7. These rates might have been 
+even higher if it wasn’t for the high percentage (47%) of women employed directly by 
+the State or some of its auxiliary agencies (Hellenic Ministry of the Interior and 
+Administrative Reconstruction 2017)8.  
+However, additional burdens are also experienced by women because of the 
+economic crisis. Significant cuts have been imposed on social and health-care benefits 
+and gender equality policies, such as maternity leave and assistance, benefits for 
+families with multiple and/or disabled children, childcare services, etc., which hitherto 
+alleviated (primarily) women’s economic burdens and facilitated their workforce 
+participation (Zambarloukou 2015). These cuts and reductions have further negative 
+implications, as evident from the poverty rate: men’s poverty rate increased from 
+29.6% in 2011 to 34.6% in 2013, while among women, it rose from 32.3% to 36.8% 
+respectively (Lyberaki and Tinios 2016, 61).  
+The protracted economic crisis has affected the personal and the socioeconomic 
+lives of people in many ways, including reversing women’s workforce participation 
+gains and enhancing the vulnerability of specific social groups (Papageorgiou 2015; 
+forthcoming). Nevertheless, both individually and collectively, people accommodate 
+and resist hardship through actions of resilience based on personal, social and other 
+characteristics; chief among them being gender differences. Before presenting our 
+findings, we briefly touch upon the effects of the economic crisis, as identified in the 
+literature, and succinctly discuss the concept of resilience as these relate with gender.  
+ 
+ 
+2. Gender and economic crisis 
+ 
+The present economic crisis has no geographical borders; it is a worldwide condition; 
+or at least a condition that has caused numerous problems worldwide. Investigating 
+the causes of this condition, some researchers concentrate on the global downturn, 
+based solely on the capitalist nature of the economic organisation and businesses; that 
+is, the accumulation of profits and wealth, purportedly promoting investment and 
+creating more jobs. However, while the opportunity for investment is present, it has 
+not resulted in job creation (Krugman 2009; Beder 2009). Harvey (2010) compares 
+ 
+7 (ELSTAT) Hellenic Statistical Authority http://www.statistics.gr/el/statistics/-/publication/SJO02/2017-
+M107  
+8 Hellenic Ministry of the Interior and Administrative Reconstruction, 2017 first author’s personal 
+communication  
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+148 
+ 
+production versus salaries, and claims that while salaries increased, productivity 
+decreased. Finally, Seguino (2010) argues that the economic inequalities between and 
+within states are the cause of the crisis.  
+Contested as the causes of the economic crisis may be, researchers concur over the 
+effects of the crisis: directly or indirectly, in times of recession, wages and working 
+conditions decrease, while poverty increases for both men and women. However, the 
+burden on women is disproportionately higher than on men. Rubery (2014, 18-19) for 
+example, argues that women are inflicted harder by recessions, since they are 
+segregated in vulnerable, less skilled jobs and are the first to go when lay-offs occur. 
+Walby (2009) conversely maintains that women working in the ‘informal sector’ of the 
+economy (e.g., seamstresses and house cleaners) are often subject to gender 
+exploitation, which is intensified during periods of economic crisis, ultimately leading 
+to increased poverty. Furthermore, the pay gap between men and women – women 
+usually receive less pay than men for similar and even same jobs – remains a reality 
+(Rubery 1988; 2014).  
+A somewhat different trend is noted by Karamessini and Rubery (2014), who found a 
+decrease in the employment gender gap during the crisis years, not because of 
+increased gender equality but rather a slump in male-dominated posts caused by the 
+recession. Comparably, research in Germany, the UK and Denmark (Leschke and 
+Jespsen 2011) showed that, although the economic crisis affects both men and women, 
+the measures taken by the respective governments (e.g., employment benefits, 
+taxation, etc.) favour men, through the support of male-dominated sectors (with the 
+exception of Denmark) and this trend is expected to persist. Moreover, Bettio, Corsi, 
+D’Ippoliti, Lyberaki, Samek Lodovici, and Verashchagina (2013) show that the severe 
+and negative impact of economic crises on women, results in setbacks extending 
+beyond economic losses, to losses in social services, benefits and support, which have 
+traditionally alleviated women’s economic burdens, as well as social policies that 
+actively promote gender equality. 
+Men and women in the European South, however, have sustained more losses than 
+their counterparts in the European North, including job losses, diminished social rights 
+and social benefits, increased working hours with less pay, etc. (Karamessini and 
+Rubery 2014). Conversely, research has consistently shown that in Southern European 
+countries, more so than in Northern European ones, there is a drastic reduction in the 
+implementation of gender equality policies by the State, indicating thus, a stronger 
+negative impact on women (Ferreira 2014; Verashchagina and Capparucci 2014; 
+Gonzalez Cago and Segales Kirzner 2014). In Greece, studies also converge on the fact 
+that, although the crisis severely affects both men and women, these effects are more 
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+149 
+ 
+detrimental for women and have engendered drastic setbacks for them (Karakioulafi 
+2017; Karamessini 2014a). Nevertheless, and despite – or rather in view of – hardship 
+and adversity, people do survive, adapt, resist and persevere. In the following section, 
+we briefly address issues related to resilience; the ability of people to thrive, despite 
+adversity, and the way it relates to gender differences.  
+ 
+ 
+3. Resilience and gender  
+ 
+Resilience, albeit a contested concept, tends to be used as a reference to the “ability 
+to withstand and rebound from serious life challenges” (Walsh 2015, 4; Kousis and 
+Paschou 2017). As Béné, Newsham, Davies, Ulrichs, and Godfrey (2014, 606) argue, 
+resilience is a ‘mobilizing metaphor’ that allows social scientists to examine and adopt 
+the subject according to their point of interest and investigation: challenges from 
+physical disasters (e.g., earthquakes or floods), social adversities (e.g., gender 
+inequalities, economic crises), psychological tensions (e.g., family strains, divorces), etc. 
+(Raco and Street 2012; Lowndes and McCaughie 2013; Martin and Sunley 2012). 
+Resilience, thus, relates to strength, action and, consequently, empowerment to 
+overcome adversity. Although, admittedly, there are instances in which adversities 
+cannot be overcome (Harrison 2012), most researches and theorists tend to perceive 
+resilience as a positive, dynamic process, which motivates action to overcome social 
+and economic exclusion, passivity and dependency (Dagdeviren, Donoguue, and 
+Promberger 2016), either at the collective or the individual level. Kousis and Paschou 
+(2017), for instance, proposing an all-encompassing conceptual framework, introduce 
+the concept of alternative forms of resilience in the face of adversity. These focus not 
+only on securing basic needs but  also on improving the way of life through collective 
+action – struggles for human rights, gender rights, resources, etc. (Jenkins and Rondón 
+2015).  
+Other approaches to resilience, focus on the individual skills, characteristics, abilities 
+and attitudes that people develop in order to overcome adversities; e.g., the ‘positive 
+attitudes’ of people seeking employment (Batty and Cole 2010, 23); the ‘optimistic 
+attitudes’ of people living under difficult economic circumstances and the abilities 
+people develop in order to overcome economic marginalisation (Harrison 2012) or to 
+meet every day, basic needs (Snel and Staring 2001). Yet, other approaches explore the 
+practices of individuals and families, such as the reduction of consumption, the 
+increase of working hours or working within the informal sector, the reduction of basic 
+needs (e.g., food, health and heat), the reduction of expenses, etc. (Harrison 2012).  
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+150 
+ 
+A growing body of literature focuses on the mobilisation of external resources as 
+resilience strategies; resources such as state and social agencies, social networks and 
+voluntary organisations (Kousis 2017; Dagdeviren et al. 2016; MacKinnon and 
+Derickson 2013; MacLeavy 2011; Davidson 2010; Mingione 1987). Among such studies, 
+the significance of power differentials, hierarchies, privilege and the overall “social 
+conditions” (Dagdeviren et al. 2016) of resilience are critically incorporated into 
+understanding and explaining resilience in the context in which it is manifested. The 
+inverse, argues Anderson (2015) – that is, approaching resilience in general and 
+decontextualized ways – risks reifying a purportedly autonomous, individualised, 
+abstracted “resilient subject” and “actively obscuring the uneven spatialities and 
+temporalities of different resiliencies” (Anderson 2015, 62), as well as their 
+engendering and embodiment.  
+As is the case with all elements of social structure, social phenomena and social 
+conditions, in this study, we consider resilience as engendered, and we view the 
+‘resilient subject’ as both gendered and embodied. Thus, we place particular emphasis 
+on gender, as decisive among the social conditions of resilience; not only because 
+resilience for men may have a totally different form, meaning and expression than for 
+women (MacLeavy 2011), but mainly because gender positions and relations are 
+inextricably linked and mutually and continuously (re)defined, reinforced and/or 
+reinterpreted within the gendered economic, political, legal and social structures in 
+which individuals – men and women – live their lives (see, for example, Petoussi 2007; 
+Petoussi-Douli, 2013). Several studies have demonstrated the importance of gender in 
+understanding resilience at the individual and collective level in various parts of the 
+world and in relation to multiple sources of adversity. At the least, these studies have 
+shown that to fully comprehend resilience, we need to take gender into consideration 
+when studying the impact that adversities have on people, the types of resources they 
+can and do mobilise and the way these interact with agency and structure (Smyth and 
+Sweetman 2015; Dagdeviren et al. 2016; MacLeavy 2011).  
+Based on the above, and in order to better understand the relation between gender, 
+the economic crisis and resilience in Greece, we comparatively examine the 
+perceptions, effects, and actions caused by the economic crisis on Greek women and 
+men, as well as the resilience at the personal and collective levels. Specifically, first, we 
+comparatively assess men’s and women’s perceptions of the crisis. Second, taking type 
+of employment as the key variable, we assess the gender effects of the economic crisis 
+by investigating differences between genders and among women, such as the extent of 
+participation in the labour market, employment/unemployment status, conditions of 
+employment along with other corollaries which determine access to the labour market. 
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+151 
+ 
+Finally, we investigate gender differences in resilience to adversity (actions) at the 
+personal level (e.g., aspects of everyday behaviour) and the collective level (e.g., 
+organisational membership and political participation).  
+ 
+ 
+4. Data, methods and statistics 
+ 
+The data used in this study derive from an original online cross-national survey9 
+conducted in 2015 within the context of the LIVEWHAT (Living with Hard Times)10 
+project across nine European countries and specifically the Greek sample (n=2,048). 
+The sample is quota balanced to match national population statistics in terms of sex, 
+age, and educational level. 
+To explore the relationship between gender, economic crisis and resilience, specific 
+items from the survey’s questionnaire are used11 which we present in the following 
+sections. We applied descriptive and explorative analysis. With respect to the latter, we 
+used Chi-Square test of Independence (χ2) to explore potential associations between 
+gender, occupational categories and specific variables of interest (such as perceptions 
+about the crisis, resilience actions associated with reduction in consumption, etc.). 
+Moreover, we used the Independent Samples t-test to compare the mean differences 
+in specific items under study (such as approval of political actions, etc.) between men 
+and women. 
+ 
+ 
+4.1 Perceptions of the economic crisis 
+ 
+To assess Greek men’s and women’s perceptions of the economic crisis, we analysed 
+their responses to the question “How serious do you think the economic crisis is?”. As 
+shown in Table 1, 92.3% of the total sample believe that “We are suffering a serious 
+ 
+9 More information on the survey and the methods applied are available at: LIVEWHAT: Integrated report 
+on individual responses to crises (Deliverable: 4.2)-WP4: Individual responses to crises 
+(http://www.unige.ch/livewhat/wp-content/uploads/2014/02/Integrated-Report.pdf) 
+10 Results presented in this paper have been obtained within the project “Living with Hard Times: How 
+Citizens React to Economic Crises and Their Social and Political Consequences” (LIVEWHAT). This project 
+was funded by the European Commission under the 7th Framework Programme (Grant Agreement No. 
+613237). More information on the project is available at: http://www.livewhat.unige.ch/  
+11 More information on the questionnaire is available at: LIVEWHAT: Deliverable 4.1, ‘Questionnaire for 
+the analysis of individual responses to crises’ (part of Work package 4 – Individual Responses to Crises) 
+(http://www.unige.ch/livewhat/wp-content/uploads/2014/07/Deliverable-4.11.pdf) 
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+152 
+ 
+economic crisis”, while more women (51.4%) than men (48.6%) think this is the case. A 
+small percentage of the total sample (5.9%) – among them more women (55.6%) than 
+men (44.4%) – perceive the crisis as not very serious. A mere 1.7% of the total sample – 
+among them more men (58.8%) than women (41.2%) – report that there is no 
+economic crisis. No statistical differences are noted between men’s and women’s 
+perceptions regarding the severity of the crisis.  
+ 
+Table 1- Perceived severity of crisis by gender (%) 
+ Total Men 
+ 
+Women 
+ 
+x2 p-value 
+We are suffering a 
+serious economic crisis 
+92.3 48.6 
+ 
+51.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.257 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.329 
+We are suffering a crisis 
+but is not very serious 
+5.9 44.4 
+ 
+55.6 
+ 
+We do not have an 
+economic crisis 
+1.7 58.8 
+ 
+41.2 
+ 
+Total  100.0 48.5 51.5 
+Source: LiveWhat 
+Notes: % based on respondents’ selecting specific answer options  
+ 
+In further investigating potential differences, while simultaneously considering 
+gender and occupational categories12, we see (Figure 1) that among the respondents in 
+our sample who consider that “we are suffering a serious economic crisis” 
+(approximately 93% of the total sample) men in the upper and the lower occupational 
+categories (41.1% and 21.4% respectively) are more likely than women in the same 
+occupational categories (25.5% and 17% respectively) to perceive the economic crisis 
+as serious. On the contrary, in the middle occupational category, it is women (48.3%) 
+rather than men (23.4%) who perceive the crisis as serious. Gender comparisons 
+(Figure 1) show that men in the upper occupational category are more likely to 
+perceive the crisis as serious (41.1%), followed by men in the middle occupational 
+ 
+12 Respondents’ occupational categories are measured with a recoded variable with four responses; a) 
+higher occupational category including professional or higher technical work - work that requires at least 
+degree-level qualifications (e.g., doctor, accountant, etc.), manager or senior administrator (e.g., company 
+director, finance manager, personnel manager, senior sales manager, etc.), b) middle occupational 
+category including clerical (e.g., clerk, secretary), sales or services (e.g., commercial travelled, shop 
+assistant, nursery nurse, care assistant, paramedic), foreman or supervisor of other workers (e.g., building 
+site foreman, supervisor of cleaning workers), c) lower occupational category including skilled manual 
+work (e.g., plumber, electrician, fitter) and semi-skilled or unskilled manual work (e.g., machine operator, 
+assembler, postman, waitress, cleaner, labourer, driver, etc.) and d) other (e.g., farming, military). 
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+153 
+ 
+category (23.4%) and men in the lower occupational category (21.4%). With regards to 
+women, those in the middle occupational category are more likely to perceive the crisis 
+as serious (48.3%), followed by women in the upper occupational category (25.5%), 
+while only 17% of women in the lower occupational category perceive the crisis as 
+serious.   
+It should be noted that the majority of women in the middle occupational category 
+tend to be employed in the private sector, where most of the layoffs have occurred. On 
+the other hand, women in the lower occupational category – although working under 
+difficult conditions – can find work in the informal sector (e.g., house cleaning, care 
+services, etc.) (Papageorgiou forthcoming).  
+ 
+Figure 1- Responses (%) ‘We are suffering a serious economic crisis” per gender and occupational categories (Source: 
+LiveWhat) 
+ 
+ 
+ Participants’ perception of their current condition was then assessed. As Table 2 
+shows, the Independent Samples T-test analysis indicates that, for the most part, men 
+and women assess their current condition and future prospects in different ways, 
+albeit in non-statistically significant ways. Nevertheless, men are more likely than 
+women to assess their current condition as better than 12 months ago and better than 
+their neighbours’ and friends’. Women, on the other hand, are more likely than men to 
+see their current condition as better, compared to 5 years ago. Statistically significant 
+differences are noted in the mean scores reported by men and women when assessing 
+their current condition compared to their parents’ situation at same age, with men 
+reporting higher mean scores. Statistically significant differences are further noted in 
+the mean scores reported by men and women with regards to their future prospects. 
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+154 
+ 
+Women report higher mean scores than men, potentially indicating a more optimistic 
+view.  
+ 
+Table 2- Assessment of current situation and future prospects by gender  
+  Mean 
+ 
+t-test p value 
+Men 
+ 
+Women 
+ 
+Current situation (living conditions) compared 
+to parents’ at same age as respondents 
+5.72 5.00 5.266 0.000*** 
+Current situation (economic) compared to own 
+5 years ago 
+2.99 3.06 -0.679 0.497 
+Current situation (economic) compared to own 
+12 months ago 
+4.08 4.03 0.514 0.607 
+Current situation (living conditions) compared 
+to others in respondents’ neighborhood 
+4.88 4.87 0.145 0.884 
+Current situation (living conditions) compared 
+to respondents’ friends 
+5.00 4.98 0.145 0.885 
+Prospects (economic situation) in near future 4.19 4.66 -4.038 0.000*** 
+Source: LiveWhat 
+Notes: Responses are measured on a scale from 0 to 10 where 0 means 'Much worse' and 10 means 'Much better'  
+* <.05, ** <.01, ***< .001 
+ 
+Overall, our findings show that men and women assess their current situation 
+differently, albeit not always in statistically significant ways. Their assessments of their 
+future prospects, however, differ in statistically significant ways.  
+ 
+ 
+4.2 The effects of the crisis on employment/unemployment  
+ 
+The effects of the economic crisis in the employment status of men and women are 
+addressed in this section. Employment is considered as a key indicator, since it 
+significantly affects the behaviour and actions of individuals (Jahoda 1982; Davou 
+2015), while it simultaneously carries strong gender characteristics. In Greece, for 
+example, despite noticeable changes in women’s participation in paid labour and 
+employment, their work continues to be perceived as ‘auxiliary’ to the work of men 
+who are entrusted with the role of breadwinner and primary income provider 
+(Papageorgiou 2006; Stratigaki 2013; Karamessini 2014b). Regarding our data13, as 
+ 
+13 In the present study, respondents’ employment status is measured with a recoded variable with seven 
+responses; a) full time, b) part-time, c) unemployed (actively or not actively looking for a job), d) disability, 
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+155 
+ 
+shown in Table 3, 38.5% of fully employed persons are men and 22% are women. 
+Conversely, of those employed part-time, 10.7% are men and 13.4% are women, while 
+almost 31% of those unemployed are women, compared to 27% who are men.  
+ 
+Table 3- Occupational status by gender  
+ Full 
+time 
+ 
+Part 
+time 
+ 
+Unemploye
+d 
+ 
+Disability 
+ 
+ 
+Retired 
+ 
+ 
+Housework 
+ 
+Other 
+ 
+ 
+Total χ2 p-value 
+Men 38.5 
+ 
+10.7 
+ 
+27.1 
+ 
+0.7 
+ 
+19.4 
+ 
+0.5 
+ 
+3.1 
+ 
+49.0  
+ 
+ 
+ 
+194.034 
+ 
+ 
+ 
+ 
+0.000**
+* 
+Women 22.3 
+ 
+13.4 
+ 
+30.9 
+ 
+0.9 
+ 
+12.8 
+ 
+13.0 
+ 
+6.6 
+ 
+51.0 
+Total  30.3 12.1 29.1 0.8 16.1 6.9 4.9 100.0 
+Source: LiveWhat 
+Notes:* <.05, ** <.01, ***< .001 
+ 
+Because of the economic crisis however, employment status and mainly working 
+conditions14 for both men and women have been negatively impacted. As shown in 
+Figure 2, 85% of men and 75% of women report a reduction in pay, 65% of men and 
+60% of women report unpaid overtime, followed by 58% of men and 55% of women 
+seeking additional work or accepting reduced work benefits (53% and 41.8% 
+respectively). A notable percentage (40.6%) of men and women (29.2%) are among 
+those who sought and accepted work in the informal sector, with undeclared pay and 
+income. It is more than likely that, faced with the prospect of job loss, individuals – at a 
+variable extent – accept losses in security and benefits, or consent to worsening 
+working conditions. In our sample, however, higher percentages of men rather than 
+women tend to report losses in all of the measured categories; the predominant loss 
+being reduction of pay, followed by overtime work without pay. Given that men 
+continue to be considered as the breadwinners of the family and that male gender 
+identity is closely linked to providing for the family, keeping their jobs at any cost can 
+be logically expected. The significance of this social condition on the gendered impact 
+of the economic crisis, as well as gendered resilience, has also been shown in recent 
+ 
+e) retired, f) housework (doing housework, looking after children or other persons), and g)’other’ including 
+individuals in education and/or in community or military service. 
+14 Respondents’ working conditions are measured with dichotomous items capturing, among others, 
+changes in the last five years associated with reduced payments, acceptance of an additional job, working 
+unpaid extra hours, undeclared payments.  
+ 
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+156 
+ 
+research in Greece (Bakas 2017). On the other hand, it could be the case that men’s 
+privileged position in the labour market (compared to women’s), has allowed for larger 
+margins of losses, while their gender role and their overall reduced social reproduction 
+responsibilities allowed for increased working hours or additional working hours.  
+ 
+ 
+Figure 2- Effects of the economic crisis on work conditions per gender (Source: LiveWhat) 
+Graph 2. Effects of the economic crisis on work conditions per gender  
+ 
+ 
+As mentioned above, international literature and research has consistently shown 
+that the effects of the economic crisis (and other crises) differentiate, not only 
+between genders, but within gender as well, with women of lower socio-economic 
+status and higher vulnerability suffering harsher consequences. To assess this situation 
+in Greece, we looked at the effects of the economic crisis on women, for each of the 
+occupational categories. As shown in Figure 3, accepting reduction in pay tends to be 
+the dominant effect of the economic crisis for women in all occupational categories. 
+Nevertheless, women in the lower occupational category are more likely than women 
+in any other occupational category to report losses (81.4% compared to 76.4% in the 
+upper occupational category, 75% in the ‘other’ occupational category and 73.8% in 
+the middle occupational category). Similarly, women in the lower occupational 
+category are more likely (64.4%) to seek additional employment and accept reduced 
+work benefits (47.5%), while higher percentages of women in the middle occupational 
+category report working overtime without pay.  
+ 
+ 
+ 
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+157 
+ 
+Figure 3- Effects of the economic crisis on work conditions per occupational category for women (Source: LiveWhat) 
+ 
+ 
+Based on the above, we can argue that women are differently impacted, depending 
+on their occupational category. For example, women in the upper occupational 
+category – even though they tend to accept reduction in pay and work overtime 
+without pay –are not as likely to seek additional employment. Somewhat differently, 
+women in the middle occupational category are more likely to work overtime and 
+accept pay reductions; seeking additional employment and work is their third reported 
+option. We can venture to say that for these categories of women, the economic crisis 
+has mandated adjustments in order to keep a job rather than to seek additional work. 
+On the other hand, women in the lower occupational category face, cumulatively, 
+higher adversities than women in any of the other occupational categories.  
+ 
+ 
+4.3 Resilience strategies - personal level 
+ 
+In the face of adversity – in this case, economic adversity – individuals and groups 
+mobilise internal and external resources, in order to overcome and resist hardship and 
+destitution and cope with their everyday problems (Harrison 2012; Seccombe 2002; 
+Orthner, Jones-Sanpei, and Williamson 2004). Taking gender differences as our focal 
+interest and concern, we concentrate on resilience actions by men and women in their 
+everyday lives. Firstly, we look at the individual level and then at the more collective 
+responses and actions; as a proxy, we look at the respondents’ approval of political 
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+158 
+ 
+actions, active participation in various organisations and their involvement in political 
+behaviours.  
+To assess citizens’ resilience during the period of the economic crisis, participants 
+were asked to rate a number of items on a scale ranging from 0 (‘completely unlike 
+me’) to 10 (‘Just like me’). As shown in Table 4, men and women report similar mean 
+scores in looking for creative ways to alter difficult situations (mean scores of 8.24 and 
+8.23 respectively). However, men report significantly higher mean scores than women 
+(mean values of 8.10 and 7.84 respectively) in actively looking for ways to replace 
+losses they encounter in life. However, negative statements tend to have higher mean 
+scores, especially for women. Women, for example, report higher mean scores in 
+having a harder time than men ‘making it through stressful events’ (mean scores of 
+6.13 and 5.56 respectively). On the other hand, women appear more connected with 
+the communities in which they live in, than men. In the relevant statement (‘I feel that 
+no one in the community where I live seems to care much about me’) the mean score 
+for men (6.68) is higher than the equivalent for women (6.12), while they differ in 
+statistically significant ways.   
+ 
+Table 4- Resilience in time of economic crisis by gender  
+ Mean 
+ 
+t-test p value 
+Men 
+ 
+Women 
+ 
+I look for creative ways to alter difficult 
+situations 
+8.24 8.23 0.017 0.986 
+I actively look for ways to replace the losses I 
+encounter in life 
+8.10 7.84 2.314 0.021* 
+I feel that no one in the community where I 
+live seems to care much about me 
+6.68 6.12 3.933 0.000*** 
+I keep myself active in the community where I 
+live 
+5.91 5.64 1.874 0.061 
+I feel that I do not have much in common with 
+the larger community in which I live 
+5.74 5.93 -1.369 0.171 
+I have a hard time making it through stressful 
+events 
+5.56 6.13 -4.007 0.000** 
+Source: LiveWhat 
+Notes: Responses are measured in a scale ranging from 0=‘Completely unlike me” to 10=‘Just like me’  
+* <.05, ** <.01, ***< .001 
+ 
+On a more practical level, and centred around the reduction of consumption, the 
+responses of the study’s participants to the question of whether in the past 5 years 
+they, or someone else in their household, had to take any number of measures for 
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+159 
+ 
+financial or economic reasons, are shown in Table 5. As expected, there are notable 
+differences between men’s and women’s responses. These differences however, for 
+the most part, are not statistically significant. For example, a higher percentage of 
+women, compared to men, tend to report a reduction in recreational activities, delayed 
+payments of utilities, cutting TV/phone/internet services and moving home. On the 
+other hand, higher percentages of men tend to report reduced use of own car, 
+consumption of staple foods and delays or default of loan payments. Statistically 
+significant differences are noted in the percentages of men (77.4%) and women 
+(81.0%) who report not going on vacation and postponing or reducing buying medicine 
+or visiting a doctor (63.1% and 70.6%, respectively). In both cases, it is women who 
+appear to be more concerned about having to take such measures.  
+ 
+Table 5- Resilience actions-Reduction in consumption by gender * 
+ %  
+χ2 
+ 
+p-value Men Women 
+Reduced recreational activities (going out, movies, 
+theatre, etc.) 
+90.3
+  
+92.7 3.75 0.053 
+Did not go on holiday 77.4 81.0 3.95 0.047* 
+Reduced use of own car 78.2 77.8 0.04 0.841 
+Delayed payments on utilities (gas, water, electric) 75.1 77.6 1.78 0.181 
+Reduced consumption of staple foods 72.8 70.4 1.42 0.233 
+Reduced or postponed buying medicines/visiting 
+the doctor 
+63.1 70.6 12.93 0.000*** 
+Delayed or defaulted on a loan instalment 65.3 62.1 2.31 0.128 
+Cut TV / phone / internet service 39.8 40.4 0.08 0.767 
+Moved home 27.8 30.4 1.60 0.205 
+Sell an asset (e.g. land, apt, house) 23.1 23.0 0.01 0.930 
+Source: LiveWhat 
+Notes: % based on respondents selecting specific answer options. 
+* <.05, ** <.01, ***< .001 
+*We have chosen items which we consider as the most important.  
+ 
+In other words, in all but two categories, there is no statistical difference in the 
+actions reported by men and women as far as their practices of facing adversities 
+during the crisis period are concerned. On the other hand – although not directly 
+deduced from the data – it can be argued that the differences noted between men and 
+women in the reporting of measures taken in order to face adversities during the 
+economic crisis may be attributed to the gender division of labour and the gendered 
+allocation of home and family responsibilities. It is likely, for example, that the 
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+160 
+ 
+emphasis women place on recreational activities15, vacation time, utilities, health care, 
+etc., relate to their role as homemakers and care providers.  
+As shown above, however, the impact of the economic crisis as well as the available 
+resources to be mobilised in the face of adversities differ between social groups, 
+including occupational groups between genders and within gender. In Table 6, we 
+present our findings for a few selected items of the ‘reduced consumption’ category, in 
+which women’s responses either significantly differ statistically from men’s or are close 
+to such a difference, along with the item of ‘consumption of stable foods’, because of 
+its significance to people’s well-being. We look at these differences per occupational 
+category.  
+ 
+Table 6- Resilience actions-Reduction in consumption per occupational group of women  
+ Occupational categories of women χ2 P value 
+ Upper 
+(Managerial/ 
+Professional) 
+Middle 
+(Clerical, 
+sales) etc 
+Lower 
+(Manual 
+workers) 
+Other 
+(Farming
+/military) 
+Reduced recreational 
+activities  
+93.4% 
+ 
+93.5% 
+ 
+96.4% 
+ 
+82.4% 18.523 0.000*** 
+Delayed payments on 
+utilities (gas, water, 
+electric) 
+68.9% 
+ 
+79.7% 
+ 
+87.3% 
+ 
+74.7% 21.458  0.000*** 
+Reduced consumption of 
+staple foods 
+68.5% 
+ 
+70.7% 
+ 
+73.1% 
+ 
+71.1% 1.026  0.795 
+Reduced or postponed 
+buying medicines/visiting 
+the doctor 
+70.7% 
+ 
+73.4% 
+ 
+69.9% 
+ 
+65.9% 2.530  0.470 
+Source: LiveWhat 
+Notes: % based on respondents selecting specific answer options. 
+* <.05, ** <.01, ***< .001 
+ 
+Examining the differences in reducing consumption across women’s occupational 
+groups, we find that the reduction of recreational activities is the measure most 
+frequently reported, regardless of occupational group (Table 6). The upper and middle 
+occupational categories of women report similar percentages of reduction in 
+recreational activities (93.4% and 93.5% respectively) while the higher percentage is 
+reported by women in the lower occupational category (96.4%). The differences are 
+statistically significant. Similarly, delayed payment of utilities differs in statistically 
+significant ways between occupational categories of women. Women in the lower 
+ 
+15 It should be noted here that with regards to ‘reduced recreational activities’ the difference between 
+men and women is almost statistically significant (p-value=0.053).  
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+161 
+ 
+occupational category report the highest percentage of such measures (87.3%), 
+followed by women in the middle occupational category (79.7%) and women in the 
+upper occupational category (68.9%). A reduction in staple food consumption is 
+reported by 73.1% of women in the lower economic category, 71.1% of women in the 
+‘other’ occupational category and 70.7% of women in the middle occupational 
+category. Finally, a reduction or postponement of purchasing of medicines or visiting a 
+doctor, albeit reported more often (73.4%) by women in the middle occupational 
+category compared to their counterparts in the upper (70.7%) and lower (65.9%) 
+occupational categories. It follows, therefore, that in order to fully comprehend the 
+effect and impact of the crisis and the resources available and mobilised, we must 
+focus on the multiple differences and hierarchies, including gender.  
+  
+ 
+4.4 Resilience strategies - networks and resources  
+ 
+To deal with adversities during economic and other crises, individuals mobilise 
+networks and available resources. In Table 7, we present the relevant findings of our 
+study. Our study participants (total sample) often face significant difficulties in ‘getting 
+by’ (64.2%), but they can tend to turn to family members (79.7%), other people who 
+can ‘take them in’ (68.8%) or can lend them money (57.9%). Furthermore, 
+homeownership (58.1%) rather than private insurance (15.1%) or social welfare and 
+care (8.4%) appear to provide a ‘safety net’ for our study participants.  
+With regards to the majority of resources and activities mobilised, our study does 
+not indicate statistically significant differences between men and women, except for 
+homeownership and the types of recreational activities to which men and women 
+participate. Specifically, men more so than women (63.2% and 53.2% respectively), 
+place emphasis on homeownership as a resilience resource. Women, on the other 
+hand, differ from men, in a statistically significant way, in their participation in activities 
+such as going to shows and other similar recreational activities (43.1% and 36.6% 
+respectively), while men are more likely than women to turn to athletic and sports 
+activities (29.3% and 17.5% respectively). 
+ 
+ 
+ 
+ 
+ 
+ 
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+162 
+ 
+Table 7- Resilience actions-networks, resources, activities by gender  
+ % χ2 P value 
+Total Men Women 
+I have seen a family member over the 
+last 6 months (other than my parents or 
+children) 
+79.7 81.0 78.4 1.988 0.158 
+If I have difficulties (e.g. financial, family 
+or health) there is someone around me 
+who could take me in for a few days. 
+68.8 68.7 68.9 0.007 0.932 
+There are periods in the month when I 
+have real financial difficulties (e.g. 
+cannot afford food, rent, electricity) 
+64.2 64.8 63.6 0.342 0.559 
+I am a homeowner or will be in the near 
+future 
+58.1 63.2 53.2 21.388 0.000*** 
+If I have difficulties (e.g. financial, family 
+or health) there is someone around me 
+who could help me financially (e.g. 
+money lending) 
+57.9 56.9 58.9 0.905 0.342 
+I have gone to see shows (e.g. cinema, 
+theater) over the last 12 months 
+39.9 36.6 43.1 9.150 0.002** 
+I have gone on holiday over the last 12 
+months 
+32.0 31.5 32.5 0.234 0.629 
+I have participated in sport activities in 
+the last 12 months 
+23.3 29.3 17.5 39.578 0.000*** 
+I have private health insurance 15.1 15.2 15.0 0.005 0.941 
+I sometimes meet with a social worker 
+(welfare worker, educator) 
+8.4 8.0 8.8 0.474 0.491 
+Source: LiveWhat 
+Notes: % based on respondents selecting specific answer options. 
+* <.05, ** <.01, ***< .001 
+ 
+ 
+4.5 Resilience strategies - approval of political actions, organisational 
+membership and political involvement  
+ 
+Imposed austerity measures brought about discontent among Greek people and 
+resulted, at least during the initial phase of the economic crisis, in a wave of public 
+protests expressed in conventional (e.g., marches, demonstrations) as well as 
+unconventional forms (e.g., occupation of public places) (see Kousis 2014). Political 
+activity, including participation in organisations supporting and promoting political 
+and/or social causes and goals has been included among resilience activities in the 
+context of economic crises (Kousis 2017). Nevertheless, political activity and 
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+163 
+ 
+organisational membership is experienced and expressed differently by the gendered 
+polity; men and women. To address this aspect of citizen resilience in Greece, we focus 
+on the differences between men’s and women’s reported approval of political 
+actions16, their membership in organisations and their active political involvement.  
+As shown in Table 8, men and women in our sample tend to report higher mean 
+scores, thus, higher approval of legal and peaceful forms of political protest (e.g., 
+strikes and marches). Unlike other findings in this study, there is a clear, statistically 
+significant differentiation in the forms of approved political actions between men and 
+women. Women show higher mean scores of approval than men for marches and 
+demonstrations (mean scores 7.34 and 6.92, respectively), and for participation in 
+strikes (mean scores 6.68 and 6.24 respectively). On the other hand, men are more 
+likely than women to approve of more violent forms of protest such as the blocking of 
+roads and damaging public property (mean scores 2.48 and 2.18, respectively).  
+ 
+Table 8- Approval of political actions by gender  
+ Mean t-test 
+ 
+p value 
+Men Women   
+March through town or stage mass 
+protest demonstrations 
+6.92 7.34 -2.804 0.005** 
+Take part in strikes 6.24 6.68 -2.845 0.004** 
+Occupy public squares indefinitely 3.86 4.01 -0.963 0.335 
+Take actions such as blocking roads or 
+damaging public property 
+2.48 2.18 2.841 0.005** 
+Source: LiveWhat 
+Notes: Responses are measured in a scale ranging from 0= “Strongly disapprove” to 10= ‘Strongly approve”  
+* <.05, ** <.01, ***< .001 
+ 
+Resilience, however, is more likely to be linked to active and engaging participation 
+in organisations and overall political action, rather than to simple positive attitudes and 
+the approval of such actions. Thus, in our study we measured the actual, active 
+participation of men and women in various organisations17 and their engagement in 
+conventional and non-conventional forms of political action. 
+ 
+16 According to the study’s questionnaire, it measures on a scale ranging from 0 (‘Strongly disapprove’) to 
+10 (‘Strongly approve’) respondents’ approval of four political actions including marching through town, 
+taking part in strikes, occupying public squares indefinitely, taking actions such as blocking roads or 
+damaging public property. 
+17 The specific items measure whether respondents: a) belong and do volunteer/unpaid work (active 
+membership), b) just belong (passive membership) or c) do not belong (non-membership) in different 
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+164 
+ 
+As shown in Table 9, only a small percentage of our respondents reports active 
+membership in various organisations. Nevertheless, social solidarity networks or, in 
+other words, networks which can function as external resources and support for 
+resilience attract higher rates of active membership (9.8%), followed by 
+development/human rights organisations (5.6%), environmental, anti-nuclear or 
+animal rights organisations (4.3%). Political party active membership is reported by 
+4.1% of our sample, while participation in other organisations such as peace and 
+anti/war, civil rights/civil liberties, women’s/feminist organisations, etc., follow with 
+considerably lower percentages. In that respect, our study partially deviates from 
+Kapekaki’s (2013) findings that both men and women, at the early part of the economic 
+crisis have reconsidered their public practices and participate more in non-institutional 
+organisations.  
+ 
+Table 9- Active membership to organisations by gender  
+ % χ2 p value 
+Total Men Women 
+Social solidarity networks (such as food 
+banks, social medical centers, exchange 
+networks, time banks) 
+9.8 8.8 10.7 2.392 0.302 
+Developmental / human rights organisation 5.6 5.1 6.0 4.939 0.085 
+Environmental, anti-nuclear or animal 
+rights organisation 
+4.3 4.0 4.6 3.903 0.142 
+Political party 4.1 4.3 3.8 10.863 0.004** 
+Peace / anti-war organisation  3.4 3.8 3.0 1.996 0.369 
+Civil rights / civil liberties organisation  2.9 3.3 2.5 1.250 0.535 
+Labour / trade union  2.7 3.5 2.0 21.754 0.000*** 
+Anti-racist or migrant rights organisation  2.5 2.5 2.5 2.904 0.234 
+Occupy / anti-austerity or anti-cuts 
+organisation  
+2.4 2.8 2.0 1.556 0.459 
+Women's / feminist organisations 1.8 1.5 2.1 65.476 0.000*** 
+Anti-capitalist, Global Justice, or anti-
+globalisation organisation  
+1.4 2.5 0.4 16.699 0.000*** 
+Lesbian, gay and/or transgender (LGBT) 
+rights organisation  
+1.0 1.3 0.8 1.883 0.390 
+Source: LiveWhat 
+Notes: % based on respondents selecting specific answer options 
+ <.05, ** <.01, ***< .001 
+ 
+ 
+groups/organisations. For the rationale of the present study, the analysis focuses only on responses 
+associated with active membership in different groups/organisations.  
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+165 
+ 
+Gender differences exist with respect to the types of organisations in which men 
+and women participate. For the most part, men report higher (although not statistically 
+significant) participation rates than women, in almost all types of organisations with 
+the exception of social solidarity networks, development and human rights 
+organisations. As expected, women’s rate of participation in women’s/feminist 
+organisations is higher and statistically significant from the equivalent of men (2.1% 
+and 1.5% respectively). Statistically significant differences also exist between men’s 
+and women’s participation in political parties (4.3% and 3.8), labour and trade union 
+organisations (3.5% and 2.0%) and anti-capitalist, global justice, or anti-globalisation 
+organisations (2.5% and 0.4%), in which men’s active participation is higher than 
+women’s.  
+Political behaviour, viewed in this study as a proxy for resilience at the collective 
+level, was further measured through composite indexes capturing political involvement 
+in conventional, unconventional (soft and violent) and online political actions18. 
+Statistically significant differences are found in the political involvement of men and 
+women in our sample. As shown in Table 10, men’s mean scores indicate a higher level 
+of involvement in conventional (mean scores 1.77 and 1.61 respectively) and 
+unconventional violent behaviour (mean scores 1.41 and 1.34 respectively), and online 
+participation (mean scores 2.54 and 2.41 respectively) than women. On the other 
+hand, women tend to participate more in unconventional soft political behaviours than 
+ 
+18 Based on Marsh and Kaase’s (1979) classification of different types of conventional and unconventional 
+political involvement the following composite indexes are constructed. Respondents’ involvement in 
+conventional political actions is measured with an additive score including contacting/visiting a 
+politician/government/local government official, donating money to a political organisation/party/action 
+group, displaying a political or campaign logo/badge/sticker, and attending a meeting of a political 
+organisation/party/action group. Respondents’ higher scores in the composite index indicate greater 
+involvement in conventional political actions. 
+Respondents’ involvement in unconventional soft political actions is measured with an additive score 
+including signing a petition/public letter/campaign appeal, boycotting certain products for 
+political/ethical/environment reasons, deliberately buying products for political/ethical/environment 
+reasons and attending a demonstration/march/rally. Respondents’ higher scores in the composite index 
+indicate greater involvement in unconventional soft political actions. 
+Respondents’ involvement in unconventional violent political actions is measured with an additive score 
+including joining a strike, an occupation/sit-in/blockade, damaging things like breaking windows, removing 
+roads signs, etc., and using personal violence like fighting with the police. Respondents’ higher scores in 
+the composite index indicate greater involvement in unconventional violent political actions. 
+Respondents’ involvement in online political actions is measured with an additive score including 
+discussing/sharing opinion on politics on social network sites, joining/starting a political group on 
+Facebook/following a politician/political group on Twitter, visiting the website of a political party/politician 
+and searching for information about politics online. 
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+166 
+ 
+men (mean scores 2.37 and 2.22 respectively). The above further corroborate the 
+findings of this study that men’s and women’s actions of resilience in the form of 
+political participation differ frequently in statistically significant ways and point to the 
+importance of gender in understanding resilience.   
+  
+Table 10- Political involvement by gender  
+ Mean  
+t-test 
+ 
+Men Women p-value 
+Conventional political actions 1.77 1.61 2.377 0.018* 
+Unconventional soft political actions 2.22 2.37 -2.747 0.006** 
+Unconventional violent political actions 1.41 1.34 1.401 0.162 
+Online political actions 2.54 2.41 2.565 0.010* 
+Source: LiveWhat 
+Notes: Measurements are based on composite indexes 
+* <.05, ** <.01, ***< .001 
+ 
+ 
+5. Concluding remarks 
+ 
+In this article, we examined the impact of Greece’s economic crisis on men and 
+women, primarily on employment and working conditions. We further investigated 
+gender differences in perceptions of the crisis, as well as actions of resilience at the 
+personal and political level, expressed as reduction in consumption, approval of 
+political actions and active political involvement, such as participation in various 
+organisations and engagement in conventional, unconventional and online political 
+behaviour.  
+The thesis underlying our research is that gender is a decisive factor defining one’s 
+socio-political and economic status. We further postulate that gender, consistently and 
+powerfully interacts with other sources of hierarchies and power, and thus delineates 
+one’s perceptions, attitudes, resources, constraints, and everyday life. Our third 
+contention is that, faced with adversities caused by crises such as the economic crisis 
+afflicting Greece for over 7 years, people, both men and women, through diverse 
+actions of accommodation, adjustment, etc. – in other words, through actions of 
+resilience – withstand hardships and bounce back.   
+Findings in this research are based on Greek data derived from an original online 
+survey conducted in 2015 within the context of the LIVEWHAT project. Our findings 
+concur with other studies, which show that the economic crisis in Greece has resulted 
+in multiple ill effects for individuals and the country. These, however, differentiate on 
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+167 
+ 
+the basis of various structural and demographic variables (Giannakis and Bruggeman 
+2017; Artelaris 2017; Kakdesi and Tasopoulou 2017).  
+Focusing on gender as one of the differentiating factors of the impact of the 
+economic crisis, our study shows that losses in employment and working conditions are 
+more frequently reported by both men and women in all occupational categories. 
+Nevertheless, men in our sample, as a group, appear to report higher losses than 
+women as a group; these losses include reductions in salaries, an increase in unpaid 
+overtime, seeking additional employment, etc. The same types of losses are also 
+reported by women while, within gender differences, women in the lower occupational 
+category tend to sustain more significant losses.  
+To fully comprehend the significance and the implications of these findings, 
+however, we need to consider that the gendered positioning of men and women in 
+Greek society assigns the responsibility of providing for the family through work force 
+participation to men, while women are entrusted primarily with social reproduction 
+responsibilities (e.g., family care) and their labour force participation is often seen as 
+secondary and auxiliary to men’s. Linked to their gender identity and structurally 
+supported (see for example the discussion in Leschke and Jespsen 2011 on the state 
+support to men’s jobs during economic crises), men’s labour force participation is 
+privileged; they tend to receive higher salaries, occupy higher positions in work 
+hierarchies, receive more benefits and furthermore have higher work flexibility, as they 
+tend to be relieved of family and care obligations. On the one hand, they have ‘more to 
+lose’, so to speak, and, on the other, they are socially obligated to maintain and affirm 
+their gender role at all costs (see, for example, Bakas 2017).  
+However, women’s losses need to be understood in the context of plummeted 
+workforce participation and a related reversal of women’s workforce participation 
+gains. This bleak situation is intensified by the reality of the reduced social welfare 
+benefits enhancing the social vulnerability of various social groups and, within them, 
+women in particular (see, similarly, Bettio et al. 2013) as well as de-prioritized gender 
+social policies (Papageorgiou forthcoming; Stratigaki 2013). Indicative of the above, is 
+our finding that women in the lower occupational category have sustained more losses 
+than women in any other occupational category. Not surprisingly, thus, both men and 
+women perceive the economic crisis as being a serious one.  
+Nevertheless, people do resist the effects of the economic crisis. Men show a more 
+self-reliant and resource-based approach (i.e., they are more likely to seek creative 
+ways to alter difficult situations or consider homeownership as a significant asset), 
+while women are more likely to report having difficulties making it through stressful 
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+168 
+ 
+events, and are also less likely to feel that no one in their community seems to care 
+about them, than men do.  
+Reduction in consumption appears to be a common action undertaken by both men 
+and women in our study. However, women appear to place much more emphasis on 
+reduction in recreation activities and health care issues. It is likely that women’s social 
+role as family care providers is reflected in their reporting. It may be the case, that 
+being socially responsible for the well-being of their families, women are concerned 
+that loss of vacation time negatively impacts the time that families and/or couples can 
+spend together. On the other hand, their concern over reducing or postponing the 
+purchase of medicines and visiting a doctor may be linked to their role and 
+responsibility as care providers, which includes caring for the health of family 
+members. It is also likely, that the emphasis women place on vacation and recreation is 
+a reflection of their need for free time, given the double burden of family and work 
+they carry.  
+Resilience, on the other hand, is also assessed in people’s active engagement in 
+political action. In the context of Greece and other countries, this element of resilience 
+has been addressed and has provided insights on the changes that crises produce for 
+the polity (Kousis 2014; Kapekaki 2013). Our findings show that political engagement 
+differs between genders. Women, more often than men, tend to be active members of 
+social solidarity networks and organisations, including women’s and feminist ones, 
+broadly oriented towards social justice issues. On the other hand, political action, 
+characteristic of the public domain, remains men’s territory; the only exception being 
+participation in unconventional soft political actions (e.g. signing of petitions 
+boycotting or consuming products as a form of protest or support and attending 
+demonstrations, marches or rallies). Women, thus, tend to engage in political actions 
+which arguably, tend to characterize social solidarity movements and networking. It 
+should also be noted at this point, that the research findings point to the importance of 
+social solidarity networks in building community resilience (see, for example, Papadaki 
+and Kalogeraki 2017 for a discussion of the significance of social solidarity actions in 
+building and sustaining community resilience). Although not directly addressed in this 
+study, we could venture to say that community building, and therefore community 
+resilience building, to some degree involves building and maintaining links and 
+relationships with individuals and groups and, as such, falls within women’s social 
+reproduction responsibilities. To that extent, women’s political action is linked to their 
+gender role and position. Similarly, men’s political engagement, frequently entailing 
+confrontational actions, is aligned with their stereotypical and conventional 
+understanding of their gender role and position.  
+Yota Papageorgiou, Vasiliki Petousi, Gender resilience in times of economic crisis: Findings from Greece 
+ 
+169 
+ 
+Overall, our study shows that to fully comprehend the impact of the economic crisis 
+and people’s resilience, gender considerations need to be an integral part of any study. 
+In addition to the observable and expected financial, economic and work-related 
+impact, attention should be given to the latent functions of gender positions and their 
+interaction with other forms of social hierarchies and power, in order to assess the full 
+personal and social impact of adversities but mainly the resources – personal and social 
+– which are and can be further mobilised in order to resist and overcome hardships 
+and bounce back. 
+As Anderson (2015, 64) puts it, “resilience never happens on its own in pure form. It 
+co-exists in complex fields alongside other ways of governing life and, as such, is part of 
+a series of intensifications, redeployments and (dis)continuities”. Gender is pivotal in 
+these complex fields.  
+ 
+References 
+Anderson B. (2015), “What Kind of Thing is Resilience?”, Politics, 35(1): 60-66. 
+Artelaris P. (2017), “Geographies of Crisis in Greece: A Social Well-being Approach”, 
+Geoforum, 84:59-69. 
+Bakas F. E. (2017), “Community Resilience through Entrepreneurship: The Role of 
+Gender”, Journal of Enterprising Communities: People and Places in the Global 
+Economy, 11(1):61-77.  
+Bank of Greece (2017), Report of the Bank of Greece Governor for Year 2016, Retrieved 
+January 7, 2018 (http://www.bankofgreece.gr/BogEkdoseis/ekthdkth2016.pdf). 
+Batty E. I. Cole (2010), “Resilience and the Recession in Six Deprived Communities. 
+Preparing for Worse to Come?” JRF Programme Paper: Poverty and Place 
+Programme, Joseph Rowntree Foundation. Retrieved January 7, 2018 
+(https://www.jrf.org.uk/report/resilience-and-recession-six-deprived-communities-
+preparing-worse-come). 
+Beder S. (2009), “Neoliberalism and the Global Financial Crisis”, Social Alternatives, 
+28(1): 17-21. 
+Béné Chr., A. Newsham, M. Davies, M. Ulrichs, and R. Godfrey-Wood (2014), “Review 
+Article: Resilience, Poverty and Development”, Journal of International 
+Development, 26(5): 598–623. 
+Bettio F., M. Corsi, C. D’Ippoliti, A. Lyberaki, M. Samek Lodovici, and A. Verashchagina 
+(2013), “The Impact of the Economic Crisis on the Situation of Women and Men and 
+on Gender Equality Policies (Synthesis report)”. European Commission – Directorate-
+General for Justice, Luxembourg. Retrieved January 7, 2018 
+Partecipazione e conflitto, 11(1) 2018: 145-174, DOI: 10.1285/i20356609v11i1p145 
+  
+170 
+ 
+(http://ec.europa.eu/justice/gender-
+equality/files/documents/130410_crisis_report_en.pdf). 
+Dagdeviren, H., M. Donoguue, and M. Promberger (2016), “Resilience, Hardship and 
+Social Conditions”, International Social Policy, 45(1): 1–20. 
+Davidson D. J. (2010), “The Applicability of the Concept of Resilience to Social 
+Systems”, Society and Natural Resources: An International Journal, 23(12): 1135–
+1149. 
+Davou B. (2015), “Investigating the Psychological Effects of the Greek Financial Crisis”, 
+Retrieved January 7, 2018  
+(http://blogs.lse.ac.uk/greeceatlse/2015/10/22/psychological-effects-of-the-greek-
+financial-crisis/). 
+Ferreira V. (2014), “Employment and Austerity: Changing Welfare and Gender Regimes 
+in Portugal”, in M. Karamessini and J. Rubery (eds.), Women and Austerity; the 
+Economic Crisis and the Future for Gender Equality, London: Routledge, pp. 207-227. 
+Giannakis E. and Bruggeman, A. (2017), “Determinants of Regional Resilience to 
+Economic Crisis: a European Perspective”, European Planning Studies, 25(8): 1394-
+1415. 
+Gonzalez Gago, E. M. Segales Kirzner (2014), “Women, Gender Equality and the 
+Economic Crisis in Spain” in M. Karamessini and J. Rubery (eds.), Women and 
+Austerity: The Economic Cri

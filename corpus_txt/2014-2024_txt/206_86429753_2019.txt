@@ -1,0 +1,1088 @@
+Assessing and measuring economic resilience in low-income countries:illustrative cases Nepal and DR Congo
+
+Institutional Repository - Research Portal
+Dépôt Institutionnel - Portail de la Recherche
+THESIS / THÈSE
+Author(s) - Auteur(s) :
+Supervisor - Co-Supervisor / Promoteur - Co-Promoteur :
+Publication date - Date de publication :
+Permanent link - Permalien :
+Rights / License - Licence de droit d’auteur :
+Bibliothèque Universitaire Moretus Plantin
+researchportal.unamur.beUniversity of Namur
+SPECIALISED MASTER IN INTERNATIONAL AND DEVELOPMENT ECONOMICS
+Assessing and measuring economic resilience in low-income countries
+illustrative cases Nepal and DR Congo
+Lucien Momeka, Ruhangamuza
+Award date:
+2019
+Awarding institution:
+University of Namur
+Link to publication
+General rights
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright owners
+and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights.
+            • Users may download and print one copy of any publication from the public portal for the purpose of private study or research.
+            • You may not further distribute the material or use it for any profit-making activity or commercial gain
+            • You may freely distribute the URL identifying the publication in the public portal ?
+Take down policy
+If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately
+and investigate your claim.
+Download date: 23. Jun. 2020
+ 
+ 
+ 
+ 
+ 
+ 
+Assessing and measuring economic 
+resilience in low-income countries 
+ 
+Illustrative cases: Nepal and DR Congo 
+ 
+Thesis presented by 
+LUCIEN MOMEKA RUHANGAMUZA 
+ 
+Supervisor(s) 
+MARY VAN OVERBEKE (UCL) 
+ 
+Tutor(s) 
+FRANÇOIS WOITRIN (UNamur) 
+ 
+Academic year 2018-19 
+ 
+ 
+Project presented as part of the requirements for the award of the 
+Specialized Master in International and Development Economics  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Département des Sciences économiques/UNamur • Rempart de la Vierge 8 • 5000 Namur 
+Ecole d’économie de Louvain/UCL • Place Montesquieu 3 • 1348 Louvain-la-Neuve 
+I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EPIGRAPH 
+ 
+Resilience, a nourishing new tool that gives itself a future without 
+being confined to the past. 
+ 
+Nabil Alami (2018) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+II 
+ 
+ 
+THANKS 
+At the end of this thesis, it is imperative for us to fulfill a social duty, to thank wholeheartedly all 
+who have contributed in one way or another to the accomplishment of this work. 
+Our gratitude is addressed first to Almighty God and his son Jesus Christ. 
+Then, we express our gratitude to Académie de Recherche et d’Enseignement Supérieur (ARES) 
+that finances our training 
+To the professor MARY VAN OVERBEKE and to the tutor FRANÇOIS WOITRIN who guided 
+us throughout the elaboration of this work 
+To all teaching staff of Economics department at the University of Namur 
+My deep gratitude to my parents, RUHANGAMUZA KAZINGUVU and MAPENDO VIGI, to 
+my brothers and sisters 
+Finally, to all my study colleagues and my acquaintances 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lucien Momeka Ruhangamuza 
+III 
+ 
+ 
+ABSTRACT 
+Considering two countries that are the subject of a comparative study (DR Congo and Nepal), we 
+have defined a number of criteria on the basis of which eighteen indicators divided into five 
+dimensions (commercial, socio-economic, fiscal, financial and spherical) have proved important 
+for measuring and assessing the economic resilience of low-income countries. The min-max 
+standardization technique allowed us to derive standardized coefficients between 0 and 1 on the 
+basis of which we performed arithmetic average operations in order to identify sub-indices 
+related to each dimension. Thus, five sub-indices were determined and their geometric average 
+allowed us to determine the economic resilience index. Also, the min-max technique as well as 
+the principal component analysis allowed us to determine the dimension that contributes more to 
+the variability of our data. At the end of our analyses, it turns out that the economy of Nepal over 
+the period from 2003 to 2017 is more resilient than that of DR Congo. This resilience capacity is 
+largely explained by the trade dimension for these two countries. 
+Keywords: Economic resilience, composite index, sub-index 
+RESUME 
+Considérant deux pays faisant l’objet d’une étude comparative (RD Congo et Népal),  nous avons 
+défini un certain nombre de critères sur base desquels dix-huit indicateurs répartis en cinq 
+dimensions (Commerciale, socio-économique, fiscale, financière et sphérique) se sont avérés 
+importants pour mesurer et évaluer la résilience économique des pays à faible revenu. La 
+technique de normalisation min-max nous a permis de dégager des coefficients normalisés 
+compris entre 0 et 1 sur base desquels nous avons effectué des opérations de moyennes 
+arithmétiques pour dégager les sous-indices liés à chaque dimension. Ainsi, cinq sous-indices ont 
+été déterminés et leurs moyenne géométrique nous a permis de dégager l’indice de résilience 
+économique. Aussi, la technique min-max ainsi que l’analyse en composante principale nous a 
+permis de déterminer la dimension qui contribue le plus à la variabilité de nos données. Au bout 
+de nos analyses, il s’avère donc que l’économie du Népal sur la période allant de 2003 à 2017 est 
+plus résiliente que celle de la RD Congo. Cette résilience est en grande partie expliquée par la 
+dimension commerciale pour ces deux pays. 
+Mots clés : Résilience économique, sous-indice, indice composite. 
+IV 
+ 
+ 
+ACRONYMS AND ABBREVIATION 
+CEPII: Research and expertise on the global economy 
+CO2: Carbon dioxide 
+COMTRADE: Commodity Trade 
+DAC: Development Assistance Committee 
+DR Congo: Democratic Republic of Congo 
+FDI: Foreign Direct Investment 
+GDI: Gender Development Index 
+GDP: Gross Domestic Product 
+HFA: Hyogo Framework for Action 
+HIPC: Heavily Indebted Poor Countries 
+IDA: International Development Association 
+IMF: International Monetary Fund 
+LEB: Life Expectancy at Birth 
+NICT: New Information and Telecommunication Technologies 
+NVRI: Net Vulnerability-Resilience Index 
+ODA: Official Development Assistance 
+OECD: Organization for Economic Co-operation and Development 
+P4R: Program for Result Financing 
+PCA: Principal Components Analysis 
+SITC: Standard International Classification 
+STATA: Software for Statistics and Data science 
+UNCDP: United Nations Common Development Plan 
+V 
+ 
+ 
+LIST OF FIGURES AND TABLE 
+1. FIGURES 
+Figures 1. Stylized responses of a regional economy to a major shock ................................................................ 8 
+Figures 2. A methodological framework linking economic resilience and economic vulnerability ..................... 9 
+Figures 3. Export diversification and quality for DR Congo and Nepal ............................................................. 42 
+Figures 4. Openness and Remoteness to the trade for Nepal and DR Congo...................................................... 43 
+Figures 5. GDP per capita, GDP growth and Population growth for Nepal and DR Congo ............................... 44 
+Figures 6. Net official development assistance and official aid for DR Congo and Nepal ................................. 44 
+Figures 7. Foreign direct investment and Gender development for Nepal and DR Congo ................................. 45 
+Figures 8. Life expectancy at birth and literacy rate for Nepal and DR Congo .................................................. 46 
+Figures 9. Fiscal indicators for Nepal and DR Congo ......................................................................................... 47 
+Figures 10. Net current transfers from abroad and Domestic credit to private sector ......................................... 48 
+Figures 11. Non-performing loans and the link between Credit to private sector and GDP ............................... 49 
+Figures 12. Spherical indicators (Access to NICT, CO2 emissions and governance) ......................................... 50 
+Figures 13. Evolution and some statistics of the trade sub-index........................................................................ 52 
+Figures 14. Evolution and some statistics of the socioeconomic sub-index ........................................................ 53 
+Figures 15. Evolution and some statistics of the fiscal sub-index ....................................................................... 54 
+Figures 16. Evolution and some statistics of the financial sub-index.................................................................. 55 
+Figures 17. Evolution and some statistics of the spherical sub-index ................................................................. 56 
+Figures 18. Economic resilience index for the Nepal and the DR Congo ........................................................... 57 
+Figures 19. Growth of economic resilience index for Nepal and DR Congo ...................................................... 57 
+Figures 20. Evolution of sub-index related to each dimension ........................................................................... 59 
+Figures 21. Scree plot of eigenvalues after principal component analysis .......................................................... 61 
+Figures 22. Component loadings and score variables for Nepal ......................................................................... 63 
+Figures 23. Component loadings and score variables for DR Congo.................................................................. 64 
+1.  TABLE 
+Table 1. Difference between vulnerability and resilience at different levels ........................................................ 7 
+Table 2. Main characteristics of the economics resilient literature ..................................................................... 16 
+Table 3. Classification of the main variables (into five dimensions) .................................................................. 33 
+Table 4. Contribution of each dimension in the index of economic resilience ................................................... 58 
+Table 5. Preliminary tests of the principal component analysis .......................................................................... 60 
+Table 6. Distribution of eigenvalues for Nepal ................................................................................................... 60 
+Table 7. Distribution of eigenvalues for DR Congo ............................................................................................ 61 
+Table 8. Loading variables in each retained principal component for Nepal ...................................................... 62 
+Table 9. Loading variables in each retained principal component for DR Congo .............................................. 63 
+VI 
+ 
+ 
+ CONTENTS 
+ 
+EPIGRAPH .................................................................................................................................................... I 
+THANKS ....................................................................................................................................................... II 
+ABSTRACT ................................................................................................................................................ III 
+RESUME ..................................................................................................................................................... III 
+ACRONYMS AND ABBREVIATION ...................................................................................................... IV 
+LIST OF FIGURES AND TABLE ...............................................................................................................V 
+INTRODUCTION ......................................................................................................................................... 1 
+First Chapter. LITTERATURE REVIEW ............................................................................................... 4 
+Section 1. THEORITICAL FRAMEWORK ...................................................................................... 4 
+1.1.1. Economic shock..................................................................................................................... 4 
+1.1.2. The term resilience ................................................................................................................ 5 
+1.1.3. The composite indexes ........................................................................................................ 10 
+1.1.4. Computation of economic resilience index: Aggregation and weighting issues ................. 13 
+Section 2. EMPIRICAL FRAMEWORK ......................................................................................... 14 
+1.2.1. Economic resilience studies ................................................................................................ 14 
+1.2.2. Resilience between different regions according to a certain degree of shock ..................... 15 
+1.2.3. Some methodological basis for assessing simultaneously vulnerability and resilience ...... 18 
+1.2.4. Net Vulnerability-Resilience Index ..................................................................................... 19 
+1.2.5. Implications of the resilience framework ............................................................................ 20 
+PARTIAL CONCLUSION ..................................................................................................................... 21 
+Second Chapter. METHODOLOGICAL FRAMEWORK ..................................................................... 22 
+Section 1. THE VARIABLES RETAINED TO ASSESS ECONOMIC RESILIENCE IN LOW-
+INCOME COUNTRIES .......................................................................................................................... 22 
+2.1.1. The trade dimension ............................................................................................................ 23 
+2.1.2. The socio-economic dimension ........................................................................................... 25 
+2.1.3. The fiscal dimension............................................................................................................ 28 
+2.1.4. Financial dimension............................................................................................................. 29 
+2.1.5. Spherical dimension ............................................................................................................ 31 
+Section 2. MATERIALS AND ANALYSIS TECHNIQUES .......................................................... 35 
+2.2.1. Database .............................................................................................................................. 35 
+2.2.2. Computing the resilience index based on the set of variables ............................................. 36 
+2.2.3. Principal Component Analysis (PCA) ................................................................................. 38 
+VII 
+ 
+ 
+PARTIAL CONCLUSION ..................................................................................................................... 41 
+Third Chapter. MEASUREMENT OF ECONOMIC RESILIENCE IN NEPAL AND DR CONGO .... 42 
+Section 1. ANALYTICAL PRESENTATION OF DATA .............................................................. 42 
+3.1.1. Trade indicators ................................................................................................................... 42 
+3.1.2. Socio-economic indicators .................................................................................................. 43 
+3.1.3. Fiscal indicators ................................................................................................................... 46 
+3.1.4. Financial indicators ............................................................................................................. 48 
+3.1.5. Spherical indicators ............................................................................................................. 49 
+Section 2. ECONOMIC RESILIENCE INDEX for Nepal and DR Congo ..................................... 51 
+3.2.1. Min-max standardize of variables ....................................................................................... 51 
+3.2.2. Measure of economic resilience sub-indices ....................................................................... 51 
+3.2.3. Measure of economic Resilience index ............................................................................... 56 
+3.2.4. Contribution of each sub-index in the index of economic resilience .................................. 58 
+Section 3. PRINCIPAL COMPONENT ANALYSIS ...................................................................... 59 
+3.3.1. Preliminary tests .................................................................................................................. 60 
+3.3.2. Principal components to retain ............................................................................................ 60 
+3.3.3. Loading variables in the principal components ................................................................... 61 
+PARTIAL CONCLUSION ..................................................................................................................... 64 
+Fourth Chapter. MAIN FINDINGS AND POLICY IMPLICATIONS ................................................. 65 
+Section 1. MAIN FINDINGS ........................................................................................................... 65 
+4.1.1. Retained variables and methodological framework ............................................................ 65 
+4.1.2. Dimensional level (sub-indices) .......................................................................................... 66 
+Section 2. POLICY IMPLICATIONS ............................................................................................. 69 
+4.2.1. Policy Implications at the National level ............................................................................. 70 
+4.2.2. Policy Implication at the International Level ...................................................................... 71 
+Section 3. SOME IMPORTANT ASPECTS OF THE THESIS ...................................................... 73 
+4.3.1. Future perspective ............................................................................................................... 73 
+4.3.2. Encountered difficulties ....................................................................................................... 73 
+4.3.3. Limits and research approach .............................................................................................. 74 
+PARTIAL CONCLUSION ..................................................................................................................... 74 
+GENERAL CONCLUSION AND RECOMMENDATIONS .................................................................... 75 
+BIBLIOGRAPHICAL REFERENCES ....................................................................................................... 78 
+ANNEXES .................................................................................................................................................. 81 
+ 
+1 
+ 
+ 
+INTRODUCTION 
+Because the economic resilience literature is too limited for low-income countries, the overall 
+goal of our thesis is to describe the key variables to be considered in assessing and measuring the 
+economic resilience in low-income countries. Specifically, this thesis aims on one hand, to 
+develop a procedure for computing the economic resilience index in low-income countries. On 
+the other hand, it provides a methodological framework needed to identify the dimension or the 
+indicator that makes the economy more resilient in low-income countries in order to derive 
+economic policy implications and thus provide recommendations for improving the resilience 
+capacity for these countries. 
+With the exception of some fragile and conflict-affected countries, low-income countries 
+experienced strong and sustained economic growth until 2014 despite the global financial crisis 
+in 2008 (IMF, 2014). This positive trend hit a roadblock in 2014, with drop in global commodity 
+prices. Commodity exporters experienced a marked drop in export revenues, soon reflected in 
+budgetary difficulties and a fall-off in growth. With commodity prices set to remain low for the 
+foreseeable future, macroeconomic development in the low-income countries continue to be 
+heavily influenced by how countries are responding to the new world shocks, which makes the 
+economies of low-income countries more exposed to shocks and less reassuring about their 
+sustainability (IMF, 2015). 
+However, Countries and more particularly low-income countries are subject to a wide variety of 
+economic shocks, sovereign debt crises, commodity price fluctuations or volatility in the world 
+economy. These shocks can increase risk and uncertainty for households, investors and 
+governments, and when sufficiently large, can trigger crises and throw economies off their 
+growth path and then lead to long-lasting periods of stagnation (Sánchez et al. 2015). From a 
+policy perspective it is therefore important to understand the major factors that condition a 
+country’s resilience to face the adverse economic shocks. And so, a first question comes to mind: 
+What are the effective indicators for assessing and measuring the level of economic resilience 
+in low-income economies? 
+There is no consensus on the measurement of economic resilience. For instance, the choice of 
+variables, the aggregation procedure and the way to assign weights to variables differs among 
+composite indices of economic resilience in the literature (equal weight for Briguglio et al., 2009; 
+2 
+ 
+ 
+Guillaumont, 2010 versus unequal weights for Adrianto & Matsuda, 2004). In addition, studies 
+on resilience do not generally refer explicitly to sustainable development even though some of 
+them use this aspect. For illustrative purposes, in many works like those of Atkins et al. (2000) 
+and Briguglio et al. (2009), the economic dimensions have been emphasized, but the other 
+dimensions like the social; the environmental are implicit or even lacking. 
+Nonetheless, in the literature several variables are developed to assess and measure economic 
+resilience and many of them relate to developed and emerging countries. Taking into account the 
+theoretical and empirical lessons of the various scientific works proving the need for the low-
+income countries to strengthen their economic structures in order to be able to resist from the 
+different shocks, we will consider indicators of trade dimension, socio-economic dimension, 
+fiscal dimension, financial dimension and political dimension for assessing and measuring the 
+economic resilience of low-income countries. 
+We use the term low-income country (34 countries) to refer to those countries that have a low per 
+capita income ($995 or less) (World Bank 2018). Unlike the DR Congo (located in Central Africa 
+with 2,345,000 km² and an estimated population of 81,339,988 inhabitants), Nepal (147,181 Km² 
+is 16 times smaller than the DR Congo and with an estimated population of 29,304,998 
+inhabitants) is a landlocked Himalayan country in south Asia. Nevertheless, in the illustrative 
+case we assess and measure economic resilience in these two low-income countries and not 
+geographically close. One country is considered a large country (DR Congo) and the other as a 
+small (Nepal). Thus, a comparative study is made between these two states in terms of their 
+economic resilience capacity. Hence the question:  which of the DR Congo and Nepal Republic 
+is more economically resilient? 
+Furthermore, in this work, we use the process of calculating a composite index of economic 
+resilience based on the philosophy of sustainable development in order to identify the 
+variable/indicator (or dimension) that  contribute to make the low-income economies more 
+resilient (here, we consider two countries namely the DR Congo and Nepal). Hence the question: 
+In which economic dimension are the strengths of each country (DR Congo and Nepal) in 
+terms of resilience?  
+Having already all the data relating to the chosen variables for the two countries which constitute 
+illustrative cases of our study, we will re-scaling all the variables based on the min-max 
+3 
+ 
+ 
+normalization technique before to evaluate the composite resilience index for both countries by 
+applying arithmetic operations based on the simple arithmetic average and geometric average. 
+The principal component analysis will also allow us to describe the variable that contributes more 
+to make the economy more resilient. 
+The last fifteen years ago (2003-2017) is the time limit of our analyzes in the sense that this 
+period corresponds of course to the years in which several low-income countries have 
+experienced sufficient performance in terms of economic growth supposed to have improved 
+their economic resilience capacity. 
+Contributing to a new methodology for assessing and measuring economic resilience in low-
+income countries is the principal motivation by addressing the present thematic. Personally, this 
+research allows me to have important theoretical and methodological tools for assessing and 
+measuring economic resilience and especially for low-income countries. On the Theoretical 
+level, it is to highlight the questions on the evaluation of economic resilience and especially for 
+low-income countries. To this end, no economic theory has succeeded in removing the 
+indeterminacy surrounding this issue of economic resilience in particular the appropriate 
+methodology to measure it in terms of index.  
+Regarding the operational interest, in the context of this study, it is really a question of knowing 
+the state of the economy for the Democratic Republic of Congo as well as that for the Nepal 
+Republic, namely whether they are resilient and at what levels. Also, we believed that by 
+approaching this study, we put at the disposal of the future researchers a working instrument 
+which can help them to carry out diversified studies in the economic resilience field. At the end, 
+researchers can use it as a solution track related to their problem and scientific research relating 
+to the economic resilience of low-income countries. 
+In addition to the introduction and conclusion, our thesis is structured around four chapters. The 
+first chapter, after having laid down the necessary theoretical bases, details the work forming the 
+empirical basis of our study. The second chapter is dedicated to the methodological approach 
+adopted in order to quantify the economic resilience index. The results of our analysis are 
+presented in the third chapter which is also the part dedicated to the interpretation of the results. 
+Finally the fourth chapter is devoted to the principal findings and the implications of our results 
+in terms of economic policies. 
+4 
+ 
+ 
+First Chapter. LITTERATURE REVIEW 
+In this chapter, we present theoretically key concepts related to our topic, in particular the basic 
+notion of resilience as well as other concepts (such as economic shock and composite index) 
+needed in order to be able to apprehend the theoretical framework of our study. Just after the 
+theoretical review we detail extensively the empirical lessons drawn from the existing literature 
+on the assessment and measurement of economic resilience in low-income countries. 
+Section 1. THEORITICAL FRAMEWORK 
+In this section, we discuss about the different theoretical foundations related to our subject. First, 
+we will present the concept of economic shock before raising the subject of economic resilience 
+which represents the key issue of our work. Finally, it is important at the end of this section to 
+introduce a little bit the concept related to composite index that will allow us in the third chapter 
+of this thesis to better quantify the economic resilience and at the same time to be able to conduct 
+the comparative study between low-income countries and more precisely Nepal and DR Congo, 
+the two illustrative cases in our thesis. 
+1.1.1. Economic shock 
+An economic shock is an unexpected or unpredictable event that affects an economy, either 
+positively or negatively. It refers technically to an unpredictable change in exogenous factors 
+(Lütkepohi 2008). Shocks can be of three kinds: shocks caused by internal factors such as 
+political crisis, social unrest, which may downturns in the national economy; shocks caused by 
+economic shocks affecting a particular sector/industries that constitute an important component 
+of the region’s export base (prices fluctuations) and other external shocks (a natural disaster, 
+closure of a military base, movement of an important firm out of the area, etc.). 
+The shocks are not mutually exclusive; a country or regional economy may experience more than 
+one simultaneously. Not all shocks cast an economy substantially off its prior growth path. When 
+a shock occurs that does not cause the country or the region to be thrown off its prior growth path 
+(to experience an economic downturn), we consider it as the region “shock-resistant”. If the 
+region or the country is adversely affected by the shock and it returns to its prior growth path 
+within a relatively short period of time, we consider it “resilient”. If it does not, we consider it 
+“non-resilient” (Hill et al. 2012). 
+5 
+ 
+ 
+1.1.2. The term resilience 
+More than a metaphor and less than a theory, the resilience is a conceptual framework 
+(Swanstrom 2008). The first known use of the term “resilience” in science was by Webster in the 
+field of classical physics in 1824. Resilience initially was defined as the ability of a material to 
+return to its initial condition in terms of size and shape after deformation due to a compressive 
+shock (which exert pressure on a phenomenon in order to reduce its harmful impact)
+1
+. Today, the 
+term resilience means to rebound or to leap back (Reggiani 2013). 
+According to Foster (2007), there are several conclusions about attributes of resilience. First, 
+resilience applies not only to a system as a whole, but to individual system elements, such as the 
+infrastructure, the information, the physical environment, the civic organizations, the governance 
+and the economic systems. Second, a system that is resilient on one element may not necessarily 
+be resilient on another. Third, resilience can be developed in terms of understanding and 
+measurement, depending largely on the framework in which the concept is being considered. 
+Fourth, resilience leads to exploring a perfectly associated framework (vulnerability) that is more 
+concerned with the sensitivity of the system or one of its components to external pressures. 
+Vulnerability is not seen as the state opposed to resilience. A system can be resilient in some 
+dimensions and at the same time vulnerable in others even though the resilience of one dimension 
+may imply less vulnerability for the other dimension of the system (Seeliger & Turok 2013). 
+1.1.2.1. Resilience Versus stability, sustainability, prevention and vulnerability 
+Some concepts like stability, sustainability, prevention or vulnerability are not to be confused 
+with resilience (Brinkmann et al. 2017). 
+A. Resilience versus stability 
+There’s a difference between the two concepts. In fact, the resilience of a system is not to be 
+equated with its stability (in the sense of a low degree of volatility) (Rose 2009). Even a system 
+that undergoes considerable short-term fluctuation as the result of a shock can prove to be 
+resilient if, following a phase of instability; it reaches a new equilibrium with performance 
+comparable to that displayed before the shock. 
+                                                          
+1
+ Merriam-Webster Dictionary and McDargh (2013) http://www.eileenmcdargh.com/blog/2013/11/toughtimes-
+demand/ Accessed January 26, 2019. 
+6 
+ 
+ 
+B. Resilience versus sustainability 
+These two concepts differ with respect to their temporal dimension. Sustainability considerations 
+from ecology to economics are defined on the basis of very long time horizons, typically 
+encompassing several generations. Sustainable systems have the prospect of fulfilling their 
+functions even after the passage of decades (or centuries). Sustainability is also often a reaction to 
+gradual changes. Observations of resilience are undertaken over a shorter period of time. The 
+systemic disruption under consideration is of a shorter-term and more abrupt nature, and the 
+question of processing the shock, if necessary, refers at most to the medium term. As compared to 
+resilience, sustainability is the more comprehensive concept; resilience represents a necessary but 
+not sufficient condition for sustainability. 
+C. Resilience and prevention 
+As far back as the word’s origin, the consideration of resilience does not take into account 
+statements regarding the probability of sudden adverse events, but rather addresses the effects 
+and processing of such events. This understanding permeates applications in all disciplines. 
+Consequently, analyses of resilience should be conceptually distinguished from issues of crisis 
+origin or prevention. At the core of resilience strategy is not the prevention of crises, but rather 
+the attempt to cope with a crisis one which is unavoidable, or one whose probability can be 
+influenced only to a limited degree as well as possible. This includes also proactive measures in 
+the run-up to a possible crisis. However, these are not oriented toward averting the crisis, but 
+rather toward coping with it more effectively through preparatory measures. 
+D. Resilience versus vulnerability 
+It is quite difficult for many of the scientists to establish the difference between resilience and 
+vulnerability. Indeed, these two terms too should not be equated. Vulnerability is the broader 
+term, encompassing the extent to which a system is exposed to crisis (Rose 2009), and is thus 
+minimized through successful crisis-prevention measures. By contrast, the degree to which 
+resilience has been achieved can be assessed only with respect to a crisis. A system in which 
+crisis-prevention measures have been successfully carried out reduces its vulnerability. However, 
+it does not necessarily thereby improve its resilience (for the case in which the now-less-probable 
+crisis event nevertheless takes place). 
+7 
+ 
+ 
+Table below shows a comparison between vulnerability and resilience on different scales. The 
+contrast suggests that resilience is more concerned with the capacity to recover from a disaster 
+within a short time and with no outside assistance, while vulnerability is the property of resisting 
+the stress caused by a natural hazard. 
+Table 1. Difference between vulnerability and resilience at different levels 
+Vulnerability Resilience 
+Resistance Recovery 
+Force bound Time bound 
+Safety Bounce back 
+Mitigation Adaptation 
+Institutional Community-based 
+System Network 
+Engineering Culture 
+Risk assessment Vulnerability and capacity 
+Outcome Process 
+Standards Institution 
+Source: Manyena (2006), The concept of resilience revisited, p 445. 
+1.1.2.2. Towards Economic Resilience 
+For a long time, economic resilience did not receive the level of scientific attention as it is 
+attracting today. Martin (2012) provides an interesting review of work on resilience from an 
+economic viewpoint; in particular he describes how resilience was regarded in the broader 
+economic literature as a fuzzy concept. In literature, the term Economic Resilience has been used 
+in at least three senses relating to the ability to recover quickly from a shock; to withstand the 
+effect of a shock and to avoid the shock altogether (Briguglio et al. 2006). 
+Today, the relative resilience of different economies would be measured in terms of their 
+susceptibility to being moved off their equilibrium paths and their response times of recovery to 
+equilibrium. It is difficult to reconcile the notion of resilience with the idea of economic 
+evolution. The implication is that the more resilient is a country or a regional economy, the less it 
+would change over time, even in the face of various shocks (Simmiea & Martin 2010). As we can 
+see in Figure 1(a) below, a shock or disturbance moves an economy off its equilibrium growth 
+path, but the assumption is that self correcting forces and adjustments eventually bring it back 
+onto that path. This is not the case for other figures (1(b), 1(c) and 1(d)) even if each case shows 
+8 
+ 
+ 
+a certain degree of resilience but the resilience capacity in the three last cases (1(b), 1(c) and 
+1(d)) is less than the capacity resilience in the first case (1(a)). 
+Figures 1. Stylized responses of a regional economy to a major shock
+2
+ 
+ 
+Source: Simmiea & Martin (2010), The economic resilience of regions: Towards an 
+evolutionary approach, p 3. 
+However, being two concepts which are not mutually exclusive, it is less consistent to talk about 
+economic resilience without addressing the point about economic vulnerability. Several authors 
+consider economic vulnerability to be a pre-shocks characteristic and economic resilience the 
+outcome of a post-shocks response (Cutter et al. 2008). Thus, economic resilience is often seen as 
+a way to reduce economic vulnerability and a more resilient economic system is seen as a system 
+with less vulnerable economic sub-systems (Pendall et al. 2012). 
+                                                          
+2
+ (a) Return of region to its pre-existing steady growth path following the shock;  
+  (b) and (c) region fails to resume former steady growth path after the shock, but settles on inferior path; 
+  (d) Region recovers from shock and assumes an improved growth path. 
+9 
+ 
+ 
+The link and difference between these two concepts appears to be ambiguous and is not well 
+defined in the economic literature. The figure below shows the inter-connections between 
+economic systems, economic vulnerability and economic resilience, through their evolutionary 
+dynamics and exposure to shocks. The shock plays a central role; when a shock hits the economic 
+system, either in its entirety or one of its parts, it causes an economic loss or gain that is more or 
+less pronounced according to the economic vulnerability and economic resilience characteristics 
+of the system considered as a whole. 
+Figures 2. A methodological framework linking economic resilience and economic 
+vulnerability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Modica & Reggiani (2014), Spatial economic resilience, p 230. 
+The loss/gain changes the original structure of the economic system and result in a new 
+equilibrium. The new equilibrium is the motivation for the introduction of “adaptive” strategies 
+by policy makers (e.g., policy measures aimed at mitigating an economic loss, etc.). A good 
+preventative action would be policy to enhance resilience (or to reduce vulnerability). However, 
+this action would also affect the spatial-economic system. Thus, vulnerability and resilience 
+might be regarded as concepts that play a key role in modifications to the spatial economic 
+system’s structure. 
+Resilience 
+Policy Actions 
+Loss/Gain 
+Vulnerability 
+Evolutionary 
+Dynamics 
+Spatial-Economic 
+System 
+Shock 
+10 
+ 
+ 
+1.1.3. The composite indexes 
+The resilience concept is perceived as a network of dependent relationships among the variables 
+and among dimensions. A composite index is an aggregation of a set of individual indicators that 
+gives evidence for a multifaceted problem using mathematical or computational methods. The 
+justification for a composite index lies in its fitness for the phenomenon to be measured and its 
+simplicity (Pedrazza & Katsinis, 2018). The resulting big picture of composite indexes is easier 
+to interpret than a battery of many separate indicators. Nevertheless, economic resilience index as 
+a composite index reduce the multifaceted reality to a single value. In this work, we will calculate 
+this composite index through some mathematical techniques in order to be able to quantify the 
+economic resilience of low-income countries by using a group of variables. 
+1.1.3.1. Criteria for rejecting a variable to compute a composite index 
+Many authors provide guidelines or manuals regarding desirable properties of statistics and 
+indices (see for example Farrugia 2007; IMF 2003; OECD 2008). Briguglio (2003) proposed 
+criteria for rejecting component variables when constructing a composite index. These criteria 
+include variables that are not relevant, are beg the question, and are redundant. As part of our 
+work, these criteria are scrutinized with more attention. 
+A. Irrelevance variables 
+Variables (or indicators) that are not relevant to the phenomenon called to be measured should 
+obviously be excluded. But there are instances where non-relevance of a variable is not 
+immediately obvious. For example, in an economic vulnerability index, which is aimed at 
+measuring the causes of economic vulnerability (capturing features of an economy that render it 
+exposed to external shocks), GDP volatility or export volatility should not feature as components 
+of the index. The reason for this exclusion is the fact that volatility can be a manifestation not 
+only of vulnerability but also of some other causes (As for instance, an inherently highly 
+vulnerable economy may not be volatile if it builds economic resilience, and conversely an 
+economy which is not high vulnerable may be volatile if its economic governance is weak). 
+B. Begging the question 
+This means assuming beforehand what is intended to be proved. For example, introducing 
+country size as a component of the index when the objective is to test whether the small countries 
+11 
+ 
+ 
+(For example: Nepal) are more vulnerable than large countries (For example: DR Congo) is not 
+acceptable, because this situation would bias the results. This is one more reason for not take into 
+account the variable “size of country” in our thesis. 
+C. Redundancy 
+A set of variables that are highly correlated could replicate each other or capture the same 
+tendencies. In practice, decisions to know which variables to exclude on the basis of this 
+argument are not easy to take, among other things, this situation can require a correlation 
+coefficient threshold, above which the variables would be considered as too correlated and 
+therefore possibly capturing the same phenomenon.  
+However, highly correlated variables may be representing by different factors that convey more 
+or less the same message. Testing for statistical correlation and retaining only those indices which 
+are not highly correlated with each other may result in rejecting something which should be 
+accepted. For this reason, the redundancy problem requires that statistical analysis should be 
+complemented by a qualitative analysis of the variable itself. The fact of being selective in the 
+choice of variable components may also be desirable for other reasons, such as parsimony. 
+1.1.3.2. Criteria for adopting a variable to compute a composite index 
+Briguglio (2003) in his study identified positive attributes of variables used to construct a 
+composite index especially in the economic sphere, namely the simplicity, the transparency, the 
+reproducibility, the comparability and the affordability. These are the essential qualities that a 
+variable can have in order to compute a composite index and avoid any bias that may be involved 
+in the calculation. We believe that we can take into account these criteria in order to select 
+variables and build our index (economic resilience index) in the low-income countries. 
+A. Simplicity 
+The main advantage of simplicity is the fact that the variable is easy to understand by 
+stakeholders, decision-makers and other users. The simplicity allows to correctly interpreting the 
+variable and facilitates the work of making proposals in terms of economic policies. A variable 
+with this quality (simplicity) must contribute effectively to the construction of the composite 
+index (here it is the economic resilience index), which is also an essential element that makes the 
+interpretation of a phenomenon simple and understandable. 
+12 
+ 
+ 
+B. Transparency 
+This attribute requires that the methodology used should be clearly explained by the institution or 
+the persons who implemented the variable and that the data used by the author of the variable 
+should be available to those who wish to assess the variable. That is one more reason to have a 
+methodological basis well provided in a study in order to build a composite index. 
+C. Reproducibility 
+This attribute requires transparency, in that it should permit replication of the variable by users or 
+assessors of the variable, including stakeholders and policymakers, for the purposes of evaluation 
+and validation. It’s just an attribute that demonstrates the need to have a variable that does not 
+give some doubt about its estimate. 
+D. Comparability 
+A variable which is intended to measure an incidence across different subjects (such as countries) 
+should, of course, be suitable for such comparisons. In the case of the resilience index, which is 
+intended to compare economic resilience across countries, the variables selected as components 
+of this index should be available across countries and should be measured in a homogenous 
+manner. Preferably, the data should be collected as a matter of routine in line with the 
+information required for a particular country. This may explain why cross-country economic 
+indices are easier to construct than environmental indices and as internationally comparable 
+economic statistics are easier to obtain than internationally comparable environmental statistics. 
+E. Affordability  
+This attribute implies that the procedure used must not be excessively time-consuming and the 
+data needed must be relatively easy to obtain and to process. In this regard there is usually a 
+trade-off between what is purely theoretical and what is practical. A variable known in advance 
+that the data will be difficult to obtain is not worth it. 
+Two additional attributes can be added with respect to the composite indices proposed in a study, 
+namely as wide coverage of states as possible and the usefulness of the adopted variable given 
+that the purpose of some studies is to enable policy makers to identify priorities for building 
+resilience. The choice of variables used in this thesis is based on these criteria 
+13 
+ 
+ 
+1.1.4. Computation of economic resilience index: Aggregation and weighting issues 
+Composite economic resilience index can be weighted or non-weighted averages of standardized 
+variables. This index use aggregation processes that follow different fundamental principles and 
+computation techniques, it all depends on what the author wants to demonstrate and how he 
+intends to do it. Two main methods are used to integrate the variables and sub-indexes into a 
+single value (economic resilience index). 
+First, regression models are estimated to calculate weights among variables. This method is 
+followed by Atkins et al. (2000) to capture the sources of economic resilience. The regression 
+explains the dependent variable gross domestic product using explanatory variables that refer to 
+different sources of economic resilience. Adrianto & Matsuda (2004) also refer to a model to 
+explain economic exposure as part of their composite resilience index. The two disadvantages of 
+using a regression model can be summed up by the fact that this model is more complex for this 
+kind of estimates and the integration of potential estimate errors from data that can be directly 
+ready for use without additional estimates. 
+Second, an average of the various variables can be used directly. Adrianto & Matsuda (2004) 
+compute weighted averages that associate the economic exposure sub-index with two other sub-
+indexes (economic vulnerability and economic resilience). Briguglio and Galea (2004) follow the 
+same computation principle. Nevertheless, Briguglio (1995) recognizes the subjectivity or 
+arbitrary characteristics of an ad hoc weighting: “alternative weighting schemes would not solve 
+the problem of subjective choice”. The author acknowledges that there is no evidence of the 
+higher validity of weighted variables compared with non-weighted variables. Non-weighted 
+variables would not change the message conveyed through a composite resilience index in 
+comparison with weighted variables.  
+Moreover, it would be difficult to determine whether fluctuations in the value of a composite 
+index are due to an effective evolution of the resilience state or to changes in the weighting 
+system, because there is no absolute proof that such an econometric procedure can provide time-
+invariant weights. For the same reasons, assigning weights to indicators based on expert 
+elicitation does not solve problem, either. Consequently, most of the composite resilience indexes 
+use a non-weighted average to integrate their components (Angeon & Bates 2015).  
+14 
+ 
+ 
+Kaly et al. (2004) argue that “simple averages across indicators can be used because they can be 
+easily understood, and more complex models do not appear to offer any advantages to expression 
+or utility of the index”. For this reason, composite resilience index commonly calculate the 
+simple averages of variables, provided that they are standardized. Standardization/normalization 
+is required to permit international comparisons because composite indexes per se aggregate 
+variables with different measurement scales. To manage outliers, even if procedure is not typical, 
+the composite indexes use the extrema values of variables in standardization technique. 
+Nevertheless, as noted by Nardo et al. (2005), more complex methodologies could be used to 
+synthesize data, such as multivariate models and factor analysis. 
+Section 2. EMPIRICAL FRAMEWORK 
+In this section we try to build an empirical basis by summarizing the works of different 
+researchers. These summaries are done based on four themes (economic resilience studies, 
+resilience between regions according to a certain degree of shocks, some methodological basis, 
+and Net Vulnerability-Resilience Index) that constitute the different points used in this section. 
+1.2.1. Economic resilience studies  
+In the paper presented by Cai, Lam, Qiang, Zou, Correll & Mihunov (2018) on A synthesis of 
+disaster resilience measurement methods and indices, the authors synthesis study aimed to derive 
+commonalities and new knowledge from the fragmented body of literature on resilience 
+measurement. Through analyzing 174 articles collected for the period 2005–2017 and based on 
+the simple description of the samples, the authors found that, 39.7% of the articles used 
+qualitative methods and a similar percentage of articles (39.1%) used quantitative methods. Also, 
+the most frequently used indicators in resilience measurement are income, employment, 
+education, age, and previous disaster experience. 
+For us, we assume that a qualitative study only, although it has certain advantages, may depart 
+from certain realities. The best way for us to perfect this study is to adopt the quantitative aspect 
+while keeping an eye on the qualitative analysis. Also, the choice of variables will be made with 
+the idea that all variables can be selected whatever the field in which they concern, only they 
+must relate to the economic resilience in low-income countries and they respect the selection 
+criteria proposed in the literature. 
+15 
+ 
+ 
+1.2.2. Resilience between different regions according to a certain degree of shock 
+Hill, Clair, Wial, Wolman, Atkins, Blumenthal, Ficenec & Friedhoff (2012) have conducted a 
+study on the Economic Shocks and Regional Economic Resilience. Using a data base consisting 
+of annual metropolitan level employment data for 361 MSAs in USA from 1970-2006, the 
+authors identified nearly 1500 shocks to regional economies. In nearly half of these cases (47%), 
+the affected region was “shock-resistant” and it did not suffer a serious economic downturn as a 
+result of the shock. Regions suffering a downturn as a result of a shock were “resilient” 65% of 
+the time. Regions that were adversely affected by a shock were less likely to be resilient if the 
+shock was a national economic downturn alone (to which 55% of adversely affected regions were 
+resilient) than if it were a national industry shock alone (80% resilient) or a local industry shock 
+alone (77% resilient). The average length of time to resilience for a region after having suffered a 
+shock-induced downturn was 2.9 years. 
+However, even if the most resilient regions can be vulnerable to different shocks, it is the 
+resilience that will ensure that a shock can last up for a long time or disappear just after its 
+appearance. For example, in the event of a shock to the global production of goods, several 
+countries may suffer the same degree of shock (vulnerable to the same degree) but the response 
+capacity to deal with these shocks differs from one country to another and it depends on the 
+economic and social structure of each country. Hence the need to conduct the study that can 
+compare resilience capabilities between states. We do this in our study by elucidating the key 
+variables that may be the basis of this resilience capacity but for low-income countries only. 
+In the table 2 below presented, we reviewed briefly eighteen papers and articles, extracting from 
+the main characteristics, tools used, and interpretation of economic resilience, with the aim of 
+providing a complete overview to suggest new research questions and directions for the others 
+research questions
+3
+ as presented by Modica & Reggiani (2014) in their article entitled Spatial 
+Economic Resilience: Overview and Perspectives. This table describes the different shocks, the 
+context, the aim, the framework, the measure for resilience of each case studied in these 18 
+scientific works. 
+                                                          
+3
+ The papers and working papers were selected using Google Scholar and the Scopus database. We restricted our 
+search to papers containing the words “economic resilience’, or ‘regional economic resilience’ in their titles, 
+abstracts or key words. 
+16 
+ 
+ 
+Table 2. Main characteristics of the economics resilient literature
+4
+ 
+Authors, year Shock Context Aim
+5
+ Framework
+6
+ Tool Measure for resilience Case study 
+Adger 2000 Institutional 
+shock 
+Livelihood 
+system 
+Adjustment Static Qualitative analysis Inequality of income 
+property rights 
+Mangrove conversion in 
+Vietnam 
+Ashby et al. 2008 2008–2010 
+downturn 
+Economic 
+development    
+Adaptability Static Methodological 
+framework 
+Environment 
+Infrastructure Socio-
+economic 
+6 urban areas around the 
+world 
+Bristow 2010 Economic 
+downturns 
+Regional 
+Development 
+Adaptability 
+Recovery 
+Static Cultural political 
+economy approach 
+Measures of 
+competiveness 
+Methodological approach 
+Bruneau et al 
+2003 
+Earthquake Economic 
+development 
+Resistance Static Performance 
+measures index on 
+the quality of 
+Infrastructures 
+Socio-economic 
+Technical 
+Organizational 
+Methodological approach 
+Cellini and 
+Torrisi 2014 
+Economic 
+downturns 
+Output Resistance Static SURE, RCM, MA,, 
+MSA, CGEM  
+Regional heterogeneity of 
+estimated parameters 
+Italian Region in 1890-
+2009 
+Chan et al. 2014 Flood 
+ 
+ 
+Economic 
+development    
+Adaptability Static Indices Built environment 
+institutional 
+Natural environment 
+Socio-economic 
+Technology 
+Tan-sui river basin in 
+Taiwan 
+Coles and Buckle 
+2004 
+Disasters Recovery 
+activities 
+Recovery Static Qualitative analysis Operational  
+Planning  
+Policy 
+Lewes district, UK in 2000 
+Cutter et al. 2008 Disasters Recovery 
+activities 
+Recovery Static Composite 
+indicator 
+Community Ecological 
+Infrastructure 
+Institutional  
+Socio-economic 
+Southeastern United states 
+                                                          
+4
+ The analytical context changes according to the different economic objectives which range from regional accountability, job market analysis, business analysis 
+and living standards and quality of life. 
+5
+ Resilience might be analyzed to measure the economic success of a region/area in terms of: i) adjustment, ii) adaptation, iii) convergence, or iv) equilibrium; or 
+according to Martin’s (2012) categories: i) renewal, ii) reorientation, iii) recovery, or iv) resistance. 
+6
+ The aspects account respectively for: a) the degree of regeneration along a regional growth path, b) the degree of adaptation in response to shock of the object 
+under study; c) capacity in terms of speed and degree of recovery from shocks, and d) the extent of sensitivity to the shock. Framework refers to the treatment of 
+time and space which has important impacts on the way the economic process that characterizes resilience is understood. The typical framework is static. Thus, 
+time can be measured in moments of pre-shock, shock, and post-shock events, within the confines of the region/area. Alternatively, time can be seen as a constant 
+process of transition in which space can be thought of as the result of a continuous flow of actions. 
+17 
+ 
+ 
+Davies 2011 2008–2010 
+downturn 
+Employment Adaptability 
+ 
+Adjustment 
+Recovery 
+Resistance 
+Static 
+ 
+Dynamic 
+Regression analysis 
+ 
+Semi-structured 
+interviews 
+Regional strength and 
+weakness  
+ 
+Sectorial structure 
+Europe in 2008–2010 
+Dhawan and 
+Jeske 2006 
+Energy price 
+shocks 
+Output Resistance Static 
+Dynamic 
+Counter-factual 
+analysis 
+Counter-factual growth 
+rate 
+USA 1970-2005 
+Di Caro 2013 Economic 
+downturns 
+Employment Resistance Static  SURE 
+VECM 
+Regional heterogeneity of 
+estimated parameters 
+Italian regions in 1970-
+2010 
+Duval et al. 2007 Common 
+unobserved 
+shocks 
+Employment Recovery Static Pooled regression 
+analysis (dynamics) 
+Labor and product market 
+regulations 
+20 OECD Countries in 
+1982–2003 
+Graziano 2013 Socio-
+economic 
+shocks   
+Socio-
+economic 
+development 
+Recovery Static Indices Economic 
+Enterprise 
+Household 
+Infrastructure 
+Innovation 
+Local economy 
+Italian local systems in 
+2007-2011 
+Hill et al. 2011 Economic 
+downturn 
+Industry shock 
+Employment 
+ Output 
+Adjustment 
+Recovery 
+Resistance 
+Dynamic Hazard models  
+Logistic regression 
+Socio-economic MSA, USA 1970-2007 
+Jordan et al. 2011 Disasters Output Recovery Static Qualitative 
+comparative 
+analysis 
+Disaster impact 
+Infrastructure 
+institutional 
+ Recovery strategy Socio-
+economic 
+Hurricane Katrina 
+Indian Ocean Tsunami 
+Martin 2012 Economic 
+downturns 
+Employment, 
+output 
+Adaptability 
+Adjustment 
+Recovery 
+Resistance 
+Static 
+Dynamic 
+Ratio of decline 
+Sensitivity indices 
+Growth trends 
+Structural 
+composition of 
+employment change 
+Economic index British regions in 1970-
+2010 
+Ormerod 2010 Coal-Industry 
+specific shocks 
+Employment 
+in coal field 
+areas 
+Recovery Static Regression analysis Percentage change in 
+employment growth 
+UK Local authority eras 
+1983-2002 
+Simmie and 
+Martin 2010 
+Economic 
+downturn 
+Employment Adaptability Static 
+Dynamic 
+Growth trends 
+Structural 
+composition of 
+employment change 
+Economic Cambridge and Swansea, 
+UK 1970-2008 
+18 
+ 
+ 
+1.2.3. Some methodological basis for assessing simultaneously vulnerability and resilience 
+Omar, Glen & Gian (2017) presented a paper entitled A new resilience rating system for 
+Countries and States in which they opted for an analytical approach for calculating the economic 
+resilience of nations and communities. They relied on the older risk evaluation method in to 
+evaluate the resilience by making certain modifications like the substitution of the vulnerability 
+by the intrinsic resilience of the country which is calculated with the method based on the data of 
+Hyogo Framework for Action (HFA). The applicability of their methodology was tested on 37 
+countries (for most middle-income countries) by calculating the respective intrinsic resilience and 
+resilience indexes of these 37 countries. For the authors, this approach provides new ways 
+through which the hazard can be understood. 
+The Commonwealth Vulnerability Index, developed by Atkins et al. (2000), considers the 
+incidence and intensity of several risks. This method consists of a two-step approach that includes 
+the construction of both a vulnerability impact index and a resilience index. Their aggregated 
+index is reminiscent of that of Briguglio & Galea (2004). In this Index, the impact of 
+vulnerability is assessed using a weighted least squares regression that joins income, various 
+sources of volatility (such as economic exposure), sensitivity to environmental events and 
+hazards, remoteness and insularity. The various sources of volatility refer to the stochastic term in 
+the definition of economic volatility. In this index, GDP is a proxy for resilience, whereas its 
+standard deviation is a proxy of vulnerability. 
+In his paper titled towards more resilient economies: The role of well-functioning economic 
+structures, Sondermann (2018) measures economic resilience by isolating common gross 
+domestic product shocks across countries using VAR and panel models, then he abstract from the 
+origin of the shock and just filter severe crises events by selecting the 10th percentile of the gross 
+domestic product distribution of a sample of OECD countries over 35 years. In addition the 
+author estimates whether the reaction to shocks and the likelihood of entering into a severe 
+recession depends on the quality of national economic structures. Furthermore, he takes the 
+evidence gathered on structural variables and links them to observable macro variables. He found 
+robust evidence that strong and flexible institutions increase the resilience towards adverse 
+shocks. He concluded that the financial and sovereign debt crisis has exposed the limited 
+19 
+ 
+ 
+(rigidities in labor markets, limited competition in product markets, framework conditions) 
+economic resilience of several OECD and specifically most euro area economies. 
+Blancard & Hoareau (2016) in their paper entitled are small island developing states more 
+economically vulnerable than others? An empirical approach using composite indicator and data 
+envelopment analysis. The main concern is on the determination of weights used to aggregate the 
+seven sub-indicators compounding the economic vulnerability. They need to substitute the ad hoc 
+weighting system adopted in the UNCDP by a less arbitrary endogenous one. Thus, they follow 
+the model of Hatefi and Torabi (2010) generating a set of common weights shared by all 
+countries. They found that the small island countries’ economies still remains fragile compared to 
+the other developing countries groupings but the magnitude of the economic vulnerability has 
+decreased. Their simulation stated especially that insular economies are now more vulnerable 
+than low-income countries. They explain these facts by a structural effect concerning the design 
+of the common weights system. 
+The methodological lines adopted do not necessarily have to be the same for all studies; it 
+depends on what the author seeks to explain and the field of study in which his work relates, the 
+budget at his disposal to conduct the study, and so on. As far as we are concerned, we set up our 
+own methodology approach that we consider appropriate for assessing and measuring the 
+economic resilience of low-income countries. 
+1.2.4. Net Vulnerability-Resilience Index 
+Over the past decade a new approach to measuring economic resilience (NVRI) incorporating the 
+sustainable development aspect into the choice of 43 variables grouped in 5 dimensions 
+(Economic, social, environmental, political and peripheral) has emerged. Angeon & Bates (2015) 
+analyze the NVRI related to mathematical algorithm (The B2A Algorithm) on graph theory. They 
+found that NVRI follows a slightly ascending trend over the last decade, which allowing authors 
+to conclude that there has been little worldwide improvement in the state of VR. They also found 
+that the confidence intervals had a narrow spread, which revealed stability in the state of VR 
+through time and space. Differences among the four groups of countries concerned the speed of 
+NVRI evolution. In particular, the Least Developed Countries register the slowest average annual 
+growth rate of the NVRI (0.47%), which is two times less than the other groups (0.73% for the 
+Most Developed Countries, 0.84% for the Average Developed Countries and 0.73% for the Small 
+20 
+ 
+ 
+Island Developing States). In a sample of 95 states selected by Angeon & Bates, DR Congo and 
+Nepal had not been taken into account. 
+In the economic literature, Singapore is considered as a “good pupil” because of its resilience, 
+though it is a small island which could be discriminated a priori because of intrinsic factors of 
+vulnerability. Bates et al. (2014) want to check if Vulnerability-Resilience index conceived from 
+a sustainable perspective confirms the greater resilience of Singapore that forges the Singapore 
+paradox. Their analysis using the graph theory focuses on data that span from the last decade 

@@ -1,0 +1,1039 @@
+Measuring urban economic resilience of two tropical cities, using impulse response analysis
+
+Bulletin of Applied Economics, 2021, 8(1), 59-79 
+https://doi.org/10.47260/bae/814 
+ 
+ 
+Measuring urban economic resilience of two tropical cities, using 
+impulse response analysis  
+ 
+ 
+Taha Chaiechi
+1
+  and Trang Nguyen
+2
+ 
+  
+ 
+Abstract 
+ 
+The global urbanisation rate had increased rapidly from just 30% in 1950 to 55% in 2018, and it is 
+projected to reach 68% by 2050. This ongoing urbanisation shows the importance of building resilient 
+economies in dealing with complex external financial and public health shocks and disturbances. 
+Although most growing cities are beginning to demonstrate dedication to integrating sustainable 
+development goals, building economic resilience in cities remains a significant challenge. During the past 
+crises, stronger economies have shown an apparent ability to recover from shocks relatively quickly. 
+Nonetheless, the severe COVID-19 recession has unmasked superficial evidence of economic resilience 
+while also identifying underlying vulnerabilities and economic weak-spots. Accordingly, this paper 
+focuses on resilience as a non-equilibrium property of urban economic structures. Focusing on two 
+tropical cities, the paper explores sources of volatility transmission as indicators of urbanisation change, 
+by utilising orthogonal impulse- response (OIR) functions based upon the Cholesky decomposition. The 
+findings suggest a metropolitan disadvantage concerning urban economic resilience predominantly from 
+shocks on sources of urbanisation. 
+ 
+JEL classification numbers: P25, O4, Q56, 
+Keywords: economic resilience, urban economics, urbanisation, tropical cities, impulse response analysis 
+ 
+1  Introduction  
+ 
+The new millennium has witnessed widespread and frequent external shocks resulting in massive 
+economic losses, depressions, and loss of lives. Noteworthy natural, financial, and public health crisis in 
+the past 20 years include frequent large-scale natural disasters around the world on an annual basis, the 
+bursting of the Dot-Com bubble in 2000-2002, SARS pandemic in 2002-2004, Global Financial Crisis 
+(GFC) of 2008, MERS-CoV pandemic in 2012, European sovereign debt crisis (2009-2019), and COVID-
+19 pandemic of 2020. These crises straddled broad geographic areas, adversely affected all economic 
+sectors, hindered economic activities, and endangered lives and well-being worldwide. Although stronger 
+economies have shown an apparent ability to recover from economic crises in the past relatively quickly, 
+the severe COVID-19 recession has unmasked superficial evidence of economic resilience while also 
+identifying underlying vulnerabilities and economic weak-spots.  
+                                                          
+1
+ PhD, Associate Professor, College of Business, Law, and Governance, James Cook University, Australia 
+2
+ PhD, Trade Development Officer, Trade and Business Development, Port of Townsville, Australia 
+ 
+Article Info: Received: February 2, 2021                        Published online: March  20, 2021 
+60                                                                                                                   Taha Chaiechi  and Trang Nguyen 
+ 
+In addition to frequent health and financial crises, the global urbanisation rate had increased rapidly from 
+just 30% in 1950 to 55% in 2018, and it is projected to reach 68% by 2050  (United Nations, 2018a). 
+Mass movements of people to cities result from several defining factors, including economic factors (such 
+as job opportunities and higher disposable incomes), lifestyle preferences, health, and education. Swift 
+expansion of cities geographic extent and urban clustering has led to extensive land recycling in many 
+areas to suit urban life, adversely impacting the natural environment, agricultural landscapes, and resource 
+allocations. Continuous and evolving urbanisation that primarily results from rural to urban migration is 
+changing city structures and is altering the structure of the broader economy. 
+North America is the most urbanised region in the world with 82% of its population living in urban areas, 
+Latin America and the Caribbean comes in second place with 81%, Europe and Oceania follow suit with 
+74%, and 68% in that order. The more balanced regions include Asia, with almost 50% urbanisation and 
+Africa, with 43% of its population living in urban areas (United Nations, 2018b). This ongoing 
+urbanisation shows the importance of building resilient economies in dealing with complex external 
+financial and public health shocks and disturbances. And while most growing cities are beginning to 
+demonstrate dedication to integrating sustainable development goals (Chaiechi, 2020a), building urban 
+economic resilience remains a significant challenge.   
+However, the relationship is not that simple. Urban agglomeration may induce and facilitate some 
+economic activities; it may also lead to diseconomies of scale as business clusters may contribute to 
+pollution and other negative externalities. Diseconomies of scale resulting from urban agglomeration lead 
+to strong environmental pressures, price distortions, and inequalities, consequently jeopardising urban 
+areas' resilience against external shocks. The urban economic theory suggests that concentration benefits 
+can be offset by increasing congestion, overcrowding, and pressure on the environment. These negative 
+externalities intensify as cities expand, especially without careful planning for resilience and future-
+proofing.   
+Moreover, a large body of literature often portrays an entirely predictable relationship between 
+urbanisation and economic growth. Many of these arguments are mainly broad-brush, and the supporting 
+evidence is rather insufficient. More importantly, the concept of urban economic resilience is rarely 
+discussed in the literature, and its methods of quantification are poorly understood. Accordingly, this 
+paper's main point of departure is to offer measuring techniques to quantify urban economic resilience by 
+moving beyond decontextualised and limited research around the concept of economic resilience. 
+In addition to the insufficient number of theoretical and empirical studies around the concept of economic 
+resilience, regrettably, in many crisis scenarios, it has also become evident that policy-makers have 
+resorted to short-term responses rather than adopting various approaches to building economic resilience, 
+hugely compromising the purported rights of forthcoming generations.  
+This paper focuses on resilience (as competence) as a non-equilibrium property of urban economic 
+structures. The authors explore the sources of volatility transmission as indicators of urbanisation change, 
+allowing us to investigate the urban economic resilience of selected cities in the presence of external 
+shocks. Accordingly, this study is designed to assess the hypothesis that changes in indicators of 
+urbanisation influence economic growth volatility transmission. The paper introduces an orthogonal 
+impulse- response (OIR) function based upon the Cholesky decomposition under which condition all 
+shocks are expected to be transitory, either around a deterministic trend or around some unconditional 
+Measuring urban economic resilience of two tropical cities, using impulse response analysis             61 
+ 
+ 
+ 
+mean. By calibrating the framework to time series quarterly data from 2001 to 2018, the paper finds the 
+susceptibility of selected cities’ economic growth to external shocks on urbanisation indicators.  
+ 
+ 
+2  Literature review   
+ 
+Non-equilibrium economics explains events’ economic processes as a non-equilibrium phenomenon that 
+stands against standard classical equilibrium economic theories. Most classical models focus on 
+equilibrium conditions, and therefore, the concept of resilience does not naturally fit within classical 
+theories. Integrating the concept of economic resilience into classical models would be challenging as it 
+would provoke a paradigmatic change. However, frameworks and methods for out-of-equilibrium 
+phenomena have been repeatedly presented in contemporary economic theories, including Post-
+Keynesian economics and ecological economics. In this paper, without getting into these controversies, 
+we focus on several seminal works that had helped improve the conceptual and theoretical understanding 
+of economic resilience.  
+2.1  Economic Resilience  
+The concept of resilience has always been discussed in the United Nations Development agenda. For 
+example, Hyogo Framework for Action 2005-2015 (United Nations, 2005) was first introduced in the 
+World Conference on Disaster Reduction in Kobe, Japan, in 2005 – only days after the 2004 Indian 
+Ocean Tsunami. Another crucial UN report called "Resilient People, Resilient Planet – A Future Worth 
+Choosing" was published in 2012. This report contains 56 recommendations to put sustainable 
+development into practice through inclusive economic growth, environmental development and social 
+equity (United Nations Secretary-General's High-level Panel on Global Sustainability, 2012).  
+In academia, where there is an overall insufficient number of papers around resilience, several notable 
+articles have discussed essential resilience dimensions in economic systems in details. Holling (1973) is 
+one of the pioneers in the field who introduced resilience as a property of economic systems that 
+determines the persistence of relationships within systems and is indicative of the ability of systems to 
+absorb external shocks. Holling (1973) is indeed one of the early studies that attempted to invalidate the 
+equilibrium-based economic theories put forward by classical economists. A couple of decades later, 
+Mileti's Disaster by Design (1999) provided an alternative framework to view, investigate and manage 
+environmental hazards to build disaster-resilience communities and economic sustainability. Mileti's work 
+was well received amongst the researchers and policy-makers in the field of disaster and emergency 
+management policy. 
+Until the early 2010s, research on disasters and resilience was dominated by physical scientists. There 
+was a lack of social sciences' contributions to the concept of resilience. As Mileti (1999, P1) quoted, 
+White and Haas (1975) attempted to fill this void by advancing the “critical notion that rather than simply 
+picking up the pieces after disasters, the nation could employ better planning, land use controls, and other 
+preventive and mitigatory measures to reduce the toll in the first place” (Mileti, 1999, P1). 
+Holling (1996) introduced “engineering resilience” that was particularly relevant in the field of material 
+engineering and used as an indication for exemplary performance in tolerating stress and pressure. Socio-
+ecological systems (SES) were first proposed as a tool to measure resilience by Berkes et al. (2003). This 
+work inspired other seminal studies such as Fischer et al. (2006), and Cabell and Oelofse, (2012) that led 
+to the conceptualisation of “ecological resilience”, a view built on the deliberation of the interaction 
+62                                                                                                                   Taha Chaiechi  and Trang Nguyen 
+ 
+between society and the environment through socio-ecological systems to build ecological resilience. 
+Rose (2004) acknowledged three levels of difficulties (conceptual, operational, empirical) confronting 
+researchers in the field of economic resilience, summarising progress in all three levels. Rose (2004) 
+introduces two types of resilience: inherent resilience as an ability to operate under normal circumstances 
+and adaptive resilience as the ability to remain functional during a crisis.  
+2.2  Urbanisation and Economic Growth 
+Historically, economic growth and urbanisation share a complex yet dynamic relationship tied to firms 
+locations decisions (Alonso, 1964), infrastructure development (Bairoch, 1988), transport infrastructure 
+(Harris & Ullman, 1945; Floyd & Allen, 2002), employment (Castells, 1977:237; Hoffmann et al., 2019), 
+land rent and rural-urban wage disparity (Gale et al. 2005; Jiang et al.,2012; D'Costa & Overman, 2014; 
+Deng et al., 2010), and commuting distance to work (Angel and Blei, 2016; Kim and Choi, 2019). 
+While cities remain economic powerhouses of the countries, there seems to be a lack of research on 
+achieving adaptive economic resilience in the cities.  Cadena et al. (2012) argued that some cities might 
+decline as most cities continue to evolve and grow. This is all dependent on how well cities are positioned 
+to mitigate the adverse effects of shifting economic landscapes. Capello et al. (2015) examined cities' role 
+as sources of regional resilience in Europe using a scenario approach and simulation exercise. The paper 
+found that e cities with more value-added activities, higher quality production factors, and more 
+prominent network clusters exhibit the highest economic resilience.  
+Rodríguez-Pose (2018) conducted a review of studies focusing on disparities between rural and urban 
+areas in the EU and concluded that persistent poverty, economic inequality, and lack of economic 
+opportunities are the driving forces behind declining areas. The paper recommended that territorial 
+interventions should focus on large and dynamic cities and not on lagging regions, a view that is 
+supportive of agglomeration. However, the study conducted by Dijkstra et al. (2015) argued that rate of 
+urbanisation in large European cities relative to the rest of the country has stagnated or even reversed in 
+many of the developed EU countries, a pattern that contradicts with urban growth of megacities elsewhere 
+in the world. The study suggested that the polycentric urban structure in Europe favours a high number of 
+small and medium-sized cities to megacities that could contribute to this negative trend. The study also 
+found that improved access to services and technology (including broadband) across developed European 
+countries might have improved smaller urban areas' appeal.  
+There are positive economic implications for urbanisation. For example, urbanisation increases 
+investment in public infrastructure, and the public transport system becomes more efficient, allowing city 
+dwellers to live closer to hospitals, recreational and educational facilities (White et al., 2019). Firms 
+located in city centres provide better-paying jobs than jobs offered in regional areas (Sanderson et al., 
+2017). Also, firms tend to maximise social and technological connectivity benefits due to complex city 
+structures (Sennet, 2002), resulting in knowledge generation and innovation. The process of gaining new 
+knowledge leads to knowledge spillover to other firms located in or around city boundaries (Audretsch 
+and Feldman 2004; Audretsch et al., 2015; Bakhtiari and Breunig, 2015), positively affecting workers 
+productivity, inducing economic growth. 
+ 
+ 
+Measuring urban economic resilience of two tropical cities, using impulse response analysis             63 
+ 
+ 
+ 
+3  Geographic Scope of the study 
+ 
+This paper focuses on two tropical cities. The primary reason for this selection is that Tropics is currently 
+home to over 42% of the world's population (Harding et al., 2016), a rate estimated to reach more than 
+50% by 2050 (State of the Tropics, 2014). Accordingly, tropical cities are swiftly expanding as more 
+populations are relocating to these cities. Besides, the State of Tropics report (2014) also demonstrated 
+that the Tropics' economic growth outperformed the rest of the world. In particular, this paper focuses on 
+the tropical city of Cairns, Australia, and the city-state of Singapore.  
+ 
+Figure 1: Tropics and Subtropics and the Locations of Two Selected Tropical Cities 
+Source: adapted the map by KVDP based on World map torrid.svg (CC BY-SA 3.0) 
+ 
+Cairns is located in the Wet Tropics World Heritage Area in the eastern coastal tropics of Queensland. 
+Cairns is a fast-growing city and is secluded from other major cities. Cairns' unique location means that 
+the city needs local and state governments and town planners' attention to nurture constructive change to 
+offer high-quality urban spaces and improve quality of life while providing economic opportunities. The 
+city-state of Singapore is located near the equator. It has limited land and natural resources, with one of 
+the highest urban population in Southeast Asia. Singapore's landscapes are continually evolving as urban 
+planning and urban policies in Singapore guide modern Singapore's physical terrains. Despite Singapore 
+being recognised as the most sustainable city in Asia and globally, it continues to face challenges given its 
+land scarcity and rising population.   
+ 
+4  Data, Data Sources, and Characteristics 
+To investigate our selected cities' urban economic resilience, we follow Chaiechi (2020b), who modelled 
+the urban economic growth process of two comparative case studies of Singapore and Cairns by 
+constructing frameworks designed to illustrate complex the growth process identifying sets of relevant 
+64                                                                                                                   Taha Chaiechi  and Trang Nguyen 
+ 
+variables exclusive to each urban system.  It is important to note that each city's choice of variables 
+depends on the existing literature and data availability. 
+Accordingly, quarterly data on selected variables from 2001 to 2018 were retrieved from the Department 
+of Statistics Singapore databases, Australian Bureau of Statistics, Cairns Regional Council and National 
+Institute of Economic and Industry Research (NIEIR). All time-series data were adjusted for seasonality 
+where appropriate to unveil the underlying base trends of the series. For the series of which only annual 
+data are available, frequency conversion technique such as Quadratic Sum or Average Matched to the 
+source were used to generate quarterly data from annual data. Table 1 presents two sets of indicators for 
+urbanisation and economic growth in Singapore and Cairns (due to data availability).    
+Table 1: Set of Indicators for Urbanization and Economic Growth 
+Singapore 
+  
+Cairns 
+ Indicator Notion 
+ 
+Indicator Notion 
+Gross Domestic Products ($m) GDP 
+ 
+Gross Regional Products ($m) GRP 
+Registered Businesses (units) BIZ 
+ 
+Registered Businesses (units) BIZ 
+Electricity Generation Output (Gwh) ELG 
+ 
+Number of Local Jobs (jobs) JOB 
+Employed Residents (people) EMP 
+ 
+Employed Residents (people) EMP 
+Health Facilities (units) HFA 
+ 
+Urban Population (people) POP 
+Residential Dwelling Units (units) RDU 
+ 
+Value of Building Approvals ($m) BAP 
+Number of Teachers (#) TCH 
+ 
+Registered Motor Vehicles (units) RMV 
+Note: * including all educational organisations such as primary, secondary, high schools, universities, etc. 
+Descriptive characteristics of all of the selected economic indicators for Singapore and Cairns cities are 
+displayed in Table 2. Indicators with positive (negative) skewness imply that their distributions have 
+thicker and longer right (left) tails than the Gaussian distribution. Most of the indicators showed kurtosis 
+larger than 3, indicating the presence of leptokurtic distributions. Jarque-Bera statistics confirmed that 
+most of the indicators are non-Gaussian distributed. 
+Table 2: Descriptive Statistics 
+Singapore 
+ 
+GDP BIZ ELG EMP HFA RDU TCH 
+Mean 0.015 0.009 0.007 0.005 0.010 0.005 0.007 
+Median 0.013 0.011 0.007 0.005 0.011 0.004 0.007 
+Maximum 0.061 0.202 0.040 0.045 0.072 0.012 0.030 
+Minimum -0.071 -0.393 -0.029 -0.018 -0.018 -0.001 -0.021 
+Std. Dev. 0.025 0.076 0.014 0.008 0.012 0.003 0.007 
+Skewness -0.748 -1.962 0.101 1.080 1.830 0.311 -0.432 
+Kurtosis 4.027 13.562 2.896 11.996 11.725 2.416 7.036 
+Jarque-Bera 9.881*** 380.837*** 0.155 256.782*** 268.560*** 2.183 51.109*** 
+Cairns 
+ 
+GRP BIZ JOB EMP POP BAP RMV 
+Mean 0.009 0.004 0.007 0.006 0.005 0.010 0.009 
+Median 0.007 0.003 0.006 0.005 0.005 0.048 0.006 
+Maximum 0.037 0.022 0.025 0.021 0.012 0.402 0.029 
+Minimum -0.011 -0.008 -0.010 -0.010 -0.001 -0.485 -0.003 
+Std. Dev. 0.009 0.005 0.007 0.006 0.003 0.166 0.007 
+Measuring urban economic resilience of two tropical cities, using impulse response analysis             65 
+ 
+ 
+ 
+Skewness 0.587 0.743 0.284 0.076 0.222 -0.813 0.399 
+Kurtosis 3.483 5.054 3.024 3.196 1.859 5.042 2.437 
+Jarque-Bera 4.775* 19.017*** 0.955 0.183 4.434 20.162*** 2.819 
+Notes: ***, * indicate the test statistic is significant at 1% and 10%; GDP denotes Gross Domestic Products; BIZ 
+denotes the number of registered businesses; ELG denotes electricity generation output; EMP denotes the number of 
+employed residents; HFA denotes the number of health facilities; RDU denotes residential dwelling units; TCH 
+denotes the number of teachers in primary, secondary, high schools, universities, etc.; GRP denotes Gross Regional 
+Products; JOB denotes the number of local jobs; POP denotes urban population; BAP denotes the value of building 
+approvals; RMV denotes the number of registered motor vehicles. 
+ 
+5  Analysis and Findings 
+Consistent with this paper's main aim, which is to analyse and measure the urban economic resilience of 
+two selected tropical cities, the paper adopts time series analysis techniques to develop impulse response 
+functions offering a methodological advantage in interpreting results within a system approach. It is 
+imperative to evaluate the times series’ characteristics primarily. Accordingly, in this section, diagnostic 
+tests such as stationarity, causality (block exogeneity), cointegration, and stability tests are conducted to 
+avoid any model misspecification.   
+5.1 Stationarity 
+Testing for stationarity before further analysis is essential because regression of non-stationary 
+variables may instigate accumulated shocks in the system of equations, leading to permanent effects. As 
+such, all variables were tested for stationarity at level I(0) and the first difference I(1) using standard unit 
+root tests developed by Augmented Dickey and Fuller (1981), Phillips and Perron (1988) and Ng and 
+Perron (2001). The results are reported in Appendix A, showing that most of the variables in the case of 
+Singapore were stationary in both orders of integration, I(0) and I(1), while all variables in the case of 
+Cairns became stationary in the first order of integration I(1). Therefore, all variables in both cases are 
+used in their first differenced form before proceeding with subsequent analysis.     
+5.2 Cointegration Test 
+Since the endogenous variables for the cities of Singapore and Cairns, as determined in the 
+previous section, were identified to be I(1), the cointegration relationship might exist between the 
+variables. To test for the presence of such a relationship, the Johansen (1991) cointegration rank test was 
+adopted. This test estimates the maximum likelihood of the coefficient matrix of a VAR model to identify 
+the number of cointegration equations, was adopted. The test results are reported in Table 3, showing 
+three cointegration relationships among the endogenous variables in Cairns' case. At the same time, there 
+is no cointegration presence among the variables in the case of Singapore. Therefore, a VAR model and a 
+VEC model that incorporates an error correction term should be a good fit for Singapore and Cairns' data, 
+respectively.   
+ 
+ 
+66                                                                                                                   Taha Chaiechi  and Trang Nguyen 
+ 
+Table 3: Identification of Johansen Cointegrating Equations 
+ Singapore 
+ 
+Cairns  
+ Trace Statistic Max-Eigen Statistic Trace Statistic Max-Eigen Statistic 
+No. of cointegrating  0 0 3 3 
+equation(s)     
+Notes: Trace statistic and Max-eigenvalue statistic indicate the number of cointegrating equations at the 5% level of 
+significance.  
+ 
+5.3  Block Exogeneity Wald Test 
+Exogeneity is a critical issue when adopting a VAR/VEC model. It may cause the model to be too 
+restrictive, which then misleads the system variables' dynamic interactions. Thus, the Block Exogeneity 
+Wald test was conducted to examine what variables should be included or excluded in the final models. 
+As presented in Table 4, the null hypothesis of exogeneity or non-causality was rejected for the economic 
+growth indicator and some of the urbanisation indicators, indicating that these indicators are endogenous 
+and exhibit causality. Notably, in Singapore's case, the determined endogenous indicators are GDP, the 
+number of registered business, electricity generation output, and the number of teachers in all educational 
+organisations. In Cairns' case, the determined endogenous indicators are GRP, urban population, the 
+number of registered businesses, employed residents and registered motor vehicles. These variables are 
+valid to be included in a VAR/ VEC system and later will be imposed shocks for an impulse response 
+analysis.   
+Table 4: Block Exogeneity Wald Test 
+Singapore 
+  
+Cairns 
+  Indicator Notation Chi-sq (df=4) Indicator Notation Chi-sq (df=4) 
+Gross domestic products GDP 38.26** Gross regional products GRP 30.85**  
+Registered businesses BIZ 40.39** Registered businesses BIZ 28.70** 
+Electricity generation output ELG 48.65***  Number of local jobs JOB 20.07  
+Employed residents EMP 13.17  Employed residents EMP 35.70***  
+Health facilities HFA 21.02  Urban population POP 26.18*  
+Residential dwelling units RDU 18.72  Residential building approvals BAP 19.17  
+Number of teachers TCH 35.14*  Registered motor vehicles RMV 34.09***  
+Notes: ***, **, * indicate that Chi-squared statistic is significant at 1%, 5%, and 10%, respectively; df is the degree of 
+freedom. 
+ 
+5.4  Lag Length Selection 
+An optimal lag length procedure was followed to avoid over-parameterisation in the system of 
+equations and serial correlation in the residuals. Using an optimal lag length helps ensure the consistency 
+and reliability of the model estimations and the precision of impulse response analysis. All variables in 
+the system were regressed with the same lag order, which was identified by different statistical 
+information criteria such as LR (sequentially modified likelihood ratio), FPE (Final Prediction Error), 
+AIC (Akaike Information Criterion), SC (Schwarz Information Criterion), and HQ (Hannan-Quinn 
+Information Criterion). As indicated in Table 5, three reports that lag 4 were chosen by three out of five 
+criteria (LR, FPE and AIC) for both Singapore and Cairns cases. Accordingly, a VAR/VEC model with 
+Measuring urban economic resilience of two tropical cities, using impulse response analysis             67 
+ 
+ 
+ 
+lag 4 was set up for both cases.  The adoption of higher lags was not considered to avoid a further 
+reduction in the already low degrees of freedom due to the lack of sufficiently long time-series data. 
+Table 5: Lag Length Selection 
+Lag LogL LR FPE AIC SC HQ 
+Singapore 
+0 1,391.61 NA 1.41E-27 -41.96 -41.73* -41.87* 
+1 1,438.81 82.95 1.51E-27 -41.90 -40.05 -41.17 
+2 1,477.27 59.44 2.18E-27 -41.58 -38.10 -40.21 
+3 1,538.71 81.92 1.70E-27 -41.96 -36.85 -39.94 
+4 1,667.03 143.87* 2.00E-28* -44.36* -37.63 -41.70 
+5 1,712.89 41.69 3.55E-28 -44.27 -35.91 -40.97 
+Cairns 
+0 1,928.56 NA 4.95E-35 -59.13 -58.89* -59.03* 
+1 1,941.99 23.55 1.49E-34 -58.03 -56.16 -57.29 
+2 1,945.65 5.62 6.34E-34 -56.64 -53.12 -55.25 
+3 1,958.11 16.49 2.23E-33 -55.51 -50.36 -53.48 
+4 2,164.65 228.79* 2.31E-35* -60.36* -53.57 -57.68 
+5 2,178.34 12.21 1.14E-34 -59.27 -50.84 -55.95 
+Note: * indicates lag order selected by the criterion; LogL is log-likelihood; LR is sequentially modified likelihood 
+ratio test statistic (each test at 5% level); FPE is Final Prediction Error; AIC is Akaike Information Criterion; SC is 
+Schwarz Information Criterion; HQ is Hannan-Quinn Information Criterion. 
+ 
+5.5 Post-Estimation Diagnosis and Stability Condition  
+According to the block exogeneity test and cointegration rank test results, a VAR model and a 
+VEC model were established for the identified set of endogenous variables for Singapore and Cairns 
+(reported in Appendix B). To avoid model misspecification, serial correlation and heteroscedasticity tests 
+in the residuals were conducted. As reported in Table 6, the residuals serial correlation Lagrange 
+Multiplier test statistics were statistically insignificant in both cases, indicating zero autocorrelation in the 
+model residuals up to lag 15. The White Heteroscedasticity joint test results show that the two 
+models' residuals were homoscedastic and independent with the regressors. 
+ 
+Table 6: Residuals Diagnostics 
+ 
+Singapore 
+ 
+Cairns 
+ Residuals Serial Correlation Lagrange Multiplier Tests 
+ Lag Rao F-stat P-value Rao F-stat P-value 
+1 1.44  0.13  0.18  0.96  
+5 0.95  0.51  0.79  0.75  
+10 1.09  0.38  0.17  0.98  
+15 1.44  0.13  0.23  0.89  
+Residuals White Heteroscedasticity Tests (levels and squares) 
+Joint test: Chi-sq P-value Chi-sq P-value 
+ 
+316.87  0.54  722.23  0.19  
+ 
+68                                                                                                                   Taha Chaiechi  and Trang Nguyen 
+ 
+As such, the VAR and VEC models adopted for each city are a good fit for the corresponding set of 
+endogenous variables. Furthermore, the two models' stability condition is also ensured because the 
+models' AR invert roots lied within the unit circle, as depicted in Figure 2. 
+ 
+Figure 2: Stability Condition – Inverse Roots of AR Characteristic Polynomial 
+ 
+5.6  Impulse Response Analysis 
+ 
+This section investigates urban economic resilience by measuring the economic growth indicator's long 
+impulse responses to simulated external shocks imposed on urbanisation indicators. Using this method 
+comes with the added benefit of empirically investigating the absorbability and recoverability of these 
+selected cities' economic systems. The recovery speed is measured by variance decomposition 
+(demonstrated in section 5.7), which shows how much of the forecast error variance of the economic 
+growth indicator is explained by exogenous shocks to urbanisation indicators.  
+ 
+The responses of cities' economic growth indicators to orthogonal shocks in urbanisation indicators are 
+the main areas of interest in this section. Figures 3 and 4 depict urban economic growth's impulse 
+responses to Cholesky one-standard-deviation shock on urbanisation sources over 30 quarters. The 
+number of quarters before the response line crosses the zero baselines indicates the recovery speed after a 
+shock, capturing these two tropical cities' relative economic resilience to external shocks.  
+ 
+According to the response patterns in figure 3, economic growth in Singapore was immediately 
+influenced by the orthogonal shocks of one-standard-deviation change in the number of registered 
+businesses and electricity generation output. Shocks in these urbanisation indicators resulted in a 
+significant oscillation of economic growth along the baseline for a relatively long period (up to 20 
+quarters) before returning to pre-shock levels. Economic growth's response to a shock to the education 
+Measuring urban economic resilience of two tropical cities, using impulse response analysis             69 
+ 
+ 
+ 
+system indicator was more short-lived and lasted around ten quarters. The overall results indicate that 
+one-standard-deviation shock to any of these sectors would generate a long-lasting impact on the urban 
+economy of the city-state of Singapore.  
+ 
+The response of GDP to BIZ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The response of GDP to ELG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The response of GDP to TCH 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3:  Impulse Response Analysis for Orthogonal Shocks to Urbanisation Indicators to Economic Growth in 
+Singapore 
+ 
+Note: GDP denotes Gross Domestic Products; BIZ denotes the number of registered businesses; ELG denotes electricity 
+generation output; TCH denotes the number of teachers in primary, secondary, high schools, universities, etc. 
+-.0100
+-.0075
+-.0050
+-.0025
+.0000
+.0025
+.0050
+.0075
+.0100
+2 4 6 8 10 12 14 16 18 20 22 24 26 28 30
+-.020
+-.015
+-.010
+-.005
+.000
+.005
+.010
+.015
+2 4 6 8 10 12 14 16 18 20 22 24 26 28 30
+-.008
+-.004
+.000
+.004
+.008
+.012
+2 4 6 8 10 12 14 16 18 20 22 24 26 28 30
+70                                                                                                                   Taha Chaiechi  and Trang Nguyen 
+ 
+Figure 4 demonstrates the Cairns model's impulse response simulation, delineating the city’s economic 
+response to a one-standard-deviation shock to the number of employed residents, registered businesses, 
+registered motor vehicles, and urban population. Thus, unfolding the endogenous mechanism of urban 
+economic turbulence and resilience.  
+ 
+The response of GRP to EMP The response of GRP to BIZ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The response of GRP to POP 
+ 
+The response of GRP to RMV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4: Impulse Response Analysis for Orthogonal Shocks to Urbanisation Indicators to Economic Growth in 
+Cairns 
+ 
+Note: GDP denotes Gross Domestic Products; BIZ denotes the number of registered businesses; ELG denotes electricity 
+generation output; TCH denotes the number of teachers in primary, secondary, high schools, universities, etc.; GRP denotes 
+Gross Regional Products; EMP denotes the number of employed residents; RMV denotes the number of registered motor 
+vehicles, and POP denotes urban population. 
+ 
+The simulation results of the urbanisation changes in Cairns economic resilience indicate that the city 
+economy would be susceptible to unpredicted shock from employment, number of registered businesses, 
+number of registered motor vehicles and the city’s population. However, the economic instability caused 
+by urbanisation shocks seems to be shorter-lived in Cairns than in Singapore as the impacts tend to 
+weaken and dissipate after 12-14 quarters in the Cairns to 20 quarters in Singapore economy. The finding 
+implies that the Cairns economy is more resilient to shocks arisen from urbanisation than Singapore 
+economy. The result of Singapore’s impulse response analysis is not surprising; there have been recent 
+reports explaining while Singapore’s economy is in good shape, it may not progressing quickly enough to 
+allow economic growth to adjust to domestic and external shocks swiftly (Bhaskaran,2018). Some of the 
+-.0020
+-.0015
+-.0010
+-.0005
+.0000
+.0005
+.0010
+.0015
+.0020
+2 4 6 8 10 12 14 16 18 20 22 24 26 28 30
+-.003
+-.002
+-.001
+.000
+.001
+.002
+.003
+.004
+2 4 6 8 10 12 14 16 18 20 22 24 26 28 30
+-.003
+-.002
+-.001
+.000
+.001
+.002
+.003
+2 4 6 8 10 12 14 16 18 20 22 24 26 28 30
+-.0012
+-.0008
+-.0004
+.0000
+.0004
+.0008
+.0012
+2 4 6 8 10 12 14 16 18 20 22 24 26 28 30
+Measuring urban economic resilience of two tropical cities, using impulse response analysis             71 
+ 
+ 
+ 
+challenges that may be slowing down Singapore’s economy include ageing demographics, housing 
+affordability, re-structuring the education sector for better relevance
+3
+. From the data point of view, as 
+observed in Table 2, Singapore's GDP exhibits a significantly higher standard deviation (0.025) than that 
+of Cairns' GRP (0.009), indicating Singapore's GDP is much more volatile compared to Cairns' GRP. 
+Thus, when facing an external shock, Singapore's economy tends to be more volatile than the Cairns 
+economy.  
+5.7 Variance decomposition 
+ 
+We use Cholesky variance decomposition, proposed by Sims (1980), as an identification scheme that 
+creates a recursive contemporaneous ordering amongst the variables, meaning that variables do not 
+depend contemporaneously on the variables that are ordered after. The idea is to measure the recovery or 
+adjustment speed (as an essential aspect of resilience) amongst urbanisation indicators after “orthogonal” 
+uncorrelated shocks. Drawing on our time series data, we utilised Sim’s Cholesky decomposition 
+technique to measure our model variables' compositional speed adjustments in response to simulated 
+shocks. Results are shown in table 7 and 8. The table columns give the forecast variance percentage due 
+to orthogonal shocks, decomposing the total variance of those time series indicators into the percentages 
+attributable to each shock. Each row adds up to 100. 
+Results of variance decomposition of urbanisation indicators in Singapore is reported in Table 7. The 
+results provide information about the relative importance of urbanisation indicators affecting urban 
+economic growth. Findings indicate that compositional adjustment in economic growth indicator has been 
+partial and limited, becoming stronger only when there is a shock to electricity generation output (ELG). 
+In particular, the results reveal that only after five periods, the fluctuation in ELG itself explained 72.76% 
+of its total variance, whereas the GDP accounted for 18.58%. This indicates that in our Singapore model, 
+the energy sector and economic growth are strongly interconnected, and external shocks in energy 
+production will influence the stability of the city's economic growth. 
+Table 7: Variance Decomposition of Urbanisation Indicators- Singapore 
+ Variance Decomposition of BIZ Variance Decomposition of ELG Variance Decomposition of TCH  
+Period GDP BIZ ELG TCH GDP BIZ ELG TCH GDP BIZ ELG TCH  
+1 2.10 97.90 - - 7.15 0.31 92.54 - 0.97 2.73 0.55 95.75  
+2 4.74 91.83 1.64 1.79 11.09 1.31 87.57 0.03 4.91 5.08 2.24 87.77  
+3 4.95 86.75 6.25 2.04 17.33 5.27 75.56 1.84 5.06 5.78 2.80 86.36  
+4 4.99 86.09 6.67 2.25 17.43 6.43 74.25 1.89 5.11 6.15 3.37 85.37  
+5 5.50 82.51 6.73 5.27 18.58 6.25 72.76 2.40 5.03 4.39 2.65 87.93  
+6 5.28 78.34 10.84 5.55 17.53 6.45 72.29 3.73 8.62 4.30 4.02 83.06  
+7 6.98 76.68 10.95 5.39 17.51 6.56 72.13 3.80 8.81 4.31 4.06 82.83  
+8 6.80 74.48 13.47 5.25 17.01 6.97 72.04 3.97 8.60 4.48 6.01 80.92  
+9 7.48 72.50 14.45 5.57 16.75 7.39 71.59 4.27 7.70 4.26 7.00 81.04  
+10 7.52 72.34 14.43 5.71 16.67 7.35 71.00 4.98 7.76 4.18 8.36 79.70  
+Note: Cholesky Ordering: GDP BIZ ELG TCH; GDP denotes Gross Domestic Products; BIZ denotes the number of registered 
+businesses; ELG denotes electricity generation output; TCH denotes the number of teachers in primary, secondary, high schools, 
+universities, etc. 
+                                                          
+3
+ https://thediplomat.com/2020/01/what-are-singapores-domestic-priorities-for-2020/ 
+ 
+72                                                                                                                   Taha Chaiechi  and Trang Nguyen 
+ 
+Table 8 reports the result of the variance decomposition of urbanisation indicators in Cairns. We find 
+economic dynamism components, with sizeable adjustments in gross regional products (GRP) following 
+external shocks to the number of employed residents (EMP) and the number of registered businesses 
+(BIZ). Results of Table 8 reveal that only after five periods, the fluctuation in EMP itself explained only 
+55.49% of its total variance, whereas the GRP and urban population (POP) accounted for 15.87% and 
+25.09%, respectively. Similarly, BIZ's fluctuation explained only 39.14% of its total variance, whereas 
+the GRP accounted for 48.62%.  
+Table 8: Variance Decomposition of Urbanisation Indicators- Cairns 
+Variance Decomposition of EMP: 
+  
+ Variance Decomposition of BIZ: 
+ 
+ Period GRP EMP BIZ RMV POP GRP EMP BIZ RMV POP 
+1 17.70 82.30 - - - 33.82 4.83 61.35 - - 
+2 17.02 82.32 0.46 0.20 0.00 32.67 5.81 61.34 0.17 0.01 
+3 17.32 81.73 0.52 0.43 0.00 33.29 5.74 60.41 0.53 0.03 
+4 18.12 80.62 0.53 0.73 0.01 34.67 5.61 58.77 0.92 0.04 
+5 15.87 55.49 3.05 0.50 25.09 48.62 8.10 39.14 0.91 3.22 
+6 16.14 54.99 3.30 0.92 24.65 48.87 8.02 38.05 1.92 3.15 
+7 15.87 54.05 3.31 0.93 25.84 48.82 7.97 37.77 2.09 3.35 
+8 15.54 52.81 3.34 0.92 27.39 48.87 7.88 37.32 2.18 3.74 
+9 14.77 52.92 4.98 1.13 26.19 47.08 11.59 30.15 1.91 9.27 
+10 14.38 51.13 5.31 1.24 27.94 46.72 11.45 29.80 2.39 9.65 
+Variance Decomposition of RMV: 
+  
+ Variance Decomposition of POP: 
+ 
+ Period GRP EMP BIZ RMV POP GRP EMP BIZ RMV POP 
+1 0.54 24.62 14.31 60.53 - 4.86 0.21 0.42 45.42 49.08 
+2 0.53 25.03 14.16 60.05 0.23 4.83 0.32 0.76 45.34 48.75 
+3 0.59 25.06 14.00 59.75 0.59 5.61 0.54 0.72 43.50 49.63 
+4 0.95 24.77 13.79 59.19 1.29 6.50 0.61 0.67 41.33 50.90 
+5 1.61 22.25 25.93 39.64 10.58 16.89 3.50 6.01 31.16 42.43 
+6 2.09 21.82 25.44 39.61 11.04 17.07 3.30 5.79 29.65 44.20 
+7 2.20 21.81 25.30 39.26 11.43 18.12 3.30 5.70 29.75 43.13 
+8 2.49 21.71 25.15 38.89 11.76 20.02 3.26 5.56 29.61 41.55 
+9 6.87 20.29 27.12 35.30 10.42 18.77 3.65 7.29 26.75 43.56 
+10 6.96 20.18 27.10 34.79 10.98 20.27 3.82 7.35 26.80 41.76 
+Note: Cholesky Ordering: GRP EMP BIZ RMV POP; GRP denotes Gross Regional Products; EMP denotes the number of 
+employed residents; BIZ denotes the number of registered businesses; RMV denotes the number of registered motor 
+vehicles, and POP denotes urban population. 
+ 
+This result confirms that both residents' employment and the number of registered urban businesses 
+contribute the most to the Cairns’ economic growth variance despite their relatively small size in the 
+overall Cairns portfolio. 
+While impulse response analysis traces the effects of urbanisation indicators shocks on our selected cities' 
+economic growth within a VAR system, variance decomposition analysis helped separate urbanisation 
+indicators' variation into the component shocks to the VAR model. Impulse response analysis indicated 
+that simulated shocks resulted in a significant oscillation of economic growth with a long-lasting impact 
+Measuring urban economic resilience of two tropical cities, using impulse response analysis             73 
+ 
+ 
+ 
+on Singapore's urban economy.  However, the economic instability caused by simulated shocks is 
+predicted to be shorter-lived in Cairns, implying that Cairns’ economy is more resilient to external shocks 
+arisen from urbanisation than Singapore’s economy. The variance decomposition results reveal further 
+details about the relative importance of these simulated shocks in affecting sources of urban economic 
+growth of our cities. The share of forecast-error variance attributable to urbanisation indicators in 
+Singapore amounts to 7%-17% up to 10 years compared to their own innovation (71%-79%).  The 
+compositional adjustment in cairns’ data indicates a shock to one urbanisation indicator records an 
+increasing impact on other urbanisation indicators, ranging between 9%-40% ahead of their own 
+innovation (29%-82%). The results indicate that while variance decomposition evolves over time, 
+urbanisation indicators in Cairns are stronger in explaining other variables' variability over time than 
+Singapore.   
+ 
+6  Conclusion  
+While cities are the nation's economic powerhouses, they are subjected continuously to frequent 
+unforeseen large-scale external shocks, including natural, financial, and public health disasters. These 
+disasters swiftly agitate economic activity levels, potentially leading to social and economic instabilities. 
+The detrimental effects of such disasters are far from being local as urban economies are intricately 
+interconnected, spreading the shocks quickly across regions and countries. Respectively, this outlook sets 
+out the importance of building and quantifying economic resilience.  
+Even though there have been limited advances in understanding economic resilience, the way resilience is 
+measured remains in its infancy phase. More importantly, the concept of urban economic resilience is 
+rarely discussed, and the concept is hardly quantified in the exiting literature. Accordingly, this paper's 
+main point of departure is to offer methodology and techniques for measuring urban economic resilience 
+that moves beyond decontextualised and limited research around the concept of urban economic 
+resilience. While the existing literature suggests that strong relationships amongst any systems’ elements 
+improve resilience, this paper provides a novel approach in measuring urban economic resilience by 
+determining contemporaneous feedback effects, absorbability, and recoverability of urban systems against 
+external shocks (i.e. impulse response analysis). Moreover, the paper provides the added benefit of 
+empirically capturing dynamic interaction amongst the urban economic model variables by indicating the 
+amount of information each variable contributes to the other variables within the system (i.e. variance 
+decomposition analysis). 
+Subsequently, this paper posits that urban economic growth determinants remain sensitive to 
+changes/shocks to sources of urbanisation sources. The paper further postulates that urban economic 
+resilience must be established at different levels to absorb these shocks and recover from detrimental 
+effects relatively quickly. So from a novel perspective, this paper measures recoverability and speed of 
+adjustment (as central aspects of resilience), using two tropical cities of Singapore and Cairns as case 
+studies.  
+By relying on times series quarterly data and utilising advanced econometrics techniques including 
+impulse-response analysis and decomposition techniques, this paper identified not only how external 
+shocks to sources of urbanisation affected the economic resilience of two selected cities, but also, and 
+perhaps more crucially, how much of the forecast error variance of urban economic growth rate is 
+explained by exogenous shocks to urbanisation variables. This paper's findings suggest a metropolitan 
+74                                                                                                                   Taha Chaiechi  and Trang Nguyen 
+ 
+disadvantage concerning urban economic resilience predominantly from shocks on sources of 
+urbanisation. Nonetheless, the results call for further analysis to explore how these cities counterbalance 
+urbanisation's adverse effects. Furthermore, this study faced a number of limitations. Firstly, there was a 
+limitation at the regional and urban level with available data. Secondly, this study did not consider spatial 
+urban economic inequality as different urban areas may deal with external shocks differently across urban 
+spaces. Given the outlook for the future of swiftly expanding tropical cities, it is imperative to ask what 
+would be the other source of urban economic resilience in the future.  
+Finally, evidence-based policy-making (as opposed to ideology-based policy-making) is becoming more 
+widely recognised and appreciated by governments worldwide. The need for systems to be informed by 
+evidence at each stage of policy development is also becoming more acknowledged at government levels. 
+Accordingly, the knowledge and evidence-based information provided in this paper should assist policy-
+makers, city governments, and planners in designing a responsive and effective urban economy by truly 
+understanding channels through which the sources of resilience are affected.  Furthermore, this paper's 
+results around shock absorbability and recoverability of urban economies should provide policy-makers 
+with opportunities to make city economies more resilient, particularly when dealing with complex 
+problems such as natural disasters and public health emergencies.  
+  
+References   
+ 
+Alonso, W. (1964). Location and land use. Toward a general theory of land rent. Location and land use. 
+Toward a general theory of land rent.Harvard Univesity Press. 
+Angel, S., & Blei, A. M. (2016). The productivity of American cities: How densification, relocation, and 
+greater mobility sustain the productive advantage of larger US metropolitan labor markets. Cities, 
+51, 36-51. 
+Audretsch, D., Feldman, M.P., (2004). Knowledge spillovers and the geography of innovation. Chapter 
+61 in Handbook of Regional and Urban Economics, 2004, vol. 4, pp 2713-2739. Elsevier 
+Audretsch, D., Heger, D., Veith, T., (2015). Infrastructure and entrepreneurship. Small Business 
+Economics, 2015, vol. 44, issue 2, 219-230 
+Bairoch, P. 1988. Cities and Economic Development. Chicago: University of Chicago Press.  
+Bakhtiari, S. Productivity, outsourcing and exit: the case of Australian manufacturing. Small Bus Econ 
+44, 425–447 (2015). https://doi.org/10.1007/s11187-014-9604-2 
+Bhaskaran, M. (2018). Getting Singapore In Shape: Economic Challenges And How To Meet Them. The 
+Lowy Institute. URL: https://www.lowyinstitute.org/publications/getting-singapore-shape-
+economic-challenges-and-how-meet-them-0 
+Berkes, F., Colding, J., Folke, C. (2003). Navigating Social-Ecological Systems: Building Resilience for 
+Complexity and Change. Cambridge University Press. 
+Cabell, J. F., Oelofse, M. (2012). An Indicator Framework for Assessing Agroecosystem Resilience. 
+Ecology and Society 17 (1). 
+Cadena, A., Dobbs, R., & Remes, J. (2012). The Growing Economic Power of Cities. Journal of 
+International Affairs, 65 (2) 1-XV 
+Capello, R., Caragliu, A., & Fratesi, U. (2015). Spatial heterogeneity in the costs of the economic crisis in 
+Europe: Are cities sources of regional resilience? Journal of Economic Geography, 15(5), 951–972.  
+https://doi:10.1093/jeg/lbu053 
+Castells, M. (1977) The urban question. A Marxist approach. Translated from French by A. Sheridan. 
+Edward Arnold, London. 
+Measuring urban economic resilience of two tropical cities, using impulse response analysis             75 
+ 
+ 
+ 
+Chaiechi, T. (2020a). Sustainable Tropical Cities: A Scoping Review of Multidisciplinary Methods for 
+Urban Planning. eTropic: Electronic Journal of Studies in the Tropics, 19(2), 25-51.  
+https://doi.org/10.25120/etropic.19.2.2020.3743 
+Chaiechi, T., Wong, C., & Tavares, S. (2020b). Urban Design and Economic Growth: An Analytical Tale 
+of Two Tropical Cities. eTropic: Electronic Journal of Studies in the Tropics, 19(2), 172–200.  
+https://doi.org/10.25120/etropic.19.2.2020.3741 
+D’ Costa, S., Overman, H. G., 2014. The urban wage growth premium: Sorting or learning? Regional 
+Science and Urban Economics 48, 168–179 
+Deng, X. , Huang, J. , Rozelle, S. , and Uchida, E. (2010). Economic growth and the expansion of urban 
+land in China. Urban Studies, 47(4), 813–843. 
+Dickey, D., & Fuller, W. (1981). Likelihood ratio statistics for autoregressive time series with a unit root. 
+Econometrica: Journal of the Econometric Society, 49(4), 1057-1072.  
+Dijkstra, L., Garcilazo, E., & McCann, P. (2015). The effects of the global financial crisis on European 
+regions and cities. Journal of Economic Geography, 15, 935–949. doi:10.1093/jeg/lbv032 
+Fischer, J., Lindenmayer, D. B., Manning, A. D. (2006). Biodiversity, ecosystem function, and resilience: 
+ten guiding principles for commodity production landscapes. Frontiers in Ecology and the 
+Environment 4 (2), 80–86. 
+Floyd, C. F., & Allen, M. T. (2002). Real estate principles. Dearborn Real Estate. 
+Gale H, Lohmar B, Tuan F (2005) China’s new farm subsidies. Social Science Electronic Publishing (4). 
+Washington, D.C., SDA-ERS WRS-05-01 
+Harding, S., Bird, G., Losos, E., Aderolili, R., & Hotez, P. (2016). International Day of the Tropics: 
+Towards a better global future. eTropic: electronic journal of studies in the tropics 15 (2), 5-­12. 
+https://doi.org/10.25120/etropic.15.2.2016.353  
+Harris, C. D., & Ullman, E. L. (1945). The nature of cities. The Annals of the American Academy of 
+Political and Social Science, 242(1), 7-17. 
+Hoffmann, E. M., Konerding, V., Nautiyal, S., & Buerkert, A. (2019). Is the push-pull paradigm useful to 
+explain rural-urban migration? A case study in Uttarakhand, India. PloS one, 14(4), e0214511. 
+https://doi.org/10.1371/journal.pone.0214511 
+Holling, C.S. (1973). Excerpt from “Resilience and stability of ecological systems.” Annual Review of 
+Ecology and Systematics 4:1– 23. The Future of Nature: Documents of Global Change, edited by 
+Libby Robin et al., Yale University Press, 2013. 
+Holling, C. S. (1996). Engineering resilience versus ecological resilience. In: Schulze, P.(Ed.), 
+Engineering Within Ecological Constraints. National Academies Press, pp. 31–44. 
+Jiang, L. , Deng, X. , and Seto, K. C. (2012). Multi-level modelling of urban expansion and cultivated 
+land conversion for urban hotspot counties in China. Landscape and Urban Planning, 108(2–4), 
+131–139. 
+Johansen, S. (1991). Estimation and hypothesis testing of cointegration vectors in Gaussian vector 
+autoregressive models. Econometrica: Journal of the Econometric Society, 59(6), 1551-1580.  
+Kim, C., Choi, C., (2019). Towards Sustainable Urban Spatial Structure: Does Decentralization Reduce 
+Commuting Times? Sustainability 2019, 11(4), 1012. https://doi.org/10.3390/su11041012 
+Ng, S., & Perron, P. (2001). Lag length selection and the construction of unit root tests with good size and 
+power. Econometrica, 69(6), 1519-1554.  
+Mileti, DS, (1999). Disasters by Design: A Reassessment of Natural Hazards in the United States. Joseph 
+Henry Press. Washington DC Natural Hazards Research and Applications Information  
+Phillips, P. C., & Perron, P. (1988). Testing for a unit root in time series regression. Biometrika, 75(2), 
+335-346.  
+Rodríguez-Pose, A. (2018). The revenge of the places that don’t matter (and what to do about it). 
+Cambridge Journal of Regions, Economy and Society, 11(1), 189–209. 
+https://doi:10.1093/cjres/rsx024 
+Rose, A. (2004), "Defining and measuring economic resilience to disasters", Disaster Prevention and 
+Management, 13(4), pp. 307-314. https://doi.org/10.1108/09653560410556528 
+76                                                                                                                   Taha Chaiechi  and Trang Nguyen 
+ 
+Sanderson, T., Reeson, A., & Mason, C. (2017). There’s a huge disparity in skilled jobs in our cities and 
+regions – and it is growing. The ABC News Online. Last viewed January 2021, 
+https://www.abc.net.au/news/2017-12-13/australias-growing-skills-gap-cities-vs-regions-the-
+conversation/9254740 
+Sennett, R. (2002). Cosmopolitanism and the social experience of cities. In S. Vertovec and R. Cohen 
+(eds.), Conceiving cosmopolitanism: theory, context, and practice, OUP, Oxford. 
+Sims, C.A., (1980). Macroeconomics and Reality. Econometrica, 48, pp. 1-48 
+State of the Tropics (2014). State of the Tropics Report. James Cook University. 
+http://stateofthetropics.org/the-­report  
+United Nations (2005). Hyogo Framework for Action 2005-2015: Building the Resilience of Nations and 
+Communities to Disasters. World Conference on Disaster Reduction. 18-22 January 2005, Kobe, 
+Hyogo, Japan 
+United Nations Secretary-General's High-level Panel on Global Sustainability (2012). Resilient People, 
+Resilient Planet: A future worth choosing. New York: United Nations. 
+United Nations (2018a). Department of Economic and Social Affairs, Population Division Revision of 
+world urbanisation prospects 2018. https://population.un.org/wup/ 
+United Nations (2018b). World Urbanization Prospects: The 2018 Revision. 
+https://population.un.org/wup/Publications/Files/WUP2018-­KeyFacts.pdf 
+White M.P., Grellier, J., Wheeler, B.W., Hartig, T., Warber, A.L., (2019). Spending at least 120 minutes a 
+week in nature is associated with good health and well-being. Scientific Reports 9(1):7730. 
+White, G.F. and Haas, J.E. (1975). Assessment of Research on Natural Hazards. The Massachusetts 
+Institute of Technology Press. Cambridge, Massachusetts. 
+ 
+ 
+Measuring urban economic resilience of two tropical cities, using impulse response analysis             77 
+ 
+ 
+ 
+Appendix A: Unit Root Tests 
+Singapore GDP BIZ ELG EMP HFA RDU TCH GDP BIZ ELG EMP HFA RDU TCH 
+ 
+Level 0 [I(0)] Level 1 [I(1)] 
+ADF 
+              C -7.00*** -8.93*** -8.71*** -4.03*** -2.24 -1.29 -3.70*** -8.12*** -7.66*** -7.28*** -8.55*** -8.18*** -5.60*** -7.32*** 
+C&T -6.95*** -7.83*** -8.76*** -4.26*** -2.22 -2.41 -3.67** -8.16*** -7.60*** -7.22*** -8.49*** -8.12*** -5.56*** -3.81** 
+PP 
+              C -6.95*** -13.74*** -8.92*** -5.61*** -4.20*** -2.04 -5.44*** -26.65*** -37.84*** -35.03*** -12.04*** -12.32*** -181.66*** -11.29*** 
+C&T -6.88*** -19.96*** -9.29*** -5.58*** -4.18*** -3.03 -5.44*** -30.44*** -37.89*** -34.81*** -11.80*** -12.21*** -83.43*** -11.22*** 
+NP - C 
+                 𝑀𝑍𝑎
+𝑑 -12.39** -69.82*** -32.63*** -22.88*** -8.61** -3.56 -10.62** -61.02*** -30.45*** -59.04*** -22.43*** -18.79*** -34.04*** -28.63*** 
+   𝑀𝑍𝑡
+𝑑 -2.47** -5.91*** -4.03*** -3.37*** -2.03** -1.33 -2.28** -5.52*** -3.90*** -5.43*** -3.35*** -3.06*** -4.13*** -3.78*** 
+   𝑀𝑆𝐵𝑑 0.20** 0.08*** 0.12*** 0.15*** 0.24** 0.37 0.21** 0.09*** 0.13*** 0.09*** 0.15*** 0.16*** 0.12*** 0.13*** 
+   𝑀𝑃𝑇
+𝑑 2.04** 0.36*** 0.79*** 1.10*** 3.03** 6.88 2.39** 0.40*** 0.80*** 0.42*** 1.10*** 1.31*** 0.72*** 0.87*** 
+NP - C&T 
+                 𝑀𝑍𝑎
+𝑑 -20.82** -71.37*** -34.99*** -30.14*** -8.82 -4.94 -28.01*** -6,835.17*** -512.10*** -70.27*** -24.03*** -18.84** -35.09*** -30.93*** 
+   𝑀𝑍𝑡
+𝑑 -3.21** -5.97*** -4.18*** -3.88*** -2.08 -1.56 -3.71*** -58.46*** -16.00*** -5.92*** -3.47*** -3.07** -4.18*** -3.93*** 
+   𝑀𝑆𝐵𝑑 0.15** 0.08*** 0.12*** 0.13*** 0.24 0.32 0.13*** 0.01*** 0.03*** 0.08*** 0.14*** 0.16** 0.12*** 0.13*** 
+   𝑀𝑃𝑇
+𝑑 4.46** 1.28*** 2.60*** 3.05*** 10.40 18.38 3.44*** 0.01*** 0.18*** 1.32*** 3.79*** 4.84** 2.62*** 2.95*** 
+Cairns GRP BIZ JOB EMP POP BAP RMV GRP BIZ JOB EMP POP BAP RMV 
+ 
+Level 0 [I(0)] Level 1 [I(1)] 
+ADF 
+              C -1.54 -1.63 -1.09 -1.48 -1.06 -1.47 -0.87 -5.15*** -5.16*** -5.48*** -6.19*** -4.46*** -4.87*** -4.11*** 
+C&T -1.70 -0.75 -0.64 -1.11 -3.23* -1.81 -2.28 -5.12*** -5.37*** -5.63*** -6.27*** -4.63*** -4.91*** -4.07** 
+PP 
+              C -2.14 -3.25** -2.18 -2.87* -1.63 -4.15*** -1.97 -10.35*** -10.91*** -10.61*** -10.70*** -9.75*** -10.66*** -10.90*** 
+C&T -2.43 -3.81** -1.96 -2.74 -3.20* -4.31*** -4.05** -10.28*** -10.89*** -10.71*** -10.74*** -10.00*** -10.62*** -10.82*** 
+NP - C 
+                 𝑀𝑍𝑎
+𝑑 -8.37** -1.23 -4.69 -4.63 -2.03 -2.76 -0.37 -32.55*** -31.28*** -32.21*** -31.49*** -34.35*** -50.06*** -31.41*** 
+   𝑀𝑍𝑡
+𝑑 -2.04** -0.78 -1.30 -1.41 -1.00 -0.70 -0.18 -4.03*** -3.95*** -4.00*** -3.96*** -4.14*** -4.97*** -3.96*** 
+   𝑀𝑆𝐵𝑑 0.24** 0.64 0.28 0.31 0.49 0.25 0.49 0.12*** 0.13*** 0.12*** 0.13*** 0.12*** 0.10*** 0.13*** 
+   𝑀𝑃𝑇
+𝑑 2.93** 19.87 5.69 5.52 11.97 7.60 17.24 0.75*** 0.79*** 0.79*** 0.81*** 0.73*** 0.56*** 0.78*** 
+NP - C&T 
+                 𝑀𝑍𝑎
+𝑑 -10.64 -2.71 -5.10 -6.39 -4.05 -6.07 -18.80 -32.46*** -31.14*** -31.90*** -31.67*** -35.32*** -51.63*** -31.41*** 
+   𝑀𝑍𝑡
+𝑑 -2.28 -0.93 -1.32 -1.55 -1.39 -1.51 -3.06 -4.03*** -3.94*** -3.99*** -3.98*** -4.20*** -5.06*** -3.96*** 
+   𝑀𝑆𝐵𝑑 0.21 0.34 0.26 0.24 0.34 0.25 0.16 0.12*** 0.13*** 0.13*** 0.13*** 0.12*** 0.10*** 0.13*** 
+   𝑀𝑃𝑇
+𝑑 8.70 26.69 16.72 14.27 22.14 14.84 4.86 2.81*** 2.93*** 2.86*** 2.88*** 2.58*** 1.87*** 2.90*** 
+Notes: ***, **, * indicate the test statistic is significant at 1%, 5% and 10%; GDP denotes Gross Domestic Products; BIZ denotes the number of registered businesses; ELG denotes electricity generation output; EMP denotes the number of 
+employed residents; HFA denotes the number of health facilities; RDU denotes residential dwelling units; TCH denotes the number of teachers in primary, secondary, high schools, universities, etc.; GRP denotes Gross Regional Products; 
+JOB denotes the number of local jobs; POP denotes urban population; BAP denotes the value of building approvals; RMV denotes the number of registered motor vehicles. 
+78                                                                                                                   Taha Chaiechi  and Trang Nguyen 
+ 
+Appendix B:  
+ 
+VAR Estimation Result – Singapore 
+ 
+DGDP DBIZ DELG DTCH 
+DGDP(-1) -0.53*** -0.56* 0.34*** -0.04* 
+DGDP(-2) -0.50*** -0.55 0.31*** -0.02 
+DGDP(-3) -0.20 -0.16 0.20** -0.05 
+DGDP(-4) 0.23* -0.14 0.17** -0.09*** 
+DBIZ(-1) 0.00 -1.03*** 0.02 -0.01 
+DBIZ(-2) -0.03 -1.05*** -0.03 -0.02** 
+DBIZ(-3) -0.01 -0.80*** -0.01 -0.02** 
+DBIZ(-4) -0.03 -0.36*** -0.04** 0.00 
+DELG(-1) 0.53*** 1.19** -0.90*** -0.06* 
+DELG(-2) -0.11 0.81 -1.05*** 0.00 
+DELG(-3) 0.26 0.60 -0.49*** 0.02 
+DELG(-4) -0.37* -1.02* -0.53*** 0.01 
+DTCH(-1) 0.56* 2.86** -0.06 -0.19** 
+DTCH(-2) -0.03 2.57** 0.21 0.08 
+DTCH(-3) 0.46 2.62** 0.38* 0.05 
+DTCH(-4) 0.15 -1.54 0.53** -0.62*** 
+R-squared 0.78 0.89 0.87 0.87 
+Adj. R-squared 0.70 0.79 0.78 0.77 
+F-statistic 4.68 7.43 7.00 6.86 
+Log likelihood 165.89 86.70 202.98 264.88 
+Akaike AIC -4.47 -2.11 -5.58 -7.43 
+Schwarz SC -3.95 -1.58 -5.06 -6.90 
+Notes: ***, **, * indicate the test statistic is significant at 1%, 5% and 10%; GDP denotes Gross Domestic Products; BIZ 
+denotes the number of registered businesses; ELG denotes electricity generation output; TCH denotes the number of teachers 
+in primary, secondary, high schools, universities, etc. 
+ 
+VECM Estimation Result – Cairns 
+Cointegrating Eq:  CointEq1 CointEq2 CointEq3 
+  DGRPSA(-1) 1 0 0 
+  DEMPSA(-1) 0 1 0 
+  DRBIZSA(-1) 0 0 1 
+  DRMVSA(-1) -0.61* 1.09*** 0.06   
+DPOPSA(-1) -2.67*** -1.87** -0.17   
+C 0.00 0.00 0.00 
+  Error Correction: D(DGRP) D(DEMP) D(DRBIZ) D(DRMV) D(DPOP) 
+CointEq1 -0.76*** -0.49** -0.06 0.74*** 0.18*** 
+CointEq2 -0.35 -1.11*** -0.15 -0.54** 0.07 
+CointEq3 0.16 0.82* -1.48*** -0.92** -0.19 
+D(DGRP(-1)) -0.19 0.48* 0.09 -0.76*** -0.18** 
+D(DGRP(-2)) 0.18 0.55* 0.18 -0.78*** -0.19* 
+D(DGRP(-3)) 0.65* 0.67* 0.30 -0.76*** -0.20** 
+D(DGRP(-4)) -0.26 -0.09 -0.13 -0.12 0.01 
+D(DEMP(-1)) 0.30 -0.03 0.23 0.54** -0.08 
+D(DEMP(-2)) 0.10 -0.05 0.21 0.58** -0.04 
+Measuring urban economic resilience of two tropical cities, using impulse response analysis             79 
+ 
+ 
+ 
+D(DEMP(-3)) -0.16 -0.06 0.17 0.63*** 0.01 
+D(DEMP(-4)) 0.17 0.05 0.08 0.08 -0.02 
+D(DRBIZ(-1)) -0.25 -0.66* 0.32 0.94*** 0.17 
+D(DRBIZ(-2)) -0.48 -0.69* 0.27 0.95*** 0.18* 
+D(DRBIZ(-3)) -0.75* -0.78** 0.23 0.94*** 0.21** 
+D(DRBIZ(-4)) 0.19 -0.01 0.19 0.12 0.00 
+D(DRMV(-1)) -0.04 0.78** 0.18 -0.15 0.02 
+D(DRMV(-2)) 0.23 0.83** 0.22 -0.20 -0.04 
+D(DRMV(-3)) 0.57 0.94** 0.29 -0.21 -0.10 
+D(DRMV(-4)) -0.20 -0.01 -0.09 0.01 0.05 
+D(DPOP(-1)) -2.74** -3.21*** -0.72 1.01* -0.41* 
+D(DPOP(-2)) -2.82** -3.17*** -0.67 1.29* -0.12 
+D(DPOP(-3)) -2.99** -3.20*** -0.60 1.63** 0.22 
+D(DPOP(-4)) 0.13 -0.12 0.24 0.00 -0.19 
+C 0.00 0.00 0.00 0.00 0.00 
+R-squared 0.78 0.84 0.86 0.84 0.74 
+Adj. R-squared 0.70 0.74 0.78 0.76 0.69 
+F-statistic 6.30 9.07 10.71 9.66 5.19 
+Log likelihood 273.82 291.06 307.74 302.97 366.55 
+Akaike AIC -7.69 -8.22 -8.73 -8.58 -10.54 
+Schwarz SC -6.88 -7.41 -7.93 -7.78 -9.74 
+Notes: ***, **, * indicate the test statistic is significant at 1%, 5% and 10%; GRP denotes Gross Regional Products; RBIZ 
+denotes the number of registered businesses; EMP denotes the number of employed residents; POP denotes urban 
+population; RMV denotes the number of registered motor vehicles. 

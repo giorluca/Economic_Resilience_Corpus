@@ -1,0 +1,1136 @@
+Socio-Economic Practices of Resilience in Ireland
+
+N
+o
+ 
+8
+1
+ 
+–
+ 
+A
+u
+g
+u
+s
+t
+ 
+2
+0
+1
+6
+ 
+ 
+Socio-Economic Practices of 
+Resilience in Ireland  
+ 
+ 
+ Jennifer Dagg and Jane Gray 
+ 
+ 
+ 
+ 
+ 
+ 
+N
+I
+R
+S
+A
+ 
+W
+o
+r
+k
+i
+n
+g
+ 
+P
+a
+p
+e
+r
+ 
+S
+e
+r
+i
+e
+s
+ 
+ 
+Iontas Building, Maynooth  University,  
+Maynooth, Co Kildare, Ireland. 
+Áras Iontas, Ollscoil na hÉireann, Má Nuad,  
+Má Nuad, Co Chill Dara, Éire.  
+Tel: + 353 (0) 1 7083350 Fax: + 353 (0) 1 7086456 
+Email: nirsa@nuim.ie  
+Web: http://www.maynoothuniversity.ie/nirsa  
+ 
+ 
+    
+ 
+Abstract 
+This working paper is a qualitative analysis of socio-economic practices of resilience 
+in Irish households.  It was produced as the Irish national report for Work Package 4 
+(D4.19) within the FP7 Project, ‘RESCuE: Patterns of resilience during socio-
+economic crisis among households in Europe.’  The paper includes an overview of the 
+socio-economic characteristics of participating households in Ireland.  It discusses the 
+narratives of hardship provided by Irish participants and considers the varying 
+practices adopted within households to cope with hardship.  It concludes with an 
+analysis of the degrees of hardship and forms of resilience experienced and displayed 
+across different household types, and discusses some of the limitations of the concept 
+of resilience. 
+ 
+ 
+ 
+ 
+ 
+Recommended citation: Dagg, J. and Gray, J. (2016) Socio-economic practices of 
+resilience in Ireland. NIRSA Working Paper No. 81 (NIRSA, Maynooth, Ireland).  
+Available at: https://www.maynoothuniversity.ie/social-sciences-institute/working-
+papers 
+ 
+ 
+ 
+ 
+ 
+ 
+This project has received funding from the European Union's Seventh Framework 
+Programme for research, technological development and demonstration under grant 
+agreement number 613245. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+Contents 
+ 
+Introduction ............................................................................................................................................... 5 
+2. Country specific literature review on socio-economic practices of coping with hardship or 
+resilience .................................................................................................................................................... 6 
+3. Socio-economic characteristics of HH participants ............................................................................... 8 
+4. Narratives and dynamics of hardship .................................................................................................... 14 
+Narratives of hardship: How households explain hardship ................................................................... 14 
+Narratives of hardship affecting the whole household ...................................................................... 14 
+Needs that affected children: ............................................................................................................. 20 
+Narratives of hardship affecting young adults .................................................................................. 22 
+Narratives of hardship linked to personal aspirations and desires ................................................... 23 
+Impact of the community on household hardship ............................................................................. 23 
+Impact of the 2008 crisis and related policy changes on household hardship ....................................... 25 
+Other dynamics of hardship ................................................................................................................... 27 
+Factors that are external and internal to the households in the emergence and/or persistence 
+of hardship.  .................................. 28 
+5. Practices of coping with hardship .......................................................................................................... 32 
+Income generation, protection and stabilisation .................................................................................... 32 
+Practices to manage or reduce cost of living ......................................................................................... 38 
+The role of assets and resources ............................................................................................................ 42 
+Extended family & friends ................................................................................................................. 42 
+Costs, benefits and consequences of resilience ..................................................................................... 47 
+6. Analysis of household resilience practices  and limitations of resilience analysis ................................ 49 
+Degrees of hardship and different forms of resilience........................................................................... 49 
+Resilience amongst the ‘very poor’ ................................................................................................... 49 
+Resilience amongst the ‘poor’ ........................................................................................................... 50 
+Resilience amongst ‘low income families with apparent deprivation’ .............................................. 50 
+Resilience amongst ‘low-income families without apparent deprivation’ ........................................ 51 
+Continuity and discontinuity in resilience ............................................................................................. 51 
+Limitations of resilience analysis .......................................................................................................... 52 
+Labour market developments and implications for resilience ........................................................... 52 
+References: ............................................................................................................................................... 55 
+Appendix One. ......................................................................................................................................... 57 
+ 
+ 4 
+Fig. 1 Rural Household by family type ................................................................................................ 9 
+Fig. 2 Urban Household by family type ............................................................................................... 9 
+Fig 3: Employment status of household participants in urban and rural locations. ..................... 11 
+Fig 4: Level of education of household participants in urban and rural locations. ....................... 12 
+Figure 5: Ethnicity of rural and urban participants. ....................................................................... 12 
+Fig 6: Housing status of rural and urban participants. ................................................................... 13 
+ 
+ 
+ 
+  
+ 5 
+Introduction 
+ 
+The concept of resilience has attracted much academic and political interest of 
+late and has recently been incorporated into the sociological literature 
+(Dagdeviren et al., 2016). In contrast to the psychological or psycho-social 
+literature, which emphasises individual or family traits, the sociological 
+literature on resilience focuses up on the social, cultural and political context 
+within which resilience occurs. Rather than heroic models of resilience where 
+individuals are understood to perform extraordinary acts or achievements, 
+sociological approaches take the socioeconomic and historical context into 
+account and examine peoples’ everyday practices as they seek to improve their 
+circumstances (Dagdevieren et al., 2016; Canvin et. al., 2009). The literature on 
+resilience 'views adversity as a precondition, and then investigates what is 
+involved in 'beating the odds' associated with such adversity' (Canvin et. 
+al.,2009:239).  
+ 
+The Irish participants in RESCuE suffered material deprivation and other forms 
+of hardship to varying degrees as a result of the Financial Crisis in 2008. Their 
+interviews revealed a bleak assessment of contemporary social conditions and 
+an overwhelming sense of trepidation for their future potential and prosperity. In 
+their interviews, participants gave voice to important reflections on their current 
+state of being: a sense of being unfairly burdened with austerity measures, of 
+facing cuts that have had the greatest impact at the lowest level; of a steady 
+progression towards increasing poverty and hardship; a sense of insecurity for 
+their future in regards to health, employment and providing for their children; 
+the rising cost of daily essentials; and a perception of the mass exodus of young 
+people from rural communities. Although participants attributed blame to the 
+‘ordinary person,’ they also clearly felt that ordinary people were paying the 
+price by living with reduced means. They placed the 'real' blame on government 
+officials, bankers and developers, who remained responsible for a lack of action, 
+negotiation, and general failure to meet the needs of the people in the post-crisis 
+setting. These sentiments were emphasised most by self-employed people 
+whose small businesses were failing.  
+ 6 
+This report examines the socioeconomic practices of households in Ireland that 
+have experienced adversity in the wake of the Financial Crisis of 2008 as 
+follows: 
+ Section 2 provides a summary of the socioeconomic context in Ireland 
+after the crisis, as outlined in more detail in the National Report for 
+WP2.  
+ Section 3 describes the socioeconomic characteristics of participating 
+households by family type, employment status, educational attainment, 
+ethnicity, and housing status. 
+ Section 4 discusses the narratives of hardship experienced by households 
+in Ireland, distinguishing hardship that affected the whole household; 
+that affected the needs of children; those of young adults; the personal 
+aspirations and desires of interviewees; and the impact of community on 
+households.  
+ Section 5 considers the practices of coping with hardship by examining 
+income generation and stabilisation; practices to manage and reduce 
+consumption; the role of assets and resources; and the cost, benefits and 
+consequences of resilience.  
+ Section 6 provides an analysis of household resilience practices and the 
+limitations of resilience analysis by considering the degrees of hardship 
+and the different forms of resilience amongst different household types; 
+continuity and discontinuity in resilience; and the limitations of 
+resilience analysis.  
+ 2. Country specific literature review on socio-economic 
+practices of coping with hardship or resilience  
+ 
+As a recent report by the National, Economic and Social Council (2013:22) 
+emphasized, the high proportions of people (22%) and more particularly 
+children (24%) living in jobless households (Watson, Maître and Whelan 
+2012:18-24), are key distinguishing features of the social consequences of the 
+crisis in Ireland. Taken together with the changing gender composition of 
+employment and increasing proportions of low-work intensity households, this 
+ 7 
+feature of the Irish social landscape has considerable implications for 
+understanding the conditions for household resilience.  
+Qualitative research on the resilience practices of households is comparatively 
+scant. Daly and Leonard (2002:2) carried out in-depth qualitative interviews 
+with the members of thirty families living on low incomes in Dublin, with a 
+view to making visible “the lives and concerns of some of Ireland’s poorest 
+households.” Their research highlighted the extent to which “the welfare of the 
+family as a unit needs to be addressed as do people’s social support networks 
+and their embeddedness in their local area,” and they called for the prioritization 
+of qualitative research in order “to look at the world, and public services and 
+provision especially, through the eyes of poor people themselves” (Daly and 
+Leonard 2002: 198-225). Their call was made in the context of the 
+“congratulatory clamour” accompanying the years of economic success, and has 
+subsequently remained largely unheard by Irish research commissioners.  
+Olagnero et al. (2006) documented the extent to which poor residents of social 
+housing in Dublin relied on extended family networks for social support.  
+Similarly to Daly and Leonard (2002), the authors found that poor families felt 
+relatively isolated from wider community networks. In a mixed-method study, 
+Corcoran, Gray and Peillon (2010) found that household and community 
+practices amongst residents of new suburbs in the greater Dublin varied 
+according to family life stage, distance from extended family networks, and 
+other socio-demographic aspects of the locality. In contrast to qualitative 
+research on families in poor neighbourhoods, they found that middle-class 
+families were embedded local non-kin networks, especially those whose 
+children were of school-going age.   
+ 
+The Community Platform (n.d.), a network of 30 national organisations working 
+against poverty and inequality, recently issued a report on “the human stories 
+behind poverty in Ireland, based on qualitative responses to the question: "how 
+is the recession, and Government policy, affecting your life? The responses 
+emphasized how people have been affected by the cumulative impact of 
+unemployment or poorly paid employment, lack of opportunities and cuts to 
+ 8 
+services and supports over successive years.  They also revealed the extent to 
+which people were engaging in creative strategies to try to address the 
+challenges they faced. 
+ 3. Socio-economic characteristics of HH participants 
+ 
+We recruited participants from within the Midlands region.  This region 
+experienced considerable population growth during the Celtic Tiger boom due 
+to its position on the outer edge of the Dublin commuter belt. However, it 
+displayed the lowest level of economic resilience to the crisis, with 
+disproportionately high increases in rates of unemployment and mortgate arrears 
+(Breathnach et al. 2014; NESC 2013). The region has urban and rural pockets of 
+disadvantaged, and very disadvantaged, areas. In accordance with our sampling 
+criteria, we interviewed families/households that were experiencing material 
+adversity. Specifically, we identified individuals or families who were living in 
+a disadvantaged area and who were: i) poor and on public benefits, but active 
+and self-supporting - getting by better than others; ii) at risk of poverty but 
+struggling to avoid it by various activities, iii) poor but not in benefit schemes 
+due to various reasons, and getting by somehow; and iv) low-income working 
+family households. The Irish RESCuE team completed twenty five household 
+interviews in total; thirteen were from the urban research area, and twelve were 
+from the rural research area.  
+ 
+Couples with dependent children comprised the most common family 
+household type (Figure 1 and 2), in both urban and rural areas. This is 
+consistent with census data showing this household type to be the modal 
+household type in each area.  In the rural area 8 of the participants were 
+members of households comprising couples with children. There were three 
+single participants, two of whom were living at home with their parents. One 
+participant was a widow. In the urban area, six participants were living in 
+households comprising couples with children, three were single and living in the 
+parental home, 3 were single parent households, and 1 participant was a 
+ 9 
+widow
+1
+. Amongst the urban participants, 1 lone parent had a child with autism, 
+2 single participants and 1 widow had difficulties with alcohol, and 2 single 
+participants had experienced homelessness.  
+ 
+ 
+Fig. 1 Rural Household by family type 
+ 
+ 
+Fig. 2 Urban Household by family type  
+Since 2007 the deprivation rate has more than doubled in Ireland. In 2013, over 
+30 percent of the population (more than one million people) experienced two or 
+                                                 
+1
+ See appendix one for Participant Interviewed by Family Type 
+0 1 2 3 4 5
+Single adult living alone  
+Couple  
+Couple w/ dependent children 
+and adult living at home  
+Couple w/ dependent children 
+Rural Household by Family Type 
+0 1 2 3 4 5
+Single parent w/ depdendent 
+children living at home 
+Couple w/ adult living at home 
+Single adult living alone 
+Couple w/ dependent children 
+Single adult with adult living at home 
+Single parent 
+Urban  Household by Family Type 
+ 10 
+more types of enforced deprivation. According to EU SILC for 2013 (CSO, 
+2015) there have been notable increases in the proportions of Irish households 
+that are unable to: replace worn out furniture (25.8%), afford a 
+morning/afternoon/evening out (25.1%) and have family/friends over for a 
+meal/drink (18.7%). For those ‘at risk of poverty’ the deprivation rate was 53.9 
+percent in 2013 compared with 46.8 percent in 2012. The types of deprivation 
+most commonly experienced were an inability to; replace worn out furniture 
+(42.5%), afford a morning/afternoon/evening out (41.7%) and have 
+family/friends over for a meal/drink (33.3%).  For those not ‘at risk of poverty’ 
+the deprivation rate was 26.3 percent in 2013, compared with 23.0 percent in 
+2012. The types of deprivation most commonly experienced were an inability 
+to; replace worn out furniture (22.8%), afford a morning/afternoon/evening out 
+(22.1%) and have family/friends over for a meal/drink (16.0%). 
+Further analysis by socio-demographic characteristics showed that those living 
+in households with one adult and one or more children had the highest 
+deprivation rate in 2013 at 63.2 percent.  Those living in accommodation that 
+was rented at below the market rate or rent free (56.6%), those describing their 
+principal economic status as unemployed (54.9%) and those who were not at 
+work due to illness or disability (53.1%) also had deprivation rates of over 50 
+percent in 2013 (CSO, 2015).  
+With regard to employment status (See Figure 3), most Irish RESCuE 
+participants in both the urban and rural areas were in receipt of some form of 
+social benefits, either job seekers benefit, jobseekers allowance, or disability 
+benefit. Those in training were young people (n=5) who were early school 
+leavers, or participants partaking in activiation schemes (n=2) following 
+redundancy. Three of the particpants in the rural area were retired (one had 
+taken early retirement in 2008). One participant was unemployed but not 
+receiving social benefits as her husband was working full-time, while another 
+was self-employed. Three of our participants were working. However, two of 
+these were the only adult in full-time employment in their households.  
+ 
+ 11 
+ 
+Fig 3: Employment status of household participants in urban and rural 
+locations. 
+ 
+The educational attainment (See Figure 4) of our participants varied 
+considerably. The majority had completed either primary school education, 
+which is generally completed at 12 years of age, or completed full secondary 
+education, obtaining a Leaving Certificate or Leaving Certificate Applied (a 
+vocational and practical oriented qualification). Two of our participants went 
+on to secondary education but left within the first two years. Four had 
+completed their Junior Certificate, the first round of state exams, generally 
+undertaken at age 15. Three were three Early School Leavers, meaning that 
+they had ceased participation in school before reaching the age of 16 years or 
+before completing three years post-primary education, whichever is later. One 
+participant received special needs education which entails provision of 
+education in special schools dedicated to educating children with similar 
+needs, or attached or integrated into mainstream schools. Three of our 
+participants went on to complete third level education, one as a mature student. 
+ 
+ 12 
+ 
+Fig 4: Level of education of household participants in urban and rural 
+locations. 
+ 
+In relation to ethnicity (See Figure 5), most participants were 'white Irish.' 
+Members of the migrant and Traveller communities were also included. The 
+migrant population of our study area is 3-6 percent of the total population 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5: Ethnicity of rural and urban participants. 
+ 
+0 1 2 3 4 5 6 7
+Full Primary
+Less than Secondary
+Secondary
+Special Needs
+Early School Leaver
+Full Secondary
+Vocational Education
+University
+Educational attainment 
+ 13 
+Privately owned housing was the most common form of housing status (See 
+Figure 6) with 10 of 25 participants paying a mortgage on their homes. Six 
+participants were living in local authority social housing accommodation. Local 
+authorities are the main providers of housing for people who cannot afford to 
+buy their own home. Rent is payable to the local authority and is based upon the 
+household’s ability to pay. However, there are extensive waiting lists for social 
+housing in Ireland at present with an average wait of almost 5 years for housing 
+to be made available to those in need. Social housing supply has been reduced 
+since the collapse of the construction industry with, for instance, Dublin City 
+Council building only 29 homes in 2013 with more than 16,000 people on its 
+housing waiting list (Kelly, 2014 IT). Dublin city currently has 21,015 
+individuals and families on their housing list with each one having been 
+assessed for housing need. Dublin city housed 960 applicants last year (Kelly, 
+2015 IT). The Government’s social housing strategy, published last November 
+(2014), aims to eliminate social housing waiting lists by 2020. Applicants on 
+social housing lists are generally living in the private rented sector with or 
+without rent supplement. Of our 4 applicants in the private rented sector 3 were 
+in receipt of rent supplement. 5 participants are living in the parental home 
+contributing rent to the household each week.  
+ 
+ 
+Fig 6: Housing status of rural and urban participants. 
+ 
+ 14 
+4. Narratives and dynamics of hardship 
+ Narratives of hardship: How households explain 
+hardship  
+ 
+In Ireland, household hardship is measured in terms of material deprivation 
+which takes into account access to resources other than income. This allows us 
+to explore what doing without means for those who are living with material 
+adversity. Deprivation measures aim to capture the living conditions of 
+households that cannot afford at least two items (enforced deprivation) from a 
+list of deprivations considered necessary to attain a living standard considered 
+acceptable to Irish society generally.  
+Recent quantitative analysis of the deprivation rate in Ireland provides a 
+background to the narratives of hardship experienced and discussed by our 
+participants. With a reduction in their standard of living, households begin to 
+redefine their consumption habits. As indicated in the qualitative report "Facing 
+the crisis: the coping strategies of unemployed people in Europe" undertaken by 
+the European Commission (2014), households begin by removing expenses they 
+deem less essential: holidays, unexpected purchases, and replacing worn out 
+items. It also found that households reduced their leisure activities as these were 
+considered an unnecessary expense. At the opposite end, it found that the 
+expenses that households sacrifice last are: pairs of properly fitting shoes, 
+telephone and computer, paying arrears and bills (European Commission, 2014).  
+In the paragraphs below, we summarize the narratives of hardship provided by 
+our participants under the following headings: (i) deprivation that affected the 
+whole family or household; (ii) unmet needs that affected children; (iii) 
+deprivation experienced by young adults living in the parental home; (iv) 
+individual participants’ accounts of their own unfulfilled desires; or (iv) impact 
+of community on household hardship. 
+Narratives of hardship affecting the whole household 
+The most extreme forms of hardship described by our participants related to 
+forms of material deprivation such as not being able to complete a weekly 
+ 15 
+grocery shop, provide home heating oil for the household, or take a daily 
+shower. Although all participants existed on stringent budgets, some prioritised 
+paying the bills over weekly groceries. Participants living in these household 
+circumstances spoke of shopping for food on a daily basis, of often buying food 
+in ‘reduced price’ sections of the supermarket, of parents surviving on just one 
+daily meal, or going without food entirely in order to ensure that there was 
+enough for the children. 
+Resp 1: We would work with what was there. If there is any meat left 
+over or if there is any veg left over or whatever you would rustle up 
+just a meal wouldn’t you *Jack*? 
+Resp 2: Yeah you would just get something quick. We would do 
+without breakfast and lunch. 
+Resp 1: I would rather do without it. 
+Resp 2: Yeah and just have the dinner. 
+Resp 1: There is days there I wouldn’t eat at all. There was actually 
+days there, there was one week there I didn’t eat for four days. I gave it 
+to the kids instead and I gave it to him because he is at work and the 
+kids need it for school. I didn’t eat, and I just told the kids I wasn’t 
+hungry but I was but I just gave it to them instead" (INT.HU.007, 
+Husband and wife, 4 children). 
+ 
+In the rural study area one family spoke of surviving on eggs produced by the 
+hens that they kept, supplemented with budget chips.  
+ 
+"We lived on eggs. I remember the Aldi chips are great, for 2.5 kilo 
+you can get €1.49 and we lived on chips and eggs or scrambled eggs or 
+what way you can do eggs. Now I have spaghetti up there, they do 
+spaghetti for €0.45 and a tin of that goes on chips, still shi* food from 
+what I was on when you’re training. So things went really bad in the 
+last few years" (INT.HR.002, Husband, 2 children). 
+ 
+ 16 
+Home heating oil was unaffordable for the majority of households, with many 
+participants talking of going without heating oil for several years. As most of 
+the interviews took place over the winter months and in participant's homes, the 
+pervasiveness of this form of deprivation became apparent to the researchers, 
+whether participants mentioned it or not, as numb icy feet were commonplace 
+by the end of a two hour interview. In one extreme case a family spoke of 
+lighting the fire for 3 hours to heat the water so that all six family members, 
+once a week, could share a single bath. As substitutes for home heating oil, 
+participants spoke of gathering pallets from their workplace, breaking them up 
+and placing them in the fire, turning towards charities for help, using family 
+networks to secure turf (peat) for the winter in exchange for help ‘drawing in’ 
+the turf during the summer months, or buying small oil cans to the value of €20 
+at a time when they could afford it for the particularly cold winter nights.  
+ 
+[T]hat's the oil tank. So that's the reality of it, there's €20 you put in it 
+from a can, you know it won't last, it just gives you a bit of heat in the 
+night or whenever. So a few times I've gone just to get oil like that. The 
+big thing I suppose, with the money gone, is how do you keep your 
+children warm? And that's where it's just heartbreaking. I was thinking 
+about Christmas before there, trying to get them a present, you know, 
+people you love.  To do the basics, keep them warm..." 
+(INT.HRPE.002, husband, 2 children). 
+Not being able to afford a family holiday was another common form of hardship 
+described by participants across all socio-demographic categories. Especially 
+amongst couples with children, family holidays were either never possible, or 
+had been curtailed because of the crisis. For example, consider the narratives 
+below from a low work intensity household with four children who have never 
+been on a family holiday.  The mother described how she feels for her children 
+returning to school after the summer holidays, unable to join in with 
+conversations amongst their peers about what they did, or where they went over 
+the holiday period. 
+ 17 
+[T]hey need, like they go into school after the summer holidays and all 
+the friends - oh we were here, or we were here, and then my little one 
+and another little girl 'we didn’t go anywhere’ and that’s the whole 
+time, so it does get to you after so many times of saying 'oh we didn’t 
+get anywhere, we couldn’t go anywhere' (INT.HU.007, husband and 
+wife, 4 children). 
+Similarly, a young adult living in the parental home talked about how she and 
+her family used to go on holiday together, but that this has not been the case in 
+recent years.  
+Yeah, we used to. Haven't been on a holiday now in a while, but we 
+used to like, a few years back like. We used to always go, because we 
+used to have one of those - not caravan - what do you call the other 
+thing? Mobile home thing, I don't know what it is, you drive it anyway 
+and you can sleep in the back" (INT.HR.009, single living in family 
+home). 
+Lastly, a couple with adult children described how they no can no longer afford 
+to go on holiday since the crisis, although this used to be a common practice. 
+Now, their children occasionally pool their resources to gift them a holiday or 
+weekend away. 
+[If] we have a wee holiday or a weekend away the kids pay for it. We 
+haven’t had a weekend away or anything in the last five years, four 
+years, since 2010/2009, I can’t remember, it’s a long time ago anyway, 
+we used to go away regularly" (INT.HR.006, husband, grown children 
+not living in family home).   
+ 
+The accounts above illustrate the strains that families face, but also the 
+challenge of defining and describing resilient outcomes. Recognition of 
+resilience involves measures of social well-being that enable families to 
+improve forms of deprivation that hinder their quality of life (NESC, 2013: vii). 
+Faced with situations of hardship, the small local outings that families took 
+ 18 
+together were highly significant for the well-being and quality of life of the 
+whole family. For instance, participants in families where holidays were 
+financially impossible spoke of time spent together using public resources 
+within their locality. Local woodlands and lakes are prized amenities that 
+families described as viable alternatives to holidays in the sense of providing 
+amusement, entertainment, curiosity and quality family time. For example, one 
+participant talks about the neighbouring woodland as a playground for his 
+young children, although he is conscious of being unable to afford the 
+alternative of an established family entertainment.  
+ 
+But it has been great peace of mind, you know, going out and that quiet 
+time, you know with the kids, and sit with the kids, and playing, but 
+you know...so it has been that kind of a thing, like I said, there's bears, 
+and we'd be looking for this now with kids, we've played chasing, hide 
+and go seek with the other kids, and other times I'd go off and hide 
+from them, you know, there's all different things we've done,[...], like 
+it's been a playground, this wood, it's been an adventure place, and it 
+was a bit of out...and it's sad that that was your outing as well, well we 
+can't go to *names family entertainment centre* and we can't go here, 
+I've no money.  Everything was money [...], you know there's good 
+parts and bad parts, but you know when it's sad in other parts where 
+this is your fun. But we made it fun" (INT.HR.002, Husband, 2 
+children). 
+ 
+Another participant talks similarly about entertaining her children using the 
+local playground or woodland, emphasising the attraction of events that are free 
+or of little cost.  
+ 
+Or, like that, bringing the kids to the forest. We do a lot of things with 
+the kids like bring them to the playground or the forest when it’s nice 
+out, we do things that wouldn’t cost as much... 
+ 19 
+...like that we’d go to the forest for a walk with the kids and walk for an 
+hour and then go and get ice cream and bring it back to the house" 
+(INT.HU.004, wife, 2 children)  
+ 
+Our younger adult participants also spoke of using local communal resources as 
+areas of relaxation and fun.  
+ 
+I'd use the lakes now, as it is now.  I mean I go out in the summer, I 
+just chill out at the lake.  There's a diving board out there in *name of 
+lake*, so you go out there and have a swim and shout in the sun mainly 
+and stuff you know" (INT.HU.012, Single, living in family home). 
+ 
+Home renovation was another common theme relating to hardship in our 
+participants’ narratives.  Many spoke about not being able to maintain their 
+home to a presentable and hospitable standard, or replace appliances once they 
+became faulty or broken. For families living in social housing replacing broken 
+appliances such as a washing machine poses an enormous financial burden 
+because, in contrast to private tenancies the local council is not responsible for 
+repairing or replacing them. This is exacerbated in households with children 
+where washing clothes – such as school uniforms – is a daily essential. For 
+example, a lone parent living in social housing with three children described 
+how her washing machine just kept on breaking. She did not have the means to 
+replace it outright and so turned to purchasing one on rental.  
+ 
+Another couple, who bought their current house in 2007, spoke of being unable 
+to afford the renovations it desperately needs, to the extent that they do not 
+invite anyone into their home out of shame.  
+ 
+This is our home now yeah. Yeah but the thing is, it’s there, to me it’s 
+just bricks, it’s not even a house because I can’t do anything in it, I 
+don’t have the money to do anything in it. You couldn’t bring anyone 
+into it. Basically there is a lot of things I would like to do with it" 
+(INT.HU.007, husband and wife, 4 children). 
+ 20 
+ 
+Where renovations needed to be carried out male participants spoke of 
+undertaking DIY jobs in what spare time they had, with carpentry or tiling skills 
+often learned from a previous generation. In one house the kitchen floor has 
+remained bare concrete for at least two years as the family try to save the price 
+of adhesive to stick down the tiles. However, the participant proudly showed us 
+the work that he has completed so far, getting the walls painted and fitting 
+kitchen units, while his wife has managed to source a lot of the household 
+furniture from local charity shops.  
+ 
+That is into the kitchen. I have tiles and everything for the floor but I 
+just don't have the money to get the adhesive for it so I am saving up a 
+bit. 
+And how long do you have the tiles? 
+Two years now, there was a deal but I just didn't have enough for the 
+adhesive at the same time. But I got the wall done and the doors of the 
+units" (INT.HU.007, husband and wife, 4 children) 
+ 
+Finally, participants talked about the difficulties associated with the day to day 
+running costs of a household with children, from not being able to put petrol in 
+the car, to being unable to treat the children to simple gifts, and being unable to 
+save and plan for the future.  
+ 
+However, in tandem with these examples of day-to-day hardship, participants 
+also talked of the necessity of strict budgets and of their budgeting skills, their 
+awareness of the need to compromise, of prioritising the children's needs over 
+their own, and of using social resources or charities to assist in negotiating, or 
+achieving, desirable outcomes.  
+  
+ Needs that affected children 
+Amongst households with children, the lack of financial resources to provide for 
+their education and development were prominent themes. Parents expressed 
+concern, not just because they felt they were depriving their children of their 
+ 21 
+potential through lack of resources, but also because they believed their children 
+were aware of how their household circumstances were limiting their life 
+chances. Being unable to provide the opportunity for their children to take part 
+in extra-curricular or leisure activities was a source of worry and emotional 
+hardship for participants.  
+ 
+For example, one participant describes how she would love for one of her 
+children to return to horse riding classes and for another to return to swimming 
+classes, but she is just unable to meet their cost and is also hindered by the 
+absence of transport.  
+ 
+It is tough like *Emma* now would like to go back horse riding which 
+I don’t mind, I would love to let her go back but then there is the cost 
+factor of that number one and because I have no way of getting her out 
+number two. You can’t do that. The little one wanted to go swimming 
+there last year, I tried to get her in but it was working out at €56 every 
+couple of weeks and I wouldn’t have it.  There is things they want to do 
+and I can’t, I don’t have the resources to give it to them which is tough. 
+If I could give it to them I would” (INT.HU.007, husband and wife, 4 
+children). 
+ 
+Some extra-curricular activities have become an integral part of the ‘hidden’ 
+primary school curriculum. However, since the costs are not included in state 
+payments to the schools, increasing pressure is placed on parents to make 
+financial contributions so that their children can participate (Holden, 2013). 
+ 
+Participants also spoke about the direct cost of educating their children. 
+Although in Ireland education is nominally ‘free’ through third level, there is 
+little support for the practical everyday costs of uniforms, books, stationary, or 
+food, nor for the extra-curricular activities that schools now encourage. The 
+challenge of meeting these costs can be compounded by the expense of making 
+a religious sacrament or taking a state exam. Primary schools request a 
+‘voluntary’ contribution fee that ranges between €50 and €250. Secondary 
+ 22 
+education requires contributions towards certain practical subjects such as home 
+economics, woodwork or engineering. Parents must also pay for the correction 
+of ‘mock’ examination papers and a fee to the State for their children to sit the 
+Junior and Leaving Certificates. As a consequence of the crisis schools are 
+under increasing budget pressure which they then pass on to parents (Barnardos, 
+2015)  
+ 
+This year I have her mocks so I’ll pay that in January, that’s €135. 
+Then when she went back to school, she’s in *name of secondary 
+school*, they were sending out - you need this exam paper, you need 
+that exam paper. There is always something. I had to spend €20 a week 
+for 3 or 4 weeks even after the money spent after her going in, and then 
+with *Enda* it’s like school fees, his was €110, it’s ridiculous the price 
+of stuff. Every week you’re getting a text message off the school. But 
+they are constantly putting pressure on you" (INT.HU.001, lone parent 
+with children) 
+Parents did not challenge or contest schools’ demands for additional payments 
+or the education policy that fails to provide sufficient funds.  Instead, they 
+interacted with community and charity organisations to help ease their burden in 
+other areas, reducing their consumption habits, or compromising other priorities 
+in order to continue to provide the essentials for their children’s education.  
+  
+Narratives of hardship affecting young adults 
+The young people we spoke with, aged between 18-21 years, all lived in the 
+family home. Each participant interviewed gave between €40-€60 weekly to the 
+household budget, to contribute to costs such as rent and upkeep. Within this 
+group deprivation was experienced as a state of limbo. They could not afford to 
+move out of the family home because private rental accommodation was 
+unaffordable but staying at home meant that they remained a cost to their 
+parents who, they felt, were struggling already. Furthermore, as part of a post-
+crisis austerity measure, unemployed persons under the age of 25 now receive a 
+ 23 
+social benefit of just €100 per week, considerably lower than the standard €188 
+per week.  
+ 
+One young adult with younger siblings talked about how he feels a burden on 
+his mother. Although by staying at home he is contributing to the household 
+income, he is trying to save to move out. 
+[I]t’s not realistic for me to go, move out like in a way, you know.  So 
+it's a hard situation.  I was thinking now the past year of leaving, and 
+I'm thinking it's about time I get going, you know, but then like what's 
+the story with her rent, and what's the story with the thing, because the 
+rent'll be the same anyways you know, and if she's half struggling now 
+with me paying the money to her, what's she going to be doing after?  
+And then me getting by on what I have on my own wouldn't really 
+work either, so it's a tough situation, it's a hard situation.  It is about 
+time I got going but... (INT.HU.012, single, living in family home).  
+Although young people are caught in the predicament of not being able to move 
+out of the family home, many were hopeful of their ability to improve their 
+future lives by progressing either to further education or some form of 
+employment.  
+ 
+ Narratives of hardship linked to personal aspirations and desires 
+At an individual level, female participants in particular, spoke of unfulfilled 
+personal desires. These were articulated most commonly by women who were 
+not in employment, who spoke of their wish to have a job, and to have financial 
+independence. However, their absence of feasible childcare options, or lack of 
+afterschool care in the case of children suffering a disability or illness, restricted 
+these possibilities.  
+ 
+ Impact of the community on household hardship 
+Lastly, we found that the community in which participants lived had an impact 
+on their household hardship. Households living in urban designated 
+ 24 
+disadvantaged areas spoke of being exposed to vandalism and theft of personal 
+property, of anti-social behaviour, of children being bullied, exclusion within 
+the community, and rival feuds. Hardship was felt not only in financial terms, 
+having to replace stolen items or repair broken property, but also in terms of the 
+impact of situations such as bullying. One participant talked about the impact 
+bullying had on her and her son and about moving out of the area altogether. 
+ 
+It was in *disadvantaged area*, what age was he, he was about 5. Now 
+he was about 4 when he started school. There was people that lived up 
+there beside us, and they were in his class in school and they were 
+home and they were actually a set of twins and he spent time in 
+hospital, couldn’t let him outside the door so I had to actually had to 
+put myself in debt to get playstation games and things like that to keep 
+him in. He was putting on so much weight then because I was keeping 
+him in. It was very hard, I had enough of it. It was either put myself in 
+debt or go renting a house out here so I did" (INT.HR.001, wife, 3 
+children). 
+ 
+Similarly, members of another household discussed the isolation their 
+family feel within their community, a lack of conviviality and support 
+resulting from a serious misunderstanding by community members. 
+ 
+Resp 1: One incident there happened afterwards. I was out playing with 
+the kids which I do, I’ll fall down and let them bounce off me and like 
+at that time, not now that they are teenagers but that time it was great, 
+they were bouncing off me and everything and someone up there 
+reported me for thinking I was too rough with them in the field. I 
+would run over and fall over them and they would think that was great 
+because I fell and they would jump on me but someone reported me for 
+saying I was physically hurting the kids out in the field. That hit me, 
+that hit me hard. 
+How long had you been living there? 
+Resp 1: We were only a few months weren’t we, about a year? 
+ 25 
+Resp 2: Yeah.  It’s horrible up there. The neighbours are just horrible. 
+Resp 1: Then you hear the stories back that they are not, they are 
+talking about you and there is a feud going on with another family up 
+this other side and then others are talking about them. 
+Resp 2: There is no communication. There is no niceness about them at 
+all (INT.HU.007, husband and wife, 4 children). 
+ 
+As aforementioned, the most common quantitative indicators of deprivation are 
+an inability to replace worn out furniture or maintain an active social life 
+through going out to meet friends or entertaining family and friends. While the 
+majority of our participants (particularly couples with children) discussed going 
+out less, or spending less on entertainment as an almost immediate result of the 
+crisis, such cutbacks were not to the fore in our participants’ accounts of their 
+lived experiences. Deprivation that affected the well-being of the whole family 
+or household, the needs of children, the present predicament of young people, a 
+personal sense of life expectation, and their community environment, were all at 
+the forefront of our participants narratives of hardship.  
+ 
+Impact of the 2008 crisis and related policy changes on    
+household hardship  
+ 
+Cuts in public expenditure, increased taxation, and unemployment have affected 
+most people and households in Irish society. Our participants’ households 
+suffered the impact of the crisis through redundancies, debt, lack of employment 
+opportunities, availability of credit, and negative equity. A number of 
+participants were significantly affected by the withdrawal of credit from the 
+banking sector to households and small businesses. The removal of this crucial 
+support resulted in a feeling of abandonment and a heightened sense of 
+responsibility for the debt accrued during the boom years. This scenario is well 
+documented by one participant who ran a small business with her husband. 
+Their access to credit went from being virtually immediate during the Celtic 
+Tiger, to having no access whatsoever for the foreseeable future. 
+ 26 
+You can't just blame the banks.  I wish I could...well I do blame them 
+to a certain extent because they were throwing money at people. I mean 
+we had the banks ringing us asking us did we want to go on holiday's 
+and asking us did we need money. Like really? That's just stupid, 
+stupid, stupid. Looking back it's stupid but then we were stupid. Like 
+we didn't think of the future, you didn't think of...you thought of now. 
+We wanted to go on holidays so *Adam* used his card to book the 
+holiday, you know? If we wanted a car we had a new car a week later. 
+You know, stupid things like that" (INT.HR.012, wife, 4 children). 
+ 
+For some, being made redundant removed a support that was about more than 
+money. Especially amongst our female participants, having a job was a lifeline 
+beyond the household; it gave them their own time separate from their familial 
+obligations, and financial freedom through income that they felt was disposable, 
+their own to spend as they chose.  
+ 
+Debt that accrued within the construction sector through unpaid bills had a 
+massive impact at the level of some households. For example, one of our 
+participants, a skilled carpenter who honed his skills and worked as a foreman 
+on construction projects valued in millions during the Celtic Tiger, set up his 
+own business pre-Crisis. Over the course of 6 years four significant renovation 
+projects completed by this participant resulted in incomplete payments by his 
+clients. They simply refused to pay him, although the work was completed to a 
+high standard. These outstanding payments accumulated to a substantial amount 
+of household debt for this self-employed participant. This in turn had a 
+significant knock-on effect on his health, leading him to suffer from clinical 
+depression. 
+ 
+Policy changes that impacted on the participants’ households included cuts to 
+social benefits, reduction in salaries in the public sector, cuts to funding in the 
+areas of health and education, and the introduction of new taxes such as the 
+property tax and water charges. In these circumstances resilience may arise from 
+competence in everyday situations, coping with the day-to-day running of a 
+ 27 
+household when one's resources have been restricted. For instance, in the wake 
+of cuts to funding in healthcare, families are left to meet the shortfall of 
+services. One participant told us about her request for help from the Health 
+Service Executive to meet the specific needs of her autistic child: 
+Like I went to the clinic loads of times with *Peter*, he needs a 
+weighted blanket and they’re £200 to buy and the HSE can’t get the 
+funding for it because of all the cuts, so I went over and asked would 
+they give me any help towards it and I was more or less told to go 
+away, do you know what I mean" (INT.HU.001, lone parent, 3 
+children). 
+Similarly, coping with increasing cuts in social benefits generates more pressure 
+on families’ ability to budget and manage the weekly incomings and outgoings.  
+ 
+ Other dynamics of hardship 
+ 
+The majority of households we interviewed suffered over-indebtedness. 
+Nationally, over-indebtedness typically leads to the following outcomes for Irish 
+households: 
+ Being in arrears on housing/rent payments or utility bills or hire-
+purchase/loan repayments or other bills on more than one occasion in 
+the preceding 12 months, and  
+ Considering their housing costs or loan repayments to be a heavy 
+burden, and  
+ Being unable to raise money to deal with an unexpected expense 
+(Russell and Maitre, 2011). 
+ Our research revealed a ‘hidden’ form of hardship associated with over-
+indebtedness, namely, a sense of abandonment and a bleak outlook for the 
+future amongst participants, both for themselves and for their children. They 
+considered the situation they are currently facing as having created generational 
+disadvantage. While they may be doing all they can to ensure the survival of 
+their family by providing sustenance on a day-to-day level, they will never 
+ 28 
+achieve advantage or surplus, in the sense of being able to provide opportunity 
+for their children to excel. Their perception of having accumulated little worth 
+to pass on to their children strikingly increased their sense of hardship.  
+Recent research has revealed a change in the composition of those living in 
+poverty in Ireland as a result of downward mobility (Savage et al. 2015).  We 
+found that those whose families had experienced long-term disadvantage could 
+avail of a stock of tacit knowledge enabling them to better cope with adversity. 
+They managed to interact with public services relatively quickly and easily, 
+activating their entitlements in order to provide support and stability. They often 
+referred to similar circumstances amongst family members or within the 
+community, revealing the value of shared information. These participants coped 
+far better than those who were facing hardship for the first time, such as self-
+employed people who had lost their business, or those who lost their job in the 
+construction sector and were unable to regain employment. These newly 
+impoverished groups appeared less able to navigate the system.  First, they were 
+unfamiliar with the appropriate service to approach for the type of support they 
+required. Secondly, they lacked experience of the public services that provide 
+support, advocacy or welfare assistance in times of hardship. Thirdly, they did 
+not know how to articulate their story to service providers, or how to negotiate 
+their circumstances in order to achieve a successful outcome. Often they spoke 
+of ‘telling the truth’ as a way of trying to evoke empathy for their case. 
+However, having your form filled out correctly and the appropriate 
+documentation may be more likely to lead to a successful outcome in these 
+situations. 
+  
+Factors that are external and internal to the households 
+in the emergence and/or persistence of hardship. 
+   
+External factors that contributed to household hardship amongst those we 
+interviewed included: redundancy; the absence of employment opportunities; a 
+fall off in business trade, small business closure, and funding cuts. For many 
+small businesses the fall off in business trade was gradual over the period of 
+ 29 
+years. For example a couple who ran a pub in a rural location reflected on how 
+the waning construction industry and lack of further employment opportunities 
+eventually had a direct impact on their trade, resulting in the closure of their 
+business. 
+ 
+Well the buildings. A lot of our customers in the pub would have been 
+in construction. Like 90% of them would have been in construction. 
+*Adam* himself was in construction and he noticed...we noticed like 
+somebody come in they'd be let go. Like if somebody had come in ten 
+years beforehand and said they'd been let go they would be working the 
+following week. You know, the ability to get a job because there was 
+so much work around, and like one of our regular customers, he 
+practically lived in the pub because he was divorced and he had nobody 
+living with him so he'd be in the pub all the time. He came in and said 
+he'd after been let go. The man had never been out of work, like never. 
+I remember sitting and looking and thinking; 'ah sure God you'll get 
+something else *Jim*'.  'No' he says; 'there's nothing out there'. The 
+people had to let him go because they had no work and that's what 
+happened with everybody and then it happened with *Adam's* brothers 
+and then my brother" (INT.HR.012, wife, 4 children).  
+ 
+Internal factors leading to hardship included the age of the participant when 
+made redundant and the fear that he or she would not succeed in finding another 
+position. Relationship breakdown was a recurring source of hardship that put 
+strain on a household, particularly where this included children, or required the 
+division of assets. In these cases participants spoke of steps that they had taken 
+to rebuild stability for themselves and their children, often involving family and 
+community support. For some, this meant engaging with counselling services to 
+talk through the grief or blame that comes with the loss of a partner; for others, 
+it entailed securing work and financial stability for the household in the absence 
+of sustained income, or involving family members further in the care of their 
+children. Illness or death of family members emerged as the most prominent 
+internal factor leading to hardship for households. Households where there was 
+ 30 
+more than one child suffering an illness described the constant sequence of 
+doctor's appointments and the need to consistently engage with health services. 
+One family described how almost all family members had suffered illness in the 
+months prior to Christmas. This was followed early in the New Year by the 
+father of the household suffering a heart attack. 
+*Susan* was in hospital in October as well, she has problems with her 
+ovaries and *John* ended up, he got his appendix out just before 
+Christmas. We had just got himself sorted, he had got his stitches out, 
+they were all sick just before Christmas and we thought the Friday 
+before Christmas we had just got the steroids for the little one, she gets 
+them when her chest is bad and we got everything on the Friday before 
+thinking we were set up. We were laughing, the GP is brilliant 
+unfortunately she left last Friday but she gave us a list of stuff, this is 
+just in case because she knows we practically have an appointment 
+every week in the GP’s and on the Friday then *John* was in 
+psychology on the Friday and we were told to go home and enjoy 
+Christmas and we brought him in to get his stitches out and thinking 
+we were brilliant and Saturday we were in A&E, it was that quick. He 
+got his appendix out then on the Sunday, we only seemed to get over 
+one thing and something else happened" (INT.HR.003, husband and 
+wife, 4 children).  
+ 
+Rather than capitulating in the face of multiple and successive household 
+illnesses, both parents talked of a weekly schedule that is oriented around their 
+children's respective appointments, their active engagement with a variety of 
+health services in order to ensure that their children are receiving the necessary 
+care, all of which reinforced a sense of solidarity and support amongst family 
+members.  Similarly, a lone parent of three, who had left school when she 
+became pregnant at the age of 17, had a child diagnosed with autism. She has 
+spent a great deal of time and energy trying to access appropriate services for 
+her son and to learn about his illness through support groups and  from other 
+mothers of children with autism.  
+ 31 
+ 
+Household hardship was exacerbated when internal and external factors 
+converged, for example when households experienced unemployment alongside 
+illness, particularly mental illness such as depression. In many cases depression 
+was triggered by the stress of job loss and household debt. This is illustrated in 
+the narrative of a participant who suffered clinical depression when his business 
+folded, resulting in what he considered insurmountable debt, which transferred 
+to his household and family.  
+ At this stage now I was going through clinical depression because the 
+doctor was treating me and I was on these, and only for my wife I 
+probably would have committed suicide... 
+...After eleven months of that and *Rebecca* trying to get me out of 
+depression which she was fighting with me every day to not end up 
+committing suicide because I thought logically if I commit suicide 
+she’ll get the insurance and the house is paid.... 
+...And there’s no more worries, worries are all gone. The kids will be 
+well looked after because we have a big death policy so we would have 
+got around €150,000 and everybody would have been looked after and 
+I would be no more worries, that was my logic but no she wouldn’t 
+have that so I ended up going to a psychiatrist as well and he talked to 
+me, but I found my own doctor better" (INT.HR.006, husband, grown 
+children not living in family home). 
+ 
+Another participant had to leave the room during our interview and take some 
+time out in his shed. His wife explains that he needs to take this time for himself 
+every now and again when he becomes overwhelmed by their circumstances, 
+and today it is because he is trying to negotiate a disability payment with the 
+social welfare office, which he has been denied up to now.  
+ 
+ 
+Resp 1: I’m heading out for a minute.  
+ 32 
+Resp 2: He’s not one for sitting still. He never was one for sitting and 
+he found it hard yesterday in that meeting, he nearly lost it. I’d say he’s 
+actually upset now and he just needs to get out for a bit.  
+I’m sorry I don’t want to be bringing stuff up for people. 
+Resp 1: No but it’s not even bringing it up, it’s there the whole time 
+and even yesterday he had to..basically he died and to actually say right 
+no one is willing to look after him and they’re only putting more 
+pressure on him and he said it was so degrading for him yesterday 
+because he said he was just sitting in there trying to get what you are 
+entitled to" (INT.HR.002, Husband and wife, 4 children). 
+ 
+Those who suffered difficulties with alcohol all described the convergence of 
+internal and external sources of hardship. For some, personal issues were 
+exacerbated by the loss of employment and a turn towards alcohol to fill the loss 
+of daily structure and counteract boredom. For others, experience of sexual 
+abuse resulted in the turn towards alcohol addiction. Young people with parents 
+who suffered difficulties described various forms of hardship including moving 
+homes multiple times, the poor start they felt they had because of the problems 
+their parents faced, relationship breakdown, and in one case, the death of parent 
+related to alcohol addiction.  
+5. Practices of coping with hardship  
+Income generation, protection and stabilisation  
+ 
+Ireland experienced a catastrophic fall in employment as a result of the crisis. 
+As shown in Figure 3, above, the majority of our participants were in receipt of 
+social benefits, and so welfare support was a frequent and important topic of 
+discussion in the household interviews. Social benefits provided a financial 
+lifeline for participants who became unemployed; those who suffered 
+relationship breakdown resulting, in certain cases, in their designation as lone 
+parent; those who suffered illness and required disability payment, or carer's 
+allowance in the case of ill children. However, although participants were in 
+receipt of social benefits due to them, many described difficult scenarios where, 
+for instance, they needed an exceptional needs payment but were denied, or the 
+ 33 
+dilemma of being reliant on the support of social benefits but unable to escape 
+dependence on welfare because of the difficulty of combining work and 
+childcare. Others described how difficult it was to qualify for social benefit 
+support in the first place, particularly when the household had been dependent 
+on a self-employed male breadwinner who therefore did not have enough social 
+insurance contributions to qualify for support in the event of job loss.  
+The importance of Child Benefit (a universal allowance to all parents or 
+guardians of children younger than 16 years) to overall household income was 
+also evident in the interviews. For example, the interviewee from a household 
+with one adult working full-time and four children emphasized the importance 
+of Child Benefit, particularly as she does not receive any other social benefits 
+because her husband is working. She feels unable to work because each of her 
+four young children have a variety of health problems, so that in this 
+household maintaining a low income is a priority in order to qualify for the 
+medical card which subsidizes the children’s health care. In this context, the 
+Child Benefit payment is essential to cover everyday expenses:  
+ 
+All I have coming in is children’s allowance, and that’s gone because 
+when that comes in on the 5th of every month the car loan goes out of 
+that which is €240 and the house insurance goes out which is another 
+€60. Then you have your life insurance so you are left with about, last 
+month we were left with €27 in it before I could take it out so I don’t 
+have anything. That’s what I’m saying I don’t…" (INT.HU.007, couple 
+with children) 
+ 
+The Irish state has increasingly emphasized 'active unemployment', or activation 
+policies, since the 'Troika agreement'. The Pathways to Work policy was first 
+introduced in 2012, initiating sanctions if individuals did not comply with job-
+search or participation in required labour market programmes (NESC, 2013:2). 
+For some, this means taking up places on Community Employment or 
+placement schemes under the Tús programme, or availing of back to education 
+placements. Although some participants described activation policies as simply 
+ 34 
+'taking me from one part of social welfare to another part of social welfare', 
+others appreciated the structured time beyond the home, the interaction with 
+others, and the vision of the future that participation in such courses or work 
+programmes often initiated.  
+Those in receipt of social benefits also spoke of the restrictions that receiving 
+such benefits placed on them, including accessing the labour market when 
+working hours were limited to 15 or 19.5 hours per week. Female participants, 
+in particular, mentioned both the dearth and cost of childcare, or the fear of 
+losing one of their benefit payments such as the medical card should they take 
+up work.  
+ 
+Participants in paid formal employment were often in precarious, low-paid, or 
+part-time work situations. Participants whose family circumstances permitted 
+them to work were actively engaged in seeking employment. However, overall 
+there was a lack of stability of formal employment as participants described 
+stints of work, then time back in receipt of social benefits before finding stints 
+of work once more.  
+ 
+Like *Adam* got...five weeks ago *Adam* got a job and it was a 
+proper full-time paying job. €600 a week and for four weeks it was 
+heaven. We were both working. It just felt like we were finally after all 
+these years...it was the first time in nearly eight years that the two of us 
+were working in proper full-time employment...everything above 
+board. A chance to start having a better life and last week he got let go. 
+There wasn't enough work. I went down to 24 hours a week so say 
+about 200 Euro a week" (INT.HR.012, couple with children). 
+ 
+Paid informal work, such as working in the home, or 'cash-in-hand' jobs were 
+commonplace amongst those in very low-work intensity households, single 
+parent households, and amongst young people. Examples such as hair-dressing 
+from home, or doing small manual jobs provided much needed supplementary 
+income for young people. These jobs were mainly sourced through their 
+ 35 
+network of family and friends (never undertaken with strangers). However, 
+these incidences of informal work were all described as sporadic, unable to be 
+relied upon in any formal manner nor were they undertaken on a long-term 
+basis. For some participants, these sporadic jobs were essential in order to 
+supplement their incomes, for others they provided the chance to have an 
+evening out to celebrate a particular occasion.  
+ 
+Unpaid exchanges of labour (forms of bartering) were evident amongst those 
+living in rural communities. Often family members liv

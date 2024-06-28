@@ -1,0 +1,518 @@
+Resilience to the Crisis in the Economic and Monetary Union
+
+ECOFORUM 
+[Volume 8, Issue 1(18), 2019] 
+ 
+ 
+Valentin Ioan ADOMNICĂI 
+The „Ştefan cel Mare” University of Suceava 
+vadomnicai@gmail.com 
+ 
+ 
+Abstract  
+Economic resilience is a specific feature of economic and monetary unions, because their policies of addressing 
+the events with economic impact are limited in number.     
+The resilient economies are capable to eliminate more easily the vulnerability hazard by addressing the shocks 
+head-on, by preventing unsustainable booms, by reducing the amplitude of recession and the spill-over effect. A 
+resilient economy is capable to absorb shocks, without increasing the volatility of economic growth, inflation and 
+unemployment, regaining its previous level of performance.      .      
+The poor adjustment capacity of Euro-area became a cause for concern, the member states showing uneven and 
+insufficient abilities to address both asymmetric shocks and common shocks with asymmetric effect.       
+ 
+Key concepts: resilience, vulnerability, asymmetric shocks, convergence, spill-over, crisis, resilient economic 
+structures.    
+ 
+JEL classification:  F34, F45, H63, G01. 
+ 
+I.  THEORETICAL CLASSIFICATIONS  
+Economic resilience is defined as “the ability of a country to avoid or withstand a shock and to quickly 
+recover, by increasing the gross domestic product (GDP) at the potential pre-crisis level”2. Therefore, economic 
+resilience is addressed from three important perspectives: vulnerability to shocks, shock absorption capacity and 
+the ability to quickly recover from shocks.  
+Vulnerability refers to the extent of exposure of an economy to shocks and how powerful the effects of 
+these shocks are. The frequency and intensity of shocks are particularly important in this regard, the vulnerability 
+of a country depending on several factors, among which we mention the structure of the economy, the range of 
+policies, the state of both the financial and non-financial sectors. Some countries may be more exposed than 
+others to a single type of shocks.     
+The absorption capacity reflects the ability of the economy to cushion the direct impact of a shock, by 
+minimizing the scale of production and job losses. A shock can be absorbed by the dissemination of its effects at 
+the level of the entire economy, namely on other indicators than those of production and labour force. The shock 
+may be   “diluted” through automatic stabilisers, salaries and prices, credit offer and division of financial risks. 
+The recovery of an economy depends on the persistence of shock effects. It is about the ability to 
+bounce back to the previous state, when the shock is temporary, or about the easy reallocation of productive 
+resources. Permanent shocks usually require a resource reallocation, and the sooner the reallocation is made, the 
+more visible the recovery will be.  
+As a result, resilient economic structures are those structures that are used to prevent the significant 
+and persistent effects of economic shocks on income and on the level of employment, by reducing the effects of 
+economic fluctuations. This is a typical feature of monetary unions, in which the policies of addressing the events 
+of significant economic impact are limited in number.  
+Based on the revision of the most recent literature regarding the early-warning, and the lessons learned 
+as a result of global financial crisis, there have been identified 5 types of indicators which affect the structures in 
+question  (Caldera Sánchez et al., 2015)3. This is about the internal vulnerabilities, including the imbalances in the 
+financial sector; imbalances of non-financial sector; imbalances of the assets’ market; imbalances in the public 
+sector and the foreign imbalances. In addition to internal imbalances, economies are also vulnerable to shocks and 
+crises originating in other countries and spread internationally, through financial contagion and commercial 
+relations.         
+After a retrospective study of the 2008-2009 crisis, it is concluded that, as a result of the spread and 
+contagion, the countries without important internal imbalances have also been affected. The vulnerability to 
+                                                          
+2 Economic resilience in EMU, rehttps://ec.europa.eu/info/publications/economy-finance/quarterly-report-euro-
+area-volume-17-no-2-2018_en, accessed on the 04. 09. 2018.   
+3 https://voxeu.org/article/economic-resilience-new-set-vulnerability-indicators, accessed on the 09.09.2018;   
+RESILIENCE TO THE CRISIS IN THE ECONOMIC AND MONETARY UNION    
+ECOFORUM 
+[Volume 8, Issue 1(18), 2019] 
+ 
+ 
+international spread is emphasized by the indicators of commercial and financial openness. Here are included the 
+indicators of global risks, namely the GDP weighted average of the country-specific imbalances.      
+The vulnerabilities of the five internal categories do not operate in isolation, the simultaneous 
+deployment of a number of imbalances being such as to deepen the crisis. On the other hand, when the decision – 
+makers attack an imbalance, at the same time the vulnerabilities existing in other sectors can be reduced.    
+ 
+ 
+Vulnerability Absorption Recovery 
+Financial sector Leverage and risk-
+taking 
+Population debts, 
+including mortgage 
+loans 
+Corporate debt 
+Approaching bank-sovereign loops  
+Correct functioning of monetary policy 
+transmission mechanism  
+A healthy banking sector, which allows 
+income smoothing by households and 
+companies. 
+Capital markets allowing the 
+diversification of diversification of 
+financing and risk sharing 
+A procedure for the 
+efficient recovery of 
+sound banks.   
+A procedure for swift 
+resolution of non-
+payment.  
+ 
+Product market 
+Business 
+environment 
+Diversified 
+economy 
+Price flexibility 
+Proper operation of the internal market in 
+which the companies can diversify risks 
+(for instance, by increasing exports when 
+the internal demand weakens)  
+Business rules 
+Competition- internal 
+market 
+Insolvency procedures 
+Judicial proceedings  
+Labour market Responsible salaries  
+Functional negotiation mechanisms  
+Flexible changes regarding the working 
+time  
+Operation of institutions on the labour market  
+Human capital 
+Labour reallocation towards more productive 
+companies / sectors, sustained by active 
+policies regarding labour market  
+Labour mobility/ transfer of pension rights. 
+Public sector Public debt and 
+solvability risk  
+Long term 
+sustainability of 
+public finance  
+Appropriate automated and budgetary 
+space to implement them 
+More targeted social security systems  
+Favourable 
+composition of 
+expenditure growth 
+over the cycle 
+Taxation Tax-debt deductibility, namely fiscal 
+features which favour corporate and 
+household debts.  
+Reducing tax distortions in the housing 
+sector in order to reduce the high levels of 
+loans    
+Differences and complexity of corporate 
+taxation make it difficult for enterprises to 
+diversify risks.   
+Table no. 1. Taxonomy of factors affecting resilience. Source: Eurostat. 
+https://ec.europa.eu/info/sites/info/files/economy-finance/ip086_en_1_economic_resilience_emu.pdf.   
+ 
+The poor adjustment ability in the Euro-area represents a major cause for concern for analysts and 
+decision-makers. The insufficient and uneven ability of the member states to address both asymmetric shocks and 
+those common but with asymmetric effect are also of concern.     
+In a monetary union, the monetary policy and the exchange rate policy are unavailable, or, in the 
+absence thereof, alternative channels of adjustment are proposed, such as the functioning of the product market 
+and its improvement by reforms  (Pelkmans et al., 2008, pp.4-5).  The better this works, the smaller the costs of 
+adjustment after the shocks are.      
+The adjustment abilities depend on an entire series of variables, among which we mention tax 
+responses, temporary cash flows and market flexibility. These are specific to each country and vary on a period-
+by –period and case-by-case basis. “In general, the product market reforms represent changes of the <market 
+institutions>, for the better functioning of goods and services market”, the study mentioned assessing the way in 
+which the reforms “lubricate the adjustment process in the Economic and Monetary Union”. Therefore, after 
+proving the existence of deficiencies in the functioning of goods and resources market in the Eurozone, such as 
+the absence of competition – which is preventing the process resource allocation to take place - , the authors 
+considering that the reform adjustment effect is being felt especially through the “competitiveness channel”.  
+As a result, the adjustment ability of a country or its resilience to shocks represents economy’s ability 
+to cushion the shocks, without, however, increasing the volatility of economic aggregates, such as economic 
+ECOFORUM 
+[Volume 8, Issue 1(18), 2019] 
+ 
+ 
+growth, unemployment and inflation. Likewise, the adjustment ability is emphasized by the relatively rapid return 
+to the previous performances.        
+ (Mongelli, 2008), author of the Optimum Currency Area Theory4, reveals which are the means to 
+decrease shock costs.  Costs will be kept to a minimum if prices and salaries are flexible enough; factor mobility; 
+full integration of financial markets; member states openness to global trade; diversified consumption and 
+production risks; instruments of fiscal stability that operate and the very existence of the few shock asymmetries 
+and their transmission.  
+Pelkmans et al. (2008) take the „taxonomy” and say that the product market reform is related to 
+flexible prices and salaries, the integration of financial markets, the openness to trade and - maybe - consumption 
+and production, and last but not least, by shock asymmetry. The authors say that the direct path to market 
+integration is represented by the “openness to global trade”, the already shown openness by a member state to the 
+countries of the European Union and, to those of the Eurozone.      
+Although there is no devoted literature, there are four notions relating to improving market functioning: 
+product market reforms, regulation reform, structural reform and microeconomic reform. In their opinion, the 
+abovementioned authors, the resilient economies are capable to overcome the danger of vulnerability, by 
+addressing shocks more efficiently, preventing unsustainable booms to happen and by reducing the amplitude of 
+recession and the spill-over effect.         
+As a result, the economic resilience is a necessary condition, but not sufficient enough for convergence 
+to the Economic and Monetary Union. The economic resilience guarantees that a country will be briefly in 
+recession, after which it will resume its long-term growth. Consequently, real convergence temporarily depends 
+on resilience and economies’ adaptability, and on a medium or long term, on the factors determining growth, such 
+as physical and human capital.    
+The synchronisation of business cycles, by avoiding unstainable booms and high amplitude and 
+enduring recessions, is an important aspect in a monetary union. This happens because the unique currency policy 
+will not efficiently achieve its aims, when the member states are in different stages of economic cycle or are 
+having different rates of inflation. Insufficiently resilient economies can be exposed to enduring recessions which 
+affect their long term growth, but also their social cohesion, the lack of real convergence affecting both the 
+countries and the Economic and Monetary Union. The less frequent the growth is interrupted by the shocks, the 
+faster the economies grow and are able to catch up with the most advanced countries.     
+II.  CONVERGENCE IN RESILI ENT STRUCTURES  
+The convergence towards more resilient economic structures in the member states is essential for long 
+term success of the Economic and Monetary Union. (European Commission, 2018, pp. 7-8)5. The lack of 
+resilience has significant and enduring consequences on the labour force and on the income of each country, as on 
+the entire Eurozone.  The effects are visible especially in the case of the countries that have accumulated 
+vulnerabilities, and recent experience comes to confirm it. An economy capability to mitigate shock effects is 
+increased with the degree of risk sharing on financial market.  Unique market proved to be a “convergence 
+engine”, increasing resilience and acting as a “buffer against unpredictable shocks”. However, in order to 
+strengthen the ability to withstand shocks, it is important to have a “better capitalised banking sector and a union 
+of capital markets”. The efficient response to long term shocks and structural changes depends on the good 
+operation of institutions on the labour market, but also on the competitiveness of goods and services markets. 
+Governments’ contribution to the resilient behaviour of economy consists of the effective and efficient adjustment 
+of expenditures and the creation of a fiscal space during the periods of economic impetus. Reaching the targets of 
+the Economic and Monetary Union regarding economic and social cohesion and achieving full employment 
+consistently contributes to achieving real convergence of the income levels and life standards. According to the 
+yearly study on growth performed by the European Commission, after the first decade since the creation of the 
+Economic and Monetary Union, the actual revenue had a substantial growth, the member states having an initial 
+low level of revenue catching up with the GDP per person which separated them from those having higher 
+standards of living.         
+                                                          
+4http://ec.europa.eu/economy_finance/publications/pages/publication12081_en.pdf&prev=search, accessed on the 10.09.2018:  
+5 European Commission, Annual Growth Survey 2018 , https://ec.europa.eu/info/sites/info/files/2017-comm-690_en_0.pdf. accessed on 
+the 09.09.2018.  
+ECOFORUM 
+[Volume 8, Issue 1(18), 2019] 
+ 
+ 
+ 
+Diagram no. 1. GDP evolution per capita adjusted to the purchasing power in the EU and 
+Eurozone. Source: Eurostat. 
+ 
+Although the 2008 crisis had a negative impact on the respective indicators, during the last few years 
+the situation had a relatively modest improvement. Since 2013 the unemployment rate began level off, 
+maintaining the pre-crisis values.    
+ 
+Diagram no. 2. Evolution of the unemployment rate in the EU and Euro-area. 
+ Source: European Commission. 
+ 
+These tendencies of the actual convergence evolution are explicable by the structural differences 
+between economies, the crisis being more easily overcome by the states having flexible labour and goods markets, 
+but also having efficient public administrations. „A more vigorous and strong process of adequate reforms, by 
+addressing long-term structural changes, would consolidate the resilience of the economies. Efficient economic 
+structures would be necessary to support an actual convergence and to make it more sustainable over time. These 
+should be accompanied by policies designed to support productivity and the medium and long term potential 
+growth, as well as the appropriate macroeconomic policies” ( European Commission, 2018). 
+III.  VULNERABILITY TO FINANCIAL CRISIS  
+A government will not be exposed to confidence crises if it displays modesty in its expenditures 
+(Reinhart, Rogoff, 2012, pp. 35-38). In case of prolonged budget deficits over a period of several years in a row 
+and short-term credits with a maturity of less than 1 year, the government becomes vulnerable, although the debt 
+level may seem under control. Therefore, vulnerability may be reduced by issuing long-term debts, but this new 
+option would take too long, because the creditors will proceed to the increase in the rate of interest, which would 
+complicate even more the situation of the government found in this situation. As long as, thanks to 
+macroeconomic policies, the government remains credible, it will also benefit from loans on favourable terms.         
+ECOFORUM 
+[Volume 8, Issue 1(18), 2019] 
+ 
+ 
+The degree of vulnerability caused by the loss of confidence is difficult to assess, since the public’s 
+expectations towards the future events cannot be accurately foreseen, and “when an accident is expected to 
+happen, this will eventually take place”. Nevertheless, as in every other accident, the moment of its occurrence is 
+an uncertainty, and a crisis which seemed impossible to be avoided on short term, might even take place after 
+several years.         
+Over- indebtedness causes short-term problems, because the investors will question government’s 
+intention to finance debts on long term.  Therefore, “debt’s fragility may be as big a problem as its tax burden, 
+sometimes even bigger”. In order to reduce crisis exposure, vulnerable countries should proceed to reducing 
+indebtedness, and the financial leverage.    
+IV.  GREECE’S CASE  
+Euro-area crisis first manifested in Greece in October 2009 when, after establishing a new government, 
+they announced that the budgetary deficit of 7% of the GDP estimated by the previous government was not the 
+real one. Moreover, the difference between income and expenditures proved to be almost 13%, and on a further 
+revision, even 15% of GDP (King, 2009, pp. 232-236). As a result, investors and European institutions confidence 
+on the statistic data made available by the Greek authorities collapsed, the author expressing the opinion that “it 
+seemed that Greece had been admitted to the Euro-area based on false information”. Not being capable to obtain 
+any loans from the international financial markets, in 2010 Greece calls upon the members of the Euro-area, and 
+in May, in Brussels, they decided to establish a fund of 500 billion euros, which should be used to offer financial 
+support to the countries facing special problems. These countries, with big commercial deficits, must reduce 
+imports and stimulate exports, which is unachievable, including in Greece’s case, because this procedure will 
+entail currency devaluation.  Therefore, the only solution was to impose measures in order to reduce budgetary 
+expenditures and to increase taxes, which resulted in the decrease of demand and, consequently, in a declining the 
+level of production. The crisis significantly increased in 2011, when loans became more and more expensive, the 
+government bond yields issued by Greece, Ireland and Portugal amounted to almost unimaginable rates. Italy was 
+in a similar situation, with a government debt of 1.7 trillion euros, the third largest in the world. All eyes were on 
+Germany, which was expected to come and help peripheral countries with money, in order for them to regain the 
+confidence of the private financial markets. On the 1st of November 2011, Mario Draghi became the new 
+president of the European Central Bank, and according to his strategy, ECB would no longer acquire government 
+bonds. Therefore, the support was directly oriented towards the banking system, which, in case of a threat to the 
+euro, is at risk of falling prey to the depositors’ desperate attempts to recover their savings.  
+In March 2012, Greece had defaulted on debt payments, “becoming the first great European country 
+which faced a depression like the Great Depression of the 1930’s in the United States”. Moreover, one should 
+note retroactively that between 2007 and 2015, the level of production decreased in Greece below the level of 
+27% recorded in the USA between 1929 and 1933. Likewise, during the abovementioned period, Greek public 
+and private sectors consumption and investments knew a downfall of 35%. The solution was to restructure debts, 
+a large portion of them being transferred to creditors. In 2015, 80% of the Greek sovereign debt was towards 
+public institutions of the European Union countries, and far from leading to a bigger political integration, it 
+created division among the members of the EU and among the public opinion. At a certain point, at the end of 
+July 2012, the German Government and other member states, the Central European Bank and the European 
+Commission, were taking into account Greece's exit from the euro. However, at the conference on global topics 
+held in London on the 26th of July, Mario Draghi, the president of the European Central Bank, made his famous 
+statement, according to which the ECB “will make whatever it takes to maintain the euro zone”.  By a common 
+statement, the German Chancellor Angela Merkel and the president of France Francois Holland expressed their 
+total adhesion to Mario Draghi’s initiative and their commitment to uphold the euro.  Against this background, 
+Mervin King noted:  „By the end 2014, 10-years Greek government bond yields decreased from 25% to a little 
+over 8%, the 10-years Portuguese government bond yields decreased from more than 11% to less than 3%, the 
+Spanish government bond yields from more than 11% to less than 2%. Indeed, by the end of 2014, Spain was able 
+to take loans less expensive than the Government of the United States. Obviously, Draghi’s initiative had the 
+desired effect”.     
+Taking credit for „saving the euro zone” Mario Draghi  brought calm on the financial markets, the 
+investors from abroad were stimulated to buy the sovereign debts of the peripheral countries, the government 
+bond yields diminished, the ECB limited the provisions of credit to banks, and Germany abandoned the idea of 
+Grexit.     
+In January 2015, Syriza, the winner of the elections formed the government and promised the reduction 
+of the burden of austerity imposed by the measures advocated by the troika formed by the European Central 
+Bank, the European Commission and the International Monetary Fund.  However, the negotiation focused on 
+making Greece pay its debts incurred until then, even though they were however restructured and rescheduled. 
+During the summer, the debates reach a deadlock, and on the 29th of June, on a Monday, after the European 
+ECOFORUM 
+[Volume 8, Issue 1(18), 2019] 
+ 
+ 
+Central Bank limited the provisions of credit, Greek banks remained closed. The consequence was that, on the 
+30th of June, Greece achieved the “performance” of becoming the first developed country which defaulted on its 
+debts towards the International Monetary Fund. In more than one month, through the referendum held on the 5th 
+of July, the Greeks rejected at the polls the austerity measures imposed on them by the European partners, but 
+they reacted by requesting more harsh reforms. “In order to avoid a disaster for the country”, on the 13 th of July, 
+after intense negotiations, the first minister Alexis Tsipras was forced to accept the “irrational” conditions of the 
+creditors, in exchange for 87 billion euros, and for possible future payment rescheduling.      
+Mervin King, the author of The End of Alchemy, shows that, the International Monetary Fund 
+immediately published a report pointing out that “since it was expected that the debt will reach the level of 200% 
+of the GDP in the following 2 years, it will be necessary to extend the grace period for reimbursing the debt 
+towards the rest of the Euro-area by another 30 years or to make explicit yearly transfers to Greece”. The crisis 
+has eased, after the sudden elections held in September 2015, the Syriza Government reconfirmed its position, 
+although the voter participation reached the lowest level since 1974, when Greece restored democracy.                
+Greece had access to credits with low interest rates on euro adoption on 2001, although the situation of 
+public finances was uncompetitive6. While, due to the poor administration, the income obtained from taxes 
+decreased, the government expenditures were higher, and the public debt increased rapidly. The investors’ 
+confidence heading downwards, the economy contracted by almost 30% between 2008 and 2016, and 
+unemployment went off. Moreover, country’s administration was less satisfactory in relation to what was going 
+on in other member states of the Eurozone, the public sector being supersized and with an efficiency below the 
+European standards.               
+To overcome the financial crisis, starting with the year 2010, by implementing relief plans, Greece 
+received 288.7 billiard euros. Within Greek Loan Facility during the period from 2010 to 2011, as well as the 
+European Financial Stability Facility, between 2012 and 2015, Greece implemented comprehensive reforms, and 
+in 2015 had recorded an increase in the gross domestic product (GDP) for the first time since 2007, but also a 
+reduction of the unemployment rate. However, as already has been mentioned, during the first half of 2015, the 
+reforms have slowed down, and the country entered into recession. Therefore, in August, it was agreed within the 
+European Stability Mechanism (ESM) on the third relief program, which maintained Greece in the euro zone, but 
+with tough reform measures.        
+  Greece is going to reimburse its credits obtained through the European Stability Mechanism (ESM) 
+from 2024 to 2060. According to those agreed, the loans related to the European Financial Stability Facility 
+(EFSF) must be reimbursed from 2023 to 2056.  Nevertheless, in June 2018, Eurogroup considered that a 
+weighted average extension by 10 years of the maturity of the loan of 96.4 billion euros, granted through FESF, 
+this measure being subject to the approval by its Board of Directors. The total amount granted by the Euro-area 
+through ESM and EFSF 203.77 billion euros.  
+  
+Financial assistance programmes for 
+Greece 
+ Credits (billion euros) 
+First programme 
+Euro-area 
+IMF 
+Total 
+52,9 
+20,1 
+73,0 
+Second programme 
+EFSF  
+IMF 
+Total 
+141,8 
+12,0 
+153.8 
+Third programme ESM 61,9 
+Total from the Eurozone, EFSF and 
+ESM 
+Total from the IMF 
+Total value of loans actually paid 
+ 
+256,6 
+32,1 
+288,7 
+                         Table no. 2. ESM, EFSF and IMF assistance for Greece. Source: European Commission.  
+ 
+According to the ”Explainer” regarding the financial assistance through ESM and EFSF, starting with 
+2010 Greece visibly limited its macroeconomic and fiscal disequilibrium. Therefore, “through an unprecedented 
+adjustment”, the deficit of the general budget was reduced by almost 16 percentage points of the gross domestic 
+                                                          
+6 https://www.esm.europa.eu/assistance/greece/explainer-esm-and-efsf-finacial-assistanse-greece, accessed on the 07.09.2018. 
+    
+ECOFORUM 
+[Volume 8, Issue 1(18), 2019] 
+ 
+ 
+product (GDP), starting from a deficit of 15.1% in 2009 and reaching surplus of 0.8% in 2017. The economic 
+growth returned from a level of – 5.5%, in 2010, to 1.4 %, in 2017. At the same time, after cutting the unitary 
+costs with labour force, the Hellenic economy improved its competitiveness.    
+ 
+ 
+                Diagram no. 3. Unitary cost of the labour force in Greece (2000 = 100). Source: European 
+Commission.  
+ 
+On the other hand, the positive evolution is also revealed by the evolution of the current account. 
+Therefore, in case of a deficit of 15.8% in 2008, after a decade, namely in 2018, a deficit of – 0.4% was reached.   
+The unemployment rate of 12.7% in 2010, reached the level of 27.5% in 2013, then coming down to 
+18.5% in May 2018, still remaining the highest of all EU member states.                                
+ 
+Diagram no. 4. GREECE’S CURRENT ACCOUNT BALANCE FOR THE PERIOD FROM 
+2007 TO 2018. Source: European Commission. 
+  
+In order to achieve these performances, starting with 2010, Greece was forced to proceed to the 
+implementation of a wide range of reforms, focusing on four areas. Firstly, it was targeted the restoration of the 
+sustainability of public finances through the revision of personal income taxation system; the simplification of the 
+VAT refund system and the reduction of the possibility of fraud, but also the revision of the pension system. In 
+what the financial sustainability is concerned, the governance of Greek banks was consolidated and adapted to 
+best international practices, after which the legislation regarding personal and companies insolvency was revised, 
+and the stock of non-performing credits was diminished.     
+A further aspect was that of structural policies, the implementation of reform measures aiming at 
+accelerating the pace of the economic growth, increasing investment and competitiveness. In this spirit, the focus 
+ECOFORUM 
+[Volume 8, Issue 1(18), 2019] 
+ 
+ 
+was on reformation of labour market, by improving the collective negotiation system; reducing the obstacles to 
+goods market and lifting of the restrictions imposed on regulated professions; opening the energy market to 
+natural gas and electricity, but also the modernization of services and monetization of state key assets. There was 
+a strong focus on a better functioning of the public sector, between 2009 and 2017 its size decreasing by 25%. 
+They imposed the yearly analysis of the performance of civil servants, as well as the competitive selection of the 
+top leadership of public institutions. Finally, a major concern consisted of increasing the efficiency of judicial 
+system.                                  
+In March 2012, the debts of the private banks were restructured. Greece’s global debt burden was 
+reduced by almost 107 billion euros. By involving the private sector, 97% of the private bonds, amounting to 197 
+billion euros, have undergone a decrease of 53.5% of the nominal value of each bond. In November 2012, the 
+Eurogroup came with a new set of measures destined to reduce the public debt, among which was the reduction 
+by 100% of the bilateral interest within the Greek loan facility, the extension of the maturity of the loans within 
+the same facility from 15 to 30 years; the extension of the weighted average of the maturity within the EFSF from 
+15 to 32.5 years; deferral of payment of interest rate for EFSF loans by 10 years; the cancellation of guarantee fee 
+of EFSF loans by 10 basis points, for their entire duration, which resulted in savings of 2.7 billion euros.  
+In May 2016 the Eurogroup announced other measures regarding the needs of gross financing, in 
+January 2017 ESM and EFSF Governing Council announced measures to save short-term debt, and in June 2015, 
+Eurogroup announced measures aiming at saving medium-term debt. In the last case, the package of measures 
+envisaged the reduction of Greece’s debt in GDP by almost 30% percentage points by 2060, as well as the ratio of 
+financing gross need in GDP by 8 percentage points.  According to the „Explainer” regarding the financial 
+assistance through ESM and EFSF for Greece, in 2032, at the end of the EFSF grace period, Eurogroup will 
+consider whether to take supplemental measures for accomplishing the objectives regarding the gross need of 
+financing. “An emergency mechanism on debt could be activated in case of an unexpected negative scenario. In 
+case of activation by the Eurogroup, this could involve measures like further reconversion and limitation of 
+interest payment towards the EFSF, in the extent necessary to fulfil the relevant benchmark for gross needs of 
+financing of 15-20% of GDP”, reveals the cited analysis.      
+Greece successfully completed the financial assistance programme through the European Stability 
+Mechanism on the 20th of August 20187. Greece's exit from the assistance programme took place, after 3 years 
+during which, Greek banks have made payments of 61.9 billion euros through ESM for macroeconomic 
+adjustment and bank recapitalisation.    The remaining 21.1 billion euros, of the maximum of 86 billion euros 
+initially approved, had never been awarded. The financial assistance package was approved in August 2015, date 
+by which Greece had already received from EFSF, during the period from 2012 to 2015, credits which amounted 
+to 141.8 billion euros. The amount allotted by both bailout funds was of 203.77 billion euros, at favourable rates, 
+which is totally unprecedented in the modern loan period.  From 2010 to 2012, Greece received 52.9 billion euros 
+as bilateral loans within the so-called Greek Loan Facility, from the euro-area Member States. Klaus Regling, the 
+executive manager of the European Stability Mechanism (ESM) states that „Greece is the fifth country after 
+Ireland, Spain, Portugal and Cyprus which exists the European Financial Stability Facility (EFSF) and the 
+European Stability Mechanism (ESM)”, mentioning that the latter ones hold 55% of the total debt of Greece. The 
+borrowing conditions of EFSF and ESM have been especially advantageous, with small interest rates and long-
+term maturity, benefiting from an unprecedented solidarity from the euro-area member states. Thanks to these 
+facilities, Greece saves almost 12 billion euros from the annual debt service, namely almost 6.7% of GDP, each 
+year.  Furthermore, the International Monetary Fund granted Greece credits in total amount of 32.1 billion euros, 
+of which 21 billion euros were reimbursed.  Greece will work closely with ESM within the Early Warning 
+System, designated to provide insurance that the beneficiary countries are capable to make the agreed repayments. 
+For that purpose, the Financial Stability Mechanism (FSM) will require Greece to provide periodic reports and 
+will join the European Commission within the „Enhanced Surveillance”8.  
+                                                          
+7 https://www.esm.europa.eu/press-releases/greece-successfully-concludes-esm-programme, accessed on the 07.09.2018.  
+ 
+8 www.esm.europa.eu/assistance/greece. Accessed on the 08.09.2018. 
+ECOFORUM 
+[Volume 8, Issue 1(18), 2019] 
+ 
+ 
+V.  CONCLUSIONS  
+Greece’s case helps us confirm that is easier for the states having flexible labour and goods markets 
+and efficient public administration to overcome the crisis. However, Greece proved to be vulnerable due to 
+increased and extended budget deficits and short-term credits. When joining the euro-area in 2001, given the fact 
+that the political criteria mattered more than the criteria established in Maastricht, Greece had easy access to 
+credits with reduced interest, which lead to over-indebtedness. However, all this happened due to uncompetitive 
+finances, inadequate taxation management, major expenditure, super-sized public sector with low efficiency.      
+When investors lost their confidence in the statistical data provided by the government, Greece could 
+no longer borrow on the international financial markets, those loans being more and more expensive. Under 
+these circumstances, rescuing Greece lead to indebtedness towards the euro-area Member States, which lead to 
+division among the European public opinion, and nowhere near to strengthening the political integration. 
+Whereas Greece no longer had within its reach the possibility of currency devaluation, emphasis was placed on 
+cutting imports and increase of exports. Against a background of reduced flexibility of labour and product 
+market, the Troika imposed drastic austerity measures, which have been contested by the population.     
+For the purpose of withstanding the shock of confidence crisis, sovereign debt and the depression 
+which followed, Greece adopted reforms destined to reduced vulnerability, making adjustments regarding the 
+sustainability of public finances, income management and social insurance system. There was a focus on the 
+intensification of economic growth, increasing investments, reforming the labour market, the improvement of the 
+functioning of the public sector, reducing its size and increasing its efficiency. All this was to confirm the 
+importance of adjustment through the intermediary of the “competitiveness channel”, Greece being able to 
+obtain results regarding the reduction of the budgetary imbalance, GDP growth, cutting costs with labour force, 
+improving the balance of the current account and reducing unemployment. Nevertheless, the future generations 
+will be overshadowed by the debt that Greece will have to repay over the next decades with close monitoring 
+from the creditors.                             
+VI.  BIBLIOGRAPHY  
+1. Caldera Sánchez, A., Rasmussen M., Röhn, O., (2015), Economic resilience: A new set of vulnerability indicators for OECD 
+countries and evidence of their usefulness, VOX CEPR Policy Portal;  
+2. European Commission, Annual Growth Survey 2018, Brussels, 2017; 
+3. ESM, Greece successfully concludes, 2018, www.esm.europa.eu ; 
+4. Explainer on ESM and EFSF financial assistance for Greece, 2018, www.esm.europa.eu :  
+5. King M., The End of Alchemy: Money, Banking, and the Future of the Global Economy, Comnicare.ro Publishing House, 2017;  
+Voinea L., (2018), Romania: Ten years after the global  crisis, BNR, 2018;  
+6. Mongelli, F.P. (2008), European Economic and Monetary Integration and the Optimum Currency Area Theory, European 
+Economy Economic Papers, No. 302, February;   
+7. Quarterly Report on the Euro Area, Volume 17, No 2 (2018), Institutional Paper, July. 2018.   
+8. Pelkmans J., Montoya. A. L., Maravalle A. (2008),  How product market reforms lubricate shock adjustment in the euro area, 
+Economic Papers 341, European Commission;   
+9. Reinhart, Carmen M., Rogoff K, This Time Is Different: Eight Centuries of Financial Folly, Publica Publishing House, Bucharest, 
+2012;  
+10. www.europa.eu     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,4166 @@
+Socio-economic assessment of green infrastructure for climate change adaptation in the context of urban drainage planning
+
+sustainability
+Article
+Socio-Economic Assessment of Green Infrastructure
+for Climate Change Adaptation in the Context of
+Urban Drainage Planning
+Luca Locatelli 1,* , Maria Guerrero 2 , Beniamino Russo 1 , Eduardo Martínez-Gomariz 2,3 ,
+David Sunyer 1 and Montse Martínez 1
+1 AQUATEC—Suez Advanced Solutions, Ps. Zona Franca 46-48, 08038 Barcelona, Spain;
+brusso@aquatec.es (B.R.); dsunyer@aquatec.es (D.S.); mmartinezp@aquatec.es (M.M.)
+2 Cetaqua, Water Technology Centre, Carretera d’Esplugues, 75, 08940 Cornellà de Llobregat, Barcelona, Spain;
+maria.guerrero@cetaqua.com (M.G.); eduardo.martinez@cetaqua.com (E.M.-G.)
+3 Flumen Research Institute, Universitat Politècnica de Catalunya, Jordi Girona 1-3, 08034 Barcelona, Spain
+* Correspondence: luca.locatelli@aquatec.es
+Received: 21 March 2020; Accepted: 29 April 2020; Published: 7 May 2020
+
+
+Abstract: Green infrastructure (GI) contributes to improve urban drainage and also has other societal
+and environmental benefits that grey infrastructure usually does not have. Economic assessment for
+urban drainage planning and decision making often focuses on flood criteria. This study presents an
+economic assessment of GI based on a conventional cost-benefit analysis (CBA) that includes several
+benefits related to urban drainage (floods, combined sewer overflows and waste water treatment),
+environmental impacts (receiving water bodies) and additional societal and environmental benefits
+associated with GI (air quality improvements, aesthetic values, etc.). Benefits from flood damage
+reduction are monetized based on the widely used concept of Expected Annual Damage (EAD) that
+was calculated using a 1D/2D urban drainage model together with design storms and a damage
+model based on tailored flood depth–damage curves. Benefits from Combined Sewer Overflows
+(CSO) damage reduction were monetized using a 1D urban drainage model with continuous rainfall
+simulations and prices per cubic meter of spilled combined sewage water estimated from literature;
+other societal benefits were estimated using unit prices also estimated from literature. This economic
+assessment was applied to two different case studies: the Spanish cities of Barcelona and Badalona.
+The results are useful for decision making and also underline the relevancy of including not only
+flood damages in CBA of GI.
+Keywords: urban flood; water quality; cost-benefit analysis; modelling; combined sewer overflows
+1. Introduction
+Green infrastructure (GI)—also recognized with the acronyms NBS (Nature-Based Solutions),
+SUDS (Sustainable Urban Drainage Systems), LID (Low Impact Development), BMP (Best Management
+Practices), WSUD (Water Sensitive Urban Design) and many others [1]—contributes to improve
+urban stormwater management and has several other societal benefits like air quality improvements,
+reduction of heat island effects, aesthetic and recreational values, and others [2]. Socio-economic
+assessment of GI is an important tool for urban drainage planning and decision making of climate
+change adaptation strategies [3].
+Several studies have presented socio-economic assessments of different climate change adaptation
+options focusing on direct and indirect benefits derived from flood damage reduction capacity of GI.
+Velasco et al. [4] presented a cost-benefit analysis where only direct benefits were included in terms of
+avoided flood damages obtained by different adaptation scenarios in Barcelona: structural measures
+Sustainability 2020, 12, 3792; doi:10.3390/su12093792 www.mdpi.com/journal/sustainability
+Sustainability 2020, 12, 3792 2 of 18
+(pipe enlargement and stormwater tanks), GI, flood barriers for ground floor doors of businesses
+and private buildings and early-warning systems. Zhou et al. [3,5] presented a framework and its
+application to a Danish case study for economic assessment of different climate adaptation options
+focusing on flood impacts. The economical assessment was based on a cost-benefit analysis (CBA) with
+direct and indirect benefits derived from flood damage reduction that were monetized using flood
+models together with damage costs for houses, basements, sewers, roads, lakes and people health and
+also administrative and traffic delay costs. The damage costs were calculated using unit costs reported
+from case-specific literature. In these papers, flood adaptation options based on pipe enlargements
+were compared to stormwater infiltration through GI focusing on flood reduction benefits.
+Further studies present socio-economic assessments including additional benefits not only related
+to direct or indirect flood damages [6]. Löwe et al. [7] presented a cost-benefit analysis (CBA) for
+comparing different flood adaptation options in Australia. The flood adaptation options consisting
+of pipe enlargement, flood zoning and rainwater harvesting through GI were compared including
+flood reduction benefits and also additional benefits derived from reduction of drinking water
+consumption. Zhou et al. [8] presented an integrated hydrological cost-benefit analysis for comparison
+of different climate adaptation options such as open urban drainage systems, pipe enlargement and
+local stormwater infiltration. Here, benefits derived from flood damage reduction were integrated
+with additional monetized benefits derived from increased property values in the areas where GI was
+planned and the consequent increase in property taxes. Finally, Cooper et al. [9] presented an integrated
+costs-benefits analysis of a berm (sea wall) to mitigate the effects of coastal flooding from sea storms.
+Here, the monetized benefits of the project included: avoided costs derived from building damages,
+management expenses, fatalities, debris removal, utility and municipal damages; benefits derived
+from recreational and health value and indirect costs derived from interruption of key transportation
+and commercial infrastructure located in the area. The recreational and health values were linked to
+the ecosystem services and health benefits to the surrounding community generated by the planned
+green areas along the berm.
+Further studies underlined the importance of analyzing GI with a multidisciplinary approach.
+Venkataramanan et al. [10] presented a multidisciplinary literature review focusing on the interaction
+between human dimensions and socio-ecological-technical systems that are involved with GI in the
+context of flood risk management. Additionally, Wilkerson et al. [11] analyzed the role of socio-economic
+factors involved in the planning and management of urban ecosystem services.
+The aim of this paper is to present a cost-benefit analysis that includes multiple benefits derived
+from green infrastructure in the context of urban drainage planning. The novelty of this study is the
+integration of water quantity and quality and other socio-economic benefits into CBA of GI in the
+context of urban drainage planning. The application of this analysis to two different case studies can
+also be considered as novel since the application of CBA is generally used for comparing different
+adaptation measures within the case study. GI benefits are calculated from direct and indirect flood
+impacts reduction, water quality related benefits and additional societal benefits. Benefits of flood
+damage reduction are calculated as avoided direct and indirect flood damage costs to buildings,
+vehicles, urban infrastructure and indirect costs. Flood damage costs are calculated using coupled 1D
+urban drainage and 2D surface runoff models together with tailored depth–damage and permeability
+coefficients functions. Water quality related benefits derived from CSO and waste water treatment
+cost reduction are calculated using a 1D urban drainage model and costs of wastewater treatment
+and CSO spills obtained from literature. Finally, additional societal benefits like increased aesthetic
+value, air quality improvement, habitat provision and reduced urban heat island effect and energy
+consumption, are calculated based on unit costs from literature. The socio-economic assessment is
+applied to two different case studies: the Spanish municipalities of Barcelona and Badalona. These two
+case studies were part of the two European H2020 research projects: BINGO (Bringing Innovation to
+onGOing water management. www.projectbingo.eu) and RESCCUE (Resilience to Cope with Climate
+Change in Urban Areas. www.resccue.eu). The aim of presenting two cases is mainly to show that
+Sustainability 2020, 12, 3792 3 of 18
+the methodology can be applied to different cases. Nevertheless, the comparison can also bring new
+points of view in the discussion of GI in the context of urban drainage planning. The methodology
+proposed can be considered generally applicable to other cities in the context of green infrastructure
+and urban drainage planning.
+2. Materials and Methods
+2.1. The Two Case Studies
+2.1.1. The Case Study of Barcelona
+Barcelona (Figure 1) has an extension of approximately 100 km2, 1,619,000 inhabitants and it is
+highly urbanized. An important part of its urban development lies in a flat area up to few tens of
+meters above mean sea level. The city faces the Mediterranean Sea and approximately half of its coast
+line is occupied by the harbor and the remaining by sandy beaches. In the opposite side of the sea,
+there are hills with significant slopes towards the urban area. The great majority of the drainage system
+is a combined one and Barcelona experiences urban pluvial floods due to intense rainfalls, steep slopes
+towards the flat urban area, high degree of imperviousness and, in recent years, expansion of new
+urban areas draining into an older drainage system. The mean annual rainfall is 612 mm/y, the degree
+of imperviousness is estimated to be approximately 70% of the whole municipal area even though
+it can reach much higher percentages in the urban areas (see for instance the two zoom-in areas in
+Figure 1). The city also experiences Combined Sewer Overflows (CSO) that generally occur during
+rainfall events larger than a few millimeters. CSOs pollute the river Besos (that coincides with the
+north-eastern boundary of the municipal area shown in Figure 1) and the sea water both in front of the
+beaches and in the harbor. Figure 1 also shows the planned GI that will be described in Section 2.2.1.
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+""
+"""
+""
+"
+"
+"""
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+" "
+"
+"
+" "
+"
+"
+"
+"""
+"
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+""
+"
+""""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+""
+""
+"""
+"
+"
+" ""
+"
+""
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"""
+""
+"""
+"
+"
+" "
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+""
+""
+"
+""
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+""
+"
+"
+""
+"
+"
+"""
+"
+"""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"""
+""
+""
+"
+"
+"
+"""
+"
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+""
+""
+"
+""
+"""
+"
+"
+" "
+""
+"
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+" "
+"
+""
+"
+"
+"
+"
+""
+""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"""
+"
+"
+"
+""
+"
+"
+"
+""
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+""" "
+""
+""
+" "
+""
+"
+"
+"
+""
+"
+"
+"
+"
+""""
+"
+"
+"
+"
+""""
+"
+""
+"
+"
+""" ""
+"
+""
+""
+"
+"
+"
+"
+"""
+""
+""
+"
+"
+"
+"
+""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+""
+""
+"""
+""
+"
+"
+"
+"""
+"
+"
+""
+"
+"
+""
+"
+"
+""
+"
+"
+"
+"
+"""
+""
+"""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+" "
+""
+"
+"
+"
+"
+""""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"""
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+" "
+""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+""
+"
+"""
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+"
+""
+"
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+""
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+" "
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+""
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"" ""
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+""
+"
+"
+""
+""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+0 1,5 3 km
+"
+"
+"
+"
+"
+"
+""
+""""
+"
+"
+"
+""
+"
+""
+"
+""""
+"
+"
+"
+""""
+"
+"""
+"""
+""""
+"
+"""""
+"
+"
+"
+"
+""
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"" "
+"
+""
+"
+"
+"
+""
+""
+""
+"
+"
+""
+""
+"
+"
+"" "
+"
+"
+""
+"""
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"""
+""
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+""
+"
+"
+"""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+""""
+""
+""
+""
+"
+""
+"
+"
+"
+"
+"
+"""
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+""
+"
+"
+"
+""
+"
+"
+"
+"
+" "
+""
+"
+"
+"""
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+""
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+""
+""
+"
+"
+""
+"
+"
+""""
+"
+"
+"
+"
+""""
+"
+"
+""
+"
+"
+"
+""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+""
+"""""
+"""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+" ""
+"
+"
+"
+""
+"
+""
+"
+"
+" "
+""
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"""
+"
+"
+"
+"
+""""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"""
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+""
+"
+"
+""
+""
+"
+"
+""
+"
+"
+""
+"
+"
+"
+""
+"
+"
+"
+"
+""
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+" "
+"
+""
+"
+"
+""
+"
+"
+"
+""
+""
+"
+"
+"
+""
+"
+""
+"""""
+"
+""
+"
+"
+"
+"
+"
+"""
+"
+"
+"
+"
+"
+""""
+"
+"
+"
+""
+""
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+""
+"
+"
+"
+""
+"
+""
+""
+"
+"
+"
+"
+""
+"
+""
+""
+"
+"
+""
+"
+"
+"
+"
+"
+""
+""
+"
+""
+"
+"""
+""
+""
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+""
+"
+"""
+"
+"
+""
+"
+"""
+"
+"
+"
+"
+"
+"
+"
+""
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+""
+""
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+" "
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+0 0,3 0,6 km
+"
+"
+"
+"
+"
+"
+""
+""""
+"
+"
+"
+""
+"
+"""
+"
+""""
+""
+"
+"
+""""
+"
+"""
+"""
+"
+"""
+"
+"""""
+"
+"
+"
+"
+""
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"" "
+"
+"""
+"
+"
+"
+""
+""
+""
+"
+"
+""
+""
+"
+"
+"" "
+"
+"
+""
+"""
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+""""
+""
+"
+"""
+""
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+""
+""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+""""
+""
+""
+""
+"
+""
+"
+"
+"
+"
+"
+"" "
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+" "
+""
+"
+"
+"
+""
+"
+"
+"
+"
+" "
+""
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+""
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+""
+""
+"
+"
+""
+"
+"
+""""
+"
+"
+"
+"
+" """
+"
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+" "
+"""""
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+" ""
+"
+"
+"
+""
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"" "
+"
+"
+"
+"
+"
+"""
+"
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+""
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+"
+""
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"""
+""
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"""
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+""
+"
+"
+"
+""
+"
+""
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"""
+"
+""
+"
+"
+"
+"
+"
+"""
+"
+"
+"
+"
+"
+""""
+"
+"
+"
+""
+""
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+""
+"
+"
+"
+""
+"
+""
+"""
+"
+"
+"
+"
+""
+"
+""
+""
+"
+"
+""
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+"
+"""
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"""
+"
+"
+""
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+""
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+""
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+" "
+" "
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+""
+"
+"
+"
+""
+"
+"
+"
+"
+"
+""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+!
+0 0,25 0,5 km
+Municipal boundary
+! Detention and retention ponds
+" Green roofs
+Bioretention cells on different roads: 
+9-15 m wide and 0-2.5% slope
+9-15 m wide and 2.5-6% slope
+15-40 m wide and 0-2.5% slope
+15-40 m wide and 2.5-6% slope
+>40 m wide and 0-2.5% slope
+Figure 1. Plan view of Barcelona with all the planned GI: ponds, green roofs and bioretention cells.
+The colored lines show the classification of five different kind of streets where bioretention cells are
+planned (a different spatial allocation of bioretention cells was proposed as a function of the different
+street slope and width).
+Sustainability 2020, 12, 3792 4 of 18
+2.1.2. The Case Study of Badalona
+Badalona (Figure 2), within the Barcelona Metropolitan Area, has an extension of approximately
+21 km2, 215,000 inhabitants (the fourth most populated city in Catalonia) and it is highly urbanized.
+An important part of its urban development lies in a flat area up to few tens of meters above mean sea
+level. In the north and north-western part of the municipality there are hills with significant slopes
+towards the urban area. On the opposite side the city has approximately 5 km of sandy beaches facing
+the Mediterranean Sea. Badalona experiences urban pluvial floods due to intense rainfalls, steep slopes
+towards the flat urban areas, high degree of imperviousness and, in recent years, expansion of new
+urban areas draining into an older drainage system. The mean annual rainfall is 568 mm/y, the degree
+of imperviousness is estimated to be approximately 57% of the whole municipal area even though
+it can reach much higher percentages in the urban areas (see for instance the two zoom-in areas in
+Figure 2). Almost all the drainage system is a combined one and CSOs that generally occur during
+rainfall events larger than a few millimeters pollute the sea water. Figure 2 also shows the planned GI
+that will be described in Section 2.2.3.
+Infiltration trenches
+Permeable pavements
+Municipal boundary
+0 1 2 km
+N
+Figure 2. Plan view of Badalona with the planned green infrastructure (green roofs are not shown) and
+two zoom-in areas for better visualization of the urban environment.
+2.2. The Climate Change Adaptation Scenarios
+Green infrastructure was one out of the several climate change adaptation options (do nothing,
+pipe enlargement, new pipes and detention storages and early-warning systems) proposed and
+analyzed in agreement with the different local stakeholders. In this study, two different adaptation
+scenarios with future rainfalls are presented: the business as usual (BAU) scenario where no adaptation
+Sustainability 2020, 12, 3792 5 of 18
+is considered, and the GI scenario. The BAU scenario is used as a reference scenario when calculating
+benefits as part of the cost-benefit analysis. Both BAU and GI scenarios were based on future simulated
+rainfalls. Two kinds of future rainfalls were estimated for each of the two case studies: a future design
+storm event relevant for single event flood simulations and a future continuous rainfall time series
+relevant for continuous urban water simulations that aimed at stimulating combined sewer overflows,
+water quality impacts on the Mediterranean Sea and annual combined sewer water fluxes at waste
+water treatment plants. The future design storm events were calculated by applying climate factors (CF)
+to current design storm events according to Arnbjerg-Nielsen et al. [12]. It is noted that significantly
+different approaches were used in Barcelona and Badalona in order to derive CF. In Barcelona the 50th
+percentiles of all Representative Concentration Pathways (RCP) 8.5 and 4.5 scenarios were used to
+compute CF as a function of both different return periods and rainfall durations. Instead, in Badalona
+the average values of RCP 8.5 were used to compute CF as a function of different return periods.
+Nevertheless, the obtained climate values are in both cases within the range proposed in other local
+studies [13]. Details on the derivation of CF and future rainfall time series are provided in the following.
+Further future climate variables like temperature, sea level rise, wind, solar radiation, etc., were not
+considered in the current climate change adaptation scenarios even though they likely impact the
+future urban drainage systems and GI performances [14].
+2.2.1. Green Infrastructure in Barcelona
+The proposed GI in Barcelona was agreed with local project stakeholders and it was mostly derived
+from a study of the Municipality of Barcelona [15] that aimed at increasing stormwater exploitation in
+the city. Three different types of GI were proposed: green roofs, bioretention cells and retention and
+detention basins. Figure 1 shows the location of GI throughout Barcelona. Extensive green roofs are
+assumed to be retrofitted to approximately 5% (143 ha) of all the roof area of Barcelona. This percentage
+was derived from a study for the Municipality of Barcelona [16] that analyzed the roof areas suitable for
+green roof retrofitting. Bioretention cells with a total area of approximately 181 ha are supposed to be
+implemented in almost all the streets of Barcelona as shown in Figure 1. The location and preliminary
+design of these bioretention systems were proposed in a study for the Municipality of Barcelona [15]
+that suggested five different spatial distribution and capacity of bioretention systems depending on
+street slope and width (the five street types classified were presented in Figure 1). The proposed
+systems are made of a top soil and vegetation layer and a deeper layer of more porous material
+for water detention and infiltration into the underlying soil. The bioretention cells are devised for
+managing stormwater runoff from part or the whole streets where they are built. Finally, ten retention
+and detention basins with a total volume of 128,700 m3 are supposed to be located at the upstream
+parts of the urban area in order to collect stormwater runoff from the upstream rural areas for a 10-year
+return period design storm. Approximately half of the basin volume is allocated to retention with
+infiltration into the ground and the rest to detention and reduction of peak stormwater runoff. Other
+examples of the combination of retention and detention volumes can be found in the literature [17].
+Overall, the GI implementation in Barcelona would reduce the total impervious area by
+approximately 14% for all the modelled area. Nevertheless, this reduction is higher in the city
+center reaching approximately 29%. It is noted that bioretention cells and retention and detention
+basins do manage stormwater runoff from their associated catchment areas (larger areas compared to
+their physical construction areas).
+2.2.2. The Future Rainfalls in Barcelona
+The future rainfalls in Barcelona were computed based on the results of CMIP5 climate models
+considering the RCP scenarios 8.5 and 4.5. Downscaling methods were then applied and verified
+using both the ERA-Interim re-analysis as a reference for reproducing the past climate variables and
+other statistical indicators. Future rainfalls were finally derived using both rainfall observations from
+local rain gauges and different atmospheric circulation models: ACCESS1, BCC-CSM1, CanESM2,
+Sustainability 2020, 12, 3792 6 of 18
+CNRM-CM5, GFDL-ESM2M, HADGEM2-CC, MIROC-ESM-CHEM, MPI-ESM-MR, MRI-CGCM3 and
+NorESM1. Each model provided past (1951–2005) and future (2021–2100) rainfall time series.
+The CF used for flood simulations were computed for both different rainfall durations (5, 10,
+15 min, etc.) and different return periods (T = 1, 10, 50, 100 and 500 y) by calculating the rainfall
+intensity ratio between the simulated future (2071–2010) and simulated historical period (1976–2005).
+The computed CF were in the range between 1.07 and 1.26 and corresponded to the 50th percentile of
+the predicted RCP 8.5 and 4.5 scenarios.
+The future rainfall time series used for continuous urban water simulations was selected to be
+the same as the actual one. This choice came after analyzing the predicted future rainfall volume
+and annual number of rainfall events. The 50th percentile of the latter two variables did not show an
+increase in the future and therefore, together with the project stakeholders, it was decided to keep
+the current rainfall time series for continuous urban water simulations of the future climate change
+adaptation scenarios.
+2.2.3. Green Infrastructure in Badalona
+The proposed GI in Badalona was agreed together with local project stakeholders that spotted
+realistic near-future implementation areas. Three different types of GI were selected for the adaptation
+scenario: green roofs, permeable pavements and infiltration trenches (Figure 2). Extensive green roofs
+are assumed to be retrofitted to 5% of all the roof area of Badalona. Permeable pavements with a total
+area of 47,000 m2 are supposed to be implemented in 7 different public squares and parks. Infiltration
+trenches are supposed to be implemented in 5 different public parks that have a total area of 298,372 m2.
+These trenches are supposed to retain and infiltrate into the ground both the impervious and pervious
+stormwater runoff from the parks (mostly pervious areas) generated by a design storm of 10 years
+return period. A total trench volume of 1923 m3 was estimated (assuming a 95% porosity of the trench
+filling material).
+Overall, the planned GI implementation in Badalona would reduce the total impervious area by
+approximately 2%. It is noted that infiltration trenches do not reduce impervious areas; however, they
+do manage stormwater runoff from their associated catchment areas.
+2.2.4. The Future Rainfalls in Badalona
+Two different sources of future climate data were used in the case of Badalona. The future
+design storm events for flood simulations were obtained from climate projections results of the
+EURO-CORDEX project (www.euro-cordex.net) while the future rainfall time series for continuous
+urban water simulations were obtained from the decadal climate predictions of the Miklip project
+(www.fona-miklip.de) that were derived from the model MPI-ESM (www.mpimet.mpg.de/en/science/
+models/mpi-esm/).
+The CF used for flood simulations were obtained by calculating the 24 h rainfall intensity ratio
+between future projections (2051–2100) and historical simulated rainfall (1951–2005). Three different
+RCP scenarios were analyzed: 8.5, 4.5 and 2.6. The CF obtained with average rainfall intensities from
+RCP 8.5 scenarios were the ones selected together with the project stakeholders for flood simulations.
+A CF of 1.15 for the 2-year return period design storm was obtained, 1.07 for the 10-year, 1.02 for
+the 100-year and 1.01 for the 500-year. In this case, the same climate factor is applied to all rainfall
+durations. Calculating climate factors from 24 h rainfall intensity ratio can be a limitation [18].
+The future rainfall time series used for continuous urban water simulations were obtained in two
+steps: first, the daily rainfall was obtained using the Daily Spatio-Temporal Stochastic Precipitation
+Generator [19]; then, disaggregation of daily rainfall into 5 min values was made using a stochastic
+method that combined both the Bartlett–Lewis process [20] and further procedures (included into
+the R package ‘HyetosMinute’) in order to reproduce the 5 min rainfall observations from local rain
+gauges. This procedure provided an ensemble of 10 different time series with both historical and future
+rainfall. Only a single time series representing average future rainfall conditions was selected and
+Sustainability 2020, 12, 3792 7 of 18
+used for continuous simulations with the urban drainage and the sea water quality model (presented
+in Section 2.3.2).
+2.3. The Cost-Benefit Analysis
+2.3.1. Costs
+The capital (CAPEX) and operation and maintenance (OPEX) costs of the planned green
+infrastructure are based on unit costs obtained from both literature and local experience. The costs
+ranges found in provider websites, unpublished documents and literature have generally a large
+spread. In this cost-benefit analysis (CBA) the costs were derived partly from literature [21] and partly
+from unpublished documents and internal research projects. The different costs were converted into
+the same year value using consumer price indices. The CAPEX of extensive green roofs are assumed to
+be 80 €/m2 and the OPEX 2.33 €/m2/y. Bianchini et al. [22] reported a CAPEX range of 120–152 €/m2
+and an OPEX one of 1–12 €/m2 for extensive green roofs. The CAPEX of bioretention cells are 45 €/m2
+plus 2.25 €/m2 for plant implementation and the OPEX 0.45 €/m3/y. The CAPEX of detention and
+retention ponds are 100 €/m2 and the annual OPEX is 1.49% of the CAPEX. The CAPEX of permeable
+pavements are 49.5 €/m2 and the OPEX 1.375 €/m3/y. The CAPEX of infiltration trenches are assumed to
+be 185 €/m3 and additional 742 €/m3 the OPEX 50 €/m3/y. The additional CAPEX of infiltration trenches
+in this case include the costs of additional manholes, inlets and pipes that need to be constructed
+since these systems are supposed to be constructed into a public park area where existing drainage
+connections are limited. The estimated CAPEX of the infiltration trenches proposed in Badalona are
+similar to the costs paid by the municipality for an executed project. Zhou et al. [8,23] used investment
+costs of infiltration trenches in the range between 16 and 91 €/m2. Alves et al. [6] estimated annual
+OPEX as 3% of CAPEX costs.
+The lifetime of an infrastructure can vary depending on Its maintenance: the higher the
+maintenance costs the longer the lifetime [24]. In Badalona extraordinary maintenance was assumed to
+be carried out every 20 years with a cost equal to the 23% of the CAPEX at each intervention. Similarly,
+in Barcelona it was assumed every 20 years for bioretention cells and 50 years for green roofs and
+retention and detention ponds with a cost equal to the 50% of the CAPEX at each intervention.
+Residual GI value at the end of the project evaluation period was also considered according to
+European recommendations for evaluations of investments [25]. This reflects the value of the remaining
+potential use of GI since its services will be provided further beyond the end of the CBA evaluation
+period [25]. In this study, it was considered as a negative cost but it could also be considered as a
+benefit as the choice does not affect the net present value Equation (1) (it only affects the graphical
+presentation of cost and benefits).
+2.3.2. Benefits
+Several benefits can be included into CBA of green infrastructure [5,9,14]. Benefits can be direct
+and indirect, tangible (i.e., that can be quantified in monetary values) and intangibles [26]. In this study,
+direct and indirect tangible benefits are taken into consideration. The benefits of the GI scenario were
+calculated as avoided damages (or added values) compared to the BAU scenario that is considered to
+be the reference as typically done in similar CBA [3,5]. In this study, the benefits were organized into 3
+different categories for a better representation and discussion of the results:
+• Benefits derived from flood damage reduction. Benefits are defined as avoided direct and indirect
+flood damage costs. Flood damage costs were quantified in terms of Expected Annual Damage
+(EAD) using a 1D/2D urban drainage model together with design storms and a damage model
+based on tailored flood depth–damage curves [27]. The direct flood damages were quantified for
+infrastructure, vehicles, buildings and assets, while the indirect damages for business interruption.
+• Benefits derived from water quality improvements. Benefits are defined as avoided direct and
+indirect damage costs. The direct damages are quantified as environmental costs produced by
+Sustainability 2020, 12, 3792 8 of 18
+CSO spills to receiving water bodies and for avoided costs of combined sewage treatment. Indirect
+damages are monetized for coastal economies that are affected by the polluted water.
+• Additional benefits. Additional indirect benefits are monetized considering: increased aesthetic
+value, air quality improvement, reduction of the urban heat island effect and energy consumption,
+and habitat provision [22,24].
+Direct flood damages in both Barcelona and Badalona were quantified using coupled 1D/2D
+(urban drainage/overland flow) models and damage models based on tailored flood damage curves
+(developed for indoor flood water levels) and permeability coefficient curves that were developed
+together with flood insurance experts [27]. The damage model takes as inputs the deterministic and
+spatially distributed values of maximum flood depth simulated with the 1D/2D urban drainage model.
+The simulated flood depth from the 1D/2D model (considered as outdoor flood depth) is converted
+into building indoor water levels using the permeability coefficient curves and then the flood damage
+curves are applied to indoor water levels. In the case of buildings with basements further model
+parameters control the indoor flood water exchange from ground floor to lower floors. Both the flood
+models and the damage models (of Barcelona and Badalona) were calibrated and validated using
+historical data. The flood models used water level data in the drainage network, rain gauge data and
+photos of urban floods during different past rain events. The damage models used flood insurance
+compensation data from different flood events during the last few decades [27]. The most influential
+model parameters of the 1D/2D model were the roughness coefficients of pipes and urban surfaces and
+of the damage model the parameters controlling the indoor flood water level exchange from ground
+floor to lower floors [27].
+The 1D/2D model provides the maximum simulated flood depth for different design storms of
+different return periods between 1 and 500 years: 1, 10, 50, 100 and 500 years for Barcelona and 2, 10,
+100 and 500 for Badalona. For each return period, the total flood damages at the urban scale were
+calculated by multiplying the maximum simulated flood depth at each cadastral parcel by permeability
+coefficients and flood depth–damage curves that were specifically tailored for Badalona and Barcelona
+for different land uses (hotels, warehouses, restaurants, dwellings, car parks, etc.) and vehicles [28].
+The permeability coefficient curves were used to transform the 2D simulated flood levels on the urban
+floodable area into indoor water levels. Finally, Expected Annual Damage (EAD) was calculated
+including both direct and indirect damages as detailed in a previous study of Badalona [27]. Indirect
+flood damages due to business interruptions were estimated at 29% of the total direct damages using an
+input–output model [27]. This percentage is in the range of other studies that proposed 19–39% [29,30].
+The 1D/2D hydrodynamic models were developed with InfoWorks ICM (www.innovyze.com)
+and calibrated and validated using local rainfall and water level data. The 1D sewer model of Badalona
+includes approximately 368 km of pipes, 11,338 manholes, 11,954 sub-catchments, 62 weirs, 4 sluice
+gates, and 1 detention tank of 30,000 m3. The 2D model has 199,338 cells that form an unstructured
+mesh generated from a digital terrain model (DTM) of 2 m2 resolution obtained by a LIDAR with a
+precision of approximately 15 cm for the altitudes. The size of the 2D cells is in the range of 16–64 m2
+in the urban areas where most of the flood damages occur. The 1D sewer model of Barcelona includes
+approximately 2041 km of pipes, 85,834 manholes, 980 weirs, 44 sluice gates, 75 pumps and 285 storage
+nodes representing different kinds of chambers and 10 detention tanks with a total volume of more
+than 400,000 m3. The 2D model has 1,361,324 cells that form an unstructured mesh generated from a
+digital terrain model (DTM) of 2 m2 resolution obtained from a LIDAR. The size of the 2D cells is in
+the range of 25–100 m2.
+Direct and indirect water quality benefits were computed using continuous simulation of a 1D
+urban drainage model to estimate annual volumes of CSO and combined sewage water sent at the
+treatment plant. The urban drainage models used were the 1D/2D models presented earlier but without
+the 2D overland flow model. The urban drainage models were then coupled to a sea water quality
+model [31] to simulate the sea water contamination from CSOs and to estimate the average duration
+of insufficient bathing water quality. The duration of insufficient bathing water quality was used as
+Sustainability 2020, 12, 3792 9 of 18
+an input to a coastal economy model that estimates indirect damages to coastal economies caused by
+pollution of bathing waters and the consequent reduction of sea related leisure, sport and restoration
+activities. The coastal economy model includes different contributions. First, the daily direct added
+value of the coastal economy was calculated by selecting the expected business sectors affected by a
+beach closure (restaurants, small retails and maritime sector). This selection was based on the results
+of a field study based on surveys to beach goers and personal interviews to coastal business owners
+carried out in Barcelona and Badalona (see both H2020 BINGO and RESCCUE projects). Second, based
+on data from Barcelona’s economic annual report [32] a 50% share of the annual coastal economic
+added value was assumed to come from the bathing season [33], which lasts approximately 3–4 months
+in Badalona and Barcelona. Only the direct added value of coastal districts (identified by comparing
+the CSO spill points with the districts maps) affected by CSO spills were included. Furthermore,
+assumptions of the magnitude of the impact per sector were made based on the results of the local
+surveys: 50% impact to restaurants, 25% to retails and 25% to maritime sector (water sport and private
+fishing). The daily economic impact obtained by dividing the value added by the number of days of
+the bathing season, was finally multiplied by the average number of sea water pollution days (where
+the beaches could potentially be closed to bathing) to estimate the potential annual indirect damages
+to the coastal economy.
+The different GI systems were simulated in both the 1D and the 1D/2D drainage models by
+converting the planned GI areas from impervious areas into pervious areas with hydrological losses.
+This simplified approach was also used by Velasco et al. [4]. However, to the knowledge of the authors,
+this method was not validated with hydrological data and can be a limitation.
+The direct damages produced by CSO spills to receiving water bodies were calculated using a
+reparation cost method, which assumes that the value of the damage is equal to the cost of repairing
+it [34]. The direct damage produced by CSO spills was obtained multiplying the average annual
+CSO volume by the unit CSO damage cost of 0.7 €/m3 in Badalona. Instead, in the case of Barcelona
+different values were used: 2.69 €/m3 for CSOs to the sea and 1.50 €/m3 to the river and the harbor
+according to a Spanish regional normative devised for industrial spills [35]. Another benefit considered
+was the reduction of the sewage water to be treated by the wastewater treatment plants (WWTPs).
+The monetization of this benefit was calculated as the avoided costs of combined sewer water treatment
+that were estimated by multiplying the average treated annual volumes from the urban drainage
+model with a selected unit treatment cost of 0.12 €/m3 that is considered reasonable for local WWTPs
+based on local expertise. The tangible indirect damages (and the consequent benefits calculated as
+avoided damages) to coastal economies were estimated using the pollution time from the sea water
+quality model and the coastal economy model explained before.
+The additional indirect benefits considered are based on four contributions. The first is aesthetic
+value which is monetized as the willingness to pay for properties nearby, or that include green
+infrastructure, is measured through the increase of the value of these properties. This value could also
+include the increased property taxes acquired by the taxation authorities [8]. In this case, the benefits
+were estimated with a benefit transfer method to be the 3% of the CAPEX of GI [22]. The benefits
+derived from the reduction of energetic consumption (for indoor heating and cooling) and heat island
+effect are quantified using 0.049 €/m2/y per green roof unit surface [24]. Benefits derived from urban
+heat island reduction obtained with bioretention cells (that in Barcelona are planned) were not included
+and this can be a limitation. The air quality benefits are derived from both emission reduction (of
+CO2 and Nox) capacity of GI that was estimated to be 0.072 ton/ha and the cost of emissions of
+3051 €/ton [24,36]. The habitat provision was based on the potential increase of urban ecosystems that
+support wildlife and it was estimated to be 2.8 €/m2 for both case studies. This was estimated using a
+benefit transfer method from a study that assumed the value of habitat creation could be estimated at
+15% of the value of natural land [22].
+Sustainability 2020, 12, 3792 10 of 18
+2.3.3. Net Benefits
+The net present value (NPV) is calculated using Equation (1)).
+NPV =
+T∑
+t=1
+Bt −Ct
+(1 + i)t
+(1)
+where Bt and Ct are the benefits and costs at each year t, i is the discount rate, T is the project
+evaluation period.
+3. Results
+3.1. Costs
+Table 1 summarizes CAPEX and OPEX of the green infrastructure proposed in Badalona and
+Barcelona. The table shows that in the case of Badalona the total costs are approximately an order of
+magnitude lower compared to Barcelona. Barcelona has a bigger area and a much more ambitious
+implementation plan compared to Badalona. Further, the total GI costs of Badalona are dominated by
+green roofs. This is because green roofs are assumed to be retrofitted onto 5% of the total roof area of
+Badalona, whereas infiltration trenches are placed only on 7 different parks and infiltration pavements
+on 5 different parks and public squares.
+Table 1. CAPEX and OPEX of the analyzed green infrastructure.
+Badalona Barcelona
+CAPEX [€] OPEX [€/y] CAPEX [€] OPEX [€/y]
+Green roofs 14,534,788 405,157 114,752,240 3,342,159
+Infiltration trenches 1,783,561 96,150
+Permeable pavements 1,739,183 48,311
+Bioretention cells 85,509,743 1,357,298
+Detention and retention ponds 12,870,000 191,763
+TOTAL 18,057,531 549,618 213,131,983 4,891,220
+3.2. Benefits
+The first step in order to estimate benefits derived from flood damage reduction obtained by
+GI implementation is the estimation of EAD for both the BAU and the GI scenarios. Table 2 shows
+the EAD results. Generally, the EAD of these two BAU scenarios are considered to be overestimated,
+particularly in the case of Barcelona (see the Discussion section). Figure 3 shows the flood damage
+costs simulated as a function of different exceedance probabilities for the two case studies. The EAD
+that is the area below the curve of Figure 3 was calculated using simple trapezoidal contributions
+adopting the linear interpolation between the discrete points represented Figure 3.
+Table 2. Flood Expected Annual Damage including both direct and indirect damages.
+M€/y
+Barcelona
+EAD. BAU 62.65
+EAD. GI 33.90
+Flood damage reduction 28.75
+Badalona
+EAD. BAU 1.93
+EAD. GI 1.86
+Flood damage reduction 0.07
+Sustainability 2020, 12, 3792 11 of 18
+Sustainability 2019, 11, x FOR PEER REVIEW 11 of 19 
+reduced indirect damages to coastal economies; from air quality improvement and from reduction of 
+the urban heat island effect and energetic consumption are in the range of 0–1%. 
+  
+        (a)         (b) 
+Figure 3. Flood damage as a function of the exceedance probability for Barcelona (a) and Badalona (b). 
+Figure 4 provides a graphical representation of the contribution of each of the three benefit 
+categories proposed to the total benefits. Overall, significant differences are shown in the percentages 
+of Barcelona and Badalona. In the case of Barcelona, the benefits derived from flood damage 
+reduction are 56% of the total and in Badalona 6%. Additionally, water quality benefits have a larger 
+share in Barcelona compared to Badalona. This is probably because of the widespread GI 
+implementation of Barcelona compared to Badalona where a significantly less ambitious GI 
+implementation plan was considered. A different GI location in Badalona could result in higher water 
+related benefits. Cooper et al. [9] also looked into the contribution of multiple benefits associated to 
+green infrastructure (considered as a coastal flood adaptation measure) showing that benefits from 
+reduced residential damages were 69% of the total, recreational and health benefits 12% and avoided 
+commercial damages 12%. 
+  
+- € 
+100 € 
+200 € 
+300 € 
+400 € 
+500 € 
+600 € 
+0 0.2 0.4 0.6 0.8 1
+Fl
+oo
+d 
+da
+m
+ag
+e 
+[M
+€]
+Exceedance probability [-]
+Simulated
+Linear interpolation
+- € 
+10 € 
+20 € 
+30 € 
+40 € 
+0 0.2 0.4 0.6 0.8 1
+Fl
+oo
+d 
+da
+m
+ag
+e 
+[M
+€]
+Exceedance probability [-]
+Simulated
+Linear interpolation
+Assumed to be zero
+Figure 3. l f nction of the exc edance probability for Barcelona (a) and B dalona (b).
+Table 3 shows the details of the monetized an ual (not discounted) ben fits f r each of the three
+categories proposed and their percentage cont ibutio to the total benefits in Barcelo a and Badalona.
+The table shows that the benefits derived from reduced combined sewage tr atment c sts; from reduced
+indirect damages to coastal econom es; from air quality improvement and from reduction of the urban
+heat isla d effect a d energetic consumption re in the range of 0–1%.
+Table 3. Annual value of benefits (not discounted).
+Barcelona Badalona
+Benefit
+Category Description Value [€] Percentage
+Aggregated
+P rcentages Value [€] Percentage
+Aggregated
+Percentages
+Benefits
+derived from
+flood damage
+reduction
+Avoided direct
+and indirect
+flood damage
+costs
+28,745,795 56% 56% 66,536 6% 6%
+Benefits
+derived from
+water quality
+improvements
+Avoided
+environmental
+damage due to
+CSO to
+receiving waters
+11,876,496 23%
+24%
+44,306 4%
+5%
+Avoided cost of
+combined waste
+water treatment
+274,985 1% 945 0%
+Avoided
+indirect
+damages to
+coastal
+economies
+270,474 1% 9043 1%
+Additional
+benefits
+Added aesthetic
+value 6,393,959 12%
+20%
+436,044 40%
+89%
+Air quality
+improvement 71,272 0% 3992 0%
+Habitat
+provision 4,016,328 8% 508,718 47%
+Reduction of
+urban heat
+island effect and
+energy
+consumption
+85,031 0% 10,770 1%
+TOTAL 51,734,342 1,080,354
+Sustainability 2020, 12, 3792 12 of 18
+Figure 4 provides a graphical representation of the contribution of each of the three benefit
+categories proposed to the total benefits. Overall, significant differences are shown in the percentages of
+Barcelona and Badalona. In the case of Barcelona, the benefits derived from flood damage reduction are
+56% of the total and in Badalona 6%. Additionally, water quality benefits have a larger share in Barcelona
+compared to Badalona. This is probably because of the widespread GI implementation of Barcelona
+compared to Badalona where a significantly less ambitious GI implementation plan was considered.
+A different GI location in Badalona could result in higher water related benefits. Cooper et al. [9] also
+looked into the contribution of multiple benefits associated to green infrastructure (considered as a
+coastal flood adaptation measure) showing that benefits from reduced residential damages were 69%
+of the total, recreational and health benefits 12% and avoided commercial damages 12%.
+Sustainability 2019, 11, x FOR PEER REVIEW 12 of 19 
+Table 3. Annual value of benefits (not discounted). 
+ Barcelona Badalona 
+Benefit 
+Category 
+Description Value [€] Percentage 
+Aggregated 
+Percentages 
+Value 
+[€] 
+Percentage 
+Aggregated 
+Percentages 
+Benefits derived 
+from flood 
+damage 
+reduction 
+Avoided direct 
+and indirect 
+flood damage 
+costs 
+28,745,795 56% 56% 66,536 6% 6% 
+Benefits derived 
+from water 
+quality 
+improvements 
+Avoided 
+environmental 
+damage due to 
+CSO to receiving 
+waters 
+11,876,496 23% 
+24% 
+44,306 4% 
+5% 
+Avoided cost of 
+combined waste 
+water treatment 
+274,985 1% 945 0% 
+Avoided indirect 
+damages to 
+coastal 
+economies 
+270,474 1% 9043 1% 
+Additional 
+benefits 
+Added aesthetic 
+value 
+6,393,959 12% 
+20% 
+436,044 40% 
+89% 
+Air quality 
+improvement 
+71,272 0% 3992 0% 
+Habitat 
+provision 
+4,016,328 8% 508,718 47% 
+Reduction of 
+urban heat island 
+effect and energy 
+consumption 
+85,031 0% 10,770 1% 
+TOTAL 51,734,342  1,080,354  
+Figure 5 shows the discounted benefits during the stu y evaluation period (80 years, from 2020 
+t  2100 f r the considered scenarios). The results show that the benefits reach their aximum when 
+all GI are implemented: after 20 years in Barcelona and 5 years in Badalona. 
+  
+(a) Barcelona (b) Badalona 
+Figure 4. Contribution of each of the three different benefit categories to the total green infrastructure 
+benefits. (a) Barcelona and (b) Badalona. 
+Flood 
+56%Water 
+quality
+24%
+Addtitional
+20%
+Flood 
+6% Water 
+quality
+5%
+Addtitional
+89%
+t t iff fi
+fi
+Figure 5 shows the discounted benefits during the study evaluation period (80 years, from 2020 to
+2100 for the considered scenarios). The results show that the benefits reach their maximum when all
+GI are implemented: after 20 years in Barcelona and 5 years in Badalona.Sust inability 2019, 11, x FOR PEER REVIEW 13 of 19 
+  
+(a) Barcelona (b) Badalona 
+Figure 5. Contributions of the different benefit categories to the total green infrastructure benefits 
+(Discount rate = 1.23%). (a) Barcelona and (b) Badalona. 
+3.3. Net benefits 
+Figure 6 shows the discounted (rate of 1.23%) costs and benefits. Note that the y-axes of 
+Barcelona is approximately an order of magnitude higher than the Badalona one. This figure helps 
+visualizing that the ratio between benefits and costs is generally higher in Barcelona compared to 
+Badalona. 
+  
+(a) Barcelona (b) Badalona 
+Figure 6. Discounted (i = 1.23%) costs and benefits of green infrastructure. (a) Barcelona and (b) 
+Badalona. 
+The evaluation period T in this study was selected to be 80 years in both cases. Similar studies 
+performing CBA for climate change adaptation measures in the context of urban drainage planning 
+used 90 years [23]; 50 years [7] and 35 years [4]. 
+Figure 7 shows the discounted marginal benefits during the project evaluation period. Both 
+Barcelona and Badalona and two different discount rates (1.23% and 4%) were applied. Additionally, 
+three different combinations of benefits are included and shown. First, only benefits derived from 
+flood damage reduction are included, then flood together with water quality benefits and finally all 
+benefits from the three categories proposed: flood, water quality and additional benefits. These three 
+different combinations show that including multiple GI benefits significantly affects the results and 
+this is relevant for decision making of urban drainage planning. In the case of Barcelona, the NPV 
+obtained considering only benefits derived from flood damage reduction and a discount rate of 1.23% 
+0
+10
+20
+30
+40
+50
+60
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+Be
+ne
+fit
+s -
+M
+ill
+io
+ns
+total of all benefits
+only flood related benefits
+only water quality related benefits
+only additional GI benefits
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+Be
+ne
+fit
+s -
+M
+ill
+io
+ns
+total of all benefits
+only flood related benefits
+only water quality related benefits
+only additional GI benefits
+0
+10
+20
+30
+40
+50
+60
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+M
+ill
+io
+ns
+Costs
+Benefits
+0
+1
+2
+3
+4
+5
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+M
+ill
+io
+ns
+Figure . Contributions of the different benefit categories to the total ree i frastr cture e efits
+( isc t r t 1.23%). (a) Barcelona and (b) Badalona.
+3.3. Net benefits
+Figure 6 shows the discounted (rate of 1.23%) costs and benefits. Note that the y-axes of Barcelona
+is approximately an order of magnitude higher than the Badalona one. This figure helps visualizing
+that the ratio between benefits and costs is generally higher in Barcelona compared to Badalona.
+Sustainability 2020, 12, 3792 13 of 18
+Sustainability 2019, 11, x FOR PEER REVIEW 13 of 19 
+  
+(a) Barcelona (b) Badalona 
+Figure 5. Contributions of the different benefit categories to the total green infrastructure benefits 
+(Discount rate = 1.23%). (a) Barcelona and (b) Badalona. 
+3.3. Net benefits 
+Figure 6 shows the discounted (rate of 1.23%) costs and benefits. Note that the y-axes of 
+Barcelona is approximately an order of magnitude higher than the Badalona one. This figure helps 
+visualizing that the ratio between benefits and costs is generally higher in Barcelona compared to 
+Badalona. 
+  
+(a) Barcelona (b) Badalona 
+Figure 6. Discounted (i = 1.23%) costs and benefits of green infrastructure. (a) Barcelona and (b) 
+Badalona. 
+The evaluation period T in this study was selected to be 80 years in both cases. Similar studies 
+performing CBA for climate change adaptation measures in the context of urban drainage planning 
+used 90 years [23]; 50 years [7] and 35 years [4]. 
+Figure 7 shows the discounted marginal benefits during the project evaluation period. Both 
+Barcelona and Badalona and two different discount rates (1.23% and 4%) were applied. Additionally, 
+three different combinations of benefits are included and shown. First, only benefits derived from 
+flood damage reduction are included, then flood together with water quality benefits and finally all 
+benefits from the three categories proposed: flood, water quality and additional benefits. These three 
+different combinations show that including multiple GI benefits significantly affects the results and 
+this is relevant for decision making of urban drainage planning. In the case of Barcelona, the NPV 
+obtained considering only benefits derived from flood damage reduction and a discount rate of 1.23% 
+0
+10
+20
+30
+40
+50
+60
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+Be
+ne
+fit
+s -
+M
+ill
+io
+ns
+total of all benefits
+only flood related benefits
+only water quality related benefits
+only additional GI benefits
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+Be
+ne
+fit
+s -
+M
+ill
+io
+ns
+total of all benefits
+only flood related benefits
+only water quality related benefits
+only additional GI benefits
+0
+10
+20
+30
+40
+50
+60
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+M
+ill
+io
+ns
+Costs
+Benefits
+0
+1
+2
+3
+4
+5
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+M
+ill
+io
+ns
+Figure 6. Discounted (i = 1.23%) costs and benefits of gree infrastr cture. ( ) Barcelo a and
+(b) Bad lona.
+The evaluation period T in this study was selected to be 80 years in both cases. Similar studies
+performing CBA for climate change adaptation measures in the context of urban drainage pla ning
+used 90 years [23]; 50 years [7] and 35 years [4].
+Figure 7 shows the discounted marginal benefits during the project evaluation period.
+Both Barcelona and B dalona and two different di count r tes (1.23% and 4%) were applied.
+Additionally, three different combinations of benefits are included and shown. Fir t, only benefits
+derived from flood damage reduction are included, t n flood together with water quality benefits
+a d finally all benefits from the three cat gories proposed: flood, water quality and additional benefits.
+Th s three different combinations show that including multiple GI benefits significantly affects the
+re ults and this is relevant for decisi n making of urban drainage planning. In the ase of Barcelona,
+the NPV btained c sidering only benefits derived from floo damage reducti n and a discount
+rate of 1.23% (Figure 7a) increases by a factor of 1.74 when including flood and water quality benefits
+and by 2.37 when including all the three benefits categories. Instead, with a discount rate of 4.00%
+(Figure 7b), the NPV obtained considering only benefits derived from flood damage reduction increases
+by a factor of 1.95 when including flood and water quality benefits and by 2.76 when including all the
+three benefits categories. In the case of Badalona, the NPV also increases significantly by including
+multiple benefits. In this case, factors of increase of NPV are considered misleading because the NPV
+is mostly negative. The NPV in Badalona becomes positive only at the last five years of the study
+evaluation period (Figure 7c).
+In the two cases analyzed in this study two different discount rates were considered: the 1.23%
+that was recommended for climate change adaptation projects in the region of Catalonia [37] where
+the two considered cities are located and the 4% that was used in another CBA of climate change
+adaptation measures of Barcelona [4]. The discount rate is a controversial topic in economic valuation
+of policies, in particular in the context of climate change as it involves intergenerational and social
+valuation issues (Atkinson et al., 2018). In addition CBA results are very sensitive to the discount rate,
+particularly for projects with a long time horizon, where small changes of discount rate can influence
+the suggested decisions [38]. High discount rates imply that future economic impacts would have
+a lower weight compared to today’s value, and could lead to an underestimation of future benefits
+derived from damage reduction measures [39,40]. A CBA of GI for the case study of Melbourne used
+1.4% [7] and the range of 1 to 4% for GI Danish case studies of [3,5]. Some literature also proposed
+a 1% discount rate (Aaheim, 2010; Lopez, 2008; Stern, 2007). Different public institutions propose
+different discount rates. For instance, in Denmark, the Danish Environmental Protection Agency (EPA)
+recommended a 3% for environmental projects while the Department of Finance suggested 5% [5].
+The US EPA recommended 2–3% while the American office of management and budget proposed
+7% [5]. For developing countries the World Bank recommend 10% because of the significant GDP
+growth [38,41]. The UK Government proposed 3.5% for project evaluation periods of 1–30 years, 3%
+Sustainability 2020, 12, 3792 14 of 18
+for 31–75 years, 2.5% for 76–125 years, 2% for 125–200 years, 1.5% for 201–300 years and 1% for larger
+periods [42]. Generally, it is recommendable to consider different discount rates in order to quantify
+favorable and unfavorable scenarios.
+Sustainability 2019, 11, x FOR PEER REVIEW 14 of 19 
+(Figure 7a) increases by a factor of 1.74 when including flood and water quality benefits and by 2.37 
+when including all the three benefits categories. Instead, with a discount rate of 4.00% (Figure 7b), 
+the NPV obtained considering only benefits derived from flood damage reduction increases by a 
+factor of 1.95 when including flood and water quality benefits and by 2.76 when including all the 
+three benefits categories. In the case of Badalona, the NPV also increases significantly by including 
+multiple benefits. In this case, factors of increase of NPV are considered misleading because the NPV 
+is mostly negative. The NPV in Badalona becomes positive only at the last five years of the study 
+evaluation period (Figure 7c). 
+ 
+  
+     (a) Barcelona. i = 1.23%      (b) Barcelona. i = 4.00% 
+  
+   (c) Badalona. i = 1.23%    (d) Badalona. i = 4.00% 
+Figure 7. Accumulated marginal benefits of the proposed green infrastructure including different 
+benefit categories and two different discount rates. (a) Barcelona with i=1.23%; (b) Barcelona with 
+i=4.00%; (c) Badalona with i=1.23%; (d) Badalona with i=4.00% 
+In the two cases analyzed in this study two different discount rates were considered: the 1.23% that 
+was recommended for climate change adaptation projects in the region of Catalonia [37] where the two 
+considered cities are located and the 4% that was used in another CBA of climate change adaptation 
+measures of Barcelona [4]. The discount rate is a controversial topic in economic valuation of policies, in 
+particular in the context of climate change as it involves intergenerational and social valuation issues 
+(Atkinson et al., 2018). In addition CBA results are very sensitive to the discount rate, particularly for 
+projects with a long time horizon, where small changes of discount rate can influence the suggested 
+decisions [38]. High discount rates imply that future economic impacts would have a lower weight 
+compared to today’s value, and could lead to an underestimation of future benefits derived from damage 
+reduction measures [39,40]. A CBA of GI for the case study of Melbourne used 1.4% [7] and the range of 
+1 to 4% for GI Danish case studies of [3,5]. Some literature also proposed a 1% discount rate (Aaheim, 
+2010; Lopez, 2008; Stern, 2007). Different public institutions propose different discount rates. For instance, 
+-3000
+2000
+20 30 40 50 60 70 80 90 00[
+€]
+M
+ili
+o
+ns
+Including all benefits
+Including only flood related benefits
+Including flood and water quality related benefits
+-500
+0
+500
+1000
+1500
+2000
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+M
+ill
+io
+ns
+-500
+0
+500
+1000
+1500
+2000
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+M
+ill
+io
+ns
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+M
+ill
+io
+ns
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+20
+20
+30
+20
+40
+20
+50
+20
+60
+20
+70
+20
+80
+20
+90
+21
+00
+[€
+]
+M
+ill
+io
+ns
+late r i al efits f ff
+fi t different discount rates. (a) Barcelona with i = . ; )
+= 4. 0%; (c) Badalona with i = 1.23%; (d) B dalona with i = 4.00%.
+The cumulative NPV including all benefits in Barcelona becomes positive after 10 years wit a
+discount rate of 1.23% (Figure 7a) d after 11 years with a discount rate f 4.0% (Figure 7b). In Badalona
+it becomes positive after 75 years with a discount rate of 1.23% (Figure 7c) and it remains neg tive
+with a discount rate of .0% (Figure 7d). Over ll, the GI pl nning scenari of Barcelona seems to be a
+better socio-economical ption comp red to inaction. Instead, th GI pl nning s enario in Badalona
+seems t b a worse socio-economical option compar d to i action. Similarly, Zhou et al. [5] presented
+several stormwater infiltration scenarios th t can be considered as GI scenarios showing positive
+NPV at discount rates of 1% and both positive and negative NPV at discount rates of both 3 and
+5%. Zhou et al. [23] pres nte a negative 50th percentile of the NPV of their stormwate infiltration
+adaptation scenario. Alves et al. [6] obtained negative NPV for both a green roof and a p meable
+pavements adaptation scenario and a positive NPV for rainwater harvesting. Zhou et al. [3] report d a
+positive NPV for th ir stormwater infiltration scenari .
+Sustainability 2020, 12, 3792 15 of 18
+4. Discussion
+This study presented a CBA to evaluate the socio-economic viability of selected GI applied to
+two different case studies: Barcelona and Badalona. The results are significantly different among
+the two cases: Barcelona has higher NPV compared to Badalona. Additionally, the accumulated
+marginal benefits (Figure 7) of Barcelona are mostly positive and become positive after tens of years
+compared to Badalona where they are mostly negative during the 80 years project evaluation period.
+The dominating GI benefits (Figure 4) in Barcelona are from flood damage reduction while in Badalona
+from additional benefits (mostly aesthetic and habitat provision). Direct comparison between the
+two case studies is difficult for several reasons: the scale difference (Barcelona is much bigger than
+Badalona), the current situation (Barcelona has much higher flood damage costs than Badalona),
+the different approaches used to derive CF and the differences of GI planning (Barcelona has an
+intensive GI implementation plan while Badalona has a sparse one). The fact of having a sparse
+implementation plan that was not devised to solve particular urban water problems might result in the
+lower socio-economic performance of the case of Badalona compared to Barcelona. Further comparison
+between the results obtained in Badalona and Barcelona is considered out of the scope of this study.
+Generally, CBA are sensitive to parameter uncertainty and model assumptions. Therefore,
+quantifying uncertainty of NPV estimations of climate change adaptation options is relevant and in
+this study only uncertainty related to discount rate was addressed as also done in other studies [9].
+Uncertainty is often quantified by analyzing different present and future climate scenarios [4,5,7] and
+by analyzing different investment options [3]. Zhou et al. [23], instead of using a scenario approach
+where variables are changed individually, quantified the NPV uncertaint

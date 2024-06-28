@@ -1,0 +1,783 @@
+Analyzing Poverty and Resilience to Shocks of Bamboo Producing Smallholders in North-West Ethiopia
+
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+1 
+Analyzing Poverty and Resilience to Shocks of Bamboo Producing 
+Smallholders in North-West Ethiopia 
+ 
+Dagnachew Walle1      Abrham Seyoum2 
+1.Arbaminch University 
+2.Addis Ababa University, Ethiopia 
+ 
+Abstract 
+Exploring and understanding the multiple purposes of bamboo on enhancing and sustaining the livelihood of 
+smallholders’ through multidimensional poverty reduction and mitigating shocks is so crucial.  Data analysis was 
+done using both descriptive and econometric analysis using the software package of stata thirteen. As the result 
+revealed that, pests affecting crops and the large increase in input price were relatively high frequent shocks in the 
+households.  As the finding shows that, 29.13 percent of the smallholder farmers were multidimensional poor. To 
+examine resilience to shocks of smallholder, RIMA models using factors analysis was run. As the factory analysis 
+explored that, 233(47.94 percent) of smallholder were resilient to shocks and 253(52.06 percent) were non-resilient. 
+Among bamboo, users80.15percent were resilient while the non-user (32.92percent). The study recommends on 
+the need for policy and strategies design to enhance the well-being of smallholder and to build resilience to shocks, 
+organizing bamboo producer smallholder in a bamboo cooperative, providing extension service proper processing 
+of bamboo value chain should have to a policy in North- West Ethiopia. 
+DOI: 10.7176/JPID/59-01 
+Publication date: February 28th 2021 
+ 
+INTRODUCTION 
+Among the various resources in the world, bamboo is one of the most important. It is a global fact that rural 
+households have an attachment to natural resources in general and to forest particular for consumption and non-
+consumption purposes. Bamboo has taken an attention for its numerous uses and its advancing new applications 
+for the last twenty years on the globe Chirwa and Meliczek (2014). It offers substantial economic, social, and 
+environmental uses, fuel wood, timber and non-timber products, construction materials, medicinal uses, and 
+cultural values for local communities particularly for smallholders (Mohammadi et al., 2010, INBAR, 2010). 
+Around the globe above 600 million people make their income from bamboo, and about 2.5 billion people based 
+their life on bamboo with an estimated value of US $ 7 billion per year FAO, (2005). To this effect, bamboo has 
+enormous potential for enhancing the environment, resilience to shocks, reducing poverty, UNIDO, (2009). 
+Particularly, the bamboo sector has the potential to end poverty and mitigating shocks. In addition to this as, 
+INBAR (2015) stated in its report by promoting bamboo planting and cultivation can help the poor provide with a 
+natural resource that they have access to and ownership over and principally resilient to natural and manmade 
+shocks and reduce the severity of poverty.  
+Among the definition of poverty still no consensus due to its multifaceted nature, spatial, temporal, and 
+personal differences Teshome, (2012). But in this article, it means that multidimensional deprivation in education, 
+health, and living standards on bamboo producing smallholders. Currently, the prevalence of poverty in Ethiopia 
+is 0.564MPI, particularly 0.588and0.584MPI in Amhara and Benishangul-Gumuz regional states respectively 
+Alkire, S. and Robles, G. (2016). 
+Shocks are occasions that adversely distress household prospects. These may be tremendously shocking 
+natural events such as drought, Flood and soil erosion, Crop diseases, and Livestock diseases Tesfaye Gedefaw 
+(2013). Among such shocks in Ethiopia including Awizone from Amhara and in Benshangulgumuze regional 
+states drought has long lasting history and recently in 2015 it devastate livelihoods multidimensionality so 10.2 
+million people in need of food aid, 435,000 children are in need of treatment for severe acute malnutrition, more 
+than 1.7 million children, pregnant women and lactating women are in requisite of supplemental feeding, more 
+than 5.8 million populaces are in requisite of emergency water, more than 2 million children on  average were 
+dropping out their school attendance UNICEF, (2016).Despite these deprivations are  pillars of sustainable 
+development objective United Nations, (2016). 
+However, Ethiopia is one of the countries in the world gifted a huge bamboo resource base Embaye (2000), 
+Kelbessa et al. (2000) and Yemishaw et al. (2009). The country has about one million hectares of woodland 
+bamboo, and from which 7% covers the world total and 86% of the African total Embaye et al. (2003), FAO (2006) 
+and Wang (2006) and particularly in Awizone, Amhara regional state2380 and 77947 in Assossa, 
+Benshangulgumuze regional state in hectare Ensermu et al., (2000). It was valued that over 1.2 billion USD can 
+be made each year if the country’s bamboo supply is appropriately utilized INBAR (2010).  According to Arsema, 
+(2008) finding that the framers of the Shedem area in the Bale Zone of Ethiopia made 47% of their yearly income 
+from collecting and marketing of bamboo culms. Yenesew Assaye et al., (2013) studied the socioeconomic 
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+2 
+contribution of high land bamboo for household livelihood in Banja, district, northwestern, Ethiopia, and he 
+revealed that the contribution of bamboo to the HHs’ annual income is about 48.7%, and much more power full 
+than other timber product forests. However, regarding its massive and higher potential is limited in income 
+generation and serve as a means to resilience to shocks due to the existing marketing system of the bamboo sector 
+is informal as such there is no interwoven system between product markets at local level and central markets. 
+Different researchers examine the contribution of bamboo on income generation and means of rural livelihood 
+in the country, Ethiopia and particularly in north-west Ethiopia. For example, a research conducted in 2006 at bule 
+district, gedeo zone, SNNPR by Fekadu Tarekegn discovered that the support of bamboo to the gross household 
+income was found to be only 5.6% of the total following crop and livestock production, which is one-fourteenth 
+of the income from agriculture. Similarly the study carried on the Bale zone at Shedem Kebele revealed that 
+bamboo was collected by 99% of 362 respondent households and it’s used as a secondary source of income next 
+to agricultural earnings Tinsley and Bridget (2014). The income generating from bamboo subsidizes more to lower 
+income smallholders, which accounts about 38% and used as a means of alleviating poverty. 
+The bulk of the empirical evidence available for the analysis of bamboo potential focused only the annual 
+income earning from their resource and they did. Assess the poverty and resilience to shocks smallholders 
+producing bamboo using multi-dimensional approaches. Consequently, this study was employed multidimensional 
+poverty index and resilience index measurement analysis (RIMA) model to analyze multidimensional poverty and 
+resilience to shocks of bamboo producing smallholders and the bamboos multifaceted purpose of ending poverty 
+and mitigating shocks. In line with this, this study used as a bench mark of literature review for further study and 
+it contribute its own role in academic arena. 
+The specific objectives of the paper are 1) Analyses the multidimensional poverty status of bamboo producing 
+smallholders, 2) Identify the intensity and frequency of shocks facing bamboo producing smallholders and 
+Examine resilience to shocks of bamboo producing smallholders. By addressing these inquire; this paper has its 
+own significant role in creating a chance for those smallholders to be diversifying their agricultural systems, for 
+researchers show how to measure multidimensional poverty and resilience to shocks. More over this paper has a 
+crucial role in providing full information for policy makers to incorporate bamboo resources as a policy option to 
+mitigate multidimensional poverty and resilience to shocks of smallholders.  
+ 
+Study areas, data sources and Sampling methods 
+This study is based on primary and secondary data from North-west Ethiopia of both high land and lowland 
+bamboo species  potential areas, particularly Amhara and Benshangulgumuze regional states in 2016/2017.The 
+survey was implimented two zones in Amhara and one zone from Benshangulegumuze. In both regions multistage 
+sampling procedure was employed to select respondents. In Amhara a sample consists a total of 344 and from 
+Benshangulgumuze 142 respondents were concidered.  
+ 
+ANALYZING MULTIDIMENSIONAL POVERTY STATUS OFBAMBOO PRODUCING 
+SMALLHOLDERS 
+Poverty has been traditionally measured in unidimensional. Among the unidimensional measures Sen’s Capability 
+approach has taken a lion share and widely applied. This method comprises non-income constituents such as life 
+expectancy, literacy and infant mortality to measure poverty. Sen (1985) focused on the superiority of life and 
+underlined on the eradicating of problems so that people could have more freedom to function. He elucidated basic 
+capability as the freedom to do basic activities essentially to eliminate poverty. 
+The capabilities approach (Sen, 1979, 1983, 1985, 1997) criticizes poverty measurements based solely on 
+possessions because resource accessibility says not anything about what people do or may well do with those 
+possessions. Abilities thus designate people’s possibilities or degrees of freedom to satisfy certain functions, such 
+as being well fed, obtaining employment and education. In this motivation, poverty is viewed as powerlessness to 
+achieve certain basic functions. In line with these various studies revealed that in both developing and developed 
+country’s estimation of poverty using unidimensional poverty measurements fail to adequately capture the 
+proportion of the poor within the overall populace. This is because among other motives it fails to consider the 
+multi-dimensional nature of poverty (Sen 2000; Alkire and Santos 2010). According to Sen (2000), human lives 
+are maltreated and reduced in all classes of different ways, and the principal task is to recognize that deprivations 
+of very different categories have to be accommodated within a general all-embracing framework. Thus, the view 
+that poverty is composite and multi-dimensional renders the income and expenditure measurement approach 
+inadequate. 
+Therefore, nowadays to analyze the multidimensional deprivation, multidimensional poverty indices (MPI) 
+have been employed as preferred measurements of poverty due to their own advantages over unidimensional 
+measurements. This is because of MPIs multifaceted advantages over other poverty measurement methods such 
+as unidimensional poverty measures in income do not assurance an enhancement in other dimensions like health, 
+education and living standard. From the perspective of the capability approach, poverty is not the only 
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+3 
+dispossession of income reasonably it is lack of other social indices, i.e. Health, education and other capabilities, 
+Multidimensional poverty does not oscillate due to inflation Alkire and Santos (2010).MPI also has an advantage 
+over HDI (Human Development Index) such as HDI is a macro miracle which measures welfare at the country 
+level. It uses country means to reflect collective dispossessions in health, education, and standard of living. 
+Although it can be disaggregated at micro group or regions such as district level or state level but the central 
+problem is that it depends on macro data. These are combined in a way such that the data directly are not used to 
+calculate the index. It could not pinpoint specific individuals, households or larger groups of people as equally 
+deprived. But the MPI uses household as the unit of analysis, which is then summed up to country level. The MPI 
+addresses the poverty circumstances by picking up how many people experience overlying dispossessions 
+(prevalence) and exactly how many dispossessions they face meanly (intensity). By the way it is constructed, 
+accessible information can be used proficiently and loss of information is diminished. The MPI can be classified 
+by the indicator to illustrate how the components of multidimensional poverty fluctuations for different regions, 
+ethnic groups with useful implications for policy. Moreover, MPI has miracle welfares such as monitor the 
+standard and components of poverty, target the poorest more efficiently, pinpoint poverty traps and chronic poverty, 
+and relate the composition of deprivations in different areas or for different ethnic groups, and kinds of household, 
+sabina alkire (2009).  
+As a result of these multiple functions, Multidimensional Poverty Index (MPI) is considered to measure 
+critical poverty (Alkire & Santos, 2010) and multidimensional poverty indices are used as a guide intended to 
+measure critical poverty. Critical poverty denotes that multiple deprivations in terms of education, health, and 
+living standards within their observable indicators such as if one doesn’t accomplish five years of schooling in the 
+household, does one school- age child joined in school, does one member from the household is malnourished, 
+from the household does one or above children under 5 years have died, does the household at least accessible to 
+electric, households does not access to solar energy, if households does not access to clean drinking water, if 
+households does not accessible to adequate sanitation, if households does uses traditional energy for cooking (dung, 
+fire wood, Charcoal),and if households house floor construct with mud, sand, dung Human development report 
+(2015). 
+To analyze multifaceted poverty status of bamboo producing smallholders, the multidimensional poverty 
+index employed for analysis using the software package of Stata version thirteen. Clearly, it presents as; 
+ 
+Multidimensional Poverty Index measurement latent variables and indices 
+Dimensions Indicators of dimensions measurements 
+Education No one has completed five years of 
+schooling in the household 
+1=no hh member complete five year schooling 
+0=otherwise 
+ At least one school- age child not 
+enrolled in school 
+1=if school age chilled doesn’t enrolled in school 
+0=otherwise 
+Health At least one member is malnourished 
+with in the 12months 
+1=if malnourished in kcal. 
+0=otherwise 
+ One or more children under 5 years 
+have died within 12 months 
+1=if under five age child died 
+0=otherwise 
+Living 
+standards            
+No access to electric 1=no access 
+0=otherwise 
+ No access to solar energy 1=no access 
+0=otherwise 
+ No access to clean drinking water 1=no access within30minut walking 
+0=otherwise 
+ No access to adequate sanitation 1=no access 
+0=otherwise 
+ Household uses dirty cooking fuel 
+(dung, fire wood, Charcoal) 
+1=no access to electric cooking fuel 
+0=otherwise 
+ Household has construct his house 
+floor with dung, sand, mud 
+1=no accessible 
+0=otherwise 
+Based on this information the head count ratio, intensity of poverty MPI value and contribution of dimensions for 
+deprivation were done as the following; 
+The headcount ratio (H) is the percentage of the multidimensionality poor in the populace: =  
+Where, q is the number of people who are multidimensionality poor and  
+n is the overall populace. 
+The intensity of poverty (A) represents   the proportion of the weighted constituent indicators in which, meanly 
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+4 
+deprived 
+ 
+Where, ci is the deprivation score that the ith deprived individual involvements. 
+The MPI value is the result of two measures: the multifaceted poverty headcount ratio and the intensity of poverty. = ∗  
+The contribution of dimension j to multidimensional poverty can be stated as 
+ 
+ 
+EXAMINING RESILIENCE OF BAMBOO PRODUCING SMALLHOLDERS’ 
+Resilience to shocks is a crucial concept to analyze the bulk of smallholders to survive with, familiarize and benefit 
+from it. Knowledge and experience of smallholders to shocks provide a prominent environment to policymakers 
+to design policies with the shocks. Therefore quantitatively analyzing smallholder’s resilience is the key point. But 
+the main problem associated with resilience can’t be measured directly due to its latent variable nature. The means 
+of detecting this problem is that specifying resilience as a latent variable (Alinovi et al, 2010). 
+According to Alinovi et al., (2008 and 2010) resilience index, the household resilience index measurement and 
+analysis (RIMA) model were determined by IFA, ABS, AST, SSN, and AC. 
+RI=f (IFAi, ABSi, ASTi, SSNi, ACi) 
+Where, R=resilience, IFA= Income and food access, ABS= Access to basic services, SSN= Social safety nets, 
+AST= Assets, and AC= Adaptive capacity 
+In order to estimate the resilience of households (R) to shocks, it is necessary to first estimate the IFA, ABS, 
+SSN,A, and AC of the households which are separately considered as latent variables themselves because they 
+cannot be directly observed in a given survey (Alinovi et al., 2008 and 2010). Therefore, the researcher followed 
+two-stage processes to measure the resilience of households to shocks. In the first stage, the observed variables 
+were used to estimate the first set of latent outcome variables via a factor analysis. In the second stage, the resilience 
+index was computed using a factor analysis of the interacting latent outcome variables estimated in the first stage. 
+Henceforward, the overall resilience index is the summed weighted of the factors produced and quantified as:   = ∑WkFk 
+Where Wk is the weights of k variables and Fk is the factors of the k variables. The weights are the proportions of 
+variance explained by each factor. 
+Resilience latent variables and indices 
+components Indicators Measurements 
+Income and 
+food access 
+(IFA)                    
+Average per household daily expenditure Local currency(ETB) 
+Household food consumption (Kcal)   
+/household/day 
+Kcal 
+Access to basic 
+services (ABS) 
+Access to health service 1=if accessible 
+0=otherwise 
+Access to educational service 1=if accessible 
+0=otherwise
+Access to market service 1=if accessible 
+0=otherwise 
+Social safety 
+nets (SSN)            
+Amount of cash received from donor’s local 
+currency/household/month. 
+  
+ Local currency(ETB) 
+Assets (A) Access to farm land (per hectare) 1=if accessible at least one 
+hectare of agricultural land 
+0=otherwise 
+Access to livestock (TLU) 1=if accessible farming animals
+0=otherwise 
+ Households access to durable assets(Tv, radio, mobile) 1=if accessible 
+0=otherwise 
+ Households access to clean drinking water, adequate 
+sanitation, and uses electric cooking fuel   
+1=if accessible 
+0=other wise 
+Adaptive 
+capacity (AC) 
+Income generation from bamboo product (local 
+currency)    
+Local currency(ETB)
+ Income from diversified sources In numbers  
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+5 
+And finally to examine the relative importance of the latent resilience dimensions to smallholders resilience 
+to shocks, regression analysis was done through OLS (ordinary least square).  
+RI= δ+β1IFA+ β2ABS+ β3SSN+ β4AST+ β5AC+℮ 
+Where, R=resilience, IFA= Income and food access, ABS= Access to basic services, SSN= Social safety nets, 
+AST= Assets, and AC= Adaptive capacity, δ=Constant, β1-5=Coefficients of variables and ℮=error terms. 
+ 
+Empirical Results 
+In the study area, bamboo production was occupied by private, community and both private and community. In 
+terms of bamboo cultivation, 61.11 percent of the smallholders engaged in homestead bamboo cultivation and 
+harvest from natural forest and 38.89 percent households in the study area do not engage in bamboo cultivation. 
+In terms of sex, male- headed households were grown bamboo in their own farm than female- headed households. 
+The household who engaged in bamboo cultivation in their homestead from the total land 0.625 hectares or 13 
+percent were covered by bamboo. Regarding bamboo culms, the respondent households had on average of 2780 
+culms and 423 culms were selling in past 12 months and earning income 2771.61birr with the standard deviation 
+of 5882.305 and the maximum income from bamboo culms sell is 67080.This shows that there is a big income 
+inequality among smallholders being engaged in bamboo production and does not engaged in bamboo production. 
+In the study area, the main products produced from bamboo were mats, basket, mosob, shelf, and others 
+products and earning an annual income of 2167.93 birrs and its maximum income earning is 4800. This finding 
+shows that in the study area, bamboo products limited to traditional uses only, tied by obsolete technology and no 
+more market access for the bamboo products. 
+From the row bamboo processing point of view, household members engaged in processing to different 
+products and sell 324 males and 26 female, an average age of 29 and 27 for male and female respectively. This 
+means that bamboo takes a lion share in creating of job opportunity to youths. Regarding the main purpose of 
+bamboo in the study area is for building fences, house construction, making furniture, soil and water conservation, 
+food and fodder respectively. The finding revealed that bamboo has multiple purposes in the study area. As shown 
+in the result, it has environmental, fodder for animals, filling the gap of the food supply in harsh condition, fill 
+income gaps beyond full filing households equipment. 
+ 
+The role of bamboo on poverty alleviation and resilience to shocks 
+Bamboo has a huge potential for economic development and improving the living standards of smallholders in 
+North-West Ethiopia. Bamboo provides a meaningful advantage to smallholder farmers with little access to 
+diversified livelihoods. The incomes generated by households add more to the agricultural economy in general and 
+act as poverty alleviates for smallholders through the producing, processing and sale of bamboo products. This 
+finding is similar to the finding of FAO, 2005, a thematic study prepared in the framework of the Global Forest 
+Resource Assessment 2005. 
+In the study area, bamboo is mainly used for constructing houses, building fences, sources of fuel-wood, 
+fodder for animals, handicrafts, and particularly in Benshangulgumuze region, for human food. Generally, the 
+multiple purposes of bamboo is limited to traditional uses. This study agrees well with the finding of Fekadu 
+Tarekegn, (2010). The contributions of highland bamboo (Yushania alpina) to rural livelihoods and status of its 
+domestication at bule district, gedeo zone, SNNPR. 
+The present study also indicated that, agriculture alone could not sustain the overall proportion of the 
+households in the studied district and that support from other activities should complement household livelihoods. 
+To this end, the role and importance of bamboo were found to be crucial in filling income gaps and supplying the 
+needs of households for additional income to fulfill basic needs, child educational expenses, health care, and means 
+of surviving and resilient to different shocks. 
+Generally, the monthly mean incomes of 297 bamboo producers were 2965.5 while the 189 non-user mean 
+is 1559.57which is significant at α 0.05%. This finding disagrees with the finding of Fekadu Tarekegn, (2010) that 
+indicates the contribution of high land bamboo to rural livelihoods at Blue district was insignificant. 
+ 
+Major shocks reported by the respondents 
+Among different shocks reported by respondents, pests affect crops before harvest, a large increase in input price 
+and death of livestock are more frequently exist in the study area. The percentage of households that reported pests 
+affect crops before harvest, a large increase in input price and death of livestock as shocks over the last 12 months 
+were 60.08, 46.3    and41.36 percent respectively (table 13). Regarding their severity, pests affect crops before 
+harvest, a large increase in input price and large increase in food price were more severe than other shocks and 
+144(29.63 percent), 122(25.1percent)  and 89 (18.31percent) households were affected by those shocks (table 14). 
+This finding shows that to increase yield productivity, input price is a critical problem. In line with this, the 
+produced yield by smallholders not sufficient to cover their food consumption, as a result, they had very severely 
+damaged by incremental of food price.  
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+6 
+Households endeavored to cope with the negative impact of the shocks by sold livestock, obtain credit, engage 
+on more employment, cut and sell bamboo culms, make and sell bamboo products, reduce health and educational 
+expenditure and using bamboo for food were employed by 261(53.7 percent), 222(45.68 percent), 219(45.05 
+percent), 199(40.95 percent), 107(22.02 percent), 64(13.17 percent), 62(12.76 percent) households (table 15). This 
+finding revealed that, bamboo grower smallholders using bamboo as a means of mitigating bamboo to shocks to 
+able to resilient to shocks. 
+ 
+Econometric analysis of multidimensional poverty status of smallholders  
+Based on international conciseness of the former MDG’s and nowadays sustainable development goals (SDG’s), 
+this paper employed ten indices by customizing and belonging to three dimensions education, health, and living 
+standards. These indices compose the multidimensional poverty index two of them for education, two for health 
+and the rest of six indices for living standards. 
+The weight given to the dimensions was allocated equally, thus each dimension received one third or 33.3 
+percent. Each index within the dimensions also allocated equal weight, so that the indices in education and health 
+received one- sixth or 16.7 percent and indices in living standards was received one eighteen or 5.55 percent. In 
+line with this, the analysis showed that the incidence of multidimensional poverty is 57.82percent and 57.82 
+percent of the people live in multidimensional poor households. In addition to this, the intensity of 
+multidimensional poverty is 50.38 percent and 281smallholder farmers were deprived in 50.38 percent of the 
+weighted indices. Onwards, 29.13 percent of smallholders were multidimensional poor. 
+Regarding multidimensional deprived smallholders, 162(33.3percent) bamboo producers were 
+multidimensional poor while 189 (38.8 percent) were non-bamboo producers. This result revealed that,  from 189 
+non-bamboo producer smallholders,109 (57.67percent) were multidimensional deprived and bamboo has its own 
+role on alleviating multidimensional poverty through filling the income gap of the household to fulfill the 
+educational, health and day to day living expenditure relatively than non- producers. 
+ 
+Econometric analysis of smallholders’ resilience to shocks  
+As shown in the conceptual framework, identification of applicable variable is the basic one for effective and 
+efficient policy design. Policy intervention must focus on relevant variables to provide effective and efficient 
+resilience building. To undertake this task, the two steps of analysis were performed. Firstly, as done in Alinovi et 
+al (2009) factor analysis was run for each latent dimensions. And then, policy variables were selected based on 
+their Eigenvalues, KMO, factors loadings and explained variance through generated factors.  
+Income and food access (IFA): Among different latent dimensions of smallholders’ resilience, IFA is one of the 
+important dimensions. IFA directly correlated with smallholders’ consumption in different ways. In North-West 
+Ethiopia especially in rural areas, smallholders’ access to consumptions is a severe problem. Identification of 
+relevant indicators that contain income and food access is necessary as each index targeted to design the policy 
+that aims to build resilience. The main indices of IFA that employed to estimate access to consumption were 
+household monthly expenditure and household food consumption in Kcal (Alinovi et al, 2009). The estimation of 
+IFA through indices was after running exploratory factor analysis. 
+Household expenditure: this is an indicator that constitutes expenses of smallholders for the purpose of 
+smallholders’ consumption and to sustain their livelihood. This indicator is positively and directly related to 
+smallholders’ resilience to shocks.  
+Household food consumption: This is an indicator that indicates the number of smallholders’ kilocalories intake 
+and it is positively and directly related to stallholders’ resilience to shocks. Based on these indicators factor analysis 
+was run to estimate IFA using principal component factor method by using Stata version thirteen. Among the 
+indices of income and food access, household expenditure indicator has taken the lion share and play a significant 
+role in the    estimation of it, whereas food consumption indicator is less important where compared to the former 
+one. 
+In general, as mentioned above in the methodology part, the indicators factor weight was used to estimate 
+IFA index. As a result, household expenditure indicator was used to estimate IFA index. It was estimated as; = (0.599 ∗ 1 ) 
+The result obtained through this formula was further used as one of the latent variables in estimating the overall 
+resilience index for each smallholder.  
+Access to basic services (ABS): Smallholders access to basic services, such as education, market and health is a 
+basic aspect of smallholders resilient to shocks. In line with this, these variables determine the capacity of 
+smallholders to generate income from their assets (Dercon et al, 2007). 
+To examine smallholders’ resilience to shock ABS has been employed as a latent dimension (Alinovi et al, 2010). 
+Kindly, ABS affects the smallholders’ resilience to shocks through different ways. In North-West Ethiopian 
+especially in rural areas, smallholders’ access to the market is a crucial problem. Identification of relevant indices 
+that constitute ABS was essential as each index targeted to design a policy that aims to build resilience. The main 
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+7 
+indices employed to estimate ABS was access to education, access to the market, and access to health services. 
+The estimation of ABS through indices was after running exploratory factor analysis.  
+Access to education: This indicator determines the level of knowledge and understanding of smallholders to 
+shocks and their coping strategies to recover. The accessibility was determined based on smallholders’ time taken 
+to the service via walk ≥ 30 minutes (reference).  
+Access to market: One of the indices to estimate access to basic services and determine the ability of smallholders’ 
+generating income from their bamboo production.  
+Access to health service: This one is the third one among the most important indices of ABS. If a household is 
+accessible to health service, is more healthy and generate income from different income sources and resilient than 
+non-accessible. Based on these indices factor analysis was run to estimated ABS using principal component 
+factoring method by using Stata version thirteen.  
+Among the indices of ABS, access to education has taken the highest share and play a significant role in the 
+estimation of it, whereas, access to health service and access to market indices were less important when compared 
+to access to education indicator respectively. In general, as mentioned above in the methodology part, the indicators 
+factor weight used to estimate ABS index. As a result, access to education was used to estimate ABS index. It was 
+estimated as;  
+ABS = ( 0.437 ∗ 1)  
+The result obtained through this formula was further used as one of the latent variables in estimate the overall 
+resilience index for each smallholder.  
+Social safety nets (SSN): Access to cash and in- kind transfer, represents the main source and mechanisms of 
+generating additional income in most developing countries. Private and public transfers improve smallholders’ 
+annual income and contribute its role in alleviating poverty and building resilience to shocks (FAO, 2016). A 
+Social safety net is one means of income generating activities for stallholders to cope with the adverse shocks. 
+This dimension was estimated using cash and in- kind receives of smallholders from donors, relatives, friends, and 
+others as indices. This index has a direct and positive relationship with the smallholders’ resilience to shocks. 
+Based on this indicator factor analysis using principal component factoring method has been run to estimate  SSN 
+using Stata version thirteen software.  
+The indicator, cash received from donors has effectively estimated SSN latent dimension. The relationship 
+between the indicator and the latent dimension in the case of SSN was positively related. This finding shows that 
+cash received from donors has its own contribution to smallholders’ resilience to shocks but as the result shows, 
+the in-kind transfer was insignificant in the estimation of SSN. This means that the in- kind receive of smallholders 
+during adverse shocks was insufficient.  
+According to Ciani, (2012), SSN considered dependence on different donors, charities, non-governmental 
+organizations nationally and internationally. In this study, the dependence of smallholders or national and 
+international donors were totally absent. Generally, the index of SNN was estimated as;  
+SSN =( 0.501 ∗ 1).  
+The result obtained through this equation was further used as a latent variable in estimating the overall resilience 
+index for each stallholder. 
+ASSETS (AST): Both productive and non-productive assets of smallholders are the key elements of their 
+livelihood, smallholders able to generate consumable and/or tradable goods and services.  
+This dimension measures the impact of assets on smallholder’s resilience to shocks. Assets contribute a non-
+replaceable role in the smallholders’ risk-coping strategies. This dimension is more important components of 
+smallholders resilience, as a result, the more smallholders own asset, the more copes from shocks and resilient to 
+shocks.                  
+The latent dimension assets were estimated using indices of access to a farm land, access to livestock and 
+smallholders’ access to durable assets.  
+Access to farmland: This variable refers total land of smallholders owned. In North-West Ethiopia, the main 
+livelihood strategies of smallholders were agriculture specially crop production. Hence, to maintain the 
+sustainability of their livelihood farmland has a crucial role in the life of smallholder farmers.  
+Access to livestock: This variable refers to the total livestock possession of smallholder farmers. Smallholder 
+farmer’s livestock is both drafting animals and productive assets. They have a crucial role in enhancing their 
+livelihood, coping adverse shocks and become resilient to shocks through generating income and filling the income 
+gap of smallholders from other sources.  
+Durable assets: this variable was measured by a local currency that smallholders expenditure to bought durable 
+assets. They contribute their role in coping shocks and stallholders to become resilient to shocks through providing 
+information on the situation and strategies to mitigate shocks and fill the income gap of smallholders during harsh 
+condition by selling them. Based on these indices a factor analysis was run to compute Asset using principal 
+factoring method.  
+The indicators access to farmland and access to farm livestock has taken the highest factor loading relatively 
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+8 
+from access to durable assets and play a significant role in the estimation of it. This finding shows that, as 
+smallholders’ access to farmland and farm livestock, the households able to produce more, generate income, 
+sustain their livelihood and build capacity to cope shocks and becomes resilient to shocks. Based on the coefficient 
+scores of indices the asset index was estimated as;  
+A= ( 0.334 ∗ 1 +  0.332 ∗ 2)/2  
+The result found through this equation was further used as one of the latent variables in estimating the overall 
+resilience index for each smallholder.  
+Adaptive capacity (AC): To measure the smallholder farmers’ capacity to mitigate and interact to shocks adaptive 
+capacity (AC) is the main latent dimension of resilience (Alinovie et al, 2010). Adaptive capacity presents the 
+ability of smallholders adopts to shocks. If the smallholders have diversified income sources and shock mitigating 
+strategies, become resilient to shocks.  
+The latent dimension AC shows the ability of smallholders to adopt and cope to the new situation and build 
+diversified sources of new livelihood. Smallholders’ having numerous income generating sources decrease the 
+negative effect of adverse shocks (FAO, 2016). Income farm bamboo production and number income sources 
+observable variables where selected as indices of AC of smallholders to shocks.  
+Income farm bamboo: In North-West Ethiopia, income generating from bamboo has a crucial role in filling the 
+income gap between crop production and animal raring. In the study area, bamboo becomes means of livelihood 
+for smallholders beyond supporting the income gap from agriculture.  
+Income from diversified sources: As FAO, 2016 states that a smallholder have multiple sources of income, the 
+probability of surviving the negative effect of shocks high and becomes resilient than smallholders having unique 
+sources of income.   
+The variables have positive and direct relations with smallholders’ resilience. On top of these, observable 
+variables factor analysis was run to estimate Ac using principal component factor method. Among indicators of 
+Ac income from bamboo production is more important variable in estimating it than income from diversified 
+sources. As a result, it has relatively higher explained the power of variance. The result shows that, as smallholders 
+engaged in the bamboo production and multiple income sources, the house held generate more income and develop 
+their capacity to adopt and cope with shocks and become resilient to shocks. However, the relation among income 
+from bamboo production was related negatively. This shows that due to market inaccessibility the income 
+generated from bamboo was not as its massive potential. Based on the factor weight of variables the index of AC 
+was computed as:  
+                AC= ( 0.502 ∗ 1) 
+The result obtained through this formula was further used as a latent variable in estimating the overall 
+resilience index for each smallholder farmers.  
+ 
+Econometrics analysis of small holder overall resilience index result estimation 
+On top of the above session, attention was given to computing each resilience latent dimension individually using 
+factor analysis of principal component factor. Now, it is time to assemble each latent dimension to compute 
+resilience index of smallholders. The latent dimension computed earlier becomes covariate in the estimation of 
+smallholder farmers’ resilience index. Suppose that all computed factors were normally distributed with mean zero 
+and variance equals to one, a factor analysis was run using principal component factoring method through software 
+package of stata version thirteen.  
+As expected the correlation of dimension ABS, AC and factor one correlated positively. This result shows 
+that these dimensions were sufficient to estimate resilience to shocks whereas, IFA, SSN and AST dimensions 
+captured by factor two. The indicator AC and SSN had heavy factor loading and lower unique variances and play 
+a significant role in the estimation of overall resilience index of smallholders. This result shows that the 
+smallholders’ engaged in bamboo production, having the capacity to adopt, benefit and cope with shocks and 
+becomes more resilient to shocks. Especially, AC dimension has greater factor loadings and shows it as a policy 
+variable and policy intervention place on it. Relatively, ABS in factor has less factor loading but still important 
+loading in the estimation of resilience. 
+Within the factors weight of each dimension, the overall resilience index estimated as; 
+RI = ( 0.229 ∗ + 0.206 ∗ + 0.197 ∗ + 0.191 ∗ +  0.174 ∗ ) 
+The resilience index is a multiple component indexes that show the status of smallholders’ resilience to shocks, 
+no universally consensus and accepted cut off point and line of a segment to delineate resilient smallholders from 
+non-resilient. However, Guyu et al (2013) contribute his effort as a cut of point to delineate resilient from non-
+resilient, in which RI less than 1.00 non- resilient, and RI ≥ 1.00 (one) resilient and using this cut of point, 233 
+smallholders (47.94 percent) resilient and 253 smallholders (52.06 percent) non-resilient. However, resilience to 
+shocks from the perspective of bamboo production engagement, 80.15 percent of bamboo producer smallholders 
+resilient while non-produce 32.92. This finding shows that there is a big difference in resilience to shocks being 
+engaged in the production of bamboo and which is statistically significant.   
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+9 
+Relative importance of latent dimensions on smallholders’ resilience measurement 
+The contributions of latent dimension on smallholders’ resilience do not equal. Relatively some have more value 
+than others in estimating smallholders’ resilience. To identify the relative importance of each variable on 
+estimating smallholders resilience, regression analysis has run through ordinary lest square (OLS). The resilience 
+index (RI) used as a dependent variable and the five latent dimensions, income and food Access (IFA), access to 
+basic service (ABS), social safety net (SSN), and Asset (AST) and Adaptive capacity (AC) was used as explanatory 
+variables. The regression analysis was computed as;  =  0.018 + 0.044 ∗  −  0.096 ∗   +  0.056 ∗  − 0.081  +  0.041 ∗   
+The ABS, AST, and AC contribute higher coefficients and play a significant role in the estimation of 
+smallholder resilience. The implication of the finding is that a 0.081 unit decrease in smallholder s’ access to their 
+asset increases their resilience by 1 standard diversion.  This finding shows that when smallholders faced with 
+shocks, mitigating shocks by depleting their asset. However, this type of activity hurts their asset stock in the long 
+run. In addition to this, a 0.096 decrease in ABS their resilience increases by 1 standard deviation. This finding 
+revealed that at the shock, season smallholders mitigate shocks through decreasing the educational and heath 
+expense, as a result of this, temporarily their resilience increase at the cost of their level of understanding and 
+health insurance. Contrast, a 0.041 unit increase in AC in smallholders increases their resilience by 1 standard 
+deviation. 
+The relative difference in importance of each latent dimensions of smallholders’ resilience to shocks has clear 
+policy implications. To improve the smallholders’ resilience, policy makers and implementation can place their 
+attention on relatively important latent dimensions. 
+Post- estimation test (Multicollinearity, Heteroskedasticity, and normality) of OLS model has been done and 
+the model was well fitted. 
+ 
+Conclusions and policy implications 
+In North-West Ethiopia, smallholders are engaged in different types of livelihood strategies. Among these, bamboo 
+is one of the means of living strategies and has a crucial importance as coping mechanisms to fill the income gap 
+of smallholders’ expenditure to sustain their livelihood. In addition to this, the purpose of bamboo appreciated 
+above all due to its domestically multiple purposes.   
+The study areas, the socio-economic impact of bamboo on improving the wellbeing of smallholders are higher. 
+In line with this, the main purpose of bamboo was income generation, fence utilization, house construction, food 
+and fodder and for furniture. 
+However, the systems of bamboo utilization were limited to traditional use and obsolete technology.  
+The smallholders’ access to basic services especially road and market more beneficial to their bamboo product 
+than inaccessible smallholder bamboo growers. The role of bamboo in improving the wellbeing of smallholders’ 
+are not unidimensional rather it is multiple purposes, such as it contributes its role to child school enrolment, 
+construction of toilet for their sanitation and generate income to bought health treatment equipment like a drug. 
+Hove ever, bamboo multiple purposes were limited in when compared with its’ massive potential due to the main 
+constraints of a market in accessibility and using of obsolete technology. 
+Multidimensional poverty in this paper defined as, multidimensional deprivation in education, health, and 
+living standards on bamboo producing smallholders and measured using the latent dimensions education, health, 
+and living standards by employing their proxy observable indices. MPI pays a significant role in measuring 
+smallholders’ multidimensional poverty status. The multifaceted measure of poverty can be expressing a more 
+detail picture of smallholders’ how they are deprived. Multidimensional measures of poverty create a chance that 
+enables policymakers to place more attention on the high average weight of deprived latent dimensions and 
+observable indices. Among the respondent smallholder formers, 29.13 percent is multidimensional poor. The 
+incidence of poverty and intensity of multidimensional poverty in the smallholders were 57.82and 50.38 percent 
+respectively. 
+The contribution of education, health and living standards for MPI is 41.09, 35.08 and 651.9 Percent 
+respectively. According to the observable indices of the deprivations household members 5 years schooling, 
+malnourishment and households cook with the dirty material were higher than others.  
+Regarding shocks, natural disaster and economic related shocks like pests affect crops before harvest and a 
+large increase in input price, in the North- West Ethiopia is a dominant cause to smallholders’ to sold their 
+productive animals and fixed assets like land and reduce educational and health expenses. The options that 
+smallholders’ stand with those shocks depends on the way access to them through abilities and activities. The latest 
+and updated ways of smallholders’ withstands to coping shocks related effects are through resilience.    
+Resilience is a set of comebacks that may counter the fundamental and stochastic influences that allow a 
+household or other unit to be susceptible when bare to some set of shockwaves and stressors while Shock is an 
+event that can trigger a decline in well-being (Word Bank, 2001). In the study area, household level survey data 
+was collected. Smallholders’ resilience to shocks was measured using RIMA model (FAO2005). This paper further 
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+10 
+adopts multiple regression models to explore the relative importance of each latent variable in smallholders’ 
+resilience index. Due to inaccessibility of suitable panel data set the static resilience analysis was done. However, 
+resilience index defined as a function of income and food access (IFA), access to basic service (ABS), social safety 
+net (SSN), Asset (AST) and adaptive capacity (AC) as latent variable and estimated using proxy variables for each 
+and computed separately using factor analysis of principal component factor Method. The identified proxy 
+variables for each latent dimensions was statistically significant. The result of each latent dimensions in estimation 
+becomes covariate to measure resilience index. Generally, 47.94 percent of the surveyed smallholders’ were 
+resilient and 52.06 percent were non-resilient to shocks. Regarding smallholders engaged in bamboo production, 
+85.15 percent of the users’ resilient while the non-user 32.92 percent. Thus, the resilience capacity of bamboo user 
+smallholders’ in North-West Ethiopia is highly strong. All of the five latent dimensions in the estimation of 
+resilience to shocks were important. AC was played the crucial role in estimation. As a general, the finding has 
+indicated interventions should have to place on dimensions prioritized based on their weight in order to lift out 
+smallholders’ from shock effects and to build resilience. In addition to these, interventions to improve smallholders’ 
+AC observable variables are an intervention area. Especially, bamboo growing related problems like market 
+accessibility, value chain problems are a crucial intervention area to boost up the bamboo production. In the study 
+area, bamboo production is a key means of livelihood to smallholders’ resilience to shocks.   
+As the result revealed that, in North-West Ethiopian, bamboo plays its pivotal role in improving smallholders’ 
+in one and another way. Among its multiple purposes, diversification and filling the income gap of smallholders’ 
+during devastating their main farming income sources by shocks were the crucial one. However, from the 
+perspective of bamboo potential in the study area, especially in Bibugn woreda and Awi zone, utilization of 
+bamboo is limited due to market inaccessibility problem, no different factories demand to bamboo production. As 
+a result of this, the government should have to look towards these problems to solve and ensure the multiple 
+purposes of bamboo up to its maximum potential. In line with this, to scale up the current production and to provide 
+demand for bamboo production, setting bamboo production and utilization policy and strategies nationally is the 
+optional way to improve and sustain the bamboo livelihood of smallholders’ in Ethiopian.  
+To utilize the current bamboo potential efficiently, to scale up bamboo production in the future for sustainable 
+utilization, organizing farmers in bamboo cooperative, providing extension service on bamboo, providing technical 
+training how to use bamboo in different way, proper processing of bamboo, value chain, creating market chain 
+should have to governmental policy and strategies intervention areas.  
+Internationally, there is a consensus on post-2015 sustainable development goals. Among 17 development 
+goals ending poverty and building, resilience is the first and eleventh issues respectively.  
+Before and in 2015, the government has performed a different activity to reduce poverty targeted it as the 
+first MDG’s goals. However, it was not enough and cannot be lifted out smallholders from multiple deprivations 
+and vulnerable to risks. As a result of this, to achieve the first and eleventh target of sustainable development goals, 
+the government should have to open the eye on bamboo production and showed have to consider bamboo is a 
+major means of livelihood for smallholders. 
+As the result and discussion part above shows that, smallholders faced by different shocks and its effect leads 
+to multiple deprivations and smallholders’ use bamboo as coping strategies even as a food especially in Assossa 
+zone. As result of this, government places the hand on bamboo production related problems mentioned above. 
+According to the multiple deprivations of smallholders, all indices contribution to multidimensional poverty 
+is high and especially, household- years of schooling, malnourishment and improving households cooking material 
+should have to target in sustainable development goals to improve their performance. So that government’s policy 
+intervention should have to implement at the grass root level to lift out smallholders from their multiple 
+deprivations. 
+Regarding small holds resilience to shocks,  strengths and adopting shocks  mitigating  strategies are essential 
+to building and smallholders’ become resilient. As the result revealed that, AC plays a crucial role in the resilience 
+of smallholders to shocks. As a result of this, the government policy interventions aim to improve the performance 
+and place attention on improving bamboo production and access the bamboo production to market. In addition, 
+female- headed smallholders have less resilient than male- headed smallholders’. Hence, governments place its 
+policy intervention and focus on female- headed smallholders’ in advance to solve shock related problems. 
+ 
+REFERENCES 
+Abdikadir.M.(2013). Dimensions and Determinants of Poverty in Agropastoral Households of Jijiga District, 
+Somali National Regional State, Ethiopia (Doctoral dissertation, Haramaya University).  
+Abebe Y., Teshome T., Mohammed A.and Mesfin H. (2004). Conservation of genetic resources of non-timber 
+forest products in Ethiopia: Availability uses and trends of Non-timber forest products in Mendi Area, West 
+Wellega; In socio-economic importance and resource potential of non- timber forest products of Ethiopia 
+Addis Ababa, Ethiopia. PP. 118-130. 
+Alinovie, L., D’Errico, M., Mane, E., & Romano, D. (2010). Livelihoods strategies and household resilience to 
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+11 
+food insecurity: An empirical analysis to Kenya. In conference organized by the European Report of 
+Development, Dakar, Senegal, June (pp. 28-30). 
+Alkire, S. and Foster, J. (2011). Counting and Multidimensional Poverty Measurement. Journal of Public 
+Economics. 
+ Alkire, S. and Robles, G. (2016). “Multidimensional Poverty Index 2016: Brief Methodological Note and Results”. 
+Available at: www.ophi.org.uk/multidimensional-poverty-index/. 
+Alkire, S. and Santos, M. E. (2010). Acute multidimensional poverty: A new index for developing countries, 
+Human Development Research Paper July 2010, Oxford Poverty and Human Development Initiative, 
+University of Oxford. 
+Alkire, S., and M. Santos. (2010). “Acute Multidimensional Poverty: A New Index for Developing Countries.” 
+Human Development Research Paper 2010/11. UNDP-HDRO. New York. 
+Ambrose-Oji, B. (2003). The contribution of NTFPs to the livelihoods of the 'forest poor': evidence from the 
+tropical forest zone of south-west Cameroon. International Forestry Review. 5(2):106-117. 
+ Amede, T., Belachew, T., & Geta, E. (2001). Reversing the degradation of arable land in the Ethiopian Highlands.  
+Andargatchew, A. (2008). Value Chain Analysis for Bamboo Originating from Shedem Keble, Bale Zone. MBA. 
+Faculty of Business and Economics, School of Graduate Studies, Addis Ababa University. Unpublished. 
+Addis Ababa, Ethiopia. 
+Arsema A. (2008).Value Chain Analysis for Bamboo Originating from Shedem Kebele, Bale Zone. MSc. Thesis, 
+Addis Ababa University, Ethiopia, 2008; P. 94.  
+Assaye, Y., Selassie, Y. G., & Ayele, B. (2014). Farmers’ Perception on Highland Bamboo (Yushania alpina) For 
+Land Resource Conservation in Banja District, Northwestern Ethiopia. Woodpecker Journal of Agricultural 
+Research. 3(1):001-009. 
+AWZAD. (2007). Awi zone Agriculture Department Annual Report. Amharic version. 
+ Bapu V. Girmay T. Megan RunsoevilleDaniel M. (2012). Resilience and Livelihoods Change in Tigray, Ethiopia, 
+October 2012.  
+Brias, V., & Hunde, T. (2009). Bamboo cultivation manual: Guidelines for cultivating Ethiopian highland bamboo. 
+East Africa Bamboo Project Document, UNIDO. 
+Central Statistical Agency of Ethiopia (CSA, 2007). The 2007 National Statistics of Population; Central Statistical 
+Agency of Ethiopia: Addis Ababa, Ethiopia, 2007. 
+Cherla A, (2008). Vision for Bamboo in India Opportunities and Challenges. 
+Chernet, T. (2009). Baseline Census Report. Bamboo as sustainable biomass energy: a suitable alternative for 
+firewood and charcoal production in Africa. INBAR. 
+Chirwa, P. and Meliczek, H. (2014). First international forum on current state and future opportunities for a unique 
+renewable resource in Africa. International Seminar on Bamboo in Africa. University of Pretoria. 
+Choudhary M.L. and Shri K.S. (2008). Proceeding of 3rd International Conference on Improvement of Bamboo 
+Productivity and Marketing for Sustainable Livelihood, New Delhi, India. 15th - 17th April, 2008; pp 6-215.  
+ CIA: Central Intelligence Agency. (2014). Ethiopia: In the World Factbook. Retrieved from 
+https://www.cia.gov/library/publications/the-world  
+Coates, J. Maxwell, D., Webb, P., & Wirth, J. (2010). Fit for purpose? Rethinking food security responses in 
+protracted humanitarian crises. Food policy, 35(2), 91-97. 
+ Deininger, K., & Jin, S. (2006). Tenure security and land-related investment: Evidence from Ethiopia. European 
+Economic Review. 50(5):1245-1277. 
+Department for International Development (DFID), UK. (2011). “Defining Disaster Resilience: A DFID Approach 
+Paper.” London: DFID. 
+Desalegn, G., & Tadesse, W. (2014). Resource potential of bamboo, challenges and future directions towards 
+sustainable management and utilization in Ethiopia. Forest Systems. 23(2):294-299. 
+Embaye, K. 2000. The indigenous bamboo forests of Ethiopia: An overview, A journal of the human environment 
+29(8):518–521. 
+Embaye, K., L. Christersson, S. Ledin & Weih M., (2003). Bamboo as bioresource in Ethiopia: Management 
+strategy to improve seedling performance (Oxytenanthera abyssinica). Bioresource Technology 88(1):33–39.  
+Embaye, K., Weih, M., Ledin, S., & Christersson, L. (2005). Biomass and nutrient distribution in a highland 
+bamboo forest in southwest Ethiopia: implications for management. Forest Ecology and Management. 
+204(2):159-169. 
+Endalamaw, T. B., Lindner, A., & Pretzsch, J. (2013). Indicators and Determinants of Small- Scale Bamboo 
+Commercialization in Ethiopia. Forests. 4(3):710-729. 
+Ensermu K.Tamrat B., Alemayehu G. and Gebremedhin H. (2000). A Socio-Economic Case Study of the Bamboo 
+Sector in Ethiopia: An Analysis of the Production-to-Consumption System. Addis Ababa March 2000. 
+Ethiopia. Doctoral Dissertation, Swedish University of Agricultural Sciences, Uppsala, Sweden.  
+FAO (Food and Agriculture Organization of the United Nations)(2006). Global Forest Resources Assessment 
+Journal of Poverty, Investment and Development                                                                                                                             www.iiste.org 
+ISSN 2422-846X     An International Peer-reviewed Journal  
+Vol.59, 2021 
+ 
+12 
+Updates 2005: Country report on bamboo resources (final draft): Addis Ababa, Ethiopia. Working Paper 117. 
+FAO, Rome, Italy, and INBAR (International Network for Bamboo and Rattan), Beijing, China. 
+FAO (Food and Agriculture Organization) (2012). World Poverty: A Look at Causes and Solutions; by Vincent 
+Wilmot; 166 Freeman Street; Grimsby, UK. 
+FAO, UN and INBAR. (2005). Global forest resources assessment, country report on bamboo resources (final 
+draft), Addis Ababa, Ethiopia. Working Paper, No 117, Rome. 
+FAO: Food and Agriculture Organization of the United Nations. (2005). “Global forest resource assessment 2005: 
+progress towards sustainable forest management”. FAO Forestry Paper 147. FAO: Rome. 
+Fekadu T., (2010). The contribution of highland bamboo (Yushania alpina) to rural livelihoods and status of its 
+domestication at bule district, gedeo zone, SNNPR. 
+Ganeshaiah, Smitha Krishnan, R. Ramya. (2004). Livelihood gains and ecological cost of non-timber forest 
+product dependence: assessing the roles of dependence, ecological knowledge and market structure in three 
+contrasting human and ecological setting in south India. Environmental Conservation 31 (3): 242–253 
+Harrison, E. (2002). The problem with the locals’: partnership and participation in Ethiopia. Development and 
+Change. 33(4):587-610. 
+IFAD (International Fund for Agricultural Development),( 2011). Enabling Poor Rural People to Overcome 
+Poverty; Rural Poverty Report; New Realities, New Challenges, New Opportunities for tomorrow’s 
+generations. Addis Ababa: Federal Democratic Republic of Ethiopia. 
+INBAR (International Network for Bamboo and Rattan). (2010). Study on Utilization of Lowland Bamboo in 
+Benishangul Gumuz Region, Ethiopia. 
+INBAR (International Network of Bamboo and Rattan). (2008). Mainstreaming Pro-Poor Livelihood 
+Opportunities with Bamboo. Working Paper: INBAR. 66. 
+ INBAR. (2010). Study on utilization of lowland bamboo in Benishangul-Gumuz Region, Ethiopia. 
+INBAR. (2015).How countries can harness these resources to add value to action plans for sustainable 
+development: Preparation for the UN Summit for the Adoption of the Post-2015 Development Agenda, 
+August 2015. 
+Kassa, B. Z. (2009). Bamboo: An Alternative Building Material for Urban Ethiopia: a Project Report M.S. 
+California Polytechnic State University, Unpublished San Luis Obispo, CA.  
+Kassahun Embaye. (2003). Ecological aspects and resource management of bamboo forests in 
+Kelbessa, E., Bekele T., Gebrehiwot A. & Hadera G., (2000). A Socio-Economic Case Study of the Bamboo Sector 
+in Ethiopia: An analysis of the production-to-consumption system. Addis Ababa University, Addis Ababa, 
+Ethiopia. 
+Kibwage, J.K. and Misreave, S.E. (2011). The value chain development and sustainability of bamboo housing in 
+Ethiopia. International Network for Bamboo and Rattan, Beijing, China. 
+Krzyzanowski. J., Li, Q., Cao, L. and Liu, Y. (2014). Changes in vegetation photosynthetic activity trends across 
+the Asia-Pacific region over the last three decades. Remote Sensing of Environment, 144: 28-41. 
+Levang, P., Dounias, E., & Sitorus, S. (2005). Out of the forest, out of poverty? Forest trees and Livelihoods. 
+15(2):211-235. 
+ Lobovikov, M. 2006. Introduction to the Global Bamboo Resources Statistics, International Bamboo Inventory 
+Training Workshop, 24 October – 04 November 2005 in Beijing and Zhejiang Province, China. 
+ Marshall, E., Schreckenberg, K., & A.C. Newton. 2006. Commercialization of Non-timber forest products. 
+Factors influencing success, Lessons learned from Mexico and Bolivia and policy implications for decision-
+makers. UNEP-WCM, 136pp. 
+   McKenna, Ed (2013). “Ethiopia leads the bamboo revolution,” Inter Press Service (IPS).The Guardian, 
+April20,2013,http://www.theguardian.com/environment/2013/apr/10/ethopia-bamboo 
+Mekonnen, A., Bekele, A., Fashing, P. J., Hemson, G., & Atickem, A. (2010). Diet, activity patterns, and ranging 
+ecology of the Bale monkey (Chlorocebus djamdjamensis) in Odobullu Forest, Ethiopia. International Journal 
+of Primatology. 31(3):339-362. 
+Mirjam A.F., Ros-Tonen and K. Freerk Wiersum. 2003. The importance of non-timber forest products for forest-
+based rural livelihoods: an evolving research agenda. Paper presented at the GTZ/CIFOR international 
+conference on livelihoods and biodiversity. 19-23 May 2003. Bonn, Germany 
+MOFED (Ministry of Finance and Economic Development), (2012). Ethiopia’s Progress towards Eradicating 
+Poverty: An Interim Report on Poverty Analysis Study (2010/11) report march, 2012.Addis Ababa, Ethiopia. 
+ Mohammadi, M., khalifah, Z. and Hosseini, H. (2010). Local people perceptions toward social, economic and 
+environmental impacts of tourism in Kerman

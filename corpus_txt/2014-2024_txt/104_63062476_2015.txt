@@ -1,0 +1,572 @@
+Bankruptcy Reform and Economic Recovery
+
+Journal of Civil Rights and Economic Development 
+Volume 25 
+Issue 1 Volume 25, Fall 2010, Issue 1 Article 13 
+September 2010 
+Bankruptcy Reform and Economic Recovery 
+G. Ray Warner 
+Follow this and additional works at: https://scholarship.law.stjohns.edu/jcred 
+ Part of the Bankruptcy Law Commons 
+Recommended Citation 
+G. Ray Warner (2010) "Bankruptcy Reform and Economic Recovery," Journal of Civil Rights and Economic 
+Development: Vol. 25 : Iss. 1 , Article 13. 
+Available at: https://scholarship.law.stjohns.edu/jcred/vol25/iss1/13 
+This Article is brought to you for free and open access by the Journals at St. John's Law Scholarship Repository. It 
+has been accepted for inclusion in Journal of Civil Rights and Economic Development by an authorized editor of St. 
+John's Law Scholarship Repository. For more information, please contact selbyc@stjohns.edu. 
+BANKRUPTCY REFORM AND ECONOMIC
+RECOVERY
+G. RAY WARNER*
+INTRODUCTION
+In 2005, following years of intensive lobbying by the consumer credit
+industryl, the focus of the consumer bankruptcy law was changed from the
+liberal debtor-focused "fresh start" approach embodied in the 1978
+Bankruptcy Code to a creditor-focused "can pay/must pay" approach.
+Although the shift to a can pay/must pay system started years earlier to
+address perceived abuses,2 the Bankruptcy Abuse Prevention and
+Consumer Protection Act of 20053 ("BAPCPA") completed that shift by
+engrafting onto the bankruptcy law a fairly strict and largely objective test
+for determining a debtor's ability to repay debt and by setting forth
+channeling rules designed to force debtors with a perceived ability to repay
+some debt into a lengthy repayment plan.4
+The focus of the debate about that change has been on the debtor.
+Proponents of the change have phrased the reforms in moralist terms. They
+tend to set forth a narrative of widespread moral failure among those
+debtors using the bankruptcy system, and they use morally charged terms
+like "substantial abuse," rather than more neutral terms like "eligibility" to
+* Associate Dean for Bankruptcy Studies and Professor of Law, St. John's University School of Law.
+Thanks to my research assistant, Bankruptcy LL.M. candidate, George Klidonas, for his excellent
+assistance in researching issues addressed in this essay.
+I See Susan Jensen, A Legislative History of the Bankruptcy Abuse Prevention and Consumer
+Protection Act of 2005, 79 Am. BANKR. L.J. 485, 498-99 (2005) (noting role of consumer credit
+industry in spearheading bankruptcy reform effort).
+2 A 1984 amendment to the Bankruptcy Code permitted dismissal of chapter 7 cases for
+"substantial abuse" and imposed a requirement that chapter 13 debtors contribute their "disposable
+income" to plan payments. See Bankruptcy Amendments and Federal Judgeship Act of 1984, PUB. L.
+No. 98-353, 98 Stat. 355 §§ 312, 317, codifiedat 11 U.S.C. § 707(b) (2010); 11 U.S.C. § 1325(b)(1)(B)
+(2010). These changes were made in response to concerns that non-needy debtors were filing
+bankruptcy. See In re Krohn, 886 F.2d 123, 126 (6th Cir. 1989).
+3 Pub. L. No. 109-8, 119 Stat. 23 (2005).
+4 See 11 U.S.C. § 707(b) (establishing a "means test" based on disposable income as a requirement
+for relief under chapter 7). See also 11 U.S.C. § 1325(b)(3)-(4) (2010) (incorporating certain § 707(b)
+living expense limitations for above-medium income debtors and replacing the 3-year plan provision).
+181
+JOURNAL OF CIVILRIGH7S& ECONOMCDEVELOPMENT [Vol.25:1
+describe the debtors determined to have an ability to repay. 5 Opponents of
+the change have similarly focused on the debtor, arguing that the
+indebtedness causing resort to the bankruptcy system does not equate to
+moral failings by debtors and focusing on the debtors' need for relief from
+burdensome indebtedness. 6
+Largely missing from the debate is consideration of the possible
+macroeconomic effects of the 2005 BAPCPA changes to the bankruptcy
+law. The purpose of this brief essay is to explore the role that the consumer
+bankruptcy system plays in economic recovery after periods of economic
+recession like the current "Great Recession." My thesis is that consumer
+bankruptcy policy plays an important role in economic recovery and that
+the shift to a can pay/must pay system will both dampen and delay recovery
+from economic recessions.
+Like it or not, at present our economy is driven by consumer spending.
+During a recession jobs are lost, incomes fall, debt amounts increase and
+asset values decline. As the recession begins to ease, individuals who have
+lost jobs or otherwise suffered a decline in income will obtain new jobs or
+see their incomes begin to rise. As the newly employed consumers begin
+to spend additional income, that spending has a multiplier effect in the
+economy, it stimulates additional economic growth and additional jobs and
+helps to accelerate the recovery.
+As previously unemployed or underemployed consumers7 begin to see
+increased income, they will consider bankruptcy as an option to protect
+their income from creditor collection actions such as garnishment. The
+prior liberal fresh start policy, by permitting debtors to discharge their
+debts in chapter 7 liquidation bankruptcies, allowed these newly employed
+debtors immediately to begin spending their increased incomes on
+consumption rather than debt repayment. That spending helps accelerate
+economic recovery.
+The BAPCPA amendments, if effective, will instead divert almost all of
+the newly-employed debtors' discretionary income from consumption to
+debt repayment, and it will do so for a period of five years. Since debt
+repayment has a very low multiplier effect, the macroeconomic effect of
+5 See, e.g., Edith H. Jones & Todd J. Zywicki, It's Time for Means-Testing, 1999 B.Y.U. L. REV.
+177 (1999).
+6 See, e.g., Robert M. Lawless et al., Did Bankruptcy Reform Fail? An Empirical Study of
+Consumer Debtors, 82 AM. BANKR. L.J. 349 (2008).
+7 As of October 2009, the national unemployment rate was more than 10 percent, with the
+underemployment rate standing at nearly 18 percent. Economic News Release, Alternative Measures of
+Labor Underutilization, Bureau of Labor Statistics (November 6, 2009), available at http://data.bls.gov
+/cgi-bin/print.pl/news.release/empsit.tl5.htm (last modified May 07, 2010).
+182
+BANKRUPTCYREFORMANDECONOMICRECOVERY
+the BAPCPA change to a can pay/must pay bankruptcy system will be to
+both reduce and greatly delay the economic stimulus effects of the
+increased income received by deeply indebted consumers. With more than
+1.3 million U.S. households filing personal bankruptcy in the past year,8
+the effect of this change in bankruptcy could be significant.
+Additionally, the bankruptcy change likely has a shadow effect that
+extends well beyond merely those individuals who actually file bankruptcy.
+The lack of a viable bankruptcy alternative for many debtors provides
+incentives for creditors to take more aggressive steps to collect debts that
+otherwise would have been charged off or renegotiated and the likely
+bankruptcy outcome shapes the private debt restructuring negotiations
+between consumer debtors and their creditors. 9 Further, since BAPCPA
+diverts all additional discretionary income to debt repayment for five years,
+it reduces the incentives of deeply indebted individualsIO to seek additional
+income.
+The bankruptcy system has long been an important tool for dealing with
+economic crises by allowing overly indebted individuals to start fresh as
+economic actors following periods of depression or recession. A similar
+credit industry sponsored can pay/must pay approach that also was based
+on claims of abuse by consumer debtors was rejected during the Great
+Depression. IIHowever, with BAPCPA, the consumer credit industry finally
+got its wish-just in time for the Great Recession. While the idea that the
+discharge of debt in bankruptcy might be good for the economy seems
+counter-intuitive, a morally appealing can pay/must pay system may cause
+far more harm than good.
+8 Despite the current law's can pay/must pay approach that limits the benefits of bankruptcy relief,
+the Administrative Office of the U.S. Courts reports that 1,344,095 non-business bankruptcy cases were
+filed during the fiscal year ending September 30, 2009. James C. Duff, Administrative Office of the
+United States Courts, Judicial Business of the United States, 2009 Annual Report of the Director 291
+tbl. F-2 (2009), available at http://www.uscourts.gov/Statistics/JudicialBusiness/JudicialBusiness.aspx
+?doc=/uscourts/Statistics/JudicialBusiness/2009/JudicialBusinespdfversion.pdf (last visited May 27,
+2010).
+9 For example, the absence of an ability to force a write down of mortgage debts in bankruptcy has
+given mortgage lenders no incentive to negotiate realistic mortgage restructuring agreements.
+10 With consumer debt levels are at near record highs, a large segment of the consumer population
+is deeply indebted. Household consumer debt represented 122% of disposable personal income in 2008,
+down from a high of 128.1% in 2007. In contrast, household consumer debt represented only 76.1% of
+disposable personal income in 1990. See Mark Jickling, Consumer Bankruptcy and Household Debt
+(Oct. 22, 2008), available at www. Bna.com/webwatch/bankruptcycrs3.pdf (last visited May 27, 2010).
+11 Charles J. Tabb, The History of the Bankruptcy Laws in the United States, 3 AM. BANKR. INST.
+L. REV. 5, 27 (1995) (discussing the rejection of a can pay/must pay approach to discharge during the
+Great Depression).
+2010] 183
+JOURMAL OF CIVIL RIGHlS & ECONOMCDEVELOPMENT [Vol.25:1
+I. HISTORICAL USES AS A RECOVERY TOOL
+For much of our history, there was no federal bankruptcy law. Up until
+the Bankruptcy Act of 1898, federal bankruptcy laws were passed in
+response to serious economic crises and were of short duration. As
+Professor Tabb has explained:
+Each instance of federal legislation followed a major financial
+disaster: the Act of 1800 followed the Panic of 1797; the Act of 1841
+followed the Panic of 1837; the 1867 Act followed the Panic of 1857
+and the Civil War; and finally the 1898 Act was passed in the wake of
+the Panic of 1893.12
+Although these laws generally dealt with business debtors, consumer
+spending was not a major pillar of the American economy so discharge of
+business persons was necessary to restart economic activity. For example,
+although the Panic of 1797 "caused widespread financial ruin and the
+imprisonment of thousands of debtors," the Act of 1800 provided an
+opportunity to discharge those debts and allowed many financiers and
+speculators to resume their earlier activities. 13
+The practice of using bankruptcy laws to address economic crises
+continued even after the bankruptcy law became permanent in 1898.
+During the Great Depression, Congress passed several pro-debtor
+amendments designed to address the effects of the Great Depression.
+Although some of these measures were stricken down by the Supreme
+Court, the effort to reshape bankruptcy law into a tool for financial
+rehabilitation culminated in the passage of the Chandler Act in 1938.14
+Unlike the BAPCPA amendments, the primary focus of and impetus for the
+pre-Code bankruptcy laws was to deal with general economic calamity,
+rather than the relief needed by particular debtors.
+The basic structure set forth by the Bankruptcy Act of 1898 and the
+Chandler Act amendments endured until the 1978 Bankruptcy Code. The
+Bankruptcy Code was the product of years of study to modernize the
+bankruptcy laws and represented the first major bankruptcy legislation that
+was not a response to some economic crisis.
+12 Id. at 14.
+13 Id. at 14-15. Among those affected by the Panic were Robert Morris, a principle financier of the
+revolution who was imprisoned because of $12 million in debts, and a Supreme Court Justice, who had
+to flee to avoid imprisonment. Id. at 14.
+14 Id at 29 (highlighting the changes brought on by the Chandler Act).
+184
+BANKRUPTCYREFORMANDECONOMICRECOVERY
+II. EROSION OF THE FRESH START
+The Bankruptcy Code represented the high water mark for the liberal
+consumer debtor fresh start policy. Although the modem liberal discharge
+and fresh start policy was embodied in the Bankruptcy Act of 1898, the
+1978 Bankruptcy Code expanded the scope of relief available to individual
+debtors. Initially, there were only a few limited types of debts that were
+excepted from discharge and a consumer debtor could obtain a broad
+discharge under chapter 7 once every six years in exchange for turning over
+his or her non-exempt assets.15 Although a consumer debtor could choose
+to file a chapter 13 bankruptcy and repay some or all debt through a
+voluntary repayment plan, the chapter 7 "walk away" discharge allowed
+consumer debtors to protect all of their future income from creditors,
+regardless of ability to repay.
+A series of amendments over time both limited the scope of the
+discharge and imposed some restrictions on the ability of debtors to obtain
+a walk away discharge. The precursor to BAPCPA was a 1984 amendment
+that allowed the bankruptcy court to dismiss a chapter 7 petition if the
+granting of chapter 7 relief constituted a "substantial abuse", and that
+required chapter 13 debtors to contribute their disposable income to the
+debt repayment plan under certain circumstances. 16 Although there was a
+statutory presumption in favor of the debtor's choice of chapter 7 relief,
+courts mostly ignored the presumption and eventually focused on the
+ability to repay debts as a primary factor for determining substantial
+abuse. 17 This had the effect of adding a mild can pay/must pay feature to
+consumer bankruptcy because debtors with a substantial ability to repay
+their debts were forced into a chapter 13 repayment plan or out of
+bankruptcy altogether. However, the effects of that change on the
+economic impact of bankruptcy was limited for several reasons: first, the
+courts generally used a subjective reasonableness test based in part on the
+debtor's pre-bankruptcy standard of living to determine the debtor's
+reasonable living expense allowance and how much disposable income was
+available for debt repayment; second, the required duration of the chapter
+15 See 11 U.S.C. § 523(a)(1)-(9) (2010) (listing types of debt excepted from discharge); II U.S.C.
+§ 727(a)(8) (2010) (noting that discharge will not be granted if a case was commenced under chapter 7
+or 11 within 8 years of the new filing); see also H.R. REP. No. 95-595, at 363, 384-85 (1977).
+16 See Bankruptcy Amendments and Federal Judgeship Act of 1984, PUB. L. No. 98-353, 98 Stat.
+355 (1984).
+17 See David B. Harrison, Bankruptcy: When Does Filing of Chapter 7 Petition Constitute
+"Substantial Abuse" Authorizing Dismissal of Petition Under II U.S. C. § 707(b), 122 A.L.R. FED. 141
+§ 2(a) (1994) (noting that courts focus on the ability to repay in determining substantial abuse).
+1852010]
+JOURNAL OFCIVILRIGH7S& ECONOMICDEVELOPMENT [Vol.25:1
+13 plan was only three years, rather than the current five year repayment
+period; and third, the substantial abuse test generally required a showing
+that the debtor had the ability to repay a substantial part of his or her debts
+through a chapter 13 plan and considered a variety of factors in addition to
+ability to repay debt.18
+In contrast, BAPCPA replaced the mild can pay/must pay approach with
+a very strict approach. Linguistically, the prior "substantial abuse"
+standard for dismissing a chapter 7 case was replaced with a mere "abuse"
+standard. Further, the statutory presumption in favor of the debtor's choice
+of chapter 7 relief was removed. More importantly, the bankruptcy court's
+subjective determination of disposable income was replaced with a largely
+objective test based on the relatively frugal living allowances set forth in
+the IRS Collection Standards. For most categories of expenses, the
+debtor's disposable income is determined based on national or local
+averages, and not on the actual expenses of the debtor or the needs of the
+debtor's family. Subtraction of the monthly living allowance from the
+debtor's available income produces a figure for "disposable income" that is
+deemed to be available for debt repayment. The most extreme feature of
+the new test is that the debtor is deemed to be abusing chapter 7 if that
+calculation shows disposable income of as little as $182.5 per month and,
+in some cases, as little as $109.58 per month.19
+If the very low threshold of $182.50 per month in disposable income is
+reached, then the debtor's only bankruptcy choice is to enter into a
+repayment plan under chapter 13.20 That plan must then commit all of the
+debtor's "projected disposable income" to debt repayment for a period of
+the next five years. The combined effect of these provisions is to divert the
+discretionary income of most middle and upper income debtors from
+consumption to debt repayment. This removes that income from the
+consumer economy and deprives the economy of the stimulus effect that
+such income would otherwise have.21 Indeed, since the threshold is
+18 See id (discussing some of the limitations of forcing chapter 7 debtors into chapter 13).
+19 See 11 U.S.C. § 707(b)(2)(A)(i)(l)-(ll) (2010). Chapter 7 petitions filed by debtors earning less
+than the median income are not subject to the mechanical test, but can be dismissed under a more
+subjective abuse standard. See 11 U.S.C. § 707(b)(1), (b)(7A) (2010). The exclusion of these debtors
+from the mechanical formula should have little impact on the economic effect of the bankruptcy law
+because they likely have very little discretionary income.
+20 A chapter 11 repayment plan is also an option for some debtors, but the disposable income
+requirements of a chapter 11 plan for a non-business debtor are virtually identical to the chapter 13 plan
+requirements.
+21 The test's exclusion of regularly scheduled secured debt repayments (e.g., monthly mortgage
+payments and car loan payments) from disposable income will permit many middle and upper class
+debtors to qualify for chapter 7 relief. See 11 U.S.C. § 707(b)(2)(A)(I), (iii) (2010). However, in those
+cases the income still is being diverted to debt repayment rather than new consumption. Further, since
+186
+BANKRUPTCYREFORMAND ECONOMC RECOVERY
+determined by objective IRS allowance amounts, which in some cases may
+not be sufficient to provide the household's reasonable support needs,
+BAPCPA may in some cases remove income from the system that is not
+really disposable. Further, the BAPCPA effect will continue for the first
+five years of economic recovery, delaying the full reentry of these
+households into the consumer economy during a critical phase of the
+recovery.
+While the present analysis is limited to the economic effects of debt
+repayment within the bankruptcy system, a complete analysis would
+include consideration of the shadow effects of the change in bankruptcy
+law on debtors who do not file bankruptcy. The BAPCPA changes make
+bankruptcy relief unattractive for most can pay debtors and may make it
+completely unavailable in those cases where the allowances are too low to
+meet the needs of the debtor's family. Those can pay debtors who chose
+not to file bankruptcy will not receive a discharge of their debts and will
+not be free to fully reengage in the consumer economy. If they attempt to
+repay their debts either voluntarily or as a response to creditor actions, the
+diversion of income from consumption to debt repayment will be similar to
+that accomplished within bankruptcy by the BAPCPA amendments. The
+economic effect may even be worse for such debtors if the creditors'
+collection efforts cause additional problems. For example, collection
+efforts like garnishment may lead to job losseS22 and the risk of collection
+may reduce the debtor's incentives to seek additional income, at least in the
+legitimate above-ground sectors of the economy.
+III. FISCAL MULTIPLIER EFFECTS
+While there is vigorous debate in economic circles about the validity and
+accuracy of analyses based on the Keynesian multiplier model,23 the
+mortgage and automotive debt cannot be adjusted in bankruptcy even when the value of the asset has
+fallen far below the outstanding debt amount, see 11 U.S.C. §§ 1322(b)(2), 1325(a)(9) (2010)
+(unnumbered "hanging" paragraph), the repayment of the undersecured portion of these debts is
+comparable to repayment of other unsecured debt. This is not a minor point since at present the
+principal amount owed on many consumer mortgages exceeds the value of property. See Bob Tedeschi,
+Mortgages; The Depths of Mortgage Debt, N.Y. TIMES (Aug. 30, 2009) (available at http://www.ny
+times.com/2009/08/30/realestate/30mort.html?_r-1) (reporting that more than one-third of all
+mortgaged homes in the United States were worth less than the mortgage debt amount as of June 2009).
+22 While an employer may not discharge an employee because of a garnishment for a single debt,
+gamishments based on more than one debt may result in firing. See 15 U.S.C. § 1674(a) (2010).
+Further, continued indebtedness may have a negative impact on employment prospects, credit reports,
+and other opportunities that may be worse or last longer than the impact of a bankruptcy filing.
+23 See, PAUL A. SAMUELSON & WILLIAM D. NORDHAUS, ECONOMICS 638-43 (19th ed. 2010
+McGraw-Hill Irwin).
+2010] 187
+JOURNAL OFCIVILRIGHlS & ECONOMCDEVELOPMENT [Vol.25:1
+modem mainstream Keynesian approach is "the best way to explain the
+business cycle in market economies." 24 The multiplier model posits that
+"each dollar change in exogenous expenditure (such as investment) leads to
+more than a dollar change (or a multiplied change) in GDP [gross domestic
+product]." 25 The reason for this is that an endless, but ever diminishing
+chain of secondary consumption spending is set in motion by the primary
+investment. 26 The size of the multiplier (i.e., the amount of resulting
+change in GDP for each dollar injected) depends on the marginal
+propensity to consume [MPC].27 The MPC refers to the portion of any new
+income received that will go to consumption, as opposed to "savings." For
+example, if we assume that 75% of each new dollar will be spent on
+consumption and 25% on savings, then the MPC is .75. If the MPC is .75
+and we add $100 to the system, then GDP will grow by $400.28 Of course,
+there is a time lag before the entire effect is felt because of the delay
+between each successive round of secondary consumption spending. Thus,
+most estimates of the fiscal multiplier effects of particular stimulus
+measures predict the effect over a specific time period. Nonetheless, since
+the multiplier effect is largest in the earliest rounds of secondary
+consumption spending, most of the impact comes from the early rounds of
+spending.
+However, since the demand created by the increase in overall
+consumption spending does not by itself increase the available supply of
+goods and services, the multiplier effect on GDP would not be observed
+during periods when the economy is already operating at full production
+capacity, because the economy cannot produce more output regardless of
+demand. 29 But, during periods of recession or depression, when there is a
+surplus of unused labor and other unused resources, the injection of new
+dollars to increase consumption spending will stimulate additional
+production, and thereby increase GDP and aid in the recovery from the
+recession or depression.
+IV. THE FiscAL EFFECT OF DEBT REPAYMENT
+So how does the forced repayment of consumer debt affect GDP growth?
+24 Id at 638.
+25 Id. at 437.
+26 Id. at 441.
+27 d at 440-41.
+28 $100 yields (1.0)(100) + (.75)(100) + (.75)(75) + (.75)(56.25) + ... $400. See PAUL A.
+SAMUELSON & WILLIAM D. NORDHAUS, ECONOMICS 441 (19th ed. 2010 McGraw-Hill Irwin).
+29 Id
+188
+BANKRUPTCYREFORMAND ECONOMTC RECOVERY
+It does this by diverting part of the debtor's income from consumption to
+savings. This reduces the percentage of income available for consumption
+and thus reduces the MPC, which in turn reduces the size of the multiplier.
+To take the simplest model, a household can devote its personal disposable
+income to either consumption or savings. 30 Consumption, or personal
+consumption expenditure, is the expenditure by a household on final goods
+and services. Savings, as used in this sense is not limited to what might be
+considered savings in the common usage of that term, but rather includes
+all personal disposable income that is not devoted to consumption.31
+Viewed from the fiscal multiplier perspective, savings is leakage from the
+system since it represents that part of income that does not generate a
+change in GDP (at least in the short term).32
+This simple model shows the dampening effect of forced debt repayment
+on economic growth. As noted earlier, the BAPCPA standard for abuse
+will force above-medium income debtors out of the chapter 7 walk away
+bankruptcy process if they are determined to have as little as $182.50 a
+month in discretionary income (called "disposable income" in section
+707(b)), with that figure being as low as $109.58 per month in some cases.
+The only bankruptcy option for these households is to use chapter 13.
+However, in chapter 13, they will be required to commit all of their
+"projected disposable income" to debt repayment for the next five years,
+unless the debt can be fully repaid earlier. While there are some
+differences between the "disposable income" used to determine abuse
+under section 707(b) and the "projected disposable income" that the debtor
+is required to commit to debt repayment during the five year chapter 13
+plan, 33 the intended effect of these combined changes is to divert virtually
+all discretionary income (i.e., income over the amount necessary for basic
+support) from consumption to debt repayment. 34 Since debt repayment is a
+form of "savings" and the BAPCPA changes are designed to divert all of
+the debtor's disposable income to debt repayment, the debtor's MPC for
+income earned in excess of the BAPCPA expense allowance would be
+zero. In the simple model, this means that the disposable income received
+by deeply indebted individuals in bankruptcy will produce no increase to
+30 Id. at 408.
+31 See Id.
+32 See Id. at 565.
+33 See 7 WlLLIAM L. NORTON JR.& WILLIAM L. NORTON III, NORTON'S BANKRUPTCY LAW &
+PRACTICE § 151:22, p. 151-117 et seq. (3d ed. 2009).
+34 The extent to which this effect materializes turns on how strictly courts interpret and apply these
+provisions.
+2010] 189
+JOURAL OF CIVIL RIGIflS & ECONOMiCDEVELOPMENT [Vol.25:1
+GDP during the first five years of the recovery phase.
+Of course, this model is too simple and overstates the anti-recovery
+effect of the BAPCPA changes. A dollar is a dollar, and one might ask
+why a dollar devoted to debt repayment has less economic impact than a
+dollar devoted to consumption. Won't the creditor spend part of the dollar
+it receives on consumption, just like the producer of the goods or services
+would have? Or, might the creditor spend part of the dollar on investment
+that would in turn generate future economic growth? The answers to these
+questions turn largely on who the creditors are.
+For example, if the consumer debtor owes money to another consumer
+who has the same MPC as the original consumer, then presumably the
+multiplier effect on GDP will be the same for debt repayment as it would
+have been for consumption, although that effect may be delayed. However,
+if the creditor has a different MPC than the consumer debtor, that could
+result in either a higher or lower multiplier effect on GDP. MPC varies by
+income level, with wealthier people having a lower MPC than poorer
+people. 35 Thus, if one assumes that the holders of consumer debt are
+investors with relatively higher incomes than the consumer debtors, then
+the BAPCPA changes have a depressive effect on GDP growth, even after
+accounting for the income effect of debt repayment on the recipient.
+A few examples of multipliers illustrate this point and suggest that
+BAPCPA has a negative effect on GDP growth. In February of 2009, the
+Congressional Budget Office estimated the range of the multipliers for
+transfers to persons (e.g., unemployment compensation) at a high of 2.2 to
+a low of 0.8 over several quarters. 36 While the disposable income of
+consumer bankruptcy debtors may not be identical to wage replacements
+like unemployment compensation, these figures at least provide some idea
+of the extent of the multiplier effect of that income. In contrast, the
+multipliers for a one year tax cut for high income persons ranged from a
+high of only 0.5 to a low of 0.1 over the same period. Again, while tax cuts
+may not be identical to debt repayment income for higher income creditors,
+these figures suggest that income from debt repayment has a low
+35 Samuelson, supra note 24, at 411. See also JOHN M. KEYNES, The General Theory of
+Employment, Interest and Money, 96 (1936) (noting that while aggregate consumption depends on
+aggregate income, consumption will not increase at the same rate as income).
+36 Letter from Douglas W. Elmendorf, Dir., Cong. Budget Office, to Honorable Judd Gregg,
+Comm. on the Budget, U.S. Senate 9 tbl. 2 (Feb. 4, 2009), available at http://www.cbo.gov/ftpdocs/
+96xx/doc9619/Gregg.pdf (last visited June 6, 2010); see also Statement of Douglas W. Elmendorf,
+Director, Cong. Budget Office, before the House Comm. on the Budget, The State of the Economy and
+Issues in Developing an Effective Policy Response 27 tbl. 5 (January 27, 2009), available at http://www.
+cbo.gov/ftpdocs/99xx/doc9967/01-27-StateofEconomy Testimony.pdf (last visited June 6, 2010).
+190
+BANKRUPTCYREFORMANDECONOMICRECOVERY
+multiplier. Multiplier estimates by some private economists similarly
+support the proposition that debt repayment has less stimulative impact
+than consumption. For example, Mark Zandi, Chief Economist of Moody's
+Economy.com, estimates that extended unemployment benefits will have a
+multiplier effect of 1.73 in the first year, compared to a first year multiplier
+of only .37 for tax cuts on dividends and capital gains, 37 income sources of
+the same type as debt repayment income. These figures suggest that the
+BAPCPA diversion of disposable income from consumption to debt
+repayment has a dampening effect on economic recovery, even assuming
+that the consumer debt is held by individuals who may devote at least some
+of the repayment income to consumption.
+However, the data on consumer debt suggest that only an infinitesimal
+amount of consumer debt is held directly by other individuals. Instead,
+institutions or investment pools hold almost all of the U.S. consumer
+debt.38 Only 1.9% of the outstanding consumer debt is held by non-
+financial businesses, 39 a category that might include a significant portion of
+high income individuals who might exhibit an MPC similar to the investor
+MPC discussed above. An additional 25% of outstanding consumer debt is
+held by pools of securitized assets. 40 While the investors in such pools may
+include high income individuals, they likely account for only a small
+portion of the pool investors and, even then, their investments may be in
+the form of pension investments or retirement savings that do not correlate
+to current consumption.
+More than two thirds of the outstanding consumer debt is held by
+financial institutions. Thus, the simple equation needs to be refined further
+to account for the impact that repayment of debt to these institutions might
+have on domestic GDP growth. While the transfer of debt repayment
+income to a commercial bank or other financial institution represents
+leakage from the system, it may be offset if those dollars are used by that
+institution for additional investment in the domestic economy. Thus, a
+somewhat more accurate formula for overall GDP must include both
+consumption spending and investment spending. In terms of the effect that
+37 Economic Stimulus for Small Business: A Look Back and Assessing Need for Additional Relief
+Before the H. Comm. on Small Business, I10th Cong. 5(July 24, 2008) (written testimony of Mark
+Zandi, Chief Executive and Co-Founder, Moody's Economy.com).
+38 Federal Reserve Statistical Release G.19, Consumer Credit September 2009 (November 6,
+2009), available at http://www.federalreserve.gov/releases/gl9/20091106/ (last visited June 7, 2010).
+39 Id. $48.3 billion out of the total of $2.465 trillion in outstanding consumer credit was held by
+non-financial businesses.
+40 Id. $618.3 billion out of the total of $2.465 trillion in outstanding consumer credit was held by
+pools of securitized assets.
+2010] 191
+JOURNVALOFCIVILRIGHlS& ECONOACDEVELOPAENT [Vol.25:1
+BAPCPA has on the economic impact of the debtor's "disposable income"
+as defined by bankruptcy law, the formula would be: disposable income
+minus debt repayment plus new investment by the creditor. While the
+additional investment by the creditor will add to GDP eventually, its impact
+will be delayed and will likely only affect longer term GDP growth rates.
+Thus, even if one makes the highly improbable assumptions that all of the
+diverted income will be reinvested by the financial institutions and that the
+total multiplier effect of the investment is the same as the multiplier effect
+for consumption, the investment expenditures are unlikely to have much
+immediate impact on GDP growth or to assist in the recovery from a
+recessionary period.
+In the current economic climate, it is clear that the assumption of
+reinvestment is not justified. Repayment to pools of securitized assets will
+not result in any direct additional investment since those pools are not
+designed to reinvest the income they receive. Further, the Great Recession
+has caused many financial institutions to fail and left most others in serious
+financial difficulty with insufficient capital or insufficient reserves. As a
+result, lending to consumers and businesses by financial institutions has
+largely dried up. Despite massive infusions of government bailout funds
+that were designed to encourage these institutions to begin lending again,
+they have mostly failed to do so. 41 Commercial banks hold 33.7% of
+outstanding consumer debt, with savings institutions holding an additional
+2.9%.42 Consumer debt repayment to these institutions will result in
+virtually no additional investment, and no current GDP growth. Finance
+companies, which hold an additional 21.2% of the outstanding consumer
+debt,43 may be more likely than commercial banks to reinvest debt
+repayment income in new loans, but many are similarly in financial
+difficulty. Credit unions, which hold 9.8% of the outstanding consumer
+debt,44 appear to be in better financial shape than other financial
+institutions and may reinvest debt repayment income in additional loans.
+Even if this is correct, overall only a very small portion of the income
+diverted from consumption to the repayment of debt held by financial
+institutions will result in new investment.
+The other major holder of U.S. consumer debt is the federal government
+41 Testimony of Til Schuermann, Vice President, Federal Reserve Bank of New York, before the
+Congressional Oversight Panel for the Troubled Asset Relief Program (May 28, 2009), available at
+http://www.newyorkfed.org/newsevents/speeches/2009/sch090528.html (last visited 1/19/2010).
+42 See Federal Reserve Statistical Release supra note 39
+43 Id.
+44 Id.
+192
+BANKRUPTCYREFORMAND ECONOMICRECOVERY
+and Sallie Mae, representing 5.4% of the outstanding consumer debt.45
+Since the federal government, unlike state governments, is not required to
+balance its budget, there is no direct correlation between income received
+by the government and government spending. Thus, although government
+spending does result in an increase in GDP, the BAPCPA diversion of
+income from consumption to the repayment of debt held by the government
+does not produce any offsetting increase in GDP.
+Finally, the domestic economy is not a closed system. The effect of both
+foreign investors and foreign debt holders must be considered in
+calculating the impact BAPCPA has on domestic GDP growth. In an open
+economy, like ours, the multipliers are lower than in a closed economy
+because of the leakage caused by transfers to non-U.S. holders of debt.46
+Debt repayment to non-U.S. holders has no stimulative effect on the
+domestic economy, except to the extent that the creditor reinvests the debt
+repayment income in new investments in the U.S. economy or uses those
+funds to consume U.S. exports. In an open economy, both domestic and
+foreign holders of U.S. consumer debt are free to invest the additional debt
+repayment income provided by BAPCPA in foreign economic ventures. In
+both instances, this would represent leakage and reduce the domestic
+economic impact of the debtor's disposable income. However, it may be
+less likely that foreign holders of debt will repatriate the debt repayment
+income to U.S. investment than that domestic holders will. Thus, the
+existence of non-U.S. debt holders further reduces the domestic economic
+impact of the disposable income earned by debtors in bankruptcy.
+CONCLUSION
+Total domestic economic output, or domestic GDP, is the sum of
+consumption, investment, government expenditure and net exports. 47 As
+discussed above, the BAPCPA can pay/must pay approach to bankruptcy
+retards the economic stimulus impact of the consumer bankruptcy system.
+BAPCPA's diversion of disposable income from consumption to debt
+repayment reduces the debtor's MPC to zero with respect to that income
+for a five year period. The creditors' receipt of extra debt repayment
+income does not offset this loss to GDP growth. This is because the
+repayment will have little offsetting impact on the investment component
+45 Id.
+46 Cf SAMUELSON, supra note 24 at 565 (stating that open economy multipliers are lower than
+closed economy multipliers).
+47 SAMUELSON, supra note 24, at 443,565.
+2010] 193
+194 JOURALOFCIVILRIGHTS & ECONOMICDEVELOPMENT [Vol. 25:1
+of GDP, virtually no offsetting impact on the government expenditure
+component of GDP, and, depending on the extent of consumer debt held by
+non-U.S. entities, may have a negative impact on the net exports
+component of domestic GDP. Finally, even to the extent that debt
+repayment income is returned to U.S. households, the consumption
+component of domestic GDP will be reduced because the debt holders
+likely have a much lower MPC than consumer debtors.
+While there may be policy reasons to adopt a BAPCPA style can
+pay/must pay consumer bankruptcy system, those must be weighed against
+the bankruptcy system's role as an economic recovery tool.

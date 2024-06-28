@@ -1,0 +1,1015 @@
+A Comparison of the Experiences of Economic Adaptation and Integration for Refugees and Asylum Seekers in Maine
+
+The University of Maine
+DigitalCommons@UMaine
+Honors College
+Spring 5-2016
+A Comparison of the Experiences of Economic
+Adaptation and Integration for Refugees and
+Asylum Seekers in Maine
+Grace Kiffney
+University of Maine
+Follow this and additional works at: https://digitalcommons.library.umaine.edu/honors
+Part of the Anthropology Commons, and the International Relations Commons
+This Honors Thesis is brought to you for free and open access by DigitalCommons@UMaine. It has been accepted for inclusion in Honors College by
+an authorized administrator of DigitalCommons@UMaine. For more information, please contact um.library.technical.services@maine.edu.
+Recommended Citation
+Kiffney, Grace, "A Comparison of the Experiences of Economic Adaptation and Integration for Refugees and Asylum Seekers in
+Maine" (2016). Honors College. 394.
+https://digitalcommons.library.umaine.edu/honors/394
+ 
+ 
+ 
+ 
+A COMPARISON OF THE EXPERIENCES OF ECONOMIC ADAPTATION AND 
+INTEGRATION FOR REFUGEES AND ASYLUM SEEKERS IN MAINE  
+by 
+Grace Kiffney 
+ 
+ 
+ 
+A Thesis Submitted in Partial Fulfillment 
+of the Requirements for a Degree with Honors 
+(International Affairs, Concentration Anthropology) 
+ 
+ 
+ 
+ 
+ 
+The Honors College 
+ 
+University of Maine 
+ 
+May 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advisory Committee: 
+ Robert W. Glover, Assistant Professor of Honors & Political Science, Advisor  
+Kenneth Farber, Senior Counsel, Avangrid, Inc.  
+Mazie Hough, Associate Professor of History and Women', Gender, and Sexuality 
+     Studies 
+Samuel Hanes, Assistant Professor of Anthropology 
+ Ann Acheson, Research Associate, Margaret Chase Smith Policy Center; Faculty 
+     Associate, Anthropology 
+ 
+ 
+ 
+ 
+ 
+Abstract 
+The migration of refugees and asylum seekers affects them and the communities 
+where they resettle, as people from different backgrounds and cultures come together. In 
+the United States, the federally funded refugee resettlement program supports refugees 
+with welfare benefits, case management, and other services to assist with integration. 
+However, no such federal program exists for asylum seekers, who are considered 
+displaced people, but who have not received immigration status as refugees. This project 
+sought to answer the question: How is the experience of supporting oneself different and 
+similar for refugees and asylum seekers, in the context of Maine? 
+Research involved a literature review on the use of social capital within 
+immigrant groups, an analysis of recent local newspaper articles on the migration of 
+asylum seekers to Maine, and eleven semi-structured key informant interviews with 
+asylees, refugees, community leaders, and service providers. It appeared that their 
+communities were an important source of information, temporary housing, and served as 
+a forum from which to celebrate culture, for both refugees and asylum seekers, though 
+perhaps more so for asylum seekers. Many refugees and asylum seekers shared the 
+challenges of integrating into a new culture and seeking better opportunities after their 
+credentials were devalued. This study proposes that NGOs develop mentoring programs 
+for asylum seekers modeled on the mentoring programs organized by Catholic Charities 
+Maine Refugee and Immigration Services. These would build bridges of understanding 
+between refugees and members of the receiving community. 
+ 
+ 
+iii 
+ 
+Acknowledgements and Dedication 
+First and foremost, I owe a huge thank-you to my thesis advisor, Professor Rob 
+Glover, for sharing his expertise in helping me design this project, and for his constant 
+support and encouragement when I felt lost in the process. I would also like to thank all 
+the members of my committee, Ken Farber, and Professors Mazie Hough, Ann Acheson, 
+and Sam Hanes for their feedback on my project and their help designing it, as well as 
+their help putting me in touch with contacts for this project. I would like to thank 
+everyone who shared their valuable time and insights through allowing me to interview 
+them. I am grateful to Rendle and Patricia Jones for the generous fellowship that helped 
+me undertake this research. Finally, I would like to thank my family for helping me get to 
+this stage, and my friends and fellow honors students for commiserating with me 
+throughout this process. 
+This thesis is dedicated to all newcomers to the state of Maine, and everyone who 
+is working to make the state a more welcoming place. 
+  
+ 
+ 
+iv 
+ 
+ 
+Table of Contents 
+Abstract……………………………………………………………………………………ii 
+Dedication/Acknowledgements…………………………………………………………..iii 
+Introduction………………………………………………………………………………..1 
+     Methodology…………………………………………………………………………...5 
+Chapter 1 Background: The Changing International Refugee and Asylum Crisis and its  
+ Implications for the United States………………………………………………………...9 
+     History and Challenges of Refugee Resettlement in the U.S.………………………..12 
+     History and Challenges of Asylum Policy in the U.S………………………………...16 
+     Conclusion……………………………………………………………………………20 
+Chapter 2 Refugee and Asylum Seeker Resettlement in the Maine Context……………22 
+     Refugee and Asylum-Seeker Resettlement in Maine and Access to  
+      Public Benefits……………………………………………………………………….24 
+     The General Assistance Controversy and its Implications…………………………...27 
+     Conclusion……………………………………………………………………………35 
+Chapter 3 Social Capital, Sponsorship, and Community Integration……………………37 
+     Social capital within immigrant groups………………………………………………38 
+     Sponsorship, Integration, and Multiculturalism………………………………………45 
+     Social Capital and Integration in Portland and Lewiston…………………………….49 
+     Conclusion……………………………………………………………………………55 
+Chapter 4 Interview Analysis………………………………………………………….....57 
+     Asylum Cases and Work Authorization: Challenges Faced by Asylum Seekers…….57 
+     The Language Barrier and Devalued Credentials: Challenges Faced by Asylees and   
+ 
+ 
+v 
+ 
+      Refugees……………………………………………………………………………...60 
+     Negotiating a Relationship with the Receiving Community……………………........62 
+     The Role of “Immigrant Communities” and Ethnic Community Associations…........66 
+     Suggestions for Improving Opportunity and Integration……………………………..73 
+     Conclusion……………………………………………………………………………76 
+Chapter 5 Conclusion: Moving Forward………………………………………………...78 
+References………………………………………………………………………………..85 
+Appendix…………………………………………………………………………………90 
+Author’s Biography…………………………………………………………………….114 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+INTRODUCTION 
+ 
+When I arrived in Maine I didn’t know anybody. I just came to Maine because I 
+heard of some assistance that refugees1 could get from the government and that it was 
+really helpful for the newcomers, and they were coming from all over the country. And 
+when I heard about Maine from different people, I came here. I really had no one to help 
+me out.  
+When I arrived at the bus station, I saw a woman was standing two steps away 
+from me. She was on the phone and I heard her speaking Kinyarwanda, my language. I 
+was really afraid to arrive in a new place because I didn’t know how people behaved, 
+how Maine was, I didn’t know about the shelter . . . I didn’t know anything.  
+But when I heard her speaking, I felt relieved. So I tried to approach her, and 
+asked her some questions, like what part of Rwanda was she from. We talked a bit and 
+she accepted me to stay at her place for a while until I found a place to live. Now she is 
+like my aunt. I know she is there for me, and I am there for her. We are like family.  
+ -Excerpt from an interview with an asylee living in Portland, Maine 
+ 
+Moving can be hard for anyone. But imagine you are uprooted from your home 
+by the threat of persecution or violence and must flee to another country in order to be 
+safe. Perhaps you needed to leave so quickly you had to leave your family behind. When 
+you arrive, you may not know the language, you do not know where you will live, you do 
+not know anyone who will tell you where the grocery store is, let alone comfort you and 
+assist you through the period of adjustment. This is the reality confronting many refugees 
+                                                
+1 The interviewee may have been implying asylum seekers. 
+ 
+ 
+2 
+ 
+and asylum seekers around the world, including the asylee from Rwanda speaking above. 
+However, as the story above illustrates, members of the community where refugees and 
+asylum seekers resettle, if they extend their help, can make all the difference for a 
+newcomer.  
+The terms “refugee” and “asylum seeker” are often confused or misunderstood, 
+even though these distinct immigration status categories entail different benefits, 
+opportunities, and experiences for refugees and asylum seekers once they reach the 
+United States. Whereas refugees are assigned their immigration status before they are 
+resettled and it is never in question, asylum seekers apply for asylee status—which 
+equates to refugee status—once they arrive in the country where they hope to resettle. 
+The law prevents asylum seekers from working for months while they await a decision to 
+be made on their ability to remain in the United States. Their whole future is in doubt. 
+While the United States has a fairly comprehensive refugee resettlement program, 
+with temporary financial assistance, case management, and employment services, asylum 
+seekers cannot access any of these federally funded programs or benefits until they 
+receive asylum. Lack of access to these benefits, programs, and the ability to work, can 
+undermine the process of integration for asylum seekers and their economic security. 
+Considering these factors, this study will attempt to answer the question: How is the 
+experience of supporting oneself and integrating different and similar for refugees and 
+asylum seekers in Maine? This study will focus on Maine because a significant number 
+of asylum seekers have migrated to Maine over the past decade and a half. Though 
+several thousand refugees have been resettled through the federal refugee resettlement 
+program over the past thirty years, there is often a disconnect between the federal refugee 
+ 
+ 
+3 
+ 
+and asylum policy and its implementation at the local level, which has often led to 
+frustration among long-term Mainers and among refugees and asylum seekers. 
+Additionally, as the least racially or ethnically diverse state, Maine presents an interesting 
+backdrop from which to explore the tensions that have arisen between some long-term 
+Mainers and new Mainers such as refugees and asylum seekers, who often have distinct 
+cultural and ethnic backgrounds than the majority of Maine’s population. Furthermore, 
+the state of Maine and its cities provide General Assistance, which is one of few welfare 
+programs in the nation that serves asylum seekers, adding to the complexity of the issue.  
+However, this study will move beyond analyzing the different welfare benefits 
+and opportunities afforded to refugees and asylum seekers in Maine, and compare the 
+ways refugees and asylum seekers support themselves using social capital. Social capital 
+is often embedded within co-ethnic immigrant communities, and members of these 
+communities often utilize social capital in order to “make it,” due to the challenging 
+conditions presented by their new home: the language barrier, devalued credentials, few 
+belongings and little wealth, and possible discrimination from the receiving community. 
+Social capital is defined as the “feature of social life—networks, norms, and trust—that 
+enable participants to work together more effectively to pursue shared objectives” 
+(Putnam, 1995: 665).  
+This study will explore how refugees and asylum seekers use social “bonds” and 
+“bridges” to adapt to life in Maine and improve their opportunities. While “bonding” 
+refers to the ties of trust that become established within an immigrant group, “bridging” 
+refers to the ties built between immigrant groups and the receiving community or other 
+immigrant groups (Allen, 2007: 91). These ties can result in social safety nets for 
+ 
+ 
+4 
+ 
+newcomers, or may lead to cross-cultural understandings. Cross-cultural understandings 
+may make the host community members more welcoming and tolerant as they learn from 
+the newcomers about their cultures. They may also ease the process of integration, as 
+newcomers learn about the cultural norms and day-to-day aspects of life in their new 
+home from members of the receiving community. If social bridges improve the process of 
+integration, they may result in better economic opportunities for newcomers.  
+There is some research on refugees’ use of social capital, but there is far less 
+research on asylum seekers’ use of social capital to survive, let alone succeed in their new 
+circumstances. This is significant, because in the United States, asylum seekers are 
+afforded a much smaller safety net than refugees, perhaps leading asylum seekers to rely 
+more on their communities for help than refugees. This informal asylum seeker 
+community support is essential, but cannot take the place of programs and policies, such 
+as those that serve refugees, in assisting asylum seekers with the process of integration. 
+Because U.S. immigration policy has not been significantly reformed for decades, it may 
+not be likely that U.S. asylum policy will be modernized soon. Thus, integration policies 
+for refugees and asylum seekers will likely have to be made at the state or local levels. 
+Local level programs that serve refugees, such as those run by Catholic Charities Maine 
+Refugee and Immigration Services, though they receive significant federal funding, may 
+be able to serve as models for integration programs for asylum seekers in Maine and 
+elsewhere. 
+ The first chapter of this thesis will briefly chronicle the history of the international 
+refugee system, and the history of the refugee and asylum systems in the United States. It 
+will explore some of the issues within the U.S. asylum system, both for asylum seekers 
+ 
+ 
+5 
+ 
+and the communities where they resettle. It will also compare the issues facing the US 
+asylum system with the US refugee program, which has not been significantly 
+modernized since the 1980s, when it was established, and which faces its own challenges. 
+The second chapter will focus on the Maine case of refugee and asylum seeker 
+resettlement, concentrating on the last fifteen years. It will provide a brief history of the 
+main refugee and asylum seeker migrations to Maine from the Middle East and Africa, 
+and how the receiving community has responded over time to these migrations. 
+Specifically it will discuss the General Assistance controversy and the immigrant rights 
+advocacy that the controversy sparked, and the rhetoric that both sides of the debate used 
+to support their cause. The third chapter will analyze the use of social capital within 
+immigrant communities, and reference previous studies on how refugee communities in 
+Maine have used social capital. This analysis will provide a framework for understanding 
+how asylum seekers may use their social networks to support themselves in comparison 
+with refugees. Chapter four will attempt to answer the research question above by 
+analyzing the insights that asylees, refugees, community leaders, and service providers 
+offered through interviews. Finally, chapter five will review the main ideas from the 
+study and offer suggestions for moving forward.  
+ 
+Methodology 
+ 
+The research methods for this project were a literature review, an analysis of local 
+news media, and a series of eleven semi-structured key informant interviews with 
+asylees, refugees, service providers, and community leaders. The literature review 
+ 
+ 
+6 
+ 
+included the history of the U.S. refugee program, and the use of social capital within 
+immigrant groups, especially refugee groups in Portland. The news media analysis 
+provided information about the migration of asylum seekers to Maine and chronicled the 
+controversy over whether or not asylum seekers should be eligible to receive General 
+Assistance.  
+The key informant interviews, held with members of the community who are 
+leaders or are very knowledgeable about their community members’ experiences, yielded 
+qualitative information. Because Portland is home to asylees and refugees from diverse 
+backgrounds and many countries of origin, I did not impose any limitations based on 
+country of origin, or year of arrival in the United States, in attempting to contact and 
+interview people. A comparison of the experiences of immigrants based on immigration 
+status, refugee or asylee, would need to encompass people from all backgrounds. Thus, I 
+attempted to interview people from many different countries and backgrounds. 
+To recruit participants, I began by contacting the Immigrant Legal Advocacy 
+Project and the Maine People’s Alliance, and used snowball sampling from there to reach 
+potential interviewees. Because of the nature of snowball sampling, it can produce 
+sample bias. Indeed, the refugees and asylees I interviewed came from four main 
+countries: Burundi, Rwanda, Iraq, and Iran. However, many of the interviewees also 
+made a concerted effort in trying to connect me with people from diverse backgrounds.  
+In the end, I interviewed five asylees (two from Burundi and three from Rwanda), 
+three refugees (two from Iran and one from Iraq), and an additional three community 
+leaders and service providers from the receiving community. Many refugees and asylees 
+interviewed for this study were also active in advocacy or service provision organizations 
+ 
+ 
+7 
+ 
+as well. Some of these interviews were conducted in person and some over the phone. In-
+person interviews were recorded and transcribed, and I took notes on the phone 
+conversations. These interviews lasted thirty minutes to an hour. I asked asylees and 
+refugees to recount their experiences getting themselves established since arriving in 
+Maine, and asked questions about the role or importance of community, the various 
+forms of economic support they had received, their opinions on the response of the 
+receiving community to their arrival, how they thought the experiences of refugees and 
+asylees differed, and their ideas or plans for improving opportunity for refugees and 
+asylees. I asked the members of service provision and community organizations about 
+their experiences working with asylees and refugees, and their opinions on what the 
+community, city, and state does well in assisting refugees and asylees, and ideas for how 
+to improve opportunity for newcomers. 
+To minimize risk, I sought approval for this project through the University of 
+Maine Institutional Review Board. Participants signed consent forms that explained the 
+research project and addressed issues of confidentiality. Asylum seeker and refugee 
+participants will remain confidential in this report; however, if they were involved in 
+advocacy or played a leadership role within their community they had the option to have 
+their opinions and statements attributed to them. Service providers also had the option to 
+have opinions and statements attributed to them. 
+Because the scope of this project was limited, I do not propose that the individuals 
+interviewed for the project represent all the ideas and opinions of their communities or 
+organizations as a whole. There is the possibility that interviewer bias has affected the 
+way the information shared in the interviews was interpreted in this thesis. However, this 
+ 
+ 
+8 
+ 
+study was able to provide a number of insights that are shared among many members of 
+asylee and refugee communities.  
+The first three chapters include the literature review and local news media 
+analysis while the fourth and fifth also include analysis from the interviews. My analysis 
+of the interviews involved reviewing the insights shared and identifying common themes 
+and contrasts as well as my own perceptions. This project presents a sample of the main 
+differences and similarities in the experiences refugees and asylum seekers face and a 
+narrative of these experiences within the current context of the immigration debate in 
+Maine. 
+ 
+  
+ 
+ 
+9 
+ 
+CHAPTER 1 
+BACKGROUND: THE CHANGING INTERNATIONAL REFUGEE AND ASYLUM 
+CRISIS AND ITS IMPLICATIONS FOR THE UNITED STATES 
+ 
+The current international refugee system, initiated at the close of the Second 
+World War with the UN Convention Relating to the Status of Refugees of 1951, cannot 
+adequately address the worldwide refugee and asylum seeker crisis. This system, created 
+to avoid another catastrophe like that which befell victims of the Holocaust who were 
+denied asylum, has endured and adapted to the changing world order of the past 70 years. 
+Its original goal was to aid European refugees from World War II; later it was intended to 
+protect European refugees of the Cold War, then it was extended to protect refugees from 
+all over the world fleeing international and internal state conflicts. However, with the 
+current record number of refugees, asylum seekers, and internally displaced persons in 
+the world—59.5 million—the international refugee and asylum system struggles to assist 
+so many people (UNHCR Global Trends, 2014: 2).  
+Refugees have a specific legal status that allows them to immigrate to a safe 
+country and receive certain benefits. The formal UN Refugee Convention definition of a 
+refugee is someone who is “unwilling or unable to return to their home country because 
+of past persecution or a ‘well-founded’ fear of persecution on account of race, religion, 
+nationality, membership in a particular social group, or political opinion” (Bohmer & 
+Shuman, 2008: 17). Official designation as a refugee is a lengthy process that requires 
+interviews with the United Nations High Commissioner for Refugees (UNHCR) staff, 
+and often additional screening interviews with government officials of the resettlement 
+ 
+ 
+10 
+ 
+country. It often takes many years for a decision to be reached about the refugee’s status 
+and a resettlement site assigned (Bohmer & Shuman, 2008: 24-25). Many refugees are 
+processed and given refugee status at camps. However, many people who fall under the 
+definition of refugee face an imminent threat to their life or wellbeing, and do not have 
+the time to undergo this lengthy status determination. Additionally, there may be no 
+structured system in their country, such as a UNHCR refugee camp, to allow them to 
+apply for this status (Bohmer & Shuman, 2008: 95). Thus, these people flee persecution 
+and claim asylum after arriving in a safe country.  
+Asylees are defined by the same criteria as refugees according to the UN Refugee 
+Convention; however, their status is determined after they reach the country where they 
+hope to resettle (Bohmer & Shuman, 2008: 24). Until a decision is made about their 
+immigration status, they remain asylum seekers, a tenuous legal status that does not 
+permit them to access the same support services as refugees in some countries, such as 
+the US. According to the UNHCR Global Trends report of 2014, in that year, of all the 
+forcibly displaced, 19.5 million were classified as refugees and 1.8 million as asylum 
+seekers. In 2014 more people were forcibly displaced than any year in recorded history, 
+and it was the largest annual increase in displaced persons (UNHCR Global Trends, 
+2014: 2). 2015 saw the same trends continue, with a global spotlight on the Syrian 
+asylum seeker crisis. That year, 86 percent of refugees and asylum seekers were settled in 
+developing countries and 25 percent were settled in the Least Developed Countries 
+(UNHCR Global Trends, 2014: 2). 
+The record number of displaced persons around the world underscores a number 
+of issues with the international refugee system, including individual states’ exacerbation 
+ 
+ 
+11 
+ 
+of conflicts that produce displaced people, reluctance to resettle refugees, and a vague 
+definition of “refugee” that does not account for all the situations that cause people to flee 
+their homeland. More than a third of the world’s refugees live “in a protracted state of 
+displacement,” with no immediate resettlement option or the ability to return home (Eby, 
+Iverson, & Kekic, 2011: 588). It was not always this way. Before open migration policies 
+were ended in the 19th century, people could move relatively freely across borders. But 
+when states became more concerned with national security, they instituted a number of 
+blatantly racist border controls, such as the Chinese Exclusion Act of 1882 and other 
+national quota laws (Barkdull, 2012: 108). The increased regulation of national borders 
+made it harder for people to immigrate, precipitating the asylum crisis (Loescher et al., 
+1992: 13).  
+Also, throughout the last half-century, foreign intervention and the proliferation of 
+the global arms trade have produced conditions that led to many refugee movements 
+(Loescher et al., 1992: 11). But many states are unwilling to change their refugee-
+producing foreign policy. The definition of “refugee” is also problematically vague: what 
+constitutes “persecution” on account of race, religion, nationality, political opinion, or 
+membership in a social group is difficult to define (Loescher et al., 1992: 21). This causes 
+challenges for immigration officials in deciding whether someone qualifies as a refugee, 
+leading to a host of legal questions and resulting in denial of asylum to some people 
+fleeing danger in their homeland. However, despite its flaws, the existence of an 
+international refugee and asylum system has at least provided a framework to protect the 
+world’s most vulnerable people (Loescher et al., 1992: 13). The flaws within the 
+ 
+ 
+12 
+ 
+international refugee and asylum system introduce issues in the US’s refugee and asylum 
+system.  
+ 
+History and Challenges of Refugee Resettlement in the United States 
+ 
+U.S. refugee policy began with the 1952 Immigration and Nationality Act, based 
+on the 1951 UN Refugee Convention, and was modified to its current practice with the 
+1980 Refugee Act (Bohmer & Shuman, 2008: 16). Refugee resettlement in the US 
+requires the cooperation of the supranational UNHCR, various departments within the US 
+government, and the work of voluntary agencies known as VOLAGS. The US 
+government designates VOLAGS with the project of resettlement—establishing contacts 
+within the communities where the refugees will be resettled and assisting with the 
+process of integration. The US refugee program has evolved through the years to become 
+more inclusive and fair; however, current refugee policy faces a number of structural 
+challenges. Still based on Cold War ideology, the US refugee program has become 
+outdated. Widespread public misperceptions of refugees often undermine the fairness of 
+refugee policy. Finally, the US refugee program struggles with a lack of funding, 
+sometimes placing strain on local communities where refugees are resettled. 
+After decades of ad hoc refugee admissions under the 1952 Immigration and 
+Nationality Act, internal pressure for a cohesive and inclusive refugee policy led to the 
+creation of the 1980 Refugee Act. In the Refugee Act of 1980, the US adopted the 
+international definition of a refugee, and created a formal process for receiving refugees 
+and granting asylum (Bohmer & Shuman, 2008: 18). It also established the Federal 
+ 
+ 
+13 
+ 
+Refugee Resettlement Program (Barkdull, 2012: 109). A Coordinator of Refugee Affairs 
+and the Interagency Coordinating Committee were created; the Office of Refugee Affairs 
+grew out of cooperation between the US Dept. of State and what is now the Dept. of 
+Health and Human Services (Loescher et al., 1992: 61).  
+Funding for the Refugee Resettlement Program is allocated by the State 
+Department’s Bureau of Population, Refugees and Migration. This funding supports 
+VOLAGS which are contracted by the government to resettle refugees (Barkdull, 2012: 
+113). VOLAGS are diverse organizations, some faith-based, such as the Hebrew 
+Immigrant Aid Society or Catholic Charities Refugee and Immigration Services, and 
+some secular, such as the International Rescue Committee. VOLAGS are responsible for 
+picking refugees up from the airport, administering the Reception and Placement Grant (a 
+one-time grant to assist with initial resettlement costs such as a housing security deposit), 
+providing case-management, and any other programming to ease the transition to life in 
+the US and the process of integration (Eby, Iverson, & Kekic, 2011: 591-2). The US 
+refugee resettlement program is fairly comprehensive; however, it has not been 
+significantly updated since the 1980 Act, which creates challenges for the program. 
+The US’s out-of-date refugee policy still struggles to overcome its Cold War 
+ideological origins (Barkdull, 201: 114). During the Cold War, US refugee policy was 
+influenced by the country’s desire to appear morally superior to its rival, the USSR. Thus 
+refugees from that part of the world were privileged for resettlement in the US (Loescher 
+et al., 1992: 63). Though the US abandoned its previous definition of a refugee as 
+someone from a “Communist, Communist-dominated, or Middle Eastern country” 
+(Loescher et al., 1992: 60), even today refugees privileged for resettlement in the US are 
+ 
+ 
+14 
+ 
+from the former USSR and Cuba, as well as the Democratic Republic of the Congo, Iraq, 
+Iran, Bhutan, and Burma (American Immigration Council, 2015). Until the 1980s, the 
+majority of refugees entering the US came from the Eastern European communist bloc 
+(Barkdull, 2012: 114). Now refugees mainly originate from developing countries. In 
+2015, the US accepted 70,000 refugees for resettlement, one third of whom originated 
+from the Middle East and South Asia, another third of whom originated from Africa, and 
+one quarter from East Asia (American Immigration Council, 2015). These new refugees, 
+with distinctly different ethnic backgrounds and religions from the majority of the U.S. 
+population, may be seen as a threat to the American “way of life” (Loescher et al., 1992: 
+2).  
+Indeed, the fairness of US refugee policy is often undermined by 
+misrepresentation and misperception of refugees and asylum seekers as economic 
+migrants or even terrorists. “Economic migrant” is not a specific legal category like 
+“refugee” or “asylee;” instead it refers to the spectrum of immigrants who migrate to 
+improve their economic prospects. Economic migrants have various immigration 
+statuses, and some may have temporary work visas or may be undocumented. Though 
+refugees may also face economic hardship in their home countries, those migrating solely 
+for economic reasons are not eligible for refugee or asylee status. The terrorist attacks of 
+9/11 brought national security to the forefront of national concerns, which resulted in the 
+tightening of immigration policy and restrictions on allowing refugees to resettle 
+(Barkdull, 2012: 109). The Real ID Act of 2005 and the PATRIOT Act of 2001 imposed 
+restrictions on immigration with the goal of improving safety, though outcomes were 
+negligible and refugees were negatively affected. Some legislators and citizens are 
+ 
+ 
+15 
+ 
+increasingly suspicious of refugees as terrorists resulting in the now more widespread use 
+of detention of asylum-seekers (Barkdull, 2012: 111). Despite the fact that of the 784,000 
+refugees resettled in the US since 9/11, only three have since been arrested for plotting 
+terrorist activities (two were plotting attacks not on the US, and the third’s plot was 
+“barely credible”) (Newland, 2015). Misrepresentation is an example of the systemic 
+challenges facing the refugee and asylum system.   
+Another challenge facing the US’s refugee program is a chronic lack of funding 
+which affects the localities where refugees are resettled. Despite being a federal program, 
+the US refugee program only provides VOLAGS 39 percent of the funding they need to 
+carry out reception and placement services (Barkdull, 2012: 114). VOLAGS thus often 
+rely in part on the financial support of the receiving community. Local social service 
+providers, already limited by tight budgets, must absorb refugees into their clientele. In 
+small urban centers that do not have a history of resettling refugees, the financial 
+limitations of the refugee program can overlap with racial prejudices to produce tensions 
+within receiving communities.  
+While refugees were once almost exclusively resettled in large cities—New York, 
+Chicago, and LA—they are now increasingly resettled in smaller urban centers that may 
+not have the social service infrastructure and resources to serve them. Small 
+municipalities often receive little notice of when a large influx of refugees will be 
+resettled (Barkdull, 2012: 114). When some small municipalities struggle to provide 
+services to long-term residents, refugee resettlement can cause tensions between long-
+term residents and service providers and newcomers (Barkdull, 2012: 115). For example, 
+Barkdull describes a small community in Illinois where a large number of refugees were 
+ 
+ 
+16 
+ 
+resettled one year. Schools had rapidly growing enrollment, but lacked the ability to hire 
+more teachers. ESL budgets were limited and struggled to serve the influx of refugee 
+children. As a result, some local parents were concerned that the schools appeared to be 
+“failing” according to the standards set by No Child Left Behind—which would have 
+affected the schools’ reputations—because of the influx of ESL students (Barkdull, 
+2012:113). An unfortunate consequence of the lack of coordination between the federal 
+refugee program and the local VOLAG resulted in the host community lashing out 
+against the refugees, improving the situation for no one.  
+While the US’s refugee program has adapted to some degree to the changing 
+times and has become more inclusive and comprehensive, there has been no significant 
+modernization of refugee policy since the 1980 Refugee Act. Thus, US refugee policy 
+faces a number of challenges, especially a lack of funding, which affects both refugees 
+and the communities which receive them. The issues facing US refugee policy are 
+mirrored in US asylum policy, which developed alongside it, and many challenges that 
+refugees and their receiving communities face are also faced by asylum seekers and the 
+communities where they resettle. 
+ 
+History and Challenges of Asylum Policy in the United States 
+ 
+The international refugee system, which grew out of the World Wars, struggles to 
+cope with the number of people around the world seeking refuge from today’s conflicts. 
+The norm of asylum is one way that the nations of the world attempt to account for the 
+people who slip through the cracks, who cannot be assisted through the international 
+ 
+ 
+17 
+ 
+refugee system. While the norm of asylum has long existed in many nations, in the 
+United States a formal process for seeking asylum was established in the 1980 Refugee 
+Act. There are many issues with the U.S. asylum system, including a large backlog of 
+asylum cases in immigration offices and courts and the use of deterrence measures such 
+as detention. Deterrence measures are intended to dissuade asylum seekers from entering 
+the country, but result in a high emotional toll for asylum seekers and a high financial toll 
+for society. Though slight reforms were introduced to the system in 1991 to improve the 
+asylum system’s functioning, there are still flaws. While the international asylum system 
+fulfills an essential worldwide political function and is morally necessary, the problems 
+with the U.S.’s asylum system affect asylum seekers and the communities where they 
+settle. 
+It was not until the passage of the 1980 Refugee Act that those already in the 
+United States and fitting the definition of refugee could apply for asylum (Bohmer & 
+Shuman, 2008: 19). Asylum seekers, unlike refugees, pay for their passage to the United 
+States up-front, and obtain their own visas. Asylum seekers, who flee persecution like 
+refugees, enter the United States on various visas, such as business, tourist, or student 
+visas, or are undocumented. Sometimes asylum seekers enter the country with forged or 
+fraudulent documents, because they would be apprehended by authorities in their 
+countries if they traveled with their own documents, or because they would not be able to 
+obtain documents if U.S. consular officials thought they were moving to the United 
+States (Bohmer & Shuman, 2008: 95). Immigration officials in the United States often 
+discount asylum seekers’ cases if they arrived in the United States with forged or 
+ 
+ 
+18 
+ 
+fraudulent documents, even though this is acceptable under international law when the 
+cases are deemed credible (Bohmer & Shuman, 2008: 251).  
+Asylum in the United States is obtained in three ways: “affirmatively,” 
+“defensively,” or derived as the child or spouse of an asylee (Martin & Yankay, 2014). 
+To obtain asylum affirmatively, the asylum seeker submits an application and is 
+interviewed by an asylum officer. If the application is denied during the hearing, the 
+applicant is placed in removal proceedings by the United States Citizenship and 
+Immigration Services, where an immigration judge will hear the case. This is considered 
+a defensive asylum application. Asylum may be obtained defensively without the 
+applicant originally appearing for a hearing with an asylum officer, for instance, when 
+one is placed in removal proceedings for being undocumented. (However, even if an 
+asylum applicant is undocumented or has fraudulent documentation, as soon as an asylum 
+application is filed, that person has legal immigration status.) In 2013, 15,266 people 
+obtained asylum affirmatively, and 9,933 people obtained asylum defensively (Martin & 
+Yankay, 2014). One challenge facing the fair adjudication of asylum cases is the backlog 
+of cases in the United States’ immigration courts.  
+The origins of the immigration court backlog can be traced to the beginning of the 
+asylum system in the 1980s, when tens of thousands of Central Americans fleeing civil 
+war entered the United States and applied for asylum (Bohmer & Shuman, 2008: 19). 
+Though reforms to the asylum system were introduced, they have done little to diminish 
+the backlog. When the Central American asylum seekers made their cases, the majority 
+were denied. But, in 1990, a class action lawsuit declared that it was unfair to deny the 
+claims of these asylum seekers. These asylum seekers were able to redo their asylum 
+ 
+ 
+19 
+ 
+hearings, further burdening immigration officials with an additional 250,000 cases 
+(Bohmer & Shuman, 2008: 20). Reforms to the asylum system introduced in 1991 
+removed the adjudication of asylum claims from the enforcement section of Immigration 
+and Naturalization Services, and created a separate agency with its own specially trained 
+staff to hear cases (Loescher et al., 1992: 5). However, the Immigration and 
+Naturalization officers continue to be overwhelmed by the number of asylum cases each 
+year. Indeed, the backlog of cases reached 449,569 in May of 2015 (Osuna, 2015).   
+Though the United States recognizes the need for an asylum system, many facets 
+of U.S. asylum policy are designed to deter people from seeking asylum in the United 
+States, due to a generalized suspicion of immigrants as freeloaders or a security threat. 
+For example, the 1996 Immigration Control and Fiscal Responsibility Act, based on the 
+fear that asylum seekers are economic migrants seeking a route to permanent residence, 
+installed more measures of deterrence in asylum policy (Bohmer & Shuman, 2008: 37). 
+One deterrence measure was the delayed issuing of work authorizations to asylum 
+applicants—if asylum seekers could not support themselves, maybe they would not come 
+(Miller, 2014). Asylum seekers must now wait five months to receive a work 
+authorization after submitting their asylum applications. Another deterrence measure that 
+is increasingly used is detention. The 1996 immigration reform law requires that asylum 
+seekers submitting applications at ports of entry to the United States be detained through 
+the first steps of their application process. If deterrence of asylum seekers is employed 
+because of their supposed financial cost and security threat, it is odd that detention—a 
+costly process—is used to control them, especially since 90 percent of those referred to 
+court appear to have their cases heard (Bohmer & Shuman, 2008: 74). Additionally, after 
+ 
+ 
+20 
+ 
+9/11, legislation was passed to crack down on undocumented immigrants to improve 
+security. As mentioned earlier, many asylum seekers arrive with false documentation, and 
+this is often held against them when they make their cases, making it less likely that even 
+credible asylum seekers will have their cases approved (Bohmer & Shuman, 2008: 21).  
+The U.S. asylum system serves a valuable and essential function by offering 
+protection to those people who cannot be protected through the country’s formal refugee 
+admissions program. However, the system is antiquated and struggles to function, 
+highlighted by the immigration court backlogs. Sometimes it appears the real goal of the 
+asylum policy is to deter more asylum seekers from arriving than from offering asylum to 
+credible asylum seekers (Barkdull, 2012: 111). Detaining asylum seekers is expensive 
+and costs taxpayers; detention may also entail a high emotional cost for asylum seekers 
+who have just escaped from traumatic experiences in their home countries, and can 
+hamper the process of adjustment to life in the United States. 
+ 
+Conclusion 
+ 
+The international refugee and asylum system, as well as its implementation in the 
+United States, is antiquated, politicized, and struggles to cope with the scale of the global 
+problem of displaced persons. The international refugee and asylum system was 
+established in the post-World War II world, and shaped by the dynamics of the Cold War. 
+U.S. refugee and asylum policy has not been substantially modernized since this period, 
+and still reflects antiquated foreign policy goals. While states recognize a moral 
+obligation to receive refugees and asylees, their governments and citizens also perceive 
+ 
+ 
+21 
+ 
+accepting refugees and asylees as a financial and social burden, which is sometimes 
+compounded by nativism and fear. Thus, while governments have institutionalized 
+refugee and asylum policies, there are also mechanisms within these policies intended to 
+deter asylum seekers from immigrating. However, international refugee and asylum 
+policy plays a vital role in international security because large numbers of internally 
+displaced people can destabilize a country (Bohmer & Shuman, 2008: 251). A well-
+functioning and updated refugee and asylum policy in the United States will be fairer to 
+these newcomers and the communities where they resettle.  
+ 
+ 
+  
+ 
+ 
+22 
+ 
+CHAPTER 2 
+REFUGEE AND ASYLUM SEEKER RESETTLEMENT IN THE MAINE CONTEXT 
+ 
+Maine, hardly isolated from the global migration of displaced people, has faced its 
+own struggles associated with the arrival and resettlement of refugees and asylum 
+seekers. The vast global migration of displaced people has concrete repercussions in the 
+communities where the displaced people resettle. History has shown us that when large 
+waves of immigrants arrive in a host community, a reaction, at times hostile, is sparked in 
+the host community. This is true for Maine. Immigrants from many different countries 
+have resettled in Maine; however, in the last twenty to thirty years large numbers of 
+people fleeing conflicts in Africa and the Middle East have begun arriving, reshaping the 
+state’s demographics. Many long-time Mainers have responded positively to the growing 
+diversity in the state, welcoming newcomers for increasing the state’s workforce and for 
+initiating a project of cross-cultural understanding.  
+However, there have also been negative reactions to the growing refugee and 
+asylum seeker population in Maine, founded on fears of these newcomers using up local 
+resources or changing the “Maine/American culture.” A noteworthy example is the 
+tensions between some long-term Lewiston residents, voiced by two Lewiston mayors, 
+and the many Somali refugees who migrated to Lewiston over the past decade and a half. 
+The first flashpoint in Lewiston was former Mayor Laurier Raymond’s open letter in 
+2002 to Somali community leaders asking them to discourage more Somali migration to 
+the city because it was putting pressure on the city’s social services and schools 
+(Langellier, 2006: 97). However, this negative sentiment directed at the Somali 
+ 
+ 
+23 
+ 
+community generated a far greater outpouring of support in Lewiston and across the state 
+in support of the newcomers, culminating in the hugely successful Many and One rally.2 
+However, tensions in Lewiston have continued, voiced in the inflammatory statements of 
+the current mayor, Robert Macdonald. Mayor Macdonald has gained international 
+attention for his controversial remarks which seemed to many to be directed at Somali 
+refugees, particularly his exhortation to immigrants on a BBC interview in 2012: “You 
+come here, you come and you accept our culture and you leave your culture at the door” 
+(Lippman, 2012). In Lewiston’s 2015 mayoral elections, Ben Chin, a liberal graduate of 
+Bates College who ran on a platform of social change and attempted to counter Mayor 
+Macdonald’s rhetoric, was ultimately defeated by the incumbent (Russell, 2015). 
+Lewiston, and Maine, are still rife with immigrant-nativist tensions.  
+The General Assistance controversy of 2014-2015 is another example of these 
+tensions and the ripple effect that they can cause. In a state-wide decision that mainly 
+affected the city of Portland, Governor LePage channeled anti-immigrant sentiment in the 
+state to attempt to cut General Assistance for some noncitizens, mainly Central African 
+asylum seekers. This move developed into a year-long controversy that inspired activism 
+within the asylum-seeker/asylee and other immigrant communities, generated wide 
+support for this group throughout the state, and ended in legislation that guaranteed 
+continued state support for asylum seekers.  
+This chapter will briefly chronicle the significant refugee and asylum-seeker 
+migrations to Maine. It will also review how differences in immigration status—refugee 
+                                                
+2 The Many and One rally of 2003 was held to counter an anti-Somali rally held by white supremacist 
+group World Church of the Creator. While around 40 people attended the World Church of the Creator 
+rally, perhaps as many 5,000 people attended the Many and One rally, overflowing the capacity of the 
+gymnasium where it was held (Groening, 2003). 
+ 
+ 
+24 
+ 
+versus asylum-seeker—affect what public benefits refugees and asylum-seekers can 
+access. Finally, it will recount the General Assistance dilemma in Maine: how rhetoric is 
+used by pro- and anti-immigration advocates in Maine to garner support for their causes, 
+and how this dilemma highlights a need at the state and local level for policy to address 
+the integration of newcomers here.  
+ 
+Refugee and Asylum-Seeker Resettlement in Maine and Access to Public Benefits 
+ 
+Over the past two to three decades, Maine has hosted the resettlement of several 
+waves of African and Middle Eastern refugees and asylum seekers, noticeably impacting 
+the communities of Portland and Lewiston. In the 1990s, refugees from Somalia began 
+arriving in Maine. While some Somali refugees are directly resettled in Maine through 
+Catholic Charities Refugee and Immigration Services (CCMRIS), the majority arrived in 
+Maine as secondary migrants, leaving their original resettlement sites in other states 
+(Langellier, 2006: 98). In fact, about 75 percent of new Mainers, that is, immigrants 
+resettling in Maine, are secondary migrants (CCMRIS, n.d.). There are no precise data on 
+numbers of secondary migrants or asylum seekers from each country; however members 
+of these communities and service providers provide rough estimates. Today about 5,000 
+Somalis live in Portland (Bell, 2012); many more also reside in Lewiston. Sudanese 
+refugees arrived in the next wave. There are about 4,000 Sudanese in Maine, the majority 
+of whom arrived in the United States as refugees (MIRC, 2015). Many of these refugees 
+waited years in refugee camps to be resettled in the United States. In 2015, the largest 
+group of resettled primary refugees, or those whose initial resettlement location was 
+ 
+ 
+25 
+ 
+Maine, was from Iraq. CCMRIS resettled 442 primary refugees from six countries: Iraq 
+(215), Somalia (192), Congo (20), Afghanistan (11), Eritrea (3), and Iran (1) (CCMRIS, 
+n.d.).  
+However, today, Central African asylum seekers are the fastest-growing 
+immigrant group in Portland. About 90 percent of asylum seekers resettling in Portland 
+come from four countries: Angola, Congo, Rwanda, and Burundi (Miller, 2014). Though 
+asylum seekers from Central Africa began arriving as early as 2000, their numbers have 
+greatly increased since 2010. City officials and community leaders estimate that the 
+population of Central African asylum seekers in and around Portland is approximately 
+1,000 (Bell, 2012).  
+The migration of asylum seekers is a trend on the rise. In the Northeast, asylum 
+cases nearly doubled between 2010 and 2013. In Maine in 2014, there were 587 asylum 
+applicants still waiting for their cases to be heard by asylum officials. In 2013, Maine’s 
+Immigration and Naturalization Services staff conducted between 30 and 40 interviews, 
+less than 10 percent of the cases filed (Miller, 2014). Once asylum seekers’ cases are 
+approved, they gain refugee status and are eligible for some services offered by Catholic 
+Charities. 
+ The key difference between asylum seekers and refugees is immigration status; 
+their immigration status allows refugees to receive federal welfare benefits and pursue 
+employment immediately, while asylum seekers can do neither. In Maine, Catholic 
+Charities Refugee and Immigration Services is the only designated refugee resettlement 
+organization through the federal refugee resettlement private-public partnership program. 
+All refugees are allocated a Reception and Placement grant of $1,875 upon arrival in the 
+ 
+ 
+26 
+ 
+United States, to be spent on resettlement costs such as a security deposit for housing, 
+winter clothes, food, etc. ($1,125 goes directly to the refugee while $750 is intended for 
+service provision and administration) (Eby, Iverson, & Kekic, 2011: 591-2; Nezer, 2014: 
+136).  
+Refugees also may receive Refugee Cash Assistance and MaineCare for eight 
+months after their arrival: a single person receives $230 per month and a family of four 
+receives $611. Refugees’ access to MaineCare is funded by the Refugee Medical 
+Assistance grant awarded to states by the federal government. After the first eight 
+months, only those refugees eligible for the federally-funded Temporary Assistance for 
+Needy Families (TANF) program, which provides a small amount of financial assistance 
+to extremely low-income families, may continue to receive MaineCare. Refugees may 
+continue to use other federally funded assistance for up to five years after arrival 
+(Refugees and Access to Funds & Benefits in the U.S., CCMRIS). This five-year limit on 
+access to TANF benefits for refugees mirrors the five-year limit for U.S. citizens and is 
+linked to the 1996 welfare reform law, discussed below (Singer, 2002). Refugees are also 
+eligible for various services offered by Catholic Charities including case management, 
+employment services, elder services, mentoring and interpretation services (CCMRIS, 
+n.d.). Thus, refugees receive some financial assistance and access to other services to 
+help them integrate when they arrive in the United States.  
+ On the other hand, asylum seekers cannot access the federal benefits available to 
+refugees because of their immigration status. However, in some cases asylum seekers 
+may be able to access state or local benefits. The United States is one of few developed 
+countries that does not offer federal benefits to asylum seekers or allow them work 
+ 
+ 
+27 
+ 
+authorization for 150 days, putting them in a financial limbo where it is challenging to 
+support themselves (Human Rights Watch, 2013). These specifications have their roots in 
+the 1996 Personal Responsibility and Work Opportunity Act, a welfare reform law 
+passed the same year as the Illegal Immigration Reform and Immigrant Responsibility 
+Act (Byrne, 2015). In the absence of access to federal benefits, a few states—California, 
+Washington, New York, Minnesota and Hawaii—allow immigrants who are ineligible for 
+federal benefits, including asylum seekers, to access state and local benefits (Miller, 
+2014). Prior to 2014, Maine had provided General Assistance (GA) to asylum seekers. 
+General Assistance is intended to serve as a “last resort” form of welfare for any person 
+who is experiencing a period of need and may not fit within the guidelines of any other 
+welfare program. GA is funded jointly by the state and municipalities, with the state 
+reimbursing the municipalities for their expenditures. Funding is generally split 50-50 
+between municipalities and the state, but if a municipality spends over a certain 
+threshold, the state will begin to reimburse the municipality at a rate of 90 percent to 10 
+percent (DHHS, 2015). The fact that asylum seekers in Maine could access General 
+Assistance was the rallying point behind the next wave of anti-immigrant sentiment in 
+Maine initiated by the governor, Paul LePage.  
+ 
+The General Assistance Controversy and its Implications 
+ 
+ In 2014, the LePage administration declared that municipalities who continued to 
+provide General Assistance to immigrants without determinate status, including asylum 
+seekers, would not be reimbursed by the state for their expenditures, sparking a 
+ 
+ 
+28 
+ 
+controversy throughout the state over its obligation, or lack thereof, to support asylum 
+seekers (Miller, 2014). The Maine Department of Health and Human Services instituted a 
+policy whereby municipal officials were required to ask General Assistance applicants to 
+verify their immigration status with supporting documentation (Byrne, 2015). To buttress 
+this policy, Governor LePage “pledged to withhold all state reimbursement to any 
+municipality that continued offering General Assistance to undocumented immigrants” 
+(Moretto, 2014). The Maine attorney general, Janet Mills, criticized the policy and 
+questioned its legality and constitutionality (Moretto, 2014). Various cities, including 
+Portland, Bangor, and Westbrook, defied the new policy and continued to provide 
+General Assistance to asylum seekers. In July of 2014, the cities of Portland and 
+Westbrook, supported by the Maine Municipal Association, the American Civil Liberties 
+Union of Maine (ACLU), and Maine Equal Justice Partners, filed suit against the LePage 
+administration in the Maine Superior Court to block the policy. The LePage 
+administration countersued (Miller, 2014). Meanwhile, the ACLU of Maine and Maine 
+Equal Justice Partners urged the Maine Legislature to draft a law explicitly allowing 
+asylum seekers to receive General Assistance (Byrne, 2015). 
+During the summer of 2015, a court decision was reached that was a partial 
+victory for the LePage administration. In a somewhat contradictory decision, a 
+Cumberland County Superior Court justice ruled that the state may indeed withhold 
+General Assistance reimbursements to municipalities for funds spent on asylum seekers. 
+However, the justice also ruled that the state may not penalize municipalities for 
+providing General Assistance to asylum seekers by withholding all reimbursements 
+(Byrne, 2015). The justice additionally found that the Maine DHHS did not follow proper 
+ 
+ 
+29 
+ 
+rulemaking procedures in its rewriting of General Assistance policy. Finally, the court 
+found that the state had overstepped its authority in attempting to enforce federal law. 
+The Maine DHHS attempted to enforce the 1996 federal welfare reform law, though it 
+only has the power to enforce state welfare policy (Byrne, 2015). It also would have 
+required city officials to assume de-facto immigration officer roles by asking General 
+Assistance applicants proof of their status. Thus, the justice found, cities offering General 
+Assistance to asylum seekers were not complying with federal law; however they did 
+comply with state law that did not disqualify General Assistance applicants due to 
+immigration status (Byrne, 2015).  
+In response to this controversy and following the court decision regarding General 
+Assistance, city and state lawmakers took action to address what could have been the end 
+to assistance for asylum seekers. While the Maine Legislature was deliberating legislation 
+to explicitly allow asylum seekers to receive General Assistance, the Portland City 
+Council deliberated having the city fund General Assistance for asylum seekers (Portland 
+Press Herald, 2015). One City Council member drafted a budget for the city to fund 
+General Assistance for asylum seekers for one year, which would rely in part on surplus 
+funds gained from increasing property taxes 3.1 percent (Billings, 2015). After a long 
+City Council meeting, where many asylees, asylum seekers, and their supporters testified 
+on the need for General Assistance to be available, the council ultimately voted in favor 
+of the city funding the program for one year, by a margin of five to four (Billings, 2015). 
+This Portland Community Support Fund, as it was called, however, fell $1.5 million short 
+of the $4.1 million needed to fund any services beyond housing, and the city asked the 
+community to help bridge the gap (Billings, 2015). It is apparent that this was a strained 
+ 
+ 
+30 
+ 
+and temporary solution to the issue of supporting asylum seekers in Portland without the 
+passage of legislation at the state level.   
+However, the Maine Legislature passed a law, L.D. 369, or “An Act To Clarify 
+the Immigration Status of Noncitizens Eligible for General Assistance,” that allows 
+lawfully present immigrants to receive General Assistance for two years (Miller, 2015).3 
+Those who have submitted an application for asylum may continue to access General 
+Assistance for up to 24 months (Miller, 2015).  
+In addition to ensuring one form of economic assistance to asylum seekers in 
+tenuous financial situations, the controversy surrounding the General Assistance dilemma 
+of the past two years galvanized widespread support for new immigrants in Maine. 
+LePage instituted his policy of withholding General Assistance from asylum seekers 
+during a Maine gubernatorial election year, while he sought reelection, attempting to rally 
+support from his constituents by igniting two emotional topics, immigration and welfare 
+reform (Miller, 2014). However, mirroring the anti-immigrant events in Lewiston in 
+2002, LePage’s efforts to mobilize anti-immigrant sentiment largely backfired, at least in 
+terms of policy.  
+There was an outpouring of support for asylum seekers in Portland and across the 
+state. Asylees and immigrant rights advocacy organizations such as the Maine Immigrant 
+Rights Coalition testified before the Legislature about the need for General Assistance to 
+be available to asylum seekers (Nahimana, personal communication, 2015). The Mayor 
+of Portland at the time, Michael Brennan, repeatedly voiced his commitment to ensuring 
+                                                
+3  L.D. 369 became law in what seemed to many of the bill’s supporters a serendipitous act of fate, after 
+Governor LePage did not veto the bill within the allotted 10-day window of time. Because the Legislature 
+was adjourned at the time, Governor LePage believed that he had more time to veto this bill, along with 65 
+others. However, the Maine Supreme Court issued an advisory ruling that rejected Governor LePage’s 
+assertion, and he decided not to challenge this ruling and agreed to implement the laws (Mistler, 2015).  
+ 
+ 
+31 
+ 
+support for asylum seekers. In a bipartisan move, the Maine Legislature, including a 
+Republican-controlled Senate, passed L.D. 369 in a 29-5 vote (Mistler, 2015). The 
+General Assistance controversy in Maine highlights how a wave of anti-immigrant 
+sentiment can mobilize a greater reaction of support. Some claim that if Governor LePage 
+had not generated the GA controversy, the Maine Legislature would not have passed L.D. 
+369 explicitly allowing asylum seekers to receive General Assistance (Nahimana, 
+personal communication, 2016). The controversy also highlights the rhetoric used by 
+nativists and immigrant rights advocates.  
+In Maine, opponents of providing General Assistance to asylum seekers often 
+referred to them as “illegal” immigrants, and sought to portray asylum seekers as drain on 
+social services, harming the needs of long-term Maine residents. Governor LePage often 
+used the term “illegal” to refer to asylum seekers, as did some of his supporters, including 
+Lewiston Mayor MacDonald (Miller, 2014). Many immigrant rights activists take issue 
+with the use of this term because most asylum seekers in Maine arrive on valid visas, and 
+once they apply for asylum, asylum-pending status is considered legal (Miller, 2014). 
+They assert that the use of the term “illegal” is political, meant to provoke distrust of 
+immigrants. Maine legislators who opposed General Assistance for asylum seekers also 
+asserted that budget limitations necessitated withholding aid from them, many contending 
+that supporters of L.D. 369 were more concerned with the welfare of immigrants than 
+with Maine’s elderly and disabled (Miller, 2015). This discourse, while specific to 
+Maine’s particular situation, is often used by those with a nativist or more conservative 
+stance on immigration. 
+ 
+ 
+32 
+ 
+Immigrant advocates in Maine, including many who supported offering General 
+Assistance to asylum seekers, have responded to anti-immigrant rhetoric about the cost of 
+supporting immigrants with an argument they hope will resonate with them: the 
+economic benefits of immigrants. In Maine, many assert that immigrants bring economic 
+vitality to the state. An oft-cited case is the revitalization of Lewiston due to Somali 
+migration. In response to the open letter by former Lewiston Mayor Raymond, Somali 
+community members pointed out that their presence had brought in federal funding and 
+that they had contributed to the workforce in an aging community (Timberlake, 2007: 
+23). Additionally, many Somali immigrants cite that their start-up businesses in once-
+abandoned buildings bring economic activity to the area and generate property taxes for 
+the city (Timberlake, 2007: 169-170). Refugees originally settled in Portland bring in 
+about one hundred thousand dollars a year to the city through the Office of Refugee 
+Resettlement grants, funding the city shelters and other services which are used by any 
+city residents. They also helped to initiate the development of other services such as 
+improved bus services (Timberlake, 2007: 170, 172). 
+Recently, many pro-immigration advocates have stressed Maine’s need to 
+encourage immigration to the state because of an aging population and workforce. James 
+Tierney, former Maine attorney general and vocal proponent of encouraging immigration 
+to Maine, cites Maine’s aging population as a sign of boding economic troubles. The 
+proportion of baby boomers to those under 20 is 39 percent to 18 percent: as baby-
+boomers retire, there will be fewer working-age people to fill their positions (Tierney, 
+2015). This issue is echoed by economists and the leader of the Portland Regional 
+Chamber of Commerce, who cited that employers in the area face a shortage of skilled 
+ 
+ 
+33 
+ 
+workers to fill positions (Fishell, 2015). Tierney and other immigration advocates link 
+diversity to the survival of Maine’s population and economy (Tierney, 2015).  
+The General Assistance controversy in Maine is an example of the disjuncture 
+between federal immigration and welfare policies and local implementation of those 
+policies. This can be seen in the difficulties that are faced by local refugee resettlement 
+agencies such as CCMRIS and the towns that resettle newcomers. Sometimes 
+municipalities must come up with additional funding and must figure out how to organize 
+the resettlement program in their local context (Timberlake, 2007: 7). For example, 
+Lewiston lacked adequate financial resources and social service infrastructure and was 
+unprepared for the sudden arrival of many Somali secondary migrants, which heightened 
+nativist-immigrant tensions within that community. This mirrors Barkdull’s study on the 
+small Illinois town that faced tensions after the rapid resettlement of hundreds of 
+refugees. However, within the Refugee Resettlement Program, there are other programs 
+intended to cope with this disjuncture, such as the Unanticipated Arrivals Program. This 
+provides funding for services needed in the time between when refugees arrive and when 
+their numbers are counted toward U.S. Census population data used to determine funding 
+amounts (Timberl

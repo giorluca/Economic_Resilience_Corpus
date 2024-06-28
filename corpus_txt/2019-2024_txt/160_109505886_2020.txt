@@ -1,0 +1,898 @@
+Recovery of pure economic loss in China: Current situation, problems and future prospects
+
+ 
+ 
+ 
+Recovery of pure economic loss in China: Current
+situation, problems and future prospects
+Citation for published version (APA):
+Yan, Y., & Faure, M. G. (2020). Recovery of pure economic loss in China: Current situation, problems and
+future prospects. Journal of European Tort Law, 11(3), 286-313. https://doi.org/10.1515/jetl-2020-0144
+Document status and date:
+Published: 01/01/2020
+DOI:
+10.1515/jetl-2020-0144
+Document Version:
+Publisher's PDF, also known as Version of record
+Document license:
+Taverne
+Please check the document version of this publication:
+• A submitted manuscript is the version of the article upon submission and before peer-review. There can
+be important differences between the submitted version and the official published version of record.
+People interested in the research are advised to contact the author for the final version of the publication,
+or visit the DOI to the publisher's website.
+• The final author version and the galley proof are versions of the publication after peer review.
+• The final published version features the final layout of the paper including the volume, issue and page
+numbers.
+Link to publication
+General rights
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright
+owners and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these
+rights.
+• Users may download and print one copy of any publication from the public portal for the purpose of private study or research.
+• You may not further distribute the material or use it for any profit-making activity or commercial gain
+• You may freely distribute the URL identifying the publication in the public portal.
+If the publication is distributed under the terms of Article 25fa of the Dutch Copyright Act, indicated by the “Taverne” license above,
+please follow below link for the End User Agreement:
+www.umlib.nl/taverne-license
+Take down policy
+If you believe that this document breaches copyright please contact us at:
+repository@maastrichtuniversity.nl
+providing details and we will investigate your claim.
+Download date: 03 Nov. 2021
+Yu Yan* and Michael Faure
+Recovery of Pure Economic Loss in China:
+Current Situation, Problems and Future
+Prospects
+https://doi.org/10.1515/jetl-2020-0144
+Abstract: Should pure economic loss be compensated in China? If so, to what
+extent? Both questions are left unsolved in the established literature. We contri-
+bute to the existing literature by showing that the Chinese courts have developed
+a relatively conservative attitude towards the compensation of pure economic loss
+and that the arguments adopted by the courts to deny recovery are neither fair nor
+reasonable. Using the law and economics analysis, we have recourse to four com-
+plementary solutions. First, pure economic loss cases involving socially relevant
+losses should be compensated. Second, when social losses are not involved, pure
+economic loss should also be compensated if the third parties are willing to pay or
+have paid for protection against such a loss. Third, to relieve the excessive pres-
+sure imposed by the compensation for such loss, the concepts of causation and
+the duty of the victim to mitigate damage need to be further clarified in Chinese
+laws. Fourth, when determining the amount of compensation for pure economic
+loss, we should carefully balance the trade-off among a variety of factors, includ-
+ing the extent to which the damage could have been foreseen, the nature of the
+loss, the blameworthiness of the tortfeasor, the size of the plaintiff class, the pub-
+lic policy toward professional standards, the victim’s private loss, the social loss,
+the courts’ capacities to calculate the loss, and the third parties’ willingness to
+pay for protection against the loss.
+Keywords: pure economic loss, tort, compensation, China, law and economics
+analysis
+Note: Yu Yan acknowledges financial support from the Postdoctoral Research Foundation of China
+(2020M671931) and the Fundamental Research Funds for the Central Universities (CN)
+(20720191065).
+*Corresponding author: Yu Yan, Assistant Professor of Law, School of Law, Xiamen University,
+China, E-Mail: yanyu@xmu.edu.cn
+Michael Faure, Professor of Comparative and International Environmental Law, Maastricht
+University and Professor of Comparative Private Law and Economics, Erasmus School of Law
+Rotterdam, both the Netherlands, E-Mail: michael.faure@maastrichtuniversity.nl
+JETL 2020; 11(3): 286–313
+I Introduction
+Pure economic loss refers to a financial loss that a person suffers, without accom-
+panying harm to their health or property.1 In this respect, pure economic loss is
+different from consequential economic loss, which is usually connected with
+(even the slightest) damage to the victim or their property.2 Consequential eco-
+nomic loss is normally recoverable because it presupposes the existence of physi-
+cal injuries. By contrast, pure economic loss only strikes the victim’s wallet and
+nothing else. Therefore, it is still open for debate whether, and if so to what ex-
+tent, the recovery of pure economic loss should be allowed.
+Given the nature of pure economic loss, there is substantial variance across
+different legal systems regarding the extent to which pure economic loss in tort
+can be recovered. For instance, in Europe, a distinction can usually be made
+among liberal regimes (ie Belgium, France, Greece, Italy and Spain), conservative
+regimes (ie Austria, Finland, Germany, Portugal and Sweden), and pragmatic re-
+gimes (ie England, Scotland, and the Netherlands).3 The liberal regimes often
+deal with pure economic loss autonomously in tort and they are characterised by
+the principle absence of any objection to compensate pure economic loss.4 On the
+contrary, in the conservative regimes, pure economic loss does not belong to the
+‘absolute rights’ which receive protection under tort law.5 If a remedy is avail-
+able, it will either be based on a specific tort provision or on an expansive appli-
+cation of contract principles.6 Therefore, the liberal regimes start from an inclu-
+sive position that allows the recovery of pure economic loss in principle, whereas
+the conservative regimes start from an exclusive position that denies the recovery
+1 This definition is given by C van Dam, European Tort Law (2nd edn 2013) 208.
+2 The difference between pure economic loss and consequential economic loss is discussed by
+many scholars. See among many othersWH van Boom, Pure Economic Loss: A Comparative Per-
+spective, in:WHvanBoom/H Koziol/C Witting (eds), PureEconomicLoss (2004) 1; andM Bussani/
+VV Palmer, The notion of pure economic loss and its setting, in: M Bussani/VV Palmer (eds), Pure
+Economic Loss in Europe (2003) 3.
+3 The division is made by Bussani and Palmer. SeeM Bussani/VV Palmer, The liability regimes of
+Europe– their façadesand interiors, in:M Bussani/VV Palmer (eds),PureEconomicLoss inEurope
+(2003) 120. These authors also realised that the division is a highly condensed summary reflecting
+the individual national legislative style, but it is incomprehensible, as each country’s liability re-
+gime and legal culture are ignored.
+4 Ibid, 123 f.
+5 Ibid, 124.
+6 Ibid, 125.
+Pure Economic Loss in China 287
+in the first place.7 For the practical regimes, unlike the liberal and conservative
+regimes, the recovery of pure economic loss is neither driven by a wide tort prin-
+ciple nor by a checklist of absolute rights.8 Instead, the pragmatic regimes are
+characterised by a cautious case-by-case approach, which carefully considers the
+actual socio-economic implications of allowing compensation for pure economic
+loss (principally via ‘the duty of care’ concept).9
+When it comes to China, the concept of pure economic loss was not suffi-
+ciently recognised, neither among policymakers nor by academics before the
+2000s. Although there is no solid evidence to support this fact, we do observe
+that, in practice, the recovery of pure economic loss was rarely approved by tort
+law before the 2000s.10 From the start of the 21st century, there has been an in-
+creasing number of cases in China which involved the recovery of pure economic
+loss.11 Also, since that time, the issue of the recovery of pure economic loss has
+7 See M Bussani/VV Palmer, General conclusions of the study, in: M Bussani/VV Palmer (eds),
+Pure Economic Loss in Europe (2003) 531.
+8 See Bussani/Palmer (fn 3) 124.
+9 For example, in the United Kingdom and Hong Kong, judges normally use three different but
+overlapping tests (the ‘Caparo’ test, the ‘Hedley Byrne’ test, and the ‘incremental’ approach) to
+decidewhether to imposeadutyof care on thedefendant in claims that involvepure economic loss.
+To establish the duty of care under the ‘Caparo’ test, harmmust be foreseeable, the plaintiff and the
+defendantmust be in a relationshipof proximity, and itmust be fair, just, and reasonable to impose
+liability– see Caparo Industries plc v Dickman [1990] 2 Appeal Cases (AC) 605. To establish the duty
+of careunder the ‘HedleyByrne’ test, the tortfeasor shouldhaveassumedresponsibility towards the
+victim, and the victimhas to rely reasonably on that assumptionof responsibility (seeHedleyByrne
+& Co Ltd v Heller & Partners Ltd [1964] AC 465). Last, the so-called ‘incremental’ approach, which is
+derived from the Caparo case, directs the courts to develop novel categories of negligence analogi-
+callywith the established one. For a critical review of all these tests and suggestions for reform, see
+PJ Yap, Pure Economic Loss and Defects in the Law of Negligence (2009) 17 Tort L Rev 99, 80–99;
+and K Barker, Wielding Occam’s Razor: Pruning Strategies for Economic Loss (2006) 26 Oxford
+Journal of Legal Studies (OJLS) 289, 289–302.
+10 When searching the keyword ‘pure economic loss’ in ChinaLawInfo (the largest online data-
+base on Chinese cases), we could find 168 cases related to this issue, all of which were dealt with
+by courts after 2000. The search results via the ChinaLawInfo also show that, before 2006, only two
+pure economic loss caseswere closedby courts (one in 2005 andone in 2006). However, after 2006,
+the number of pure economic loss cases had increased to 166 by the date of our last access (on
+16 December 2020).
+11 For example, one study pointed out that, in the 1990s, the issue of ‘pure economic loss’ did not
+attract much attention, either from the legislator or from academic scholars. See YS Ge, Chuncui
+Jingji Sunshi de Peichang Yu Yiban Qinquan Xingwei Tiaokuan [The Recoverability of Pure Eco-
+nomic Loss and the General Provisions of Tort], 21 Peking University Law Journal (Peking Univ LJ)
+(2009) 689, 710 f.
+288 Yu Yan and Michael Faure
+gradually drawn the attention of Chinese legal scholars. Nowadays, it is com-
+monly accepted that art 106 of the 1987 General Principles of Civil Law (GPCL)12
+and art 2 of the 2010 Tort Liability Law (TLL)13 can be interpreted as the general
+bases for protecting pure economic loss in China.14 According to art 106 of the
+GPCL,
+...where a citizen or legal person through fault interferes with and causes damage to state or
+collective property, or to the property or person of another, he/she must bear civil liability.
+Art 2 of the TLL further explains,
+...civil rights and interests... include the right to life, the right to health, the right to name,
+the right to reputation, the right to honour, right to self-image, right of privacy, marital
+autonomy, guardianship, ownership, usufruct, security interest, copyright, patent right, ex-
+clusive right to use a trademark, right to discovery, equities, right of succession, and other
+personal and property rights and interests.
+Taking these two articles together, it seems that Chinese tort law protects not only
+breaches of the so-called ‘absolute rights’, but also breaches of ‘other personal
+and property rights and interests.’15 In other words, these articles seem to have a
+broad coverage, and do not appear to exclude the recovery of pure economic loss.
+Therefore, if one only considers these articles, China might be classified as one of
+the liberal regimes. However, in practice, Chinese courts still take a conservative
+12 The GPCL is considered as the basic law (jiben falü) on civil matters. More information of the
+GPCL and its significance can be found at LH Zhang, Latest Developments in the Codification of
+Chinese Civil Law (2008) 83 Tulane L Rev 999, 999–1039. This Law came into effect in 1987 and is
+still valid. An English translation of the GPCL is also provided byW Gray/HR Zheng, General Prin-
+ciples of Civil Lawof the People’s Republic of China (1986) 34 TheAmerican Journal of Comparative
+Law (AJCL) 715, 715–743. However, it should be noted that the Chinese legislator did not take the
+protection of pure economic loss into account when drafting art 106 of the GPCL. See XB Zhang/
+XY Zhang, Lunchuncui Jingji Sunshi de Jige Jiben Wenti [On Several Basic Problems about Pure
+Economic Loss] (2007) 7 Law ScienceMagazine 15, 18.
+13 The TLL is promulgated by the Standing Committee of the NPC and came into effect on 1 July
+2010.
+14 This argument is made by LM Wang, Qinquanfa Yiban Tiaokuan de Baohu Fanwei [The Scope
+of Protection byGeneral Provision in Tort Law] (2009) 3 The Jurist 19. See alsoGe, 21 PekingUniv LJ
+(2009) 689, 699–711; and XB Zhang, Legislation of Tort Liability Law in China (2018) 159–178. Note
+that, the GPCL and the TLLwill be abrogated as of 1 January 2021. Nevertheless, both art 106 of the
+GPCL and art 2 of the TLL are adopted by arts 1165 and 990 of the new Civil Code in China respec-
+tively. The contents of these articles remains almost unchanged.
+15 See Zhang (fn 14) 159–178.
+Pure Economic Loss in China 289
+approach and recovery of pure economic loss is largely restricted.16 In fact, over
+the last two decades, legal scholars, courts, and legislators in China have been
+facing increasing challenges related to the recoverability of pure economic
+loss.17 The following questions continuously arise, for example, about the extent
+to which, and in what ways, pure economic interests should be protected in
+China. Are there any effective frameworks for dealing with pure economic loss?
+Before answering these questions, it is necessary to take a closer look at the
+current situation in China with respect to the recoverability of pure economic
+loss. It is also necessary to investigate the challenges faced by Chinese courts
+in practice. Only then can we propose some guidelines for the future that might
+be helpful to Chinese legislators.
+This paper is structured as follows. Section II reviews the various approaches
+taken by Chinese courts when dealing with the recovery of different pure econom-
+ic loss cases. Section III briefly summarises the results of the case studies. Sectio-
+n IV critically evaluates the arguments for the exclusion of pure economic loss
+provided by Chinese courts. Section V concludes and provides several policy re-
+commendations.
+II Typical pure economic loss cases in China
+The legal basis for recovering pure economic loss in China seems to be very gen-
+eral, causing difficulties in attaining a complete understanding of the recoverabil-
+ity of pure economic loss in practice. To remedy this, we should, in particular, pay
+attention to pure economic loss cases in addition to the doctrinal rules. Certain
+elements in those cases, such as general propositions, definitions, reasons and
+holdings, should also be discussed.
+In this section, we analyse several pure economic loss cases in China. These
+cases are fairly typical, because most of them are guiding cases (zhidao anli) that
+are chosen by the Supreme People’s Court (SPC).18 They are of great importance,
+16 This restrictive approach is also observed by many Chinese scholars. See among many others
+Zhang (fn 14) 143; andGe, 21 Peking Univ LJ (2009) 689, 699–711.
+17 More discussion on the problems faced by Chinese courts and scholars in practice can be found
+in Zhang (fn 14) 459–473 andGe, 21 Peking Univ LJ (2009) 689, 699–711.
+18 To make the judgments more consistent, the SPC launched the Guiding Case System (GCS) in
+2010. Now, the GCS is regulated by the 2010 Provisions Concerning SPC’s Work on Case Guidance.
+Under theGCS, eachyear theSPCwill select andpublishseveral representative casesas theGuiding
+Cases. Such a system was further specified in the 2015 Detailed Rules of Implementation of the
+Provisions of the SupremePeople’s Court on CaseGuidanceWork.More information on theGCS, as
+well as its scope of authority and its adoption and importance in practice, is provided by J Mark,
+290 Yu Yan and Michael Faure
+as lower courts should ‘refer to’ (canzhao) these guiding cases when handling
+cases with similar facts. As a result, these selected cases may provide a ‘snapshot’
+of the recoverability of pure economic loss in China.
+Generally speaking, pure economic loss cases in China can be classified into
+five categories: 1) the unfair competition case; 2) the flawed provision of profes-
+sional services or advice case; 3) the interference with business case; 4) the cable
+case, and 5) the transferred loss case.19 The following subsections will discuss
+these cases respectively.
+A Case One: unfair competition
+In Ju County Winery v Wendeng Brewery Factory,20 the defendant used the trade-
+mark ‘qifengjiu’ (identical to that of the plaintiff) on its wine, causing sales of the
+plaintiff to decrease. The defendant was judged to have violated the plaintiff’s
+exclusive right to trademark by the court of first instance. Based on these
+grounds, the court deemed that the defendant should be liable to pay compensa-
+tion for the plaintiff’s loss of profits. However, the court of appeal disagreed with
+the reasoning given by the court of first instance. According to the court of appeal,
+the defendant’s act was misleading rather than infringing the plaintiff’s exclusive
+right to trademark. It then stated that arts 4, 5 and 7 of the GPCL should be the
+Chinese Common Law? Guiding Cases and Judicial Reform (2016) 129 Harvard L Rev 2213, 2213–
+2234; and M Zhang, Pushing the Envelope: Application of Guiding Cases in Chinese Courts and
+Development of Case Law in China (2017) 26 Washington International Law Journal 269, 269–306.
+Background information on the conditions under which the GCS emerged and evolved is provided
+by SC Wang, Guiding Cases as a Form of Statutory Interpretation: Expansion of Supreme People’s
+Court’s Judicial Lawmaking Authority in China (2019) 48 Hong Kong Law Journal (HKLJ) 1067,
+1067–1096.
+19 Even though our classification does not include all cases that involve pure economic loss, our
+interest lies in tracing themost recurrent patterns,whichwe refer to as the ‘typical cases’. Note that
+a different classification is given in the existing literature. For example, Bussani&Palmer hold that
+the typical instances of pure economic loss include four different cases: the ‘ricochet loss’ case, the
+‘transferred loss’ case, the ‘closure of public markets, transportation corridors and public infra-
+structures’ case, and the ‘reliance upon flawed data, advice or professional services’ case. SeeBus-
+sani/Palmer (fn 3) 10–13.VanBoom (fn 2) 6 f bycontrast, focuseson theparties involved in thecases
+and divides the cases into two groups: the ‘two party pure economic loss’ case and the ‘three party
+economic loss’ case.
+20 See Ju County Winery v Wendeng Brewery Factory (Juxian jiuchang v Wendeng niangjiuchang
+buzhengdang jingzheng jiufen’an) (2 January 1990) Shandong SPC (Court of Second Instance).
+Pure Economic Loss in China 291
+correct legal bases for the defendant to pay compensation.21 These articles read as
+follows:
+Art 4: ‘In civil activities, the principles of offering of one’s own free will, fairness, making
+compensation for equal value, honesty and credibility shall be observed.’
+Art 5: ‘The lawful civil rights and interests of citizens and legal persons shall be protected by
+law; no organisation or individual may infringe upon them.’
+Art 7: ‘Civil activities shall have respect for social ethics and shall not harm the public inter-
+est, undermine State economic plans or disrupt the social economic order.’
+Judges from the court of appeal considered that the defendant had not acted with
+honesty and credibility, had disrupted the social economic order, and infringed
+the ‘lawful interests’ of the plaintiff. Thus, the defendant should be liable to pay
+for the loss of profits sustained by the plaintiff. Moreover, judges from the court of
+appeal also realised that, even though the anti-unfair competition law had not
+been promulgated at the time when this case occurred, this case was essentially
+a case of unfair competition. In 1993, the 1993 Law Against Unfair Competition
+was enacted. Now, arts 6 and 17 of this Law clearly state that a business operator
+might be entitled to claim compensation of pure economic loss (ie the loss of prof-
+its) from his/her competitor if the competitor interfered with his/her business
+through unfair competition.22
+B Case Two: flawed professional advice and services
+Cases of flawed professional advice and services concern the liability of those
+who provide professional advice, prepare data or render services. Intentionally or
+carelessly drafted advice or statements could cause damage to the contractual
+counterparty. For example, in Chen Lihua et al v Daqing Lianyi Company & Shenyin
+21 The court of first instance used art 3 of the 1983 Trademark Law and art 118 of the GPCL as the
+main legal bases for granting compensation to the plaintiff. The former article states, ‘... the trade-
+mark registrants shall enjoy the exclusive right to use the trademarks, andbeprotectedby law.’The
+latter article states, ‘if... the rights to exclusive use of trademarks are infringed upon by suchmeans
+as plagiarism, alteration or imitation, they shall have the right to demand that the infringement be
+stopped, its ill effects be eliminated and the damages be compensated for.’
+22 The 1993 Law Against Unfair Competition was not promulgated by the Standing Committee of
+the NPC until 2 September 1993. This lawwas then amended on 4 November 2017.
+292 Yu Yan and Michael Faure
+Securities Company,23 the defendant made a false statement by overstating its net
+profits, which was not discovered by a securities underwriter. As a result, Chen
+Linhua and the other twenty-two persons who invested in the defendant’s stock
+suffered significant losses. The court of first instance held that the defendant
+should be liable to pay for the investors’ losses, on the basis of art 21 of the 1993
+Interim Provisions on the Management of the Issuing and Trading of Stocks24 and
+art 27 of the 2003 Some Provisions of the SPC on Trying Cases of Civil Compensa-
+tion Arising from False Statements in the Securities Market.25 According to the
+court, the defendant knowingly and deliberately made the false statement and the
+investors’ losses were causally related to this false statement. The defendant ap-
+pealed to a higher court, arguing that the investors’ losses were not caused by its
+false statement but by the systemic risks of the stock market. However, the higher
+court rejected the appeal, because the defendant did not provide sufficient evi-
+dence to prove the causal link between the systemic risks in the stock market and
+the investors’ losses.
+Liability for conduct induced by the over-valuation of a company also arises
+in other cases. For instance, in one case, the plaintiff relied on an audit report that
+carelessly over-stated the net financial value of the defendant and signed a sales
+agreement with the defendant whose financial situation was actually very poor.26
+As a result, the defendant was not in a position to perform their contractual duties
+and responsibilities, causing losses to the plaintiff. Moreover, in this case, a bank
+was found to have negligently issued a false proof of deposit to a travel agency.
+Based on this proof of deposit, an accounting firm carelessly issued the erroneous
+audit report. Because of all these facts, the court decided that the travel agency as
+23 See Chenlihua dengershisan ming touziren v Daqing lianyi gongsi & Shenyin zhengquan gongsi
+xujia chenshu qinquan peichang jiufen’an (Chen Lihua et al v Daqing Lianyi Company & Shenyin Se-
+curities Company) (21 December 2004) Helong Jiang SPC (Court of Second Instance).
+24 Art 21 states, ‘... in contracting for underwriting, the securities management organisations
+should verify the truthfulness, accuracy andcompletenessof theprospectus andother relatedpub-
+licitymaterials. If the documents are found to contain false and seriouslymisleading statements or
+major omissions, they should not issue an invitation or offers. If the offers have been issued, the
+selling activities must be stopped immediately and at the same time remedial measures shall be
+taken.’
+25 Art 27 states, ‘...wherea securitiesunderwriter, a person recommending the listingof securities
+or a professional intermediation service organisation who knows or ought to know the issuer’s or
+listed company’s false statement, but does not correct it or issue reserved opinions, his behaviour
+shall constitute a joint tort, and he shall bear joint liability for the losses caused to the investors.’
+26 See Nanfang Hangkong Lüyou Gongsi v Yulong Lüxingshe deng Daixiao Hetong Jiufen’an (China
+SouthernAirlinesTravel &Tourists Company vYulongTravelAgency et al) (20 November 1998) Inter-
+im People’s Court of Haikou (Court of Second Instance).
+Pure Economic Loss in China 293
+well as the bank and the accountant were jointly and severally liable to compen-
+sate the plaintiff’s damage. This decision was mainly based on the provisions of
+art 106 of the GPCL and two judicial replies that were issued by the SPC.27
+Moreover, defectively rendered advice and services could also cause damage
+to others besides the direct contractual counterparty. For example, inWang Baofu
+v Beijing Sanxin Law Firm,28 Wang Shouzhi wanted his son, Wang Baofu (the
+plaintiff), to inherit his estate. Wang Shouzhi prepared a will by himself and
+signed a contract with Sanxin Law Firm. According to the contract, the law firm
+should serve as a witness to Wang Shouzhi’s will. However, Wang Shouzhi’s will
+was frustrated by a number of errors. For example, Wang Shouzhi forgot to write
+down the date and the law firm only assigned one attorney to perform the task.29
+As a result, Wang Shouzhi’s son (the plaintiff) could only inherit a part of the
+estate instead of the entire estate that his father had intended to leave him. The
+plaintiff thus sued the law firm to claim compensation for the damage incurred.
+The court of first instance decided that the law firm should be liable for the
+plaintiff’s damage on the basis of the provisions of art 106 of the GPCL, according
+to which, anyone who can prove that an attorney was at fault in causing damage
+should be entitled to recover their losses. Moreover, the court further held that the
+aim of the contract between the plaintiff’s father and the law firm was to ‘guaran-
+tee the validity of the will (through the attorney’s expert knowledge), so that the
+plaintiff could inherit the whole estate successfully.’ However, in this case, the law
+firm did not perform this professional duty appropriately, resulting in damage to
+the plaintiff. Thus, the law firm should be liable for the damage it negligently
+caused.
+27 See 1997 Reply of the SPC on How to Divide the Loss Suffered by Multiple Creditors Among
+Verification Organisations, which was issued by the SPC on 31 December 1997. See also the 1998
+Reply of the SPC on the Liability of Accounting Firms If They Issued a False Capital Verification
+Certificate to Enterprises, which was issued by the SPC on 26 June 1998. Another legal basis for the
+recovery of pure economic loss caused by a flawed accounting service is provided by art 42 of the
+1993 Law on Certificated Public Accountants, which was issued by the Standing Committee of the
+NPC on 31 October 1993. This article states that, ‘if a public accounting firm has in violation of the
+provisions of this Law caused losses to its client or other interested parties, it shall bear the liability
+for compensation according to law.’However, since this article seems to be very general, it was not
+used by the court in China Southern Airlines Travel & Tourists Company v Yulong Travel Agency et al
+(fn 26).
+28 SeeWangbaofu v Sanxin lüshi shiwusuo caichan sunhai peichang jiufen’an (WangBaofu vBeijing
+Sanxin LawFirm) (1 December 2004) BeijingNo 2 InterimPeople’s Court (Trial of Second Instance).
+29 Art 17 of the 1985 Lawof Succession in China requires, ‘... a will written on behalf of the testator
+shall bewitnessedby twoormorewitnesses, ofwhomonewrites thewill, dates it and signs it along
+with the other witness or witnesses andwith the testator...’
+294 Yu Yan and Michael Faure
+The law firm filed an appeal to a higher court, arguing that they should not be
+liable to compensate the plaintiff’s loss. The appeal was not supported by the
+higher court. However, the explanations that the higher court gave were slightly
+different from those given by the court of first instance. More specifically, the
+higher court’s decision was mainly based on the first paragraph of art 49 of the
+1996 Lawyers Law,30 rather than art 106 of the GPCL. According to the former ar-
+ticle,
+...where a lawyer engages in legal practice in violation of law or causes losses to a party due
+to his fault, the law firm where the lawyer works shall bear the liability for compensation.
+After paying compensation, the law firm may claim recovery from the lawyer who acted
+intentionally or out of gross negligence.
+In the meantime, the higher court has stated that it was not wrong for the court of
+first instance to apply art 106 of the GPCL. Apparently, this case of poor legal
+services shows that third parties may suffer pure economic loss when they rely on
+services or advice that are carelessly provided by experts.
+C Case Three: interference with business
+In Shanghai Lanqi Telecommunication Equipment Co, Ltd v Shanghai Yangpu Digi-
+tal Market Management Co, Ltd, the plaintiff rented a shop (which is owned by the
+defendant) to sell mobile phones.31 On 25 May 2005, the plaintiff signed a sales
+contract with a third party, Shanghai Baina Office Equipment Co, Ltd. Under this
+contract, the plaintiff was required to deliver 2,000 mobile phones (worth CNY 1.6
+million, EUR 240,000) on 29 May. Moreover, if these mobile phones could not be
+delivered on time, the plaintiff would be charged 15 %of the contract value on the
+basis of the liquidated damages clause in the contract. However, on 29 May, the
+defendant prevented the plaintiff frommoving the mobile phones out of the shop,
+because the plaintiff had not paid the rent on time. As a result of the defendant’s
+act, the plaintiff was unable to send these mobile phones to its customer on time
+and was required to pay liquidated damages to its customer.
+30 The 1996 Lawyer’s Law in China was enacted by the Standing Committee of the NPC. It was
+amended three times afterwards, in 2007, 2012, and 2017.
+31 See Shanghai lanqi dianxun shebei youxian gongsi v Shanghai yangpu saibo shuma shichang
+jingying guanli youxian gongsi qinhan qiye jingyingquan jiufen’an (Shanghai Lanqi Telecommunica-
+tion Equipment Co, Ltd v Shanghai YangpuDigitalMarketManagement Co, Ltd) (23 December 2005)
+No 2 Interim People’s Court of Shanghai (Court of Second Instance).
+Pure Economic Loss in China 295
+The plaintiff sued the defendant, claiming compensation for its payment of
+liquidated damages. The court of first instance rejected the plaintiff’s claim, based
+on the reason that the plaintiff did not have sufficient evidence to prove that the
+defendant intended to cause its loss. However, a higher court approved the plain-
+tiff’s claim, on the basis of arts 5 and 106 of the GPCL. According to the higher
+court, the debated issues are whether the defendant had intended to cause the
+plaintiff’s damage and whether the plaintiff’s losses were causally linked to the
+defendant’s act. In this case, the court first stated that the plaintiff’s right to oper-
+ate a business is protected by law. It then held that the defendant could have
+foreseen the plaintiff’s urgent need to deliver phones on time and thus have fore-
+seen the plaintiff’s loss, because the plaintiff had previously contacted the defen-
+dant on many occasions and had even called the police to prevent the defendant’s
+act. Based on these facts, the court concluded that the defendant should be liable
+to compensate the plaintiff’s loss, since the former intended to cause the loss and
+a causal link existed between his act and the plaintiff’s loss.32 It seems that the
+court used two criteria to examine the defendant’s intent: first, whether the defen-
+dant infringed a legally protected right or interest with intent; second, whether
+the defendant could have foreseen the particular damage.
+By contrast, if the defendant negligently rather than intentionally infringes the
+plaintiff’s right to operate a business, they may not be liable to compensate the
+pure economic damage suffered by the plaintiff. One illustrative example is Yong-
+kang Liangda Electronics Factory v Yongang Ruiying Industry and Trade et al.33 In
+this case, the plaintiff’s claim for the loss of production was also rejected by the
+court, based on arts 106 and 117 of the GPCL. The reason given by the court was
+that the plaintiff’s loss was actually a loss of expected profit, which is uncertain in
+nature. The plaintiff did not present sufficient evidence to prove that such a loss
+could be anticipated.
+32 In another case, Liu Junfa v Liu Liumei deng qinquan zeren jiufen (Liu Junfa v Liu Liumei et al)
+(23 May 2017) Shaoguang Interim People’s Court (Court of Second Instance), the defendant inten-
+tionally blocked the entrance to the plaintiff’s pig farm, causing the plaintiff to lose a considerable
+amount of profits. The plaintiff’s claim for the loss of profits was also supported by the court.
+33 See Yongkangshi liangda wujin dianqichang geren duzi qiye v Yongkangshi ruiying gongmao
+youxian gongsi deng caichan sunhai peichang jiufen’an (Yongkang Liangda Electronics Factory v
+Yongang Ruiying Industry and Trade et al) (26 September 2016) Jinkang Interim People’s Court
+(Court of Second Instance). In this case, a cable in the defendant’s shop caught fire. The fire rapidly
+spread to the plaintiff’s premises, causing loss of some property and production.
+296 Yu Yan and Michael Faure
+D Case Four: cable cases
+In Chongqing Minzu Hospital v Chongqing Yong’an Construction Co, Ltd et al, em-
+ployees of Yong’an Construction Company negligently cut through a cable be-
+longing to a State-owned power company that supplied electricity to Minzu Hos-
+pital.34 The unexpected power cut lasted twenty-six hours. At trial, the plaintiff
+argued that normally the daily operating revenue of the hospital was approxi-
+mately CNY 60,000 (EUR 9,000) on average. However, during the power cut, the
+daily operating revenue declined to CNY 13,246 (EUR 1,987). At trial, the plaintiff’s
+claim for compensation of lost profits was approved by the court of first instance,
+but the amount of compensation was reduced to CNY 25,000 (EUR 3,750). The
+legal basis here was art 60 of the 1996 Electric Power Law,35 which states, ‘electric
+power enterprises that cause consumers or a third party damage with fault (guocuo)
+shall bear liability for compensation according to law.’36
+However, the court of second instance quashed the judgment reached by the
+court of first instance. The reasons that they gave deserve our attention. First, they
+made it clear that ‘pure economic loss refers to the financial loss suffered by a per-
+son, with no damage to person or property.’ The court then stated that ‘such loss
+should generally not be recovered; one exception is that such loss was caused by the
+defendant’s intention.’
+Secondly, the court of second instance also held that ‘tort law cannot protect
+all rights and interests equally and these rights and interests should be ranked.’ The
+court then explained that ‘protecting human dignity and physical property is more
+important than protecting pure economic interests; pure economic interests should
+be protected, only if strict conditions can be satisfied.’ According to the court, these
+conditions include: (1) whether the defendant acted intentionally or negligently;
+34 SeeChongqingshi qianjiangquminzu yiyuan vChongqingshi qianjiangqu yong’an jianzhu youxian
+zeren gongsi & Chongqingshi qianjiangqu gongdian youxian zeren gongsi caichan sunhai peichang
+jiufen’an (Chongqing Minzu Hospital v Chongqing Yong’an Construction Co, Ltd et al) (26 December
+2005) Chongqing No 4 Interim People’s Court (Court of Second Instance).
+35 TheGPCL is thebasic lawoncivilmatters,but the 1996ElectricPowerLaw isa special lawwhich
+regulates the activities of the electric power industry. Note that in China, a distinction is made
+between basic laws (jiben falü) and special laws (tebie falü). The former refers to the statutes that
+fundamentally affect the entire society whereas the latter refer to those statutes that only have an
+effect in a particular area. More information on the difference between basic and special laws in
+China is provided by TW Simon/C Feng/LP Nelson, China’s Changing Legal System: Lawyers &
+Judges on Civil & Criminal law (2016) 13; and JF Chen, Chinese Law: Context and Transformation
+(2008) 242.
+36 The 1996 Electric Power Lawwas enacted by the Standing Committee of the NPC and came into
+effect on 1 April 1996.
+Pure Economic Loss in China 297
+(2) whether the plaintiff has obligations to tolerate the interference, taking the
+position of a neutral person; and (3) whether allowing the plaintiff’s claim will
+impose an excessive financial burden on the defendant (the floodgate concern).37
+In this cable case, the court decided that the plaintiff should not be allowed to
+recover its loss of profits, not only because ‘the defendant caused the harm through
+negligence’, but also because ‘the duration of the power cut was short (which is
+tolerable)’ and ‘the fear that widespread liability would place an excessive financial
+burden upon the defendant, would be unfair and unjust, and impose burdens upon
+the entire economy.’ Here, the main legal bases are arts 5, 106, and 117 of the
+GPCL.38
+In addition to all these arguments, the court of second instance also pointed
+out that the plaintiff cannot claim compensation of its losses because its ‘right to
+business’ (ying ye quan) has been violated.39 According to the court, to violate this
+right, the defendant’s act should be directed ‘particularly against the plaintiff and
+directly affect the plaintiff’s business activities’. In this cable case, however, the
+defendant’s act affected not only the plaintiff but also other households and cus-
+tomers who live near the scene of the incident. Therefore, the court decided that
+the violation of the right to business cannot be invoked by the plaintiff to recover
+its loss of profits.
+37 Though not always noticed, the court here mentioned only one strand of the floodgate argu-
+ment. The other two strands are: (1) the fear that allowing recovery of pure economic loss would
+unleash a wave of actions that could overwhelm the courts; and (2) the belief that permitting the
+recoveryof pure economic lossmayencourage resistance to the trend towardexpansionof liability.
+See VV Palmer/M Bussani, The Present Study, in: VV Palmer/M Bussani (eds), Pure Economic
+Loss: New Horizons in Comparative Law (2009) 25–27. See also an editorial by J Spier (ed)/C von
+Bar, The Limits of Expanding Liability: Eight Fundamental Cases in a Comparative Perspective
+(1998) for a more detailed discussion of the negative effects of expanding liability and the techni-
+ques used in different countries to limit such an expansion.
+38 Art 5 of the GPCL states that: ‘the lawful civil rights and interests of citizens and legal persons
+shall be protected by law; no organisation or individual may infringe upon them.’ Art 106 of the
+GPCL requires that: ‘citizens and legal persons who breach a contract or fail to fulfil other obliga-
+tions shall bear civil liability.’Art 117 of theGPCL reads as follows: ‘Anyonewhodamages theprop-
+erty of the State, a collective or another person shall restore the property to its original condition or
+reimburse its estimated price. If the victim suffers other great losses therefrom, the infringer shall
+compensate those losses as well.’
+39 In Germany, the Supreme Court also created the ‘right to business’ to provide a bettermeans of
+obtaining compensation for pure economic loss based on negligent conduct. A more detailed dis-
+cussion of this right is provided by JM van Dunné, Liability for Pure Economic Loss: Rule or Excep-
+tion–A Comparatist’sViewof theCivil Law–CommonLawSplit onCompensationofNon-Physical
+Damage in Tort Law (1999) 7 EuropeanReview of Private Law 397, 397–428; see also vanDam (fn 1)
+88 f.
+298 Yu Yan and Michael Faure
+Lastly, note that the court of first instance cited art 60 of the 1196 Electric
+Power Law as the legal basis for granting compensation for pure economic loss,
+whereas the court of second instance held that this article should not be applied
+because, pursuant to this article, ‘the damage suffered by the victim’ should be
+limited to ‘personal injury and damage to physical property’ (excluding pure eco-
+nomic loss from the category). Based on this interpretation, the court of second
+instance decided that art 60 of the 1996 Electric Power Law should not be applied,
+as the victim only suffered pure economic loss rather than personal injury or
+property loss.
+E Case Five: transferred loss cases
+The phrase ‘transferred loss’ refers to situations where C causes damage to B or
+B’s property, but a special relationship between A and B (or the law itself) trans-
+fers a loss that would ordinarily be B’s onto A. One common example of such loss
+is a personal injury case. In cases of personal injury or death, spouses and chil-
+dren are often granted certain forms of compensation for the loss of financial sup-
+port (ie costs related to nursing and living expenses for dependents) and some-
+times for non-pecuniary loss (ie pain and suffering), on the grounds of art 119 of
+the GPCL and the judicial interpretation issued by the SPC.40 Apparently, the
+losses suffered by the injured person’s spouses and children are purely financial,
+as they have suffered no previous injuries.
+Another common example of a transferred loss case is when an employee is
+injured by a third person (the injurer) and is unable to work for a certain period.
+Article 11 of the 2004 SPC Interpretation on How to Deal with Personal Injury
+Compensation Claims states that:
+....where an employee suffers a personal injury when carrying out an employment activity,
+the employer shall bear the liability for compensation. If a third person outwith the employ-
+ment relationship causes personal injury to the employee, the compensation claim should
+be made against either the third person or the employer. The employer may, after being held
+liable to pay compensation, claim compensation from the third person... The present Article
+shall not apply to labour relationships or work-related injury insurance, which should be
+governed by the Regulation on Work-Related Injury Insurance.
+40 See art 119 of theGPCL. Seealso arts 17, 21, 22, 23, 27 and 28of 2004 the Interpretation of the SPC
+onHow to Deal with Personal Injury Compensation Claims.
+Pure Economic Loss in China 299
+Apparently, according to this provision, the employer in China is allowed to re-
+cover from the injurer the compensation that it has paid to the injured employee if
+the employer has not joined the Work-Related Insurance (WII) Scheme.41 Note
+that if the employer is required to join the WII Scheme by law but fails to do so, it
+will not be allowed to recover the compensation. An illustrative example is a case
+where a worker, Mr Feng, was injured in a traffic accident that was caused by
+Mr Tang.42 The accident occurred in the course of Mr Feng’s work, but Mr Feng’s
+employer had not taken out WII cover for him (even though the law requires this
+to be done). As a result, the employer itself has to bear the medical expenses,
+nursing costs, and the loss of salary that were incurred by Mr Feng. After the pay-
+ment of these amounts, Mr Feng’s employer initiated a claim against the actual
+injurer, asking the injurer to reimburse the compensation that it had paid to its
+injured worker. The claim was denied by the court, because the court deemed that
+the losses suffered by the employer actually resulted from the failure to take out
+WII. Given this fact, the court decided that allowing the employer to claim com-
+pensation from the injurer goes against the aim of the WII scheme, as the employ-
+er is supposed to join the WII scheme. If the employer’s claim were allowed, it
+would not have to bear the risk of being uninsured and would have no incentive
+to join the WII Scheme.
+III A summary of the case study results
+What can we learn from the results contained in the judicial decisions? First, the
+case studies presented in section II show that even though almost all courts admit
+the recovery of intentionally caused pure economic loss,43 the legal basis that they
+used to arrive at these decisions is quite varied (see Table 1).
+41 Note that, in China, if the employee’s injury occurred in the course of work, their loss is often
+covered by the Work-Related Injury Insurance (WII). In China, the WII is solely funded by the em-
+ployer at a rate of 0.5 %, 1 %, or 2 % of its payroll, depending on the health and safety risk of the
+employee’s work. The coverage under WII is normally paid regardless of the insured’s fault, but
+pain and suffering is excluded from theWII coverage. See art 38 of the 2011 Social Insurance Law.
+42 Available at <http://hbqfy.chinacourt.org/public/detail.php?id=3677> (visited on 20 May
+2019).
+43 The court’s reasoning in Case one (‘unfair competition’), Case two (‘flawed professional advice
+or services’), Case three (‘interference with business’), and Case four (‘cable cases’) all reflect the
+idea thatpureeconomic loss is recoverable if it is intentionally inflictedby thedefendant. Seeabove
+subsections II.A and II.B.
+300 Yu Yan and Michael Faure
+Table 1: Legal Basis for the Recovery of Pure Economic Loss Used by Chinese Courts in Different
+Cases
+Basis in Laws Basis in SPC’s Interpretation
+Case One (‘unfair competition’) – Arts 4, 5, and 7 of the GPCL
+Case Two (‘flawed professional
+advice or services’)
+– Art 106 of the GPCL
+– Art 49 of 1996 Lawyer’s Law
+– Arts 42, 54 of 1993 Law on
+Certificated Public Accountant
+– Arts 57 and 58 of 1993
+Product Quality Law
+– Art 44 of 2006 Agricultural
+Product Quality Safety Law
+– Art 43 of 2006 Notary Law
+– Art 207 of 2006 Company
+Law
+– Art 72 of 2016 Seed Law
+– Art 21 of1993 Interim
+Provisions on the Management
+of the Issuing and Trading of
+Stocks
+– Art 27 of 2003 Some
+Provisions of the SPC on
+Trying Cases of Civil
+Compensation Arising from
+False Statements in Securities
+Market
+– 1997 Reply of the SPC on
+How to Divide the Loss
+Suffered by Multiple Creditors
+Among Verification
+Organizations
+– 1998 Reply of the SPC on the
+Liability of Accounting Firms If
+They Issued False Capital
+Verification Certificate to
+Enterprises
+– Arts 2 and 4 of 2007 Several
+Provisions of the SPC on the
+Trial of Compensation Cases
+for Civil Tort Involving
+Accounting Firms Engaging in
+the Audit Business
+Case Three (‘interference with
+business’)
+– Arts 5, 106, 117 of the GPCL
+– Art 6 of the TLL
+Case Four (‘cable case’) – Arts 5, 106, 117 of the GPCL
+Case Five (‘transferred loss’) – Art 119 of the GPCL – Arts 11, 17, 21–23, 27, 28 of
+the 2004 SPC Interpretation on
+How to Deal with Personal
+Injury Compensation Claims
+As shown in the Table, arts 5 and 106 of the GPCL are often employed by courts as
+the main legal basis for awarding compensation in cases of intentionally caused
+pure economic loss. However, these two articles are relatively vague. The former
+provides the general basis for protecting legal rights and interests, while the latter
+is normally considered as the general rule for fault liability. Therefore, it seems
+that, in China, cases of intentionally inflicted pure economic loss are in practice
+normally resolved through the general rule of negligence. These articles also im-
+ply that pure economic loss is recoverable in China if a legally protected right or
+Pure Economic Loss in China 301
+interest has been violated44 and if the violation is committed intentionally or with
+fault.45
+Moreover, the court’s reasoning in Case three (‘interference with business’)
+further implies that it may not be easy for the plaintiff to satisfy the burden of
+proof in cases of intentionally caused pure economic loss. To meet the standards
+of proof required by the court, the plaintiff has to show that his/her legally pro-
+tected right or interest has been violated and that pure economic loss was foresee-
+able for the defendant.46 Therefore, it seems that, in China, intentionally inflicted
+pure economic loss is recoverable in cases where such a loss was foreseeable, the
+conduct in question is regarded as culpable, and a legally acknowledged right or
+interest has been violated.
+When it comes to cases of negligently caused pure economic loss, courts in
+China, either explicitly or implicitly, seem to hold that such a loss is in principle
+not recoverable. However, there are two exceptions. In these exceptional circum-
+stances, the recovery of pure economic loss is normally due to the presence of a
+specific statute (or the presence of an interpretation issued by the SPC) rather than
+to the general tort rules in the GPCL or in the TLL (see Table 1).
+The first exception arises in cases where the plaintiff’s loss is caused by cer-
+tain types of gross negligence by professionals, such as lawyers, notaries, accoun-
+tants, and professionals who undertake asset valuation and capital verification.47
+As shown in Wang Baofu v Beijing Sanxin Law Firm and China Southern Airlines
+Travel & Tourists Company v Yulong Travel Agency et al, people who render profes-
+sional advice or services will be responsible for the pure economic loss of third
+parties with whom they had no direct contractual tie, provided that they acted
+44 The argument that legally acknowledged rights should be protected differently is well estab-
+lished in the Germanic legal tradition. For an overview of this tradition, seeWV Gerven, Of Rights,
+Remedies andProcedures (2000) 37 CommonMarket LawRev 501, 187 ff; and vanBoom (fn 2) 7–10.
+45 All European jurisdictions studied in Bussani/Palmer (fn 7) permit recovery when pure eco-
+nomic loss is inflicted intentionally. The reason is that in such situations, the conduct in question
+is culpable, immoral or contrary to public policy. Moreover, the recovery of intentionally inflicted
+pure economic loss is also allowed in other non-European legal systems, eg Japan, the United
+States, Israel, and South Africa. For full details of these legal systems, see the analysis of Y Nomi,
+Japan, in: VV Palmer/M Bussani (eds), Pure Economic Loss: New Horizons in Comparative Law
+(2009) 71–87; D Gruning, The United States, in: VV Palmer/M Bussani (eds), Pure Economic Loss:
+New Horizons in Comparative Law (2009) 134–165; T Gidron/B Shnoor, Israel, in: VV Palmer/
+M Bussani (eds), Pure Economic Loss: New Horizons in Comparative Law (2009) 186; and
+MM Loubser, South Africa, in: VV Palmer/M Bussani (eds), Pure Economic Loss: New Horizons in
+Comparative Law (2009) 218.
+46 See above subsections II.B and II.C.
+47 See Case two, which is discussed in subsection II.B.
+302 Yu Yan and Michael Faure
+with gross negligence and that the third party reasonably relied on their profes-
+sional services or advice.48 In fact, pure economic loss caused by experts or pro-
+fessional organisations is relatively well recognised in China.49 This seems to re-
+flect the collective view that a high standard of professional services ought to be
+maintained on the market.50
+Another exception is the ‘transferred economic loss’ case (Case five).51 Courts
+in China may compensate the injured person’s family members for the reasonable
+value of care that they rendered to the injured person. The court may also protect
+the employer (via the recourse right) who is forced to continue paying an injured
+worker’s salary without receiving any work in return. In both situations, the in-
+jured person’s loss has been transferred, by statute or by contract, to their family
+members or employers. Even though the legislators do not specify why the recov-
+ery of transferred economic loss is allowed in China, the existing literature ap-
+pears to suggest that the recovery might be justified for two reasons. One is that
+rejecting the recovery of ‘transferred economic loss’ that is suffered by the second-
+ary victim will release the tortfeasor from liability, with the result that he/she
+benefits from his/her illegal behaviour.52 Another reason is perhaps that cases
+48 Ibid.
+49 See arts 57 and 58 of the 1993 Product Quality Law; art 44 of the 2006 Agricultural Product
+QualitySafetyLaw;andart 72of the 2016SeedLaw.Thesearticlesmake it clear thatany institutions
+or organisationswhich fabricate certificates or proof concerning the quality of a product (including
+the daily-used and agriculture product) that causes losses to the consumers shall be liable to pay
+compensation. See also art 54 of the 1996 Lawyer’s Law; arts 2 and 4 of the 2007 Several Provisions
+of theSPCon theTrial of CompensationCases forCivil Tort InvolvingAccountingFirmsEngaging in
+the Audit Business; art 43 of the 2006 Notary Law; and art 207 of the 2006 Company Law. These
+articles clarify that for lawyers, accountants,notaries, andotherprofessionalswhoundertakeasset
+valuation, capital or other verifications, liability to pay compensationmaybe imposed if they acted
+with intent and gross negligence. More information on these articles can also be found at Zhang
+(fn 14) 468–472.
+50 There is a consensus among many legal systems that a high standard of professional services
+could and ought to bemaintained. Bussani and Palmer’s comparative comments on the ‘poor legal
+services case’ (case 14), ‘auditor’s liability case’ (case 17) and ‘an anonymous telephone call case’
+(case 20) referred to this collective consensus. See M Bussani/VV Palmer, The Case Studies: Na-
+tional Reporters and Editors Commentary, in: M Bussani/VV Palmer (eds), Pure Economic Loss in
+Europe (Cambridge University Press 2003) 417, 471, and 519. However, among different legal sys-
+tems, some may emphasise specific requirements in those cases (eg the third party is required to
+show its reliance on the professional services or advice),whereas others donot clearly impose such
+requirements.
+51 See above subsection II.E.
+52 See C von Bar, The Common European Law of Torts (1998) 510 f who argues that liability for
+transferred loss is aimed at preventing someone appealing to rules whose purpose is not to protect
+that person, but to protect others.
+Pure Economic Loss in China 303
+involving such a loss are ‘liability neutral’ from the tortfeasor’s perspective, as
+long as the full social cost of the accident is borne by the tortfeasor and there is
+no duplication of liability for the same loss.53
+Lastly, the foregoing case analysis also shows that Chinese law lacks clear
+rules regarding pure economic loss in general (except in cases of ‘flawed profes-
+sional services’ and ‘transferred economic loss’). However, Chinese courts (often
+via the guiding case project) have developed certain techniques or requirements
+to determine the recovery of such loss in practice. For example, in Chongqing Min-
+zu Hospital v Chongqing Yong’an Construction Co, Ltd et al, the court explicitly
+referred to the floodgates argument as well as to the argument concerning the
+ranking of all rights and interests protected by tort law and the claimant’s obliga-
+tion to tolerate the interference when denying the recovery of pure economic
+loss.54 In Shanghai Lanqi Telecommunication Equipment Co, Ltd v Shanghai Yang-
+pu Digital Market Management Co, Ltd (Case three), the court developed the fore-
+seeability test and implicitly expressed the fear that allowing recovery would ex-
+pose the defendant ‘to a liability in an indeterminate amount for an indeterminate
+time to an indeterminate class’.55
+IV Re-thinking the current Chinese approach
+At first glance, China appears to support awarding compensation for pure eco-
+nomic loss, as arts 5 and 106 of the GPCL, as well as art 6 of the TLL are very
+general and comprehensive. However, the foregoing analysis shows that the prac-
+tice of the Chinese courts adopts a more intermediate or even a conservative posi-
+tion. Table 2 below summarises the results of the cases that were studied in the
+previous sections.56 The results are divided into two categories: a ‘Yes’means that
+compensation for pure economic loss would be granted; a ‘No’ means that com-
+53 See Bussani/Palmer (fn 2) 11 f.
+54 See Case four which is discussed in subsection II.D.
+55 See Case three in subsection II. C. See also Yongkang Liangda Electronics Factory v Yongang
+Ruiying Industry and Trade et al, which is discussed in subsection II. C. The ‘indeterminacy’ argu-
+ment was originally proposed by an American judge, Cardozo, in the famous Ultramares case. In
+this case, the judge held that negligent accountants should not be liable to compensate damage
+suffered by third parties, because theywould be exposed to a liability ‘in an indeterminate amount
+for an indeterminate time to an indeterminate class’. See Ultramares Corp v Touche (1931) 255 New
+York Reports (NY) 170, 174.
+56 In the table, case numbers can be read as follows: Case 1 (unfair compensation case); Case 2
+(flawed professional services or advice case); Case 3 (interference with business case); Case 4
+(cable case); Case 5 (transferred loss case).
+304 Yu Yan and Michael Faure
+pensation for such loss would be denied. Moreover, a distinction is also made
+between cases where the recovery can be attained in tort or by specific statute.
+As shown in the Table, in cases where the loss is intentionally inflicted, com-
+pensation will always be awarded. However, certain requirements must be met,
+eg the defendant has to be culpable, the loss has to have been foreseeable, and
+protected rights or interests have been violated.57 The rationale for recovery in
+such cases is straightforward. Denying recovery would create incentives for a tort-
+feasor acting with intent to cause a pure economic loss to the victim. Conse-
+quently, a third party, who would not have to face any tortious liability, could
+benefit from a rule of no recovery.58
+Table 2: Results of the Pure Economic Loss Cases in China
+Intentionally Caused Pure
+Economic Loss Cases
+Negligently Caused Pure
+Economic Loss Cases
+Yes (general tort rules) 1; 3; 4; 5 5
+Yes (specific statute) 1 (after 1993, when the 1003
+Unfair Competition Law was
+enacted); 2
+2
+No 1; 3; 4
+Table 2 also shows that in cases where the loss was negligently caused, courts in
+China often proceed from an exclusionary position: the recovery of pure economic
+loss is in principle not allowed, except in defined and limited circumstances, such
+as the transferred loss and the flawed professional services cases. Moreover, for
+cases where the recovery of pure economic loss is denied, Chinese courts have
+developed several arguments, such as the threat of opening ‘floodgates’, the rank-
+ing of rights and interests, and the uncertainty/unforeseeability concern to sup-
+port their decision.59 In the following subsections, the current Chinese approach
+as well as the arguments that are used to deny compensation for pure economic
+loss will be critically analysed.
+57 See above section III.
+58 See F Parisi/VV Palmer/M Bussani, The Comparative Law and Economics of Pure Economic
+Loss (2007) 27 International Rev of Law Economics 29, 46.
+59 See above section III.
+Pure Economic Loss in China 305
+A Rationale of the arguments for denying recovery
+As mentioned before, in cases of negligently inflicted pure economic loss, Chinese
+courts often proceed from an exclusionary position and set out several arguments
+in support of denying compensation.60
+The first line of argument is often grounded on the belief that allowing recov-
+ery would cause problems of open-ended liability and derivative litigation (often
+referred to as the floodgate problems). For instance, in Case four (‘cable case’),
+the court of second instance clearly fears that permitting recovery would over-
+whelm courts and place an excessive financial burden upon the defendant.61
+Some scholars argue that such fear makes sense, as derivative litigation would
+increase the administrative costs of the legal system, which ultimately increases
+the total social costs of accidents.62 However, from a scientific or a comparative
+point of view, the derivate litigation argument lacks justification. Empirically,
+there is a lack of solid evidence to prove that derivative litigation will actually
+follow in practice. If we take a look at the liberal regimes in Europe (eg France)
+where there is a broad recoverability of pure economic loss, it has to be admitted
+that these countries are not flooded with such claims.63 When it comes to the
+problem of open-ended liability, it should be stressed that not all pure economic
+loss cases pose an excessive burden on the tortfeasor’s limited assets.64 For in-
+stance, in Case five (‘transferred loss case’), the open-ended liability problem
+does not exist whereas in other relational pure economic loss cases (eg Case four,
+‘cable case’), the tortfeasor may face the real risk of unbearable financial conse-
+quences.65 Additionally, many instances of physical losses seem to cause even
+greater floodgate problems, but their compensation is not questioned.66 All these
+facts may, to a certain extent, help to explain why liberal regimes in Europe are
+not flooded with pure economic loss claims. Just as some studies have argued,
+although these regimes generously allow such claims in practice, the extent of
+liability is largely limited by implementing various legal instruments, eg require-
+60 See above subsections II.B, II.C, and II.D.
+61 See above subsection II.D.
+62 See Palmer/Bussani (fn 37) 31.
+63 See J Spier/O Haazen, Preliminary Observations, in: J Spier (ed), The Limits of Expanding Lia-
+bility: Eight Fundamental Cases in a Comparative Perspective (1998) 7.
+64 See Fleming James, Limitations on Liability for Economic Loss Caused by Negligence: A Prag-
+matic Appraisal (1972) 12 Journal of the Society of Public Teachers of Law (New Series) 105, 115.
+65 See above subsection II.D.
+66 See M Bussani/VV Palmer/F Parisi, Liability for Pure Financial Loss in Europe: An Economic
+Restatement (2003) 51 AJCL 113, 113–162 for a critical discussion of the floodgate arguments.
+306 Yu Yan and Michael Faure
+ments concerning causation, proof of damage, and the duty of the victim to miti-
+gate damage.67
+The ranking of legal rights and interests argument is a second line of argu-
+ment that is often used by Chinese courts to deny the recovery of pure economic
+loss (eg in Case four). According to this argument, there is a necessity to weigh
+human values against legal rights, and pure economic interests are said to occupy
+levels below bodily integrity and property.68 Such argument seems to rest upon a
+premise that compensation is a scarce commodity and the law cannot simulta-
+neously protect all values fully.69 This premise is not very convincing.70 On the
+one hand, in some cases, the consequences of cases of pure economic loss can be
+very devastating, just as the consequences of personal injury and death cases. On
+the other hand, there is no empirical support for the assumption that the limits of
+compensation have ever been reached.71 Therefore, it seems that the ranking of
+legal rights and interests argument cannot be, or at least cannot be the only rea-
+son for fully barring recovery of pure economic loss.72 For example, this argument
+cannot explain why intentionally inflicted pure economic loss and consequential
+economic loss are recoverable in most jurisdictions.73 In fact, the denial of com-
+67 See Spier/Haazen (fn 63) 12. See alsoM Barendrecht, Pure Economic Loss in the Netherlands,
+in: E Hondius (ed), Netherlands Reports to the Fifteenth International Congress of Comparative
+Law (1998) 126. For example, the courts in the Netherlands are allowed to reduce the amount in
+damages whenever full compensation would lead to clearly unacceptable results such as bank-
+ruptcy of the debtor. See art 6: 109 BW. On the compensation of pure economic loss in the Nether-
+lands, see Bussani/Palmer (fn 3) 139–147.
+68 The fact that there is a deep-seated preference for the protection of property interests over and
+above pure economic interests in tort law iswell recognised in the literature. However, the existing
+justifications of such a preference are found to be either ad hoc in nature or of limited explanatory
+power. See C Witting, Distinguishing between Property Damage and Pure Economic Loss in Negli-
+gence: A Personality Thesis (2001) 21 Legal Studies (LS) 481, 481–514 for a detailed examination of
+the justifications for the ranking of legal rights and interests argument.
+69 See van Boom (fn 2) 4

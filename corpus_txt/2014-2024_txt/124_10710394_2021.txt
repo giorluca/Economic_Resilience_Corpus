@@ -1,0 +1,1106 @@
+Economic resilience and the state: A global panel analysis
+
+ 
+ 
+ 
+Economics, Management and Sustainability 
+journal home page: https://jems.sciview.net 
+Paun, C.-V., Musetescu, R.-C., Isaic, R., Manea G. C., & Shayb H.-A. (2021). Economic resilience and 
+the state: A global panel analysis. Economics, Management and Sustainability, 6(2), 34-45. 
+doi:10.14254/jems.2021.6-2.3. 
+ISSN 2520-6303  
+ 
+ 
+Corresponding author: Cristian-Valeriu Paun 
+E-mail: cristian.paun@rei.ase.ro 
+This open access article is distributed under a Creative Commons Attribution (CC-BY) 4.0 license. 
+ 
+‹ 34 › 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scientific Platform 
+ 
+ 
+ 
+ 
+ 
+Economic resilience and the state: A global panel 
+analysis 
+Cristian-Valeriu Paun , Radu-Cristian Musetescu , Radu Isaic , 
+Gheorghe Cosmin Manea , Hezi-Aviram Shayb  
+Bucharest University of Economic Studies, 
+Piața Romană 6, București 010374, Romania 
+cristian.paun@rei.ase.ro; radu.musetescu@rei.ase.ro; isaicradu@yahoo.com; 
+maneacosmin37@gmail.com; shaybhezi@gmail.com 
+ 
+   
+ 
+ 
+Abstract: Modern economies are disturbed by 
+recessions that have become more and more 
+globalized, much contagious between countries and 
+regions, and with higher negative impacts during 
+recessions. In this dynamic context, the recovery 
+after the recession is essential to prepare the 
+economy for the next business cycle. Understanding 
+these business cycles (their causes and impact) is 
+fundamental for public policies that should avoid 
+being pro-cyclical and adding more vulnerabilities to 
+the existing economic downturns. Economic 
+resilience is now a key concept in the economic 
+literature. It refers to the capacity of the economy to 
+recover after a recession. This paper aims to explore 
+the relationship between the dimension of the state 
+and the resilience of the economic system by using 
+global panel data. The study includes 87 countries 
+(870 observations) and data covering 2009 – 2019 
+provided by World Bank. We used two dependent 
+variables: GDP gap and GDP per capita gap, and 12 
+explanatory variables grouped in 4 categories (the 
+dimension of the state, the quality of public 
+governance, the economic development, and the 
+regional/global economic dependence). The results 
+are robust and significant. They confirm that the 
+dimension of the public intervention and the quality 
+of the public governance and administration have a 
+clear impact on the economic resilience and the 
+ability to recover from business cycles. 
+Keywords: smart city concept, public safety, 
+personal security, video surveillance. 
+Article history: 
+Received: June 11, 2021 
+1st Revision: October 26, 
+2021 
+Accepted: November 24, 
+2021 
+ 
+JEL classification: 
+F10 
+F44 
+F43 
+G15 
+H12 
+ 
+DOI: 
+10.14254/jems.2021.6-2.3 
+ISSN 2520-6303  Economics, Management and Sustainability, 6(2), 2021 
+ 
+‹ 35 › 
+ 
+1. Introduction 
+The concept of economic resilience has become paramount for economic governance. 
+European Union has adopted in 2021 a Recovery and Resilience Plan in order to deal with the impact 
+of COVID-19, while Bloomberg media agency started to calculate a Resilience Index for countries 
+around the world, ranking them according to the perceived quality of responses to the pandemics. 
+From the perspective of economic governance, resilience has indeed become a key objective.  
+However, a large part of the debates about economic resilience seems not to pay attention to 
+the nature of the economic systems and to the structure of the national economies, especially the 
+weight of the state in the economy. We intend to explore the differences in the performance of the 
+public and private sectors during economic crises and to assess how this is relevant for the dynamics 
+of the entire national economy. 
+2. Literature review 
+As economic crises have become a permanent reality of the modern global economy, 
+policymakers and scholars alike have increasingly focused on how to deal with such macroeconomics 
+shocks. Several economists (von Mises, 1953, Rothbard, 2000, de Soto, 2009) have long ago explained 
+the origins of economic crises. They argued that economic crises are mainly a result of of monetary 
+policy. By an artificial increase in the money supply and the correspondent expansion of credit, 
+central banks try to capture alleged positive effects such as growth of the economy and increases in 
+investment and employment. Nevertheless, such a monetary policy mechanism comes with a 
+downside. This is the economic recessions that are periods in which the economy and the society 
+return to some natural conditions such as the time preference and the saving ratio of the population. 
+The receipt for avoiding the emergence of the business cycle is clear: discipline the monetary policy 
+and avoid manipulating the money supply and the credit market. 
+Such a receipt seems to be avoided in contemporary economic governance. The focus of 
+economic theorists and policymakers today has shifted towards another priority, which is called 
+economic resilience. This concept has been defined in various ways. Regibeau and Rockett (2013) 
+noticed, for example, that “a lack of clarity on the concept in the case studies that reflects an 
+enormous spread of definitions used in the literature. This lack of a common vocabulary not only 
+leads to a lack of comparability across the case studies, but also to difficulties implementing resilience 
+policy locally” (p. 107). Meanwhile, Bruneckiene and others (2019) point that “there is a lack of 
+assessment methodology for socio-economic systems’ resilience that would, employing either the 
+static or dynamic approach, allow for a comprehensive assessment of the problems of resilience to 
+economic shocks” (p. 565) 
+Rose (2004) defined economic resilience as “the inherent and adaptive responses to disasters 
+that enable individuals and communities to avoid some potential losses” (p. 307). Such a definition 
+is intuitive and easy to operationalize but is somehow simplistic and static. Duval and Fogel (2008) 
+focus, at their turn, only on one economic indicator, which is the economic output: “economic 
+resilience may be loosely defined as the ability to maintain output close to potential in the aftermath 
+of shocks” (p. 203). 
+Pendall and others (2010) noticed that there is a difference between defining resilience 
+according to “equilibrium analysis,” in which resilience is “the ability to return to a pre-existing state 
+in a single equilibrium system or shift to new “normals” in multiple equilibrium systems.” Another 
+definition of the concept is made in terms of complex adaptive systems: from this perspective, 
+economic resilience is “the ability of a system to adapt and change in response to stresses and 
+strains.” The same difference is made by Rose (2004, p. 308) when distinguishing between “inherent 
+resilience,” that is, “the ability under normal circumstances,” and “adaptive resilience,” that is, “the 
+ability in crisis situations due to ingenuity or extra effort.” Di Pietro, Lecca and Salotti (2020) call it 
+“evolutionary resilience” which is defined as involving “structural and operational adaptation in 
+response to shocks, with economies bouncing forward rather than bouncing back” (p. 3). 
+The concept of resilience has been explored in other fields of science, such as physics, 
+ecosystems, or spatial geography. For example, disaster management has been one of the most 
+prominent areas of research interested in coherently defining resilience. It focused on infrastructure 
+networks and spatial allocation of economic facilities and activities. The transfer of this concept in 
+the assessment of the performance of economic systems has often been made with an apparent 
+critical error: the ignorance of the nature of the economic systems. This is what Aligica and Tarko 
+(2014) also noticed when stating that they want to focus “on a conceptualization that goes beyond 
+the current emphasis on the socio-ecological facet, that is, only the relationship between natural 
+ISSN 2520-6303  Economics, Management and Sustainability, 6(2), 2021 
+ 
+‹ 36 › 
+ 
+resources and the social system” (p. 54). That is, an attempt to incorporate the perspective of 
+institutions. 
+In a certain sense, the principles of allocation of economic resources are neutral towards the 
+spatial organization of economic activity. Land is a factor of production, and in consequence, the 
+spatial distribution of natural resources is relevant to the spatial distribution of the economic 
+activities of production and processing. Nevertheless, economics is a lot more than that. 
+Fundamentally, the ownership of the means of production, the freedom of economic activity, the 
+operation of the free market, and the discovery of market prices are even more important than the 
+initial spatial distribution of the economic activity. So the debate about economic resilience is almost 
+irrelevant if it ignores the nature of the economic system. The concept of resilience is not absolute or 
+all-encompassing but relative and derivative. Moreover, Regibeau and Rockett (2013) argue that the 
+measurement of resilience is not so simple and the complexity of society and economy challenges 
+analysts to find the right indicator: „a society may be resilient to one type of shock but not to another... 
+societies may face tradeoffs in resilience policies“ (p. 108). 
+Among the critical differences between the economic system, we could also point to the ratio 
+between the state and the market, namely, the relative importance of the government sector and the 
+private sector. In the government sector, as in a socialist economy, the economic goods are allocated 
+in a centralized manner, by political decision and under the logic of maximization of some politically 
+chosen indicators relevant for the political discourse. Prices are artificial and fixed by political fiat. 
+They do not include any information about economic scarcity (Mises, 1951). Consequently, profit and 
+loss for an undertaking are irrelevant about the utility of the production in the economy. So particular 
+areas or sectors of the economy may perform better under a socialist economic governance because 
+the leadership forces the allocation of resources towards them. 
+On the other hand, the market system emerges in order to discover the relative scarcity of 
+economic goods. It deals with this scarcity by the exercise of economic freedom. The descentralized 
+system of resource allocation implies a free interplay between supply and demand that leads to the 
+emergence of market prices. Only such prices allow the efficient allocation of scarce economic goods 
+towards potentially infinite needs. As Rose (2004) put it, „the price mechanism is a relatively costless 
+way of redirecting resources and services. Price increases, though often viewed as gouging, serve a useful 
+purpose of reflecting highest value use, even in the broader social setting“ (p. 309). Market prices reveal 
+the meaningful profit and loss in economic activity and discipline to erroneous decisions of private 
+individuals and entities. The conclusion of the same author is diamond clear: “what is often less 
+appreciated by disaster researchers outside economics and closely related disciplines is the inherent 
+resilience of markets. Prices act as the invisible hand that can guide resources to their best allocation 
+even in the aftermath of a disaster” (Rose, idem).  
+So we come close to a critical statement related to the comparative performance of economic 
+systems: markets seem to be nominally more affected by shocks (they react immediately and directly 
+related to the intensity of the shock) than the government sector (it does not take into consideration 
+the dynamics of scarcity). Moreover, decentralized economic systems can be less manipulated in 
+terms of data and statistics as compared to centralized systems. Maximization of specific indicators 
+can be used in order to distort the relative performance of the system. As Pretorius and others argued 
+(2021), “vulnerability is particularly heightened in developing regions due to the relatively smaller 
+size of their economies and the related diversity of economic activities, reduced competitiveness 
+(due to inadequate economies of scale) and limited access to external capital to catalyze productivity” 
+(p. 2674). 
+Moreover, another dimension that is essential in the study of economic resilience is the level 
+of development of the national economy. As an economy enjoys a significant presence of the market 
+and the allocation of resources relies on market transactions, it experiences a rapid and direct impact 
+from external economic shocks. For the economic sectors that are not directly related to the final 
+demand, the absorption of the impact of economic shocks should take more time, and the economic 
+system appears to be more resilient. It is not, however, a resilience that should be praised as it is a 
+resilience which is a result of isolation from the market and the real interplay between supply and 
+demand. So we suspect that the economic sectors that are closer to the market will be more 
+negatively impacted by external shocks, but they should recover more rapidly than those which are 
+farther away from the ultimate demand. 
+3. Methodological approach 
+The research aims to explore the determinants of the resilience and recovery of the economies 
+after crisis time by explicitly looking at the indicators referring to the state monetary and fiscal 
+stimulus. The primary research hypothesis derived from this general goal of the research is the 
+ISSN 2520-6303  Economics, Management and Sustainability, 6(2), 2021 
+ 
+‹ 37 › 
+ 
+following: (i) the presence of the state is submitted to help de recovery and to improve de resilience; 
+(ii) the quality of public governance, actions, and policies are influencing the recovery and resilience 
+and (iii) the quality of relationship between the state and the tax payers has an impact on the 
+recovery and resilience. To achieve this specific research hypothesis, we used two main variables to 
+measure the economic growth and economic development: GDP_GAP - real GDP growth rate and 
+GDP_CAP_GAP - GDP per capita (PPP standards). We noticed that, in the case of the “subprime crisis” 
+(one of the most significant and globally contagious crises of the latest decades), the year 2009 could 
+be considered a reference to estimate the recovery and resilience. Therefore, we calculate the gap of 
+these two indicators between the current year and the reference year (2009) for 2010 and 2019. We 
+used three categories of estimating variables to explain them: (a) variables proxying the dimension 
+of the state: CLAIMS_GUV – claims on the central government to GDP, including total loans to the 
+government minus deposits; EXPEND_GOV - government expenditures to GDP for its operating 
+activities in providing public goods and services to the taxpayers and DEFICIT_GOV – public deficit 
+to GDP; (b) variables proxying the quality of the public services: REVEN_GOV – total public revenues 
+to GDP gathered by the government from all taxes applied to economic activities; TIMETAX – time 
+spent to pay the taxes to the government and CONTRIB_RATE – the total taxes to total income rate 
+paid on the net income of the businesses and (c) controlling variables grouped into two sub-
+categories: one category proxying the economic development (RURAL_POP – total population living 
+in the rural area divided to total population, FIXEDCAP – gross fixed capital formation to GDP, 
+MANUF_VA – value added in the manufactured goods to GDP and COM_BALANCE – the net difference 
+between exports and imports to GDP) and other category proxying the correlation with region and 
+global market (CORREL_REG and CORREL_W measured as 10 years rolling correlation between 
+individual real GDP growth rate and GDP per capita and the region / world).  
+The equations of the model are the following: 
+ 
+GDP_GAPit = [a × CLAIMS_GUVit +  b × EXPEND_GUVit + c × DEFICIT_GUVit] + [d ×
+REVEN_GUVit + e × TIMETAX_GUVit + f × CONTRIB_RATEit] + [g × RURAL_POPit + h ×
+FIXEDCAPit + i × MANUF_VAit + j × COM_BALANCEit] + [k × CORREL_GDP_REGit + l ×
+CORREL_GDP_Wit] + C +  εit                                                                                                                                 (1) 
+ 
+GDP_CAP_GAPit = [a × CLAIMS_GUVit +  b × EXPEND_GUVit + c × DEFICIT_GUVit] + [d ×
+REVEN_GUVit + e × TIMETAX_GUVit + f × CONTRIB_RATEit] + [g × RURAL_POPit + h ×
+FIXEDCAPit + i × MANUF_VAit + j × COM_BALANCEit] + [k × CORREL_GDP_REGit + l ×
+CORREL_GDP_Wit] + C +  εit                                                                                                                                  (2) 
+ 
+The source of data is the Database of the World Bank. The number of countries included in our 
+panel was 87, and the data covers 2009 – 2019 (for GDP_GAP and GDP_CAP_GAP we used ten years 
+rolling correlation, and the data covers 1999 – 2019). In total, the number of country-year 
+observations is 870. The summary description statistics of the time series are presented in Appendix 
+1. The panel used for this research is long (significantly more countries than years), balanced (data 
+for all countries), and fixed (data for all years). For the empirical analysis, we used Eviews 12. 
+Because we employed two dependent variables for proxying recovery and resilience (GDP_GAP and 
+GDP_CAP_GAP), we grouped the time series into two different panels. We tested the time series for 
+unit root, and we synthetized the results in Appendix 2. We used the common four unit-root tests for 
+panel data analysis: Levin, Lin and Chu, Im, Pesaran and Shin W-stat, ADF - Fisher Chi-square and PP 
+- Fisher Chi-square. According to the results of these tests, all the time series used in the models are 
+stationary with high significance. We also tested the cointegration in both panel data using Kao 
+Residual Cointegration Test. The results are presented in Appendix 3 and confirm a long-run 
+relationship between the variables included in the model (both panels). Therefore, we performed a 
+more profound analysis based on VECM’s error correction term (ECT). We briefly present the results 
+in Appendix 4. The statistically significant negative coefficient for ECT confirmed a long-run solid 
+relationship between both dependent variables (GPD_GAP and GDP_CAP_GAP) and explanatory 
+variables. Additionally, we used the Wald test on the VECM outputs to check the short-run 
+determination for all explanatory variables. The results can be found in Appendix 5 and confirm the 
+short-run relationship with the dependent variable for the following: DEFICIT_GOV, TIMETAX, 
+CONTRIB_RATE, RURAL_POP, MANUF_VA and CORREL_GDP_W (only for the first-panel case). 
+4. Results and discussions 
+In the first stage of our research, we run the two unrestricted panel regressions according to 
+the specifications of the model. 
+ISSN 2520-6303  Economics, Management and Sustainability, 6(2), 2021 
+ 
+‹ 38 › 
+ 
+Table 1: Unrestricted model outputs 
+Explanatory variable Outputs 
+Panel 1 Panel 2 
+--> GDP_GAP --> GDPC_GAP 
+CLAIMS_GOV 
+Coefficient -0.0570* -0.0647* 
+p-value 0.0002 0.0000 
+EXPEND_GOV 
+Coefficient 0.0753* 0.0884* 
+p-value 0.0002 0.0000 
+DEFICIT_GOV 
+Coefficient -0.0017 -0.0015 
+p-value 0.9640 0.9686 
+REVEN_GOV 
+Coefficient -0.0483 -0.0666* 
+p-value 0.1553 0.0471 
+TIMETAX 
+Coefficient -0.0030* -0.0017 
+p-value 0.0269 0.2057 
+CONTRIB_RATE 
+Coefficient -0.0124 -0.0100 
+p-value 0.6125 0.2578 
+RURAL_POP 
+Coefficient 0.0041 0.0164* 
+p-value 0.7760 0.0428 
+FIXEDCAP 
+Coefficient -0.0053* -0.0074 
+p-value 0.0246 0.6896 
+MANUF_VA 
+Coefficient 0.0580* 0.0525* 
+p-value 0.0246 0.0386 
+COM_BALANCE 
+Coefficient -0.0293* -0.0174 
+p-value 0.0164 0.1504 
+CORREL_GDP_REG 
+Coefficient -0.9937*** -1.0071*** 
+p-value 0.1178 0.1076 
+CORREL_GDP_W 
+Coefficient 9.8979* 10.3068* 
+p-value 0.0000 0.0000 
+C 
+Coefficient -0.9782 -1.7951*** 
+p-value 0.3459 0.0816 
+Adjusted R-Squared 0.5181 0.5247 
+F-Statistic 76.7757 80.9291 
+Source: own estimations based on data from World Bank* - 1% significance, ** - 5% significance, *** 
+- 10% significance 
+ 
+The results summarized in the Table 1 for both unrestricted models indicate a negative and 
+significant influence on the GDP_GAP of the following explanatory variables only: CLAIMS_GOV, 
+CONTRIB_RATE, FIXEDCAP, COM_BALANCE and COREL_GDP_REG.  The positive and significant 
+impact is observed only for EXPEND_GOV. For the other dependent variable - GDP_CAP_GAP, we 
+observed a negative and significant influence in the case of CLAIMS_GOV, REVEN_GOV, 
+CORREL_GDP_W and intercept. The positive and significant influence is observed only for 
+EXPEND_GOV, RURAL_POP and MANUF_VA. 
+ 
+Table 2: Restricted model – Panel 1 (GDP_GAP dependent variable) 
+Explanatory variable: 
+Restricted models - Panel 1 (dependent variable GDP_GAP) 
+--> GDP_GAP 
+CLAIMS_GOV 
+-0.052   -0.056   -0.052   
+0.000   0.000   0.000   
+EXPEND_GOV  
+0.061   0.056   0.058  
+ 0.002   0.000   0.000  
+DEFICIT_GOV   
+0.025   0.033   0.030 
+  0.469   0.341   0.386 
+REVEN_GOV 
+0.054 -0.004 0.063       
+0.025 0.892 0.009       
+TIMETAX    
+-0.004 -0.002 -0.003    
+   0.004 0.084 0.025    
+CONTRIB_RATE       
+-0.015 -0.017 -0.019 
+      0.077 0.047 0.031 
+RURAL_POP 
+-0.001 0.016 0.011 -0.003 0.018 0.009 -0.006 0.015 0.006 
+0.861 0.041 0.169 0.678 0.029 0.264 0.465 0.055 0.460 
+FIXEDCAP 
+-0.011 0.027 0.015 -0.022 0.025 0.006 -0.017 0.027 0.008 
+0.540 0.142 0.410 0.233 0.178 0.754 0.347 0.141 0.656 
+MANUF_VA 
+0.050 0.031 0.037 0.049 0.040 0.029 0.039 0.039 0.025 
+0.053 0.228 0.156 0.052 0.112 0.256 0.116 0.118 0.317 
+COM_BALANCE 
+-0.025 -0.003 -0.006 -0.035 -0.006 -0.016 -0.028 -0.001 -0.011 
+0.035 0.773 0.592 0.002 0.614 0.168 0.015 0.928 0.368 
+CORREL_GDP_REG 
+-0.433 -1.155 -0.617 -0.319 -1.047 -0.540 -0.471 -1.157 -0.661 
+0.483 0.074 0.326 0.606 0.100 0.392 0.446 0.068 0.293 
+CORREL_GDP_W 
+10.090 10.641 10.489 9.926 10.382 10.502 10.257 10.491 10.681 
+0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+C 
+-1.882 -4.075 -3.408 0.271 -3.558 -1.276 0.039 -3.373 -1.102 
+0.033 0.000 0.000 0.703 0.000 0.063 0.958 0.000 0.128 
+Adjusted R-Sq. 0.500 0.486 0.481 0.502 0.488 0.480 0.499 0.489 0.479 
+F-Statistic 109.74 103.86 101.54 110.59 104.59 101.1 109.25 104.83 101.03 
+Source: own estimations based on data from World Bank  
+ISSN 2520-6303  Economics, Management and Sustainability, 6(2), 2021 
+ 
+‹ 39 › 
+ 
+In the next step of the analysis, we restricted the models by grouping the explanatory variables 
+into considered groups, the controlling variables being kept the same for all models. The restricted 
+models for Panel 1 are presented in Table 2 and for Panel 2 in Table 3. In the case of Panel 1 
+(dependent variable is GDP gap), the outputs confirmed a negative and statistically significant 
+influence on GDP gap is registered for: CLAIMS_GOV, COM_BALANCE, and intercept. We confirm a 
+positive and statistically significant influence on the GDP gap for: REVEN_GOV, MANUF_VA, and 
+CORREL_GDP_W. For Panel 2 (dependent variable is GDP per capita gap), a negative and statistically 
+significant influence on GDP per capita gap is confirmed for: CLAIMS_GOV, CONTRIB_RATE and 
+intercept. A positive and statistically significant influence on GDP per capita gap is confirmed for: 
+EXPEND_GOV, REVEN_GOV, RURAL_POP and CORREL_GDPC_W. Moreover, F-statistic confirmed a 
+robust statistical significance for all restricted models, both panels and Adjusted R squared that 
+indicates a medium intensity for the correlation between both dependent and all explanatory 
+variables included in the restricted models.  
+ 
+Table 3: Restricted model – Panel 2 
+Explanatory variable: 
+Restricted models - Panel 2 (dependent variable GDP_CAP_GAP) 
+--> GDP per capita_GAP 
+CLAIMS_GOV 
+-0.060   -0.063   -0.060   
+0.000   0.000   0.000   
+EXPEND_GOV  
+0.072   0.062   0.062  
+ 0.000   0.000   0.000  
+DEFICIT_GOV   
+0.030   0.036   0.035 
+  0.382   0.307   0.321 
+REVEN_GOV 
+0.044 -0.025 0.055       
+0.062 0.433 0.023       
+TIMETAX    
+-0.002 -0.001 -0.002    
+   0.059 0.580 0.252    
+CONTRIB_RATE       
+-0.010 -0.012 -0.014 
+      0.255 0.161 0.112 
+RURAL_POP 
+0.010 0.031 0.025 0.008 0.032 0.022 0.007 0.030 0.020 
+0.208 0.000 0.002 0.291 0.000 0.005 0.391 0.000 0.009 
+FIXEDCAP 
+-0.017 0.028 0.014 -0.025 0.027 0.006 -0.022 0.028 0.007 
+0.346 0.126 0.463 0.165 0.139 0.738 0.222 0.128 0.684 
+MANUF_VA 
+0.051 0.028 0.036 0.047 0.036 0.024 0.040 0.039 0.024 
+0.045 0.270 0.165 0.059 0.150 0.339 0.097 0.121 0.332 
+COM_BALANCE 
+-0.015 0.010 0.007 -0.023 0.011 -0.001 -0.018 0.013 0.003 
+0.210 0.352 0.584 0.050 0.336 0.941 0.120 0.240 0.826 
+CORREL_GDPC_REG 
+-0.321 -1.134 -0.483 -0.195 -1.010 -0.401 -0.316 -1.052 -0.477 
+0.596 0.076 0.437 0.749 0.111 0.522 0.602 0.095 0.443 
+CORREL_GDPC_W 
+10.334 10.972 10.762 10.236 10.780 10.864 10.475 10.759 10.927 
+0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+C 
+-2.072 -4.675 -3.854 -0.450 -4.725 -2.226 -0.613 -4.379 -1.964 
+0.018 0.000 0.000 0.530 0.000 0.001 0.406 0.000 0.007 
+Adjusted R-Squared 0.513 0.495 0.487 0.513 0.495 0.485 0.512 0.496 0.485 
+F-Statistic 115.36 107.50 104.11 115.38 107.43 103.16 114.79 107.84 103.46 
+Source: own estimations based on data from World Bank  
+ 
+To avoid possible biases in the outputs, the consequently step recommended in the panel data 
+analysis is to test the estimators for the fixed effects (omitted factors that are constant over time but 
+are changing over the countries) and the random effects (omitted factors that are constant over 
+countries but are changing overtime). We used the Hausman Random Effects test for testing cross-
+section and period random effects and the Redundant Fixed Effects test for cross-section and period 
+fixed effects. The results of the Hausman tests and the Redundant Fixed Effects tests for all restricted 
+models for Panel 1 (dependent variable is GDP gap) are summarized in Table 4 and for Panel 2 
+(dependent variable is GDP per capita gap) are summarized in Table 5 (Chi-statistic values and p-
+values). 
+According to the results of these tests, we noticed that the cross-section random effects are 
+present in all restricted models, both panels, but period random effects are not present. The fixed 
+effects are present for all restricted models, both panels, cross-section, and period too. Therefore, 
+these results recommend using cross-section random effects and period fixed effects to fit the 
+estimators of the models. 
+In the final step of our analysis, we estimated again the outputs of the restricted models for 
+both panels by introducing the conditions of cross-section random effects and period fixed effects in 
+the regressions (a method used is Panel EGLS). We summarized the final fitted estimators for Panel 
+1 (dependent variable GDP gap) in Table 6 and for Panel 2 (dependent variable GDP per capita gap) 
+in Table 7. As a general remark, the statistical significance was improved for all coefficients, all 
+ISSN 2520-6303  Economics, Management and Sustainability, 6(2), 2021 
+ 
+‹ 40 › 
+ 
+restricted models, both panels by introducing the cross-section random effects and period fixed 
+effects restrictions.  
+ 
+Table 4: Redundant Fixed Effects Tests & Hausman Random Effects Tests – Panel 1 
+(dependent variable GDP gap) 
+Panel 1: ---> GDP 
+Growth GAP 
+Redundant Fixed Effects Test Hausman Random Effects Test 
+Cross section fixed 
+effects Period fixed effects 
+Cross section 
+random effects 
+Period random 
+effects 
+Chi-stat. Prob. Chi-stat. Prob. Chi-stat. Prob. Chi-stat. Prob. 
+Restricted model 1 2162.459 0.000 38.327 0.000 121.051 0.000 10.192 0.252 
+Restricted model 2 2265.361 0.000 63.013 0.000 176.829 0.000 10.586 0.226 
+Restricted model 3 2274.841 0.000 58.562 0.000 149.970 0.000 11.049 0.199 
+Restricted model 4 2176.916 0.000 24.150 0.004 134.344 0.000 10.437 0.236 
+Restricted model 5 2278.090 0.000 34.779 0.000 192.101 0.000 10.881 0.209 
+Restricted model 6 2307.2369 0.000 41.019 0.000 155.487 0.000 11.322 0.184 
+Restricted model 7 2179.492 0.000 26.788 0.002 130.660 0.000 10.470 0.234 
+Restricted model 8 2264.214 0.000 39.767 0.000 189.135 0.000 10.911 0.207 
+Restricted model 9 2293.083 0.000 46.621 0.000 155.137 0.000 11.150 0.193 
+Source: own estimations based on data from World Bank  
+ 
+Table 5: Redundant Fixed Effects Tests & Hausman Random Effects Tests – Panel 2 
+(dependent variable GDP per capita gap) 
+Panel 2: ---> GDP 
+per capita growth 
+GAP 
+Redundant Fixed Effects Test Hausman Random Effects Test 
+Cross-section fixed 
+effects Period fixed effects 
+Cross-section 
+random effects 
+Period random 
+effects 
+Chi-stat. Prob. Chi-stat. Prob. Chi-stat. Prob. Chi-stat. Prob. 
+Restricted model 1 2175.306 0.000 37.981 0.000 110.938 0.000 10.036 0.263 
+Restricted model 2 2273.074 0.000 61.878 0.000 167.536 0.000 10.361 0.241 
+Restricted model 3 2287.030 0.000 57.602 0.000 140.421 0.000 10.884 0.208 
+Restricted model 4 2190.048 0.000 23.635 0.005 123.336 0.000 10.104 0.258 
+Restricted model 5 2285.155 0.000 33.025 0.000 180.835 0.000 10.487 0.233 
+Restricted model 6 2321.7871 0.000 39.261 0.000 146.825 0.000 10.916 0.207 
+Restricted model 7 2185.429 0.000 26.918 0.001 120.055 0.000 10.148 0.255 
+Restricted model 8 2264.863 0.000 39.084 0.000 176.925 0.000 10.626 0.224 
+Restricted model 9 2300.885 0.000 46.258 0.000 146.116 0.000 10.967 0.204 
+Source: own estimations based on data from World Bank 
+ 
+Table 6: Fitted estimators with random effects / fixed effects – Panel 1 (dependent variable 
+GDP gap) 
+Explanatory 
+variable: 
+Fitted Estimators - Restricted models - Panel 1 
+--> GDP_GAP 
+CLAIMS_GOV 
+-0.030   -0.036   -0.032   
+0.025   0.000   0.000   
+EXPEND_GOV  
+-0.119   -0.097   -0.094  
+ 0.000   0.000   0.000  
+DEFICIT_GOV   
+0.126   0.113   0.129 
+  0.000   0.000   0.000 
+REVEN_GOV 
+0.086 0.143 0.041       
+0.008 0.000 0.106       
+TIMETAX    
+0.005 0.005 0.007    
+   0.000 0.000 0.000    
+CONTRIB_RA
+TE 
+      0.019 0.020 0.016 
+      0.001 0.000 0.003 
+RURAL_POP 
+-0.020 -0.037 -0.024 -0.004 -0.046 -0.024 -0.023 -0.038 -0.024 
+0.096 0.045 0.191 0.984 0.013 0.191 0.204 0.041 0.185 
+FIXEDCAP 
+0.061 0.045 0.066 0.055 0.055 0.066 0.068 0.060 0.070 
+0.034 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+MANUF_VA 
+0.071 0.032 0.036 0.057 -0.005 0.036 0.053 0.009 0.028 
+0.018 0.253 0.191 0.040 0.863 0.191 0.055 0.742 0.295 
+COM_BALAN
+CE 
+0.032 0.019 0.010 0.029 0.020 0.010 0.029 0.019 0.008 
+0.130 0.056 0.334 0.003 0.038 0.334 0.003 0.053 0.410 
+CORREL_GDP
+_REG 
+-0.675 -0.653 -0.523 -0.759 -0.706 -0.523 -0.821 -0.821 -0.649 
+0.300 0.040 0.101 0.022 0.025 0.101 0.014 0.011 0.042 
+CORREL_GDP
+_W 
+1.384 1.459 1.273 1.524 1.418 1.273 1.574 1.637 1.409 
+0.105 0.001 0.003 0.000 0.001 0.003 0.000 0.000 0.001 
+C 
+1.369 4.813 2.574 1.467 6.540 2.574 2.358 5.907 2.666 
+0.135 0.000 0.010 0.089 0.000 0.010 0.007 0.000 0.002 
+Adjusted R-
+Squared 0.144 0.176 0.197 0.108 0.163 0.197 0.144 0.160 0.203 
+F-Statistic 9.611 11.946 13.571 14.199 10.991 13.571 9.582 10.745 14.024 
+Random 
+Effects 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Fixed Effects Period Period Period Period Period Period Period Period Period 
+Source: own estimations based on data from World Bank 
+ISSN 2520-6303  Economics, Management and Sustainability, 6(2), 2021 
+ 
+‹ 41 › 
+ 
+For Panel 1 (GDP gap as dependent variable) we obtained a negative and statistically relevant 
+influence on the GDP gap for the following explanatory variables: CLAIMS_GOV, EXPEND_GOV, 
+RURAL_POP, and CORREL_GDP_REG. A positive and statistically relevant influence on the GDP gap was 
+obtained for the following variables: DEFICIT_GOV, REVENUE_GOV, TIMETAX, CONTRIB_RATE, 
+FIXEDCAP, COM_BALANCE, CORREL_GDP_W, and intercept. We did not notice statistical relevance 
+for MANUF_VA (positive impact). F-statistic values confirmed that all restricted models are 
+statistically significant. 
+The fitted estimators with cross-section random effects and period fixed effects summarized 
+in Table 7 confirmed a negative and statistical relevant influence on the GDP per capita gap for the 
+following explanatory variables: CLAIMS_GOV, EXPEND_GOV, RURAL_POP, and CORREL_GDPC_REG 
+and a positive and statistical relevant influence on the GDP per capita gap for the following 
+explanatory variables: DEFICIT_GOV, REVEN_GOV, FIXEDCAP, MANUF_VA, COM_BALANCE, 
+CORREL_GDPC_W, and intercept. In this case, all explanatory variables are highly statistically 
+significant. F-statistic indicates a statistically significance for all fitted restricted models.  
+Moreover, we can observe that the results are similar between the considered two panels 
+(GDP gap and GDP per capita gap), the same negative and positive influences being finally indicated 
+by both of them, with no exceptions. This confirms the robustness of our findings too.  
+ 
+Table 7: Fitted estimators with random effects / fixed effects – Panel 2 (dependent variable 
+GDP per capita gap) 
+Explanatory 
+variable: 
+Fitted Estimators - Restricted models - Panel 2 
+--> GDP_CAP_GAP 
+CLAIMS_GOV 
+-0.037   -0.036   -0.039   
+0.000   0.000   0.000   
+EXPEND_GOV  
+-0.110   -0.088   -0.085  
+ 0.000   0.000   0.000  
+DEFICIT_GOV   
+0.100   0.109   0.124 
+  0.000   0.000   0.000 
+REVEN_GOV 
+0.092 0.148 0.022       
+0.000 0.000 0.375       
+TIMETAX    
+0.003 0.003 0.006    
+   0.003 0.000 0.000    
+CONTRIB_RA
+TE 
+      0.015 0.016 0.013 
+      0.007 0.003 0.017 
+RURAL_POP 
+-0.017 -0.032 0.037 -0.026 -0.041 0.037 -0.021 -0.034 -0.022 
+0.352 0.081 0.029 0.142 0.026 0.029 0.238 0.070 0.229 
+FIXEDCAP 
+0.046 0.033 0.046 0.050 0.043 0.046 0.053 0.049 0.057 
+0.000 0.006 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+MANUF_VA 
+0.101 0.063 0.087 0.071 0.026 0.087 0.081 0.040 0.055 
+0.000 0.023 0.002 0.009 0.342 0.002 0.003 0.148 0.040 
+COM_BALAN
+CE 
+0.026 0.014 0.004 0.024 0.016 0.004 0.023 0.015 0.003 
+0.008 0.133 0.671 0.011 0.099 0.671 0.018 0.131 0.743 
+CORREL_GDP
+_REG 
+-0.874 -0.919 -0.855 -0.919 -0.994 -0.855 -1.002 -1.089 -0.911 
+0.007 0.003 0.007 0.004 0.001 0.007 0.002 0.001 0.003 
+CORREL_GDP
+_W 
+1.949 1.925 2.133 1.959 1.914 2.133 2.115 2.108 1.849 
+0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+C 
+0.990 4.098 0.152 2.641 5.895 0.152 2.288 5.420 2.593 
+0.319 0.000 0.883 0.002 0.000 0.883 0.008 0.000 0.003 
+Adjusted R-
+Squared 0.154 0.174 0.113 0.150 0.159 0.113 0.149 0.152 0.196 
+F-Statistic 10.322 11.767 14.888 10.005 10.654 14.888 9.926 10.140 13.47 
+Random 
+Effects 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Cross-
+section 
+Fixed Effects Period Period Period Period Period Period Period Period Period 
+Source: own estimations based on data from World Bank  
+ 
+Based on these results, we can conclude that the economic resilience and recovery, proxied by 
+GDP gap and GDP per capita gap, are consistent positively influenced by lower claims of the 
+government, lower public expenditures, lower rural population (higher development rate), lower 
+correlation with the region (neighboring countries, generally having similar problems), higher fiscal 
+revenues for the government, higher investments in the economy, higher commercial balance, higher 
+value added by the manufacturing sector and higher correlation with the global markets. These 
+findings are consistent with the theoretical background too.  
+A separate discussion could be started in the case of the following identified influences on the 
+GDP gap and GDP per capita gap: the time spent to pay taxes that seems to increase the economic 
+resilience and recovery and the contribution rate that is positively influencing the economic 
+resilience and recovery. Further research may explore a deeper additional investigation in the case 
+of public deficit that seems to help de economic recovery and resilience. We consider these findings 
+ISSN 2520-6303  Economics, Management and Sustainability, 6(2), 2021 
+ 
+‹ 42 › 
+ 
+as inconsistent with the economic theory and practice. They require a deeper investigation in further 
+studies. 
+5. Conclusion 
+This research discusses a key issue in the economic theory and practice derived from the 
+business cycle topic: economic resilience and recovery. In modern economies, the volatility of 
+business cycles significantly increased, doubled by a significant time reduction between two 
+consecutive cycles (boom and bust). In this context, the way in which a country can correct the 
+negative impact of economic recessions becomes very important. The public policies addressed to 
+structural macroeconomic problems should take into consideration the unique context of each 
+country and should avoid being pro-cyclical. The way in which we analyze and measure the economic 
+resilience and recovery, the factors we are taking as relevant for this issue and the solutions that 
+could improve the response to these structural problems are highly debated now. 
+Our study used real GDP growth rate and GDP per capita growth rate to estimate economic 
+growth and development. 2009 was considered reference year for after crisis economic recovery. We 
+calculated the GDP gap and GDP per capita GAP for the period of 2010 – 2019 in reference to that 
+particular year. These 2009 gaps for GDP and GDP per capita are used as proxies for economic 
+recovery and resilience. The empirical research applied on a panel of 87 countries covering ten years 
+confirmed that the economic recovery and resilience after crisis is influenced by lower public debt, 
+lower public expenditures, higher investments, higher value-added by the private sector, lower 
+external trade deficits, higher integration in the global economy and lower integration in the region. 
+The findings are inconsistent in the case of time spent to pay taxes, contribution rate, and public 
+deficit, requiring a closer and deeper investigation in further studies on the subject. The findings are 
+consistent, robust, and statistically significant. 
+Our study is relevant for the problem of economic recovery and resilience after the crisis, 
+providing a helpful insight on the possible determinants of the capacity of a nation to properly 
+manage the consequences of recessions. The study offers a consistent perspective on the role of the 
+public sector and public policies to improve the resilience capacity. Understanding of these 
+explanatory factors studied by our research is useful for anti-cyclical public policies that can boost 
+the recovery after each crisis. Any public policy that boosts the investments, tempers the public debt, 
+boosts the exports, opens the economy, keeps under control the public expenditures and stimulates 
+the increase of value added by introducing new stages of production makes countries to be more 
+resilient. 
+This study is limited by using GDP and GDP per capita as proxies for economic growth and 
+development. The limitations of GDP in this respect are already recognized in the economic 
+literature. Some indicators such as public deficit, time spent to pay taxes and contribution rate 
+require a deeper investigation because of their theoretical inconsistences. Further developments of 
+our research will consider all these limitations and inconsistences. 
+Funding 
+The author(s) received no financial support for the research, authorship, and/or publication 
+of this article. 
+Declaration of conflicting interests 
+The author(s) declared no potential conflicts of interest with respect to the research, 
+authorship, and/or publication of this article. 
+Citation information 
+Paun, C.-V., Musetescu, R.-C., Isaic, R., Manea G. C., & Shayb H.-A. (2021). Economic resilience 
+and the state: A global panel analysis. Economics, Management and Sustainability, 6(2), 34-45. 
+doi:10.14254/jems.2021.6-2.3 
+ 
+ISSN 2520-6303  Economics, Management and Sustainability, 6(2), 2021 
+ 
+‹ 43 › 
+ 
+Reference 
+Acemoglu, D., Johnson, S., Robinson. I., & Thaicharoen, Y. (2004). Institutional causes. Macroeconomic 
+simptoms: Volatility, crises and growth. Journal of Monetary Economics, 50(1), 49-123. 
+Aligica, P. D., & Tarko, V. (2014). Institutional resilience and economic systems: lessons from Elinor 
+Ostrom’s work. Comparative Economic Studies, 56(1), 52-76. 
+Bruneckiene, J., Pekarskiene, I., Palekiene, O., & Simanaviciene, Z. (2019). An assessment of socio-
+economic systems’ resilience to economic shocks: The case of Lithuanian 
+regions. Sustainability, 11(3), 566-589. 
+De Soto, J. H. (2006). Money, bank credit, and economic cycles. Ludwig von Mises Institute. 
+Di Pietro, F., Lecca, P., & Salotti, S. (2021). Regional economic resilience in the European Union: a 
+numerical general equilibrium analysis. Spatial Economic Analysis, 16(3), 287-312. 
+Duval, R., & Vogel, L. (2008). Economic resilience to shocks: The role of structural policies. OECD 
+Journal: Economic Studies, 2008(1), 1-38. 
+Pendall, R., Foster, K. A., & Cowell, M. (2010). Resilience and regions: building understanding of the 
+metaphor. Cambridge Journal of Regions, Economy and Society, 3(1), 71-84. 
+Pretorius, O., Drewes, E., van Aswegen, M., & Malan, G. (2021). A Policy Approach towards Achieving 
+Regional Economic Resilience in Developing Countries: Evidence from the 
+SADC. Sustainability, 13(5), 2674-2695. 
+Régibeau, P., & Rockett, K. (2013). Economic analysis of resilience: A framework for local policy 
+response based on new case studies. Journal of Innovation Economics Management, (1), 107-
+147. 
+Rose, A. (2004). Defining and measuring economic resilience to disasters. Disaster Prevention and 
+Management: An International Journal, 13(4), 307-314. 
+Rothbard, M. N. (2000). America’s Great Depression (Auburn. Ala: Ludwig von Mises Institute. 
+von Mises, L. (1951). Socialism: An Economic and Sociological Analysis (p. 600). Macmillan Company. 
+von Mises, L. (1953). The theory of money and credit (p. 462). New Haven: Yale University Press. 
+ 
+  
+ISSN 2520-6303  Economics, Management and Sustainability, 6(2), 2021 
+ 
+‹ 44 › 
+ 
+Appendix 1: Descriptive statistics (all variables) 
+  
+GDP_GAP 
+GDP_CAP_
+GAP 
+CLAIMS_
+GOV 
+EXPEND_G
+OV 
+DEFICIT_GOV 
+REVEN_G
+OV 
+TIMETAX RURAL_POP 
+ Mean 4.617647 4.674069 8.565341 27.84955 -1.81611 18.13915 216.847 36.10472 
+ Median 4.578004 4.609141 7.283406 27.24283 -1.98908 17.44946 201.000 33.40000 
+ 
+Maximu
+m 19.49237 20.02097 99.13157 62.25467 36.41069 38.08376 798.000 83.23200 
+ 
+Minimu
+m -14.2155 -13.2343 -54.753 4.973677 -32.0541 4.098501 50.000 1.95900 
+ Std. Dev. 5.118203 5.136073 15.3018 10.70562 3.818241 5.999487 103.4202 19.31154 
+ 
+Skewnes
+s 0.039222 0.029898 1.216317 0.184878 1.108226 0.400314 1.425522 0.382131 
+ Kurtosis 4.411487 4.627412 9.598617 2.145407 20.94047 2.734094 6.545427 2.462841 
+ Jarque-
+Bera 72.44376 96.13667 1792.905 31.43048 11845.52 25.79947 750.3207 31.63301 
+         
+  
+CONTRIB_R
+ATE 
+FIXEDCAP 
+MANUF_
+VA 
+COM_BALA
+NCE 
+CORR
+E 
+GDP_R
+EG 
+CORREL 
+_GDP_W 
+CORREL_GDPC
+_REG 
+CORREL_GDP
+C_W 
+ Mean 39.78356 23.25765 13.34152 -3.39623 0.586808 0.574349 0.5875 0.576835 
+ Median 39.35000 22.072 12.64328 -1.18423 0.697715 0.690111 0.699833 0.687065 
+ 
+Maximu
+m 203.8000 81.05174 34.86428 36.01476 0.997908 0.979643 0.998123 0.978238 
+ 
+Minimu
+m 7.40000 6.349849 2.127626 -66.6167 -0.74284 -0.81907 -0.76556 -0.56703 
+ Std. Dev. 15.03988 7.189535 5.443009 13.21422 0.358342 0.350978 0.361694 0.346022 
+ 
+Skewnes
+s 2.146107 2.880315 0.600643 -0.70161 -1.22475 -1.25123 -1.31967 -1.268 
+ Kurtosis 20.04797 18.70272 3.527058 5.695423 4.080398 3.970962 4.394819 3.930172 
+ Jarque-
+Bera 11203.3 10141.31 62.38179 334.7439 259.8135 261.1825 323.046 264.4973 
+Source: own estimations based on World Bank’s data 
+ 
+Appendix 2: Unit Root tests (all variables) 
+Unit root test: 
+GDP_GAP GDP_CAP_GAP CLAIMS_GOV EXPEND_GOV DEFICIT_GOV REVEN_GOV 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c Statistic 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Levin, Lin & Chu t* -5.021 0.000 -5.002 0.000 -1.557 0.000 -1.880 0.000 -2.487 0.000 -1.642 0.000 
+Im, Pesaran and Shin 
+W-stat  
+-1.528 0.000 -1.514 0.000 0.000 0.208 -2.453 0.007 -4.106 0.000 -1.759 0.039 
+ADF - Fisher Chi-
+square 
+645.65
+8 
+0.000 625.83
+5 
+0.000 223.527 0.007 275.65
+2 
+0.000 322.863 0.000 252.23
+6 
+0.000 
+PP - Fisher Chi-
+square 
+675.20
+8 
+0.000 673.09
+3 
+0.000 254.617 0.000 362.76
+9 
+0.000 439.227 0.000 340.05
+4 
+0.000 
+Stationary: Yes Yes Yes Yes Yes Yes 
+Unit root test: 
+TIMETAX CONTRIB RURAL_POP FIXED_CAP MANUF_VA COM_BALANCE 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c Statistic 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Levin, Lin & Chu t* 
+-3.486 0.000 -9.437 0.000 -1.785 0.0371 -17.429 0.000 -
+16.4011 
+0.0000 -15.088 0.000 
+Im, Pesaran and Shin 
+W-stat  
+-5.466 0.000 -7.570 0.000 -0.399 0.3451 -1.815 0.035 -1.0764 0.1409 -1.442 0.075 
+ADF - Fisher Chi-
+square 
+265.99
+4 
+0.000 239.98
+2 
+0.001 297.537 0.0000 0.000 0.000 231.083
+0 
+0.0025 242.19
+3 
+0.001 
+PP - Fisher Chi-
+square 
+261.56
+6 
+0.000 288.22
+9 
+0.000 482.076 0.0000 284.62
+0 
+0.000 249.981
+0 
+0.0001 292.48
+3 
+0.000 
+Stationary: Yes Yes Yes Yes Yes Yes 
+Unit root test: 
+CORREL_GDP_R
+EG CORREL_GDP_W 
+CORREL_GDP
+C_REG 
+CORREL_GDPC_
+W     
+Statisti
+c 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c Statistic 
+Statisti
+c 
+Statisti
+c 
+Statisti
+c     
+Levin, Lin & Chu t* -1.449 0.000 -1.535 0.000 -1.410 0.000 -1.688 0.000     
+Im, Pesaran and Shin 
+W-stat  
+-1.353 0.088 0.000 0.190 -1.441 0.075 0.000 0.183 
+    
+ADF - Fisher Chi-
+square 
+240.36
+4 
+0.001 222.57
+4 
+0.008 246.081 0.000 217.37
+4 
+0.014 
+    
+PP - Fisher Chi-
+square 
+256.84
+0 
+0.000 227.50
+4 
+0.004 280.185 0.000 198.34
+9 
+0.100 
+    
+Stationary: Yes Yes Yes Yes     
+Source: own estimations based on World Bank’s data 
+  
+ISSN 2520-6303  Economics, Management and Sustainability, 6(2), 2021 
+ 
+‹ 45 › 
+ 
+Appendix 3: Kao Residual Cointegration Tests 
+Panel 1 Kao Residual Cointegration Test (GDP growth rate) ADF Test 
+Series: GDP_CAP_GAP CORREL_GDP_REG CORREL_GDP_W t-Statistic Prob. Res. var. HAC var. 
+CLAIMS_GOV EXPEND_GOV DEFICIT_GOV REVEN_GOV 
+-8.34182 0.000 0.678174 0.79934 TIMETAX CONTRIB_RATE RURAL_POP FIXEDCAP MANUF_VA 
+COM_BALANCE 
+Cointegration Yes 
+Panel 2 Kao Residual Cointegration Test (GDP per capita growth rate) ADF Test 
+Series: GDP_CAP_GAP CORREL_GDPC_REG CORREL_GDPC_W t-Statistic Prob. Res. var. HAC var. 
+CLAIMS_GOV EXPEND_GOV DEFICIT_GOV REVEN_GOV 
+-8.25462 0.000 0.664451 0.77302 TIMETAX CONTRIB_RATE RURAL_POP FIXEDCAP MANUF_VA 
+COM_BALANCE 
+Cointegration Yes 
+Source: own estimations based on World Bank’s data 
+ 
+Appendix 4: VECM Long-run relationship tests 
+Error Correction Term Coefficient Std. Error t-Statistic Prob. 
+Long-run 
+determination 
+VECM Panel 1 C(1) -0.001742 0.000378 -4.604374 0.000000 Yes 
+VECM Panel 2 C(1) -0.003847 0.000634 -6.070577 0.000000 Yes 
+Source: own estimations based on World Bank’s data 
+ 
+Appendix 5: The Wald tests‘ results (based on VECM outputs) 
+Wald Test Panel 1 Value Chi-square Probability Short-run determination 
+CLAIMS_GOV 1.635982 0.4413 No 
+EXPEND_GOV 2.065067 0.3561 No 
+DEFICIT_GOV 8.492948 0.0143 Yes* 
+REVEN_GOV 0.431837 0.8058 No 
+TIMETAX 9.215266 0.0100 Yes* 
+CONTRIB_RATE 327.6846 0.0000 Yes* 
+RURAL_POP 6.040882 0.0488 Yes* 
+FIXEDCAP 2.935752 0.2304 No 
+MANUF_VA 17.37547 0.0002 Yes* 
+COM_BALANCE 0.554495 0.7579 No 
+CORREL_GDP_REG 2.605624 0.2718 No 
+CORREL_GDP_W 4.689165 0.0959 Yes** 
+Source: own estimations based on World Bank’s data 
+ 
+Wald Test Panel 2 Value Chi-square Probability Short term determination 
+CLAIMS_GOV 1.245408 0.5365 No 
+EXPEND_GOV 2.766747 0.2507 No 
+DEFICIT_GOV 6.191768 0.0452 Yes* 
+REVEN_GOV 0.337472 0.8447 No 
+TIMETAX 6.965529 0.0307 Yes* 
+CONTRIB_RATE 333.8392 0.0000 Yes* 
+RURAL_POP 7.366304 0.0251 Yes* 
+FIXEDCAP 2.532836 0.2818 No 
+MANUF_VA 16.29751 0.0003 Yes* 
+COM_BALANCE 0.318446 0.8528 No 
+CORREL_GDP_REG 1.566036 0.4570 No 
+CORREL_GDP_W 2.667545 0.2635 No 
+Source: own estimations based on World Bank’s data 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2016-2021, Economics, Management and Sustainability. All rights reserved. 
+This open access article is distributed under a Creative Commons Attribution (CC-BY) 4.0 license. 
+You are free to: 
+Share – copy and redistribute the material in any medium or format Adapt – remix, transform, and build upon the material for any 
+purpose, even commercially. 
+The licensor cannot revoke these freedoms as long as you follow the license terms. 
+Under the following terms: 
+Attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
+You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
+No additional restrictions 
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. 
+ 
+ 
+Economics, Management and Sustainability (ISSN: 2520-6303) is published by Scientific Publishing House “CSR”, 
+Poland, EU and Scientific Publishing House “SciView”, Poland 
+Publishing with JEMS ensures: 
+• Immediate, universal access to your article on publication 
+• High visibility and discoverability via the JEMS website 
+• Rapid publication 
+• Guaranteed legacy preservation of your article 
+• Discounts and waivers for authors in developing regions 
+Submit your manuscript to a JEMS at http://jems.sciview.net or submit.jems@sciview.net 
+ 
+ 
+ 

@@ -1,0 +1,416 @@
+Evaluation of Economic Damages on Rice Production under Extreme Climate and Agricultural Insurance for Adaptation Measures in Northeast Thailand
+
+This article is based on the presentation at THA 2019 International Conference on Water Management and Climate Change toward Asia's Water-
+Energy-Food Nexus and SDGs in Bangkok, Thailand, 23rd-25th January 2019. 
+ 
+ 
+ 
+Article 
+ 
+Evaluation of Economic Damages on Rice 
+Production under Extreme Climate and Agricultural 
+Insurance for Adaptation Measures in Northeast 
+Thailand 
+ 
+Koshi Yoshida1,a, Mallika Srisutham2,b,*, Supranee Sritumboon3, Desell Suanburi4, 
+Naruekamon Janjirauttikul3, and Weerakaset Suanpaga4 
+ 
+1 Ibaraki University, 3-21-1 Chuo Ami-machi, Ibaraki 300-0393, Japan 
+2 Khon Kaen University, 123 Moo 16 Mittapap Rd., Nai-Muang, Muang District, Khon Kaen 40002, 
+Thailand 
+3 Land Development Department, Thailand, 2003, 61 Phahonyothin Rd, Khwaeng Lat Yao, Khet 
+Chatuchak, Bangkok 10900, Thailand 
+4 Kasetsart University, 50 Thanon Ngam Wong Wan, Khwaeng Lat Yao, Khet Chatuchak, Bangkok 10900, 
+Thailand 
+E-mail: akoshi.yoshida.agri@vc.ibaraki.ac.jp, bmallikakku@gmail.com (Corresponding author) 
+ 
+Abstract. In northeast Thailand, the irrigated agricultural land was only 7.6% (in 2012) of 
+total and others were classified as rain-fed so that climate change makes agricultural 
+production unstable and also makes negative impact to the societies and economics in 
+rural area. To mitigate these issues, it is desirable to develop enhanced adaptation measures. 
+In this study, we focused on weather induced economic damages and effectiveness of 
+index-based insurance system in Northeast Thailand. Firstly, we evaluated how affect the 
+seasonal rainfall amount and patterns on rice yield and production through regression 
+analysis by using the meteorological and agricultural statistic data. 8 province had positive 
+correlation R>0.3 with Jul-Sep accumulated rainfall. And then, probability analysis was 
+applied to monthly rainfall which was employed for insurance index value. As a result, 
+setting amount and periods of insurance index was suitable. Secondly, household survey 
+was conducted to investigate farmers’ conditions of water use, cultivation, income balance. 
+In recent year, agricultural damage on farmers’ income was not so large (less than 3%), 
+because 65% of farmers’ income relied on non-agricultural sector. That might be the one 
+reason of constraints of insurance sales. 
+ 
+Keywords: Agricultural damage, household survey, risk assessment, climate change 
+adaptation. 
+ 
+ENGINEERING JOURNAL Volume 23 Issue 6 
+Received 29 March 2019 
+Accepted 25 July 2019 
+Published 30 November 
+Online at http://www.engj.org/ 
+DOI:10.4186/ej.2019.23.6.451 
+DOI:10.4186/ej.2019.23.6.451 
+452 ENGINEERING JOURNAL Volume 23 Issue 6, ISSN 0125-8281 (http://www.engj.org/) 
+1. Introduction 
+ 
+Agricultural water use became more competitive by increased pressure from urbanization, industrialization, 
+and climate change could affect to water supply and agriculture through changes in the seasonal timing and 
+amount of rainfall, as well as severe floods and prolonged droughts. Approximately, 70% of the global 
+water withdrawal and 85% of consumptive water use is directed toward irrigation. Therefore, information 
+on the water use of agricultural sector is highly relevant in assessing the possible impact of changes in 
+climate and socio-economic factors on regional water and food supply. Since it is necessary to provide large 
+amounts of water to paddy fields compared with other upland crops, water harvesting and management in 
+paddy fields is especially important for efficient water use and for regional water cycle in Thailand. 
+Recently, climate change has caused water shortage or severe natural disasters. The weather induced 
+losses and damage in the agricultural sector will leads the decline of global agricultural production, causing 
+insecurity of food. For Thailand, climate change has a direct effect on the export of food and agricultural 
+products, which is one of the main income sources of the country. For example, Thailand had experienced 
+severe flood in 2011: one of the worst floods in historical record. In 2015, Thailand had severe drought, 
+leading to critical low levels of water allocation in whole country. Furthermore, agriculture provide the main 
+income basis of farmers. Thus, climate change has a huge impact on individual farmers and has aggravated 
+the problem of poverty (The Eleventh National Economic and Social Development Plan, 2012 [1]). 
+In previous study, the relation between crop production and weather condition was evaluated. Shiraiwa 
+et al. (2002) [2] estimated the regression between rice production and accumulated monthly rainfall by using 
+20 years statistical data in Thailand. Rice production was strongly related with planted area rather than rice 
+yield for wet season rice in Northeast Thailand. Because rainfall amount in the beginning of wet season 
+significantly affect to planted area. On the other hand, rice yield was not so sensitive to rainfall amount, 
+because most farmers had additional water source such as shallow ground water or small ponds in 
+emergency case. Suzuki et al. (2014) [3] evaluated the relation between maize and weather condition in 
+North Thailand and mentioned that maize was more sensitive to climate condition than rice. Yoshida et al. 
+(2018) [4] evaluated that agricultural economic loss of sugarcane and cassava. Sugarcane yield had positive 
+regression with rainfall in wet season, however cassava had negative regression because cassava was root 
+vegetable. And mix farming was recommended to stabilize the farmers’ income from their agricultural land.  
+Agricultural insurance protects economic loss or damage under extreme climate condition. It has great 
+potential to provide value to low-income farmers and their communities, both by supporting farmers when 
+severe income loss occurs and by encouraging greater investment in cropping system. However, in practice 
+its effectiveness has often been constrained by the data availability. More commonly, agricultural 
+microinsurance is index-based, providing farmers with guarantee depend on the performance of an index, 
+rather than compensate them for economic losses actually occurred. While index -based system avoid the 
+needs for cost verification of damage, it has a disadvantage in the form of “basis risk”, the difference 
+between the performance of the index and the damage which farmers actually suffered. In some cases, this 
+“basis risk” is quite large, but can be reduced through improvements in the index [5].  
+Northeast Thailand is major agricultural producing area where regional production was more than 50% 
+of wet-season rice in whole Thailand. However, the ratio of irrigated agricultural land was only 7.6% (in 
+2012) and others were rain-fed so sthat agricultural production was sensitive to climate, and climate change 
+makes crucial impact to the societies and economics in rural area. Sompo Japan-Thailand insurance 
+company was selling index-based agricultural insurance in this region, however current selling is around 1 % 
+of farmers only. In this study, we focused on weather-index insurance for climate change adaptation 
+measure. To evaluate the weather index of agricultural insurance, firstly, we evaluated how affect the rainfall 
+amount and patterns on rice production by regression analysis, and probability analysis also applied to 
+estimate the return period of rainfall index. Secondly, agricultural damage and its impact on farmers’ 
+household income was evaluated. 
+ 
+2. Material and Methods 
+ 
+To evaluate the impact of weather-induced economic loss of wet-season rice production in Northeast 
+Thailand, two kinds of analysis were conducted in this study. Firstly, we evaluated how affect the seasonal 
+rainfall amount and patterns on wet-season rice production through regression analysis by using the 
+meteorological and agricultural statistic data. And return periods of rainfall index also estimated by 
+DOI:10.4186/ej.2019.23.6.451 
+ENGINEERING JOURNAL Volume 23 Issue 6, ISSN 0125-8281 (http://www.engj.org/) 453 
+probability analysis. Secondly, household survey was conducted to grasp farmers’ conditions of water use, 
+cultivation, income balance. And then, economic loss by weather induced agricultural damage was 
+estimated and impact on farmers’ household income was evaluated by using the agricultural statistic and 
+crop price data. 
+ 
+2.1. Study Area 
+ 
+In this study, we selected the Northeast region in Thailand for study area. Figure 1 shows the provincial 
+administrative boundary and the location of rainfall gauges in this region. Currently, 20 provinces are 
+located in Northeast Thailand, however 17 provincial area map before 1996 was used in this analysis. 
+Because only 17 provincial data were available in agricultural statistic before 1997. Northeast Thailand 
+covers about 168×103 km2 and coterminous with the Khorat Plateau. The Khorat plateau consists of two 
+plains: one is the southern Khorat plain drained by the Mun and Chi rivers, and another is the northern 
+Sakon Nakhon plain drained by the Loei and Songkhram rivers. The average temperature ranged from 
+19.6 °C to 30.2 °C. Rainfall amount is unstable and concentrated in the rainy season from May to October.  
+ 
+ 
+ 
+Fig. 1. Administrative boundary and rain gauge station map. 
+ 
+ 
+ 
+Fig. 2. Historical change of rice yield and harvested area in NE Thailand. 
+ 
+Annual rainfall fluctuation was 800-1400 mm/year, and this amount was smaller than another region in 
+Thailand. Therefore, agricultural production has been strongly affected by climate. The ratio of irrigated 
+DOI:10.4186/ej.2019.23.6.451 
+454 ENGINEERING JOURNAL Volume 23 Issue 6, ISSN 0125-8281 (http://www.engj.org/) 
+agricultural land was only 7.6 % so that production was sensitive to drought condition. Current production 
+data such as yield, harvested area of wet-season rice were shown in Fig. 2. Rice yield increased gradually 
+caused by variety or farming practice improvement. And harvest area also gradually increased in this region. 
+For weather index insurance, Sompo Japan-Thailand set three thresholds according to the timing and 
+degree of drought, such as “early drought”, “drought” and “severe drought”. The compensation is a fixed 
+percentage of the loan principal between BAAC (Bank for Agriculture and Agricultural Cooperatives) and 
+each farmer, and the percentage is fixed for each threshold in advance. If the monthly rainfall in July is 
+smaller than the threshold value of an “early drought”, 10% of the insurance principle is paid to farmer, 
+and then the contract is terminated afterwards. If monthly rainfall in July is larger than the threshold, then 
+the contract continues until the end of September. When the accumulated rainfall during August to 
+September is smaller than the threshold of “drought” or “severe drought”, 15% or 40% of the insured loan 
+principal is paid respectively. In case of Khon Kaen province, farmers pay 10% of their loan for insurance 
+premium. And weather index was defined as “early drought” means that the sum of rainfall in July is below 
+100 mm. “drought” or “severe drought” means the sum of rainfall from August to September is below 320 
+mm or 220 mm respectively. 
+ 
+2.2. Regression Analysis 
+ 
+In Northeast Thailand, agricultural production had been affected by climate condition, especially extreme 
+drought and flood. Therefore, it is important to evaluate the crop sensitivity to monthly rainfall. In this 
+study, we analyzed the regression between wet-season rice production and monthly rainfall. The data of rice 
+production, yield and harvested area from 1981 to 2013 were available in agricultural statistic published by 
+OAE (Office of Agriculture and Economics in Thailand). And 41 stations data of monthly rainfall from 
+1981 to 2013 also collected from TMD (Thai Meteorological Department) and RID (Royal Irrigation 
+Department). The location of rain gauge station was shown in Fig. 1. 
+Agricultural production can be calculated as following equation by multiplying three contributed 
+components. 
+ 
+        RP  = RY×PA×RHA     (1) 
+ 
+where, RP: rice production, RY: rice yield, PA: planted area, RHA: ratio of harvested area (=harvest area/ 
+planted area).  
+At first, we checked which components was dominant factor to affecting rice production. the data of 
+rice production, yield, planted area, and monthly rainfall were standardized as following manner, and then 
+regression analysis was applied. In this study, pre-5 years average yield value was calculated and only the 
+deviations from pre-5 years average were used for regression analysis to off-set the trend of technological 
+change, such as variety improvement, or fertilizer and pesticide input [2].  
+Among meteorological parameters, rainfall is most important factor which affect rice production 
+significantly. Because air temperature was enough high during all season in Northeast Thailand. In this 
+study, The Standardized Precipitation Index (SPI) was calculated and used for regression analysis. SPI is a 
+normalized index representing the probability of occurrence of an observed rainfall amount when 
+compared with the rainfall at a certain monitoring station over a long-term reference period [6]. 
+ 
+2.3. Probability Analysis 
+ 
+The probability analysis of seasonal rainfall is important to predict the relative frequency of occurrence in 
+different interval of rainfall with reasonable accuracy. The monthly accumulated rainfall data were ranked in 
+descending order and various probabilistic methods were applied to determine the return period. From the 
+Probabilistic methods, Gumbel, Log-normal and Normal distribution methods were used in this study. The 
+rainfall data were arranged into a number of intervals with definite ranges. 
+ 
+2.4. Estimation of Agricultural Economic Loss 
+ 
+Agricultural economic loss was estimated from agricultural statistic and crop price data. One problem is 
+how to definite the normal year condition. Crop yield of rice was gradually increased in Fig. 2 and rice 
+DOI:10.4186/ej.2019.23.6.451 
+ENGINEERING JOURNAL Volume 23 Issue 6, ISSN 0125-8281 (http://www.engj.org/) 455 
+production also had same trend. This might be caused by variety improvement, increasing fertilizer or 
+pesticide input, etc. Such technological aspect should be removed and only the climate aspect should be 
+considered. Therefore, in this study, pre-5 year average rice production was employed as the normal 
+condition, and deviation from pre-5 years average was extracted shown in Fig. 3. Agricultural economic loss 
+was calculated from this deviation part multiplying the crop price as following Eq. (2). 
+ 
+                                            EL = (Pave- RP)×Price     (2) 
+ 
+where, EL: economic loss, Pave: pre-5year average production, RP: rice production, Price: rice price.  When 
+the EL value became less than zero, EL was replaced by zero to extract only damage cost.  
+ 
+ 
+ 
+Fig. 3. Schematic image of economic loss estimation. 
+ 
+2.5. Household Surveying 
+ 
+To grasp the farmers’ behavior under different climate condition, oral interview to the farmers was 
+conducted in 2016 and 2017. We selected three locations in Khon Kaen province, such as i) irrigated area, ii) 
+rainfed upland crop area, iii) rainfed and salt affected soil area. Table1 shows the contents of questionnaire 
+about household structure, water use, cultivation, livestock, non-agricultural job, etc. The total sample is 60 
+households (20 farmers in each location). 
+ 
+Table 1. Contents of questionnaire to farmers. 
+ 
+1. Number of members Relation, age, education, job 
+2. Water use Domestic use (bottle water, tap water, ground water, rain water) 
+Agricultural use (rainfed, surface irrigation, ground water 
+irrigation) 
+Small pond (for irrigation, aquaculture, other use) 
+3.  Agriculture Crop species, planted area, yield, production 
+Crop calendar (seeding/transplanting, fertilizer, pesticide, harvest)  
+Others (land ownership, machine use) 
+4. Livestock Livestock species, quantity, price 
+Purpose of use (agriculture, selling, eat, milk) 
+5. Non-agriculture Kinds of job, permanent/temporally, income 
+Stability and satisfaction 
+6. Others Knowledge of climate change 
+Knowledge or willing to buy agricultural insurance 
+DOI:10.4186/ej.2019.23.6.451 
+456 ENGINEERING JOURNAL Volume 23 Issue 6, ISSN 0125-8281 (http://www.engj.org/) 
+3. Result and Discussion 
+ 
+3.1. Result of Regression Analysis 
+ 
+Regression analysis was applied to Eq. (1) to check which components was dominant factor to affecting 
+rice production. Table 2 showed the partial regression coefficient between rice production and 3 
+contributing components such as rice yield, planted area, ratio of harvested area (=harvest area/ planted 
+area). For wet season rice, planted area was dominant in 13 provinces and rice yield was only in 4 provinces. 
+Farmers might be controlling their planted area depend on the rainfall amount to compensate the yield of 
+rice in wet season. From this result, rice yield was not suitable to applied correlation analysis with monthly 
+rainfall data. Therefore, rice production itself was employed for checking parameter in following correlation 
+analysis. 
+ 
+Table 2. Partial regression coefficient of each components. 
+ 
+ 
+ 
+And then, correlation analysis was applied between standardized rice production and standardized 
+monthly rainfall. In this study, from 1 to 6 month accumulated rainfall was used for analysis. Wet-season 
+rice production had significant positive relationship with three months accumulated rainfall (Table 3). 9 
+provinces had positive correlation R>0.3 with Jun-Aug accumulated rainfall. Rice transplanting normally 
+start from June or July so that rainfall in this season is quite important factor to control the rice planted 
+area. On the other hand, correlation of Oct-Dec rainfall showed negative value in Nakhon Ratchasima, Si 
+Saket and Surin. These provinces are located in Mun river basin having no large-scale dam so that flood 
+may cause the reduction of rice production in these provinces.  Chaiyaphum, Nakon Phanom, Nong Kai, 
+Ubon Ratchthani and Yasothon province didn’t have significant correlation in any season. These provinces 
+has much rainfall compare with other provinces. Therefore, small change of accumulated rainfall may not 
+affect rice production.  
+For weather index, July-Sep rainfall was employed. From Table 3, July-Sep accumulated rainfall also 
+had positive correlation with rice production in 8 provinces, therefore employed weather index period for 
+insurance looked like suitable. According to the Sompo Japan-Thailand, Jun-Aug rainfall was used for their 
+first trial in Khon Kaen province. However, through the discussion with the farmers, index was changed to 
+July-Sep. Recently, farming practice was changed from transplanting to direct seeding due to lack of labor 
+power in Khon Kaen, after that rainfall amount of beginning stage (in June) became not so important for 
+rice cultivation. 
+  
+DOI:10.4186/ej.2019.23.6.451 
+ENGINEERING JOURNAL Volume 23 Issue 6, ISSN 0125-8281 (http://www.engj.org/) 457 
+Table 3. Correlation value between rice production and 3 month accumulated rainfall. 
+ 
+ 
+May-Jul Jun-Aug Jul-Sep Aug-Oct Sep-Nov Oct-Dec 
+Buri Rum 0.30 0.32 0.29 0.13 -0.11 -0.13 
+Chaiyaphum 0.28 0.26 0.13 0.04 -0.14 -0.11 
+Kalasin 0.42 0.49 0.37 0.13 -0.05 -0.05 
+Khon Kaen 0.38 0.53 0.53 0.54 0.45 0.35 
+Loei 0.39 0.45 -0.30 0.08 -0.04 0.48 
+Maha Sarakham 0.15 0.45 0.54 0.42 0.32 0.25 
+Mook Zehnder Hahn 0.05 0.33 0.34 0.22 0.06 -0.25 
+Nakhon Phanom 0.00 -0.12 -0.19 -0.13 -0.07 0.04 
+Nakhon Ratchasima 0.27 0.35 0.33 0.05 -0.15 -0.32 
+Nong Khai 0.02 -0.12 -0.11 -0.24 0.02 -0.15 
+Roi Et 0.36 0.49 0.31 0.09 -0.18 0.07 
+Sakon Nakhon -0.01 0.02 0.17 0.44 0.35 0.17 
+Sisaket 0.05 0.13 0.02 -0.04 -0.29 -0.32 
+Surin 0.38 0.45 0.34 -0.01 -0.49 -0.48 
+Ubonratchathani 0.27 0.24 0.14 0.08 0.12 0.21 
+Udon Thani -0.12 0.26 0.48 0.26 0.17 -0.20 
+Yasothon 0.26 0.06 -0.12 -0.18 -0.21 0.07 
+ 
+3.2. Result of Probability Analysis 
+ 
+From the Probability analysis on the monthly rainfall for Khon Kaen province, it was evident that Normal 
+distribution was insufficient and Gumbel distribution was ascertained as the best fit distribution (Fig. 4). 
+Table 4 showed estimated monthly rainfall in each return period in Khon Kaen province. In Khon Kaen, 
+“early drought” means that the sum of rainfall in July is less than 100 mm and estimated return period is 4 
+years. “drought” or “severe drought” means the sum of rainfall from August to September is less than 320 
+mm or 220 mm, and therefore those return periods was estimated as 5 years and 30 years, respectively. In 
+this case, expected payment per year from insurance was around 5.75％ of farmers’ loan amount, while 
+farmers’ payment for insurance is 10% of loan amount. 
+ 
+ 
+ 
+Fig. 4. Fitting of probability distribution (July, Khon Kaen). 
+  
+DOI:10.4186/ej.2019.23.6.451 
+458 ENGINEERING JOURNAL Volume 23 Issue 6, ISSN 0125-8281 (http://www.engj.org/) 
+Table 4. Estimated monthly rainfall in each return periods. 
+ 
+ 
+ 
+3.3. Result of Agricultural Economic Loss 
+ 
+Agricultural economic loss during 1981-2013 due to drought or flood was estimated. Figure 5 shows 
+estimated economic loss of wet-season rice in each province of Northeast Thailand. Maximum economic 
+loss was estimated around 2,000 million Baht in Udon Thani province in 1988, and in recent year also some 
+province had 600 million Baht economic loss. In 2000, total production value of wet-season rice in each 
+province were ranged from 460 million Baht (Mukdahan) to 4,160 million Baht (Surin) so that 600 million 
+Baht economic loss was enough large in provincial level. 
+ 
+ 
+ 
+Fig. 5. Estimated economic loss of wet-season rice (1981-2013). 
+ 
+3.4. Economic Damage on Farmers Household Income 
+ 
+From the 60 farmers’ interview results, average agricultural land area was 2.59 ha and all farmers had paddy 
+field to produce rice for household. Average household income was about 34×104 Baht /year, consisting of 
+12×104 Baht/year from agriculture and 22×104 Baht/year from non-agriculture. Figure 6 shows farmers 
+agricultural and non-agricultural income change. Figure 6 contains not only questionnaire data but also 
+DOI:10.4186/ej.2019.23.6.451 
+ENGINEERING JOURNAL Volume 23 Issue 6, ISSN 0125-8281 (http://www.engj.org/) 459 
+contain the oral interview data by OAE (in 1983, 1988, 1992, 1996, 1999). Around 35% of total income 
+from agriculture and 65% came from non-agriculture, and the balance of agricultural and non-agricultural 
+income was not change so much. Most of agricultural land was classified as rainfed in this area, so 61% of 
+farmers answered that agricultural income from rice or upland crop cultivation were unstable. 
+ 
+ 
+ 
+Fig. 6. Variation of farmers’ agricultural and non-agricultural income. 
+ 
+By using the interview results, impact of agricultural economic loss on farmers’ household income was 
+estimated. In this calculation, we employed as following assumptions: 1) agricultural land area was 2.59 
+ha/household; 2) the ratio of agri- (35%) and non-agri (65%) income was not change during 1988-2013; 3) 
+total household income can be interpolated by liner increase from data of Fig. 6; 4) agricultural economic 
+loss per ha can be used from the data of Fig. 5.  
+ 
+ 
+ 
+Fig. 7. Impact of agricultural damage on farmers’ income. 
+ 
+Figure 7 shows impact of agricultural economic loss on farmers’ household income in insurance selling 
+province assuming wet-season rice cultivation. Average farmers’ income from paddy rice cultivation 
+increased from 3,947 Baht/year/ha (1981) to 21.564 Baht/year/ha (2013) due to productivity improvement 
+and crop price increase. Before 2000, more than 6 % economic loss was estimated every 3 years in some 
+provinces, however it declined less than 3% in recent year. During 1981-2013, consumer price index 
+became 2.5 times, and farmers’ income became 13 times. Therefore, recent agricultural damage will not 
+DOI:10.4186/ej.2019.23.6.451 
+460 ENGINEERING JOURNAL Volume 23 Issue 6, ISSN 0125-8281 (http://www.engj.org/) 
+make large impact on farmers’ livelihood in this case. On the other hand, full-time farmers had relatively 
+larger impact than part-time farmers. Therefore, full-time farmers are still potential buyer of insurance. 
+ 
+4. Conclusion 
+ 
+In this study, we focused on agricultural economic damages and effectiveness of index-based insurance 
+system in northeast Thailand. Firstly, we evaluated the regression between the seasonal rainfall amount and 
+rice production by using the agricultural statistic from OAE and meteorological data from TMD and RID. 
+Wet-season rice had significant positive relationship with 3 months accumulated rainfall. 8 provinces had 
+positive correlation R>0.3 with Jul-Sep accumulated rainfall which was employed for insurance index. And 
+then, probability analysis was applied to monthly rainfall. In Khon Kaen, “early drought” means that the 
+monthly rainfall in July is less than 100 mm and estimated return period is 4 years. “drought” or “severe 
+drought” means the accumulated rainfall from August to September is less than 320 mm or 220 mm, and 
+those return periods was estimated as 5 years and 30 years, respectively. In this case, expected payment per 
+year from insurance was around 5.75％ of farmers’ loan amount, while farmer pay 10% of their loan. As a 
+result, setting amount and periods of insurance index was suitable.  
+Secondly, household survey was conducted to grasp farmers’ conditions of water use, cultivation, 
+income balance. From the 60 famers interview results, average household income was about 34×104 Baht 
+/year, consisting of 12×104 Baht/year from agriculture and 22×104 Baht/year from non-agriculture. Even 
+in recent year, about 600 million Baht economic loss was estimated in some province. Total production 
+value of wet-season rice in each province were ranged from 460 million Baht (Mukdahan) to 4,160 million 
+Baht (Surin) in 2000 so that 600 million Baht economic loss was enough large in provincial level. However, 
+recent agricultural damage was not so large for part-time farmers, because most part of farmers’ income 
+relied on non-agricultural sector. That might be the one reason of constraints of insurance sales. 
+ 
+Acknowledgement 
+ 
+This research was supported by JST/JICA, SATREPS and the MEXT/JSPS Grant-in-Aid for Scientific 
+Research (KAKENHI) no. 16H05779 and no. 19H03069. 
+ 
+References 
+ 
+[1] National Economic and Social Development Board, The Eleventh National Economic and Social 
+Development Plan. 2012. 
+[2] T. Shiraiwa, H. Nakagawa, T. Horie, I. Matsui, and K. Homma, “Variation of rice production in 
+Thailand and the effect of precipitation fluctuation on production of rice,” (in Japanese), Chikyu 
+Kankyo, AIRIES, vol. 6, no. 2, pp. 207-215, 2002. 
+[3] W. Suzuki, K. Noda, M. Kiguchi, K. Oki, B. Somchai, A. Porrames, Y. Aphantree, and T. Oki, “The 
+effect of precipitation fluctuation on production of rice and maize in north Thailand,” Annual Journal 
+of Hydraulic Engineering, JSCE, vol. 70, no. 4, pp. I_583-I_588, 2014. 
+[4] K. Yoshida, M. Srisutham, S. Sritumboon, D. Suanburi, and N. Janjirauttikul, “Weather-induced 
+economic damage to upland crops and the impact on farmer household income in Northeast 
+Thailand,” Paddy and Water Environment, vol. 17, no. 3, pp. 341–349, 2019. doi:10.1007/s10333-019-
+00729-y 
+[5] T. Sandmark, J. C. Debar, and T. J. Clémence, The Emergence and Development of Agriculture Microinsurance. 
+Luxembourg: Microinsurance Network, 2013 
+[6] M. V. Sergio, B. Santiago, and I. L. Juan, “A multiscalar drought index sensitive to global warming: 
+The standardized precipitation evapotranspiration index,” Journal of Climate, vol. 23, pp. 1696-1718, 
+2010. 
+ 
+ 

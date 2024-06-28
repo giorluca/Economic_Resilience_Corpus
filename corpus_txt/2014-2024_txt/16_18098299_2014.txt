@@ -1,0 +1,984 @@
+Regional resilience in Italy: a very long-run analysis
+
+ Regional Resilience in Italy: A Very Long-run Analysis  
+ 
+by 
+ROBERTO CELLINI a  and GIANPIERO TORRISI b 
+ 
+ a University of Catania, Department of Economics and Business; Catania, Italy; 
+b University of Portsmouth, Economics and Finance, Portsmouth Business School; 
+Portsmouth, U.K. 
+ 
+ 
+ 
+Abstract: Resilience is a concept referring to the manner in which systems react to, and 
+recover from, shocks. According to several recent analyses, ‘resilience’ can explain 
+different regional economic performances. However, this study indicates that this 
+explanation is quite unconvincing when applied to the Italian regions in the very long 
+run (1890-2009). Only few shocks emerge to have specific impact effects differing 
+across regions, while the recovery experience is ever spatially homogeneous. Hence, it 
+is difficult to discern genuine differences in regional resilience. This evidence can be 
+interpreted as a reason why the regional differences in Italy are huge and persistent. 
+ 
+Keywords: Regional growth; Economic resilience; Shock impact; Recovery. 
+JEL Classification: O40, R11, C32. 
+ 
+ 
+ 
+a
+ CORRESPONDING AUTHOR: 
+Roberto Cellini – University of Catania, Department of Economics and Business.  
+Corso Italia 55 - 95129 Catania - Italy;  
+tel.: +39-095-7537728, fax: +39-095-7537710; e-mail cellini@unict.it 
+ 
+b
+ Gianpiero Torrisi - University of Portsmouth, Economics and Finance, 
+Richmond Building, Portland Street, Portsmouth, Hampshire, PO1 3DE, U.K.; 
+tel. +44 (0) 23928444821 e-mail Gianpiero.Torrisi@port.ac.uk 
+ 
+ 1 
+ 
+Regional Resilience in Italy: A Very Long-run Analysis 
+ 
+ 
+Abstract: Resilience is a concept derived from engineering and ecology relating to 
+the way in which systems react to, and recover from, shocks. According to several 
+recent analyses, different ‘resilience behaviours’ are able to explain differences in 
+the economic performance of regions. This study shows that this explanation is not 
+fully convincing when applied to the Italian regions, observed in the very long run. 
+This analysis focuses on real per capita income levels over the period 1890-2009. 
+Only few (major) shocks emerge to have a specific impact effect differing across 
+the regions, while the recovery experiences never differ significantly across 
+regions. Hence, it is difficult to discern genuine differences in regional resilience 
+behaviour. This evidence can be interpreted as a reason why the regional 
+differences in Italy are huge and persistent. 
+Keywords: Regional growth; Economic resilience; Shock impact; Recovery. 
+JEL Classification:O40, R11, C32. 
+ 
+ 
+ 
+ 
+1.  Introduction 
+ 
+Resilience is a broad concept, derived from engineering and ecological sciences 
+pertaining to the manner in which systems react to, and recover from, shocks. Recently, 
+a renewed interest in this topic has arisen, with specific emphasis on the analysis of 
+economic growth, and regional growth in particular. In broad terms, the basic idea is 
+that different resilience behaviours are the reason why regions within a country show 
+different economic growth performance (FINGLETONet al., 2012;MARTIN, 2012). 
+ In mathematics and physics, several analyses have been developed about the 
+reaction of stochastic systems to shock (see, for e.g., BATABYAL, 1999) with the 
+applications to environmental and development economics (PERRINGS, 1998; LEVIN et 
+al., 1998). REGGIANI et al. (2002) suggested that resilience could be a topic of spatial 
+and regional political economy. Two research lines can be marked. On the one side, a 
+ 2 
+ 
+line of literature has developed, within economic geography, dealing with the effect of 
+‘major shocks’, like war bombing on city growth (DAVIS and WEINSTEIN, 2002; 
+BOSKER et al., 2007) or severe political change (REDDING and STURM, 2008). On the 
+other side, a remarkable set of articles, around 2010, has focused on regional growth 
+(PENDALL et al., 2010; PIKE et al., 2010;SIMMIE and MARTIN, 2010).  
+ FINGLETON et al. (2012) and MARTIN (2012) make definitely clear that 
+considering resilience can provide an interesting interpretation key, for understanding 
+differences across regions. In particular, FINGLETON et al (2012) proposes a very simple 
+regression analysis approach, to evaluate whether regions react to, and recover from, 
+shocks in different ways. Such a perspective of analysis was absent from the wide body 
+of theoretical and applied regional research developed over the 1980-90s, as a by-
+product of the success of endogenous growth theories (BARRO and SALA-I-MARTIN, 
+1991, 1992; BERNARD and DURLAUF,  1996, QUAH, 1996; TSIONAS, 2001). 
+ The present study takes the FINGLETONet al. (2012) approach as a useful 
+analytical point of departure, to analyse the case of Italy. The Italian experience is an 
+interesting case-study in light of the long history of Italian persistent economic dualism 
+dating back to the unification process in 1861, despite many regional policies 
+implemented since then. Indeed, the resilience theoretical framework –applied to Italian 
+regional disparities– represents a line of research not yet explored by the copious 
+literature dealing with this subject. Such an approach allows tackling the task from a 
+new promising angle. Furthermore, it is worth emphasizing that it has already proven its 
+ability to provide a significant contribution once applied to the UK which is 
+characterised by similar (but reversed) North-South divide. 
+Yet, here, some methodological changes are warranted. Specifically, annual data 
+over a very long-run period of time (1890-2009) are considered, while FINGLETON et al. 
+(2012) use quarterly data in a four-decade period (1971-2009). In that respect, pros and 
+cons characterise the different options; however, the present very long-run perspective 
+permits analysis of regional responses to “extreme” shocks (one can think of the World 
+Wars, for instance), and to get insights into the characteristics of the growth and 
+development process over the course of a century.  
+ 3 
+ 
+Furthermore, this study departs from the exercise of FINGLETON et al. (2011), in 
+terms of its accounting for resilience with regard to per capita GDP data, rather than 
+employment data; pros and cons of these different options will be discussed later. 
+The results from different estimation methods are provided by the present study: 
+specifically, beyond SURE (Seemingly Unrelated Regression Equation) estimation (and 
+the related test for parameter restrictions in order to detect differences pertaining to 
+regional resilience), this study also presents a random-coefficient panel estimation to 
+assess the same hypotheses with higher estimator efficiency. Nevertheless, it is found 
+that the main conclusions remain robust to different estimators. Finally, evidence is 
+provided about the permanent effect of a shock originating in different areas. 
+ In overall terms this study suggests that the resilience story, as investigated from 
+a perspective à la FINGLETON et al. (2011), does not readily offer a sound explanation 
+for different economic performances across Italian regions –as long as ‘reaction to 
+shocks’ and ‘recovery from shocks’ only vary in very few cases across regions. That 
+said, the methodological framework offered by the FINGLETON et al. (2011) approach 
+does allow the generation of some answers to a number of questions in a very simple 
+and intuitive manner. In particular, informed by the results from the model estimates 
+produced, the following questions, among others, can be addressed: Have regions 
+answered the same shock in the same way?, Have regions recovered from the same 
+shock in the same way?, Is there any difference, over time, in the way in which regions 
+reacted to, and recovered from, shocks?, Which are the regions displaying the highest 
+(or lowest) degree of impact resistance to recessionary shock?, Which are the regions 
+displaying the best (or worst) ability to recover from recessionary shocks?, Have the 
+recessionary shocks played some role in shaping regional performance?, Is there a 
+relation between growth performance and the way in which regions react to- and 
+recover from- shocks? This set of questions will be specifically answered in this present 
+investigation. 
+The homogeneity displayed by Italian regions in the impact reaction and in the 
+recovery from shocks, appears as somewhat surprising, given the well-known 
+heterogeneity across these regions. Some implications about the long-run pattern of 
+regional income dynamics can also be discerned.   
+ 4 
+ 
+ The remainder of the paper is as follows. Section 2 sets forth the ideas behind 
+the concept of economic resilience, with specific reference to regional growth, and 
+makes close reference to the issues presented in FINGLETON et al. (2012) concerning the 
+U.K. case. Section 3 presents the Italian data that are used in this study; in particular, 
+the present study relies on a data bank recently made available by DANIELE and 
+MALANIMA (2007), that is attracting substantial interest and is nourishing the debate on 
+the reasons for and the roots of Italian dualism (e.g., FELICE, 2011a, 2011b; BRUNETTI et 
+al. 2011). Given that the time series at hand are integrated of order 1, and co-integrating 
+links emerge, this Section also discusses the meaning of ‘resilience’ in an environment 
+of integrated / co-integrated time series. Section 4 presents the results concerning the 
+resilience of Italian regions; in particular, the evidence of the SURE estimation à la 
+FINGLETON et al. (2012) is firstly considered, along with the (more efficient) random 
+coefficient model (RCM) estimation; then the evidence coming from a vector error 
+correction model (VECM) estimation is presented; the exercises are also repeated, 
+limiting the time sample under consideration to the most recent decades (1960-2009). 
+Section 5 offers some answers to the specific research questions previously articulated 
+in this Introduction. Section 6 concludes. 
+ 
+ 
+2.  Economic resilience 
+ 
+Regional resilience derives from the ideas of resilience developed in engineering, 
+ecological science and, more recently, social ecology (see, respectively, HOLLING, 1996; 
+HOLLING, 1973; and WALKER et al., 2006). It refers to the ability of a subject or a 
+complex system to regain shape and position elastically, following a shock. The 
+engineering perspective is primarily focussed on the immediate reaction of a system to 
+shock and its subsequent recovery; the ecological perspective mainly focuses on how a 
+shock is persistently changing the system behaviour. In social sciences and in 
+economics more specifically, both of these perspectives make sense, as long as shocks 
+affect the economy through their (homogenous or heterogeneous) immediate impact and 
+recovery reaction and also the permanent performance in the long run. 
+ 5 
+ 
+ With specific reference to regional economies, FINGLETON et al. (2012) analysed 
+whether different performance in (employment) dynamics across 12 U.K. regions may 
+be explained by different levels of resilience to a recessionary shock. They investigated 
+whether the reaction to (the same) shock differ across regions, and the recovery from 
+shock is different across regions. To this end, they previously identified recessionary 
+shocks within the period of time under examination (simply, the quarters in which 
+national employment exhibits a decrease), and then they evaluated whether there is any 
+regional specificity in the reaction to shock and in the subsequent recovery.  
+Formally, let yit denote the log of employment level in the region i in time t, with 
+i=1,2 ...N and t=1,2,...T. The first difference of yit , denoted by git , measures the growth 
+rate of employment. Assume to have identified the time of the recessionary shocks 
+(with a total number of shocks equal to K); and associate a dummy variable Dk to each 
+shock (k=1,2,..,.K); finally consider the post-recession period following each shock and 
+associate a dummy variable Sk to each post-recession period (Sk takes the value 1 in 
+each time of the post-recession period following the k-shock, and 0 otherwise). 
+Operationally, in the FINGLETON et al. analysis, the post-recession period lasts until the 
+subsequent shock, but a different choice could be made, by assuming, for instance that 
+each post-recession period has a fixed duration. Thus, for any region i, FINGLETON et al. 
+consider the following regression: 
+ 
+(1)  ,(1) 1 ,(2) 2 ,( ) ,(1) 1 ,(2) 2 ,( )... ...i i i i i K K i i i K K ig D D D S S S eα β β β γ γ γ= + + + + + + + + +  
+ 
+They consider the system of N equations as a SURE, and then compare the beta ( β ) 
+and gamma ( γ ) coefficients across regions. If jikjki ,,)(,)(, ∀= ββ  , then all regions 
+have the same impact reaction to  the k-th shock. Similarly if   jihjhi ,,)(,)(, ∀= γγ , then 
+all regions display the same recovery effect to the h-th shock. 
+Heterogeneity across the beta and/or gamma coefficients pertaining to a specific 
+shock, means different resilience behaviours across regions. Specifically, FINGLETON et 
+al. (2012) identify 4 shocks hitting the U.K. regions in the period 1971-2009; apart from 
+the most recent shock, occurred in 2008 (for which the beta coefficients are equal across 
+regions), beta coefficients differ across regions for any given shock, so that the impact 
+ 6 
+ 
+reaction is found to be different across regions. On the contrary, the gamma coefficients 
+generally appear to be equal across regions, for each post-recession period. Hence, 
+FINGLETON et al. (2012) conclude that U.K. regions do show different resilience to 
+shocks, particularly in consideration of the heterogeneity across the regional impact 
+reactions.1 
+The present study substantially rehearses this regression exercise but applied to 
+the Italian cause. Even so, it deviates from the choices of FINGLETON et al. (2012) in a 
+number of respects. In particular, this study considers data with annual frequency for a 
+much longer period of time, so that it examines the behaviour of Italian regions in the 
+very long run. On the one hand, the time frame of this study is more consistent with the 
+interest in the long-run growth performance of regions. Moreover, cyclical components 
+(not to mention the seasonal ones) are a less serious problem in annual data, as 
+compared to quarterly data. However, on the other hand, the consideration of a very 
+long period of time requires caution and check about structural stability.  
+Furthermore, data on income per capita are considered rather than employment. 
+Thus there are good reasons for either choice. FINGLETON et al. argue that much of the 
+impact of a recession is borne by the labour market, and declines in employment, after 
+recessionary shock, are larger than decline in output; thus, the issue of regional 
+resilience assumes particular relevance in relation to how regional labour markets are 
+affected by and recover from shock. With respect to the Italian experience, where labour 
+markets are more rigid as compared to the U.K. case, the focus on GDP appears to be 
+more appropriate, precisely because the reaction of labour markets are deemed to be less 
+variable across regions, due to institutional rigidities.  
+FINGLETON et al. (2012) find that the U.K. regions do differ when it comes to the 
+impact reaction to shock (with the exception of the recent 2008/09 shock episode), 
+while the regional behaviours do not differ in the recovery phase. However, in overall 
+terms, they conclude that the different impact reaction to common shocks allows the 
+argument to be made that different resilience behaviour in labour markets is a relevant 
+factor in the economic experience of U.K. regions. 
+From a theoretical perspective it is worth stressing that such an approach allows 
+to explore “the ability of a regional economy to maintain a pre-existing state (typically 
+assumed to be an equilibrium state) in the presence of some type of exogenous shock” 
+ 7 
+ 
+and the “extent to which a regional or national economy that has experienced an 
+external shock is able to return to its previous level and/or growth rate of output” (HILL 
+et al., 2008). 
+ Although it has important limitations in capturing and explaining “the 
+geographical diversity, variety and unevenness of resilience” (PIKE et al., 2010 ) 
+especially in terms “of  what kind of resilience and for whom” (PIKE et al., 2010), to the 
+case at hand, and with the Italian spatial divide on the background, this approach has the 
+potential to deliver a significant contribution to the still active debate on the relative 
+performance of regions. Put differently, following HILL et al. (2008), this approach to 
+resilience assumes that the regional performance can be characterised by multiple 
+equilibria “not all of which are efficient (in a static and/or dynamic sense)”. The  
+homogeneous reaction to shocks, therefore, can be interpreted as evidence of the 
+inability of regions to “avoid becoming locked-into such a low-level equilibrium or, if 
+in one, to transition quickly to a ‘better’ equilibrium” (HILL et al., 2008) 
+ 
+ 
+3.  Italian data: Regional per capita GDP in the very long run 
+ 
+This analysis uses a time series of real per capita GDP computed by DANIELE and 
+MALANIMA (2007) for the Italian regions over the period 1890-2009.2 Even if the 
+current Italian regions are 20 (at the NUTS II level), DANIELE and MALANIMA’s data are 
+articulated into 16 regions, as long as 4 regions were created after the II World War.3 
+The DANIELE and MALANIMA databank is the only available databank with annual 
+observations related to regional accounting for such a long period of time for Italy.  
+ The contribution of DANIELE and MALANIMA is part of a lively research line, 
+aiming at reconstructing regional data for Italy. The databank has generated an 
+interesting debate among economic historians. The more contested issues do not 
+concern the methodological choices of DANIELE and MALANIMA, nor the original 
+sources, which can be considered as generally correct (or, at least, ‘necessary’),4 but 
+rather the resulting general picture. The comparison of specific point data of this 
+databank with different databanks provides evidence of its substantial correctness and 
+reliability, but also offers hints for further interesting debates in economic history, as 
+ 8 
+ 
+some surprises emerge in relation to the consolidated wisdom. For instance, the 
+distribution of income across regions at the beginning of the time span under 
+consideration is less dispersed as represented in other databanks (see, on this point e.g., 
+FELICE, 2011b, p. 21; MALANIMA and ZAMAGNI, 2011); again, the reconstruction of 
+DANIELE and MALANIMA provides a more modest economic performance of Italy 
+during the Fascist period, as compared to the acquired wisdom, and sharply increasing 
+regional disparities.  
+ 
+Insert about here: 
+Figure 1.(a),(b),(c).- Log of income per capita 
+Figure 2.- The annual growth rate of income per capita in Italy 
+ 
+Figure 1 shows the plot of the log of (real, per capita) GDP time series for: (a) Italy at 
+the national level, (b) the 16 Italian regions, (c) Italy and the two richest and poorest 
+regions (as evaluated at the outset of the period, which correspond to the average level; 
+namely Liguria and Lombardia  near the top, and Calabria and Sicily near the bottom). 
+Figure 2 shows the plot of the first difference, that is the growth rate of real per capita 
+GDP, for the national series. Table 1 provides some descriptive statistics on the time 
+series, while Table 2 provides evidence concerning the test of integration / co-
+integration among the time series at hand. In particular: 
+- Time series of per capita GDP at the regional level, and the series at the national 
+level, are integrated of order 1 (Table 2.I). 
+- If the 16 regional series are considered, co-integration with rank equal to 15 
+cannot be rejected; if 17 time series (namely, the 16 regional series and the 
+national one) are considered, co-integration with rank equal to 16 cannot be 
+rejected (Table 2.III). 
+The above pieces of evidence suggest that only one unit root enter the national and 
+regional series (as clearly supported also by the group unit root test reported in Table 
+2.II). This issue is only partially different from previous results concerning Italian 
+regions (over shorter periods of time), which detected a somewhat larger number of 
+distinct unit root (see, e.g., CELLINI and SCORCU, 1997, D’AMATO and PISTORESI, 1997; 
+DE SIANO and D’UVA, 2008).Under this view, one could affirm that the longer time 
+span under consideration permits to get the unique unit-root driving all regional series. 
+However, whatever the time span under consideration, the substance of evidence is 
+ 9 
+ 
+similar: long-run relationships between regional (and national) per capita GDP are 
+operative in the long run, admittedly with possible different intensity or with breaks. 
+ Moreover,  
+- The correlation between any regional series (of real per capita GDP levels) on 
+the one side, and the national series on the other is larger than 0.986 in any case. 
+- The pair-wise correlation between the regional series (of real per capita GDP 
+levels) are larger than 0.957 in any case. 
+That is, there is a very large degree of correlation in levels among the series. More 
+surprisingly, an analogous degree of correlation emerges as concerns the series of 
+growth rates:  
+- The correlation between any regional series (of real per capita GDP levels) on 
+the one side, and the national series on the other is larger than 0.878 in any case. 
+- The pairwise correlation between the regional series (the growth rate of real per 
+capita GDP levels) are larger than 0.772 in any case. 
+ 
+Insert about here: 
+Table 1. - Descriptive statistics on time series, Italy and the regions 
+Table 2. - Results of integration and co-integration of regional time series 
+ 
+These pieces of evidence provide support in considering the first difference of (log) 
+GDP in the analysis that follows: this study considers that regional time series are 
+integrated of order 1, with the presence of long-run links –as documented by a large 
+body of available research (see DE SIANO and D’UVA, 2008, and the references therein), 
+and consistent with the evidence here provided in Table 2. The main interest in the 
+present analysis is in evaluating whether different resilience behaviours play some role, 
+firstly, in shaping the short-run dynamics –and for this reason it makes sense to focus on 
+the series in first-difference; secondly, in analysing whether resilience can be considered 
+responsible for the different growth performance of regions; considerations on the level 
+of time series will be left for a final stage of the analysis. 
+ 
+ 
+ 10 
+ 
+4.  Results on regional economic resilience  
+ 
+ 
+4.1  Indentifying recessionary shocks 
+Following FINGLETON et al. (2012), the present study identifies the years in which the 
+national GDP growth rate is negative as years of ‘recessionary shocks’. More 
+specifically, the present study considers recessionary shocks the years in which a 
+decrease (of per capita income, in this case) larger than 0.1% occurs; moreover, the 
+recessionary shocks occurring in subsequent years are consolidated in one shock. As a 
+consequence, the following 14 recessionary shocks are detected on the Italian data, over 
+the 118-year period under examination: 1892, 1910, 1914/15 (considered as one shock), 
+1920/21, 1926, 1929, 1931, 1933/34, 1940/41/42, 1944/45, 1975, 1993, 2003, 2008/09. 
+As it is immediately obvious from a look at the data, the size of these shocks is 
+different.  
+ As to the identification of the ‘post-recession (recovery) period’, the study 
+identifies the period of at least three years, following a shock, without the occurrence of 
+a further recessionary shock. In sum, there are eight ‘post-recession’ periods: the post 
+recession period following the shock of 1892; the one following the 1910 shock, the one 
+following the 1914/15 shock, the one after the 1920/21 shock, the one after the 1929-
+1931-1933/34 shocks, and the ones after the 1944/45 shock, the 1973 shock, and the 
+1993 shock (the years following the 2003 shock are characterised by the fact that 2005 
+shows a negative growth rate, even if smaller than 0.1% in absolute value, so that no 
+positive recovery follows this shock); 2008/09 are identified as a further recessionary 
+shocks, but of course, there are no data, at the present moment, to consider the recovery 
+from the 2008/09 shock). Some words have to be spent about the length of post-
+recession period. FINGLETON et al. (2011) consider the post-recession recovery lasting 
+until the subsequent shock; such a choice would have implied, in the series under 
+consideration in the present study, that, e.g., the post 1944/45 shock recovery covers the 
+thirty year period until 1974; or the recovery post oil shock in 1975 lasts until 1993. It is 
+hard to define as ‘post-shock recovery’ a period lasting 18 or 30 years! For this reason, 
+the present study reports the results pertaining to recovery periods of a fixed length, 
+namely three years. Thus, the recovery period after the 1892 shocks covers the years 
+ 11 
+ 
+1893 to 95, the recovery from the 1910 shock covers the period 1911 to 1913, and so 
+on. Nevertheless, the key results are robust to this different choice concerning the 
+duration of the recovery periods (of fixed length equal to three years, or during until the 
+subsequent shock takes place), in nearly all instances (the two cases in which slightly 
+different results emerge are noted in Table 3).  
+ 
+Insert about here: 
+Table 3. - Qualitative results in SURE estimation (general specification) 
+ 
+4.2  Economic resilience to shocks: impact and recovery 
+The present analysis starts by considering a regression equation in the form of eq. (1); 
+specifically, it considers the growth rate of per-capita GDP in each of the 16 Italian 
+regions. All series are stationary. For each region this growth rate is regressed against a 
+constant term (which is intended to capture the autonomous regional growth), a set of 
+14 dummy variables in correspondence to the detected shocks, and a set of 8 dummy 
+variables in correspondence to the detected post-recession periods. The 16 equations are 
+estimated as a system of seemingly unrelated regression equations (SURE). It is worth 
+underlining that this specification perfectly mimics the regression design of FINGLETON 
+et al. (2012, eq. (1)) whose results are in their Table 3. 
+ Verbally, the alpha coefficients capture the “autonomous growth”, conditional 
+on the reaction to- and recover from- shocks; the beta coefficients capture the specificity 
+of the impact effect of a recessionary shock, upon the regional GDP growth rate; the 
+gamma coefficients capture the effect –if any– of recovery after shock. 
+ Considering the system estimation, the present interest is in evaluating whether 
+for each shock the beta coefficients are equal across regions: in such a case, there is no 
+“regional specificity” as concerns the impact and ‘recovery’ effect of the shock. 
+Furthermore, if the restriction of equality among coefficients is accepted, the analysis 
+evaluates whether the common coefficient is equal to zero or not: if equal to zero, there 
+is no specific effect of that shock; if it is different from zero, the effect of the shock is 
+significant and equal across regions. 
+ Table 3 reports the qualitative results of the starting, general specification which 
+takes into consideration 14 shocks and 8 periods of recovery. The results are a little bit 
+surprising, in the sense that several beta and gamma coefficients are statistically 
+ 12 
+ 
+insignificant. More specifically, in 8 out of the 14 considered shock cases, the beta 
+coefficients appear to be equal to zero (both if considered as individual coefficients, on 
+the basis of the t-statistics, and if considered jointly, on the basis of an appropriate F 
+test): this means that each of these 8 shocks do not exhibit any significant effect on the 
+growth rate of regional GDP. As to the 6 remaining cases, the response of regional 
+growth rate to the shocks occurring in 1920/21, 1929, and 1944/45 appears to be 
+statistically significant but equal across regions, according to an appropriate restriction 
+F-test; the impact reactions to the shocks occurring in 1914/15, in 1975 and in 1973 
+appear to be different across regions (and statistically significant). 
+ A similar surprising result emerges with respect to the significance of the 
+recovery dummy variables: the coefficients for post-1982, post-1910, post-1920/21, 
+post-33/34 dummies are equal across regions, and equal to zero (both if considered as 
+individual coefficients in each specific regression equation, and if considered jointly). In 
+the case of post-1914/15, gamma coefficients are statistically significant and equal 
+across regions. Only the post-1944/45 and post-1975 recovery period present dummy 
+variables that are different across regions: more precisely, the test on equality of gamma 
+coefficients rejects the null of equality.  
+ As a consequence of these issues, the authors of the present study decided to 
+focus on a regression equation, which retains only a selected group of 6 shocks –called 
+‘major’ shocks– and specifically, the shock episodes are retained which show statistical 
+significance for the impact or the recovery dummy variable. Thus, the final regression 
+design considers the following equation :   
+ 
+ (2)  ikk kikk kiii uSDg +++= ∑∑ ==
+6
+1 )(
+6
+1 )( γβα  
+with: 
+k=1: 1914/15 shock (and relative recovery);  
+k=2: 1920/21 shock (and relative recovery); 
+k=3: 1929 shock (and relative recovery); 
+k=4: 1944/45 shock (and relative recovery); 
+k=5: 1975 shock (and relative recovery); 
+k=6: 1993 shock (and relative recovery). 
+ 
+ 13 
+ 
+ It is important to emphasize that the distinction between ‘major’ shocks (as 
+listed above) and other shocks has been left to data, without any discretionary 
+intervention beyond the general (soft) criterion followed, that is, the significance of at 
+least one of the dummy variables associated to the impact or the recovery. This list of 
+major shocks in itself is interesting to comment. A very limited number of recessionary 
+shocks appear to have significant specific effect on regional GDP dynamics: just six 
+episodes over nearly 120 years, included two shocks related to the World Wars.5 
+ It is worth pointing out how these results are consistent with the argument that 
+wars – as a shock– could be very different from other types of shocks (BOSKER et al., 
+2007, BOSKER et al., 2008). A war shock is potentially able to heavily influence the 
+performance in the long-run; usually, after the war, economies follow a very different 
+path, and resilience to war shocks can have a very different nature. The empirical 
+evidence represented by the ‘Wirtschaftswunder’ in Germany is an important example 
+corroborating the above argument. The same can be said for Italy: a period of thirty 
+years of economic growth (‘Miracolo economico’) followed the II World War. 
+Moreover, in the case at hand it is immediate to note that the magnitude of parameters 
+associated with the post-1944/45 recovery (ranging from 0.12, Umbria datum, to 0.141, 
+Lombardy datum) is substantially higher than those relative to all remaining recovery 
+periods regardless of their statistical significance.       
+Consider also that some shocks, among the six major selected ones, have 
+displayed a significant effect as far as the dummy variables are concerned, which is 
+equal across regions, so that it is not possible to affirm that different regions have 
+displayed different impact reaction or recovery.  
+ Table 4 reports the results concerning the regression specification (2), with only 
+the six major shocks considered; equations are estimated as a SURE system. All alpha 
+coefficients, capturing the autonomous growth rate, are significant and included in the 
+interval 2.0-2.7%.6 Not surprisingly, beta coefficients are generally negative and 
+significant: in only two cases they are positive, but are not statistically significant, even 
+at the 10% level; the cases in which beta coefficient is negative, but not significant, 
+include all regional coefficients pertaining to the 1993 shock. The gamma coefficients 
+are generally positive, as expected (in most instances, however, they are not statistically 
+significant); if negative, they are not statistically significant.  
+ 14 
+ 
+ 
+Insert about here: 
+Table 4. - Results from the SURE corresponding to eq. (2) 
+ 
+Insert about here: 
+Table 4. - Results from the SURE corresponding to eq. (2) 
+ 
+However, the SURE estimation of the set of regression equations (2) could be 
+inefficient as compared to a proper panel data estimation (SINGH and ULLAH, 1974). 
+Keeping in mind the final goal of evaluating regional specificities in facing common 
+shocks, therefore, the authors of the present study suggest considering the following 
+model:  
+ 
+(3) 
+6 6
+( ) ( )1 1
+0
+( ) 0( ) ( )
+( ) 0( ) ( )
+i i i k k i k k ik k
+i i
+i k k i k
+i k k i k
+g D S uα β γ
+α α ε
+β β ζ
+γ γ τ
+= =
+= + + +
+= +
+= +
+= +
+∑ ∑
+ 
+ 
+where ig , kD , and kS maintain the same meaning that they have in equation (1) while 
+respective coefficients are composed by both a deterministic and a random part; 
+deterministic parts are denoted by 000 ,, γβα , while random parts are denoted by 
+iε , )(kiζ  and )(kiτ with i=1,2,...16. 
+The analysis is performed using the Random Coefficient Method (RCM). From 
+a methodological perspective RCM represents an expansion (CASETTI, 1986) of model 
+(1), openly accounting for potential heterogeneity across subjects –in this case, across 
+regions (see also FOSTER, 1991, for a discussion about the pros of RCM regression 
+analysis in the field of economic geography). Specifically, RCM allows to test zero 
+restrictions on iε , )(kiζ  and )(kiτ :7 therefore, in order to test for heterogeneity in the 
+regional resilience according to the RCM framework, the null hypothesis that the 
+random part of the parameters is zero has been tested.8 Furthermore, in order to 
+overcome technical limitations related to the more-than-one random parameter 
+estimation,9 in lieu of estimating a model with random alpha coefficients, a dummy 
+variable is inserted for each region performing the LR test only on the beta and gamma 
+ 15 
+ 
+coefficients. Finally, in line with the precise objective to further improve the estimation 
+efficiency, only the estimates which reports statistically significant coefficients are 
+considered. Results are reported in Table 5.  
+ 
+Insert about here: 
+Table 5. - Results from Random Coefficient estimation 
+ 
+RCM results substantially confirm the story, as told by SURE estimates, with 
+few minor discrepancies. Indeed, as far as the impact (random) coefficients are 
+concerned, only in 1 out of the 3 shocks for which SURE rejects the null of equality at 
+the 5% significance level (1914/15, 1975 and 1993), regional economies appear to be 
+affected differently, according to the RCM estimation –namely, the 1914/15 shock. 
+During the remaining recessionary episodes, RCM estimates suggest that shocks 
+impacted all 16 regions considered with equal vividness. Furthermore, as to the three-
+year recovery periods, RCM results are entirely consistent with SURE estimates, 
+accepting the null of equality between coefficients for all recovery periods considered, 
+and the statistical insignificance of coefficients in most cases. Roughly speaking, the 
+RCM estimation suggests that the degree of heterogeneity across regions is even more 
+limited, as compared to what emerges from the SURE estimation. Although a more 
+efficient panel approach allows to refine the interpretation of the resilience story as 
+applied here to the Italian regional case-study, the main findings obtained using a SURE 
+approach rest unchanged, indicating that the origins of Italian regional differences and 
+consequent dualism, could not be explained in terms of differences in the impact and/or 
+recovery behaviour of regional economies.    
+ Lastly, a few words have to be spent about the equation structural stability. 
+Given the regression design at hand, it is pointless to investigate whether the 
+explanatory dummy variables have a force which moves over time. Then again, it is far 
+from being surprising that a specific constant term covering the years after the II World 
+War would emerge to be positive and significant, provided that the economic growth in 
+these years is higher than over the previous decades. However, the consideration of such 
+a structural break would not alter the substance of the answers concerning the regional 
+coefficients of shock impact and recovery variables: sign, significance and especially 
+ 16 
+ 
+the test results about coefficient equality across regions remain robust after controlling 
+for such a break in the constant term.10  
+ One more point is worth to be made: the reconstruction of data before the II 
+World War is based on few original data points; missing data are obtained by linear 
+interpolation, assuming that the effect of sectoral shocks across regions are symmetric 
+(while the different sectoral composition of regions is properly taken into account) – see 
+fn 5 and the Appendix of DANIELE and MALANIMA (2007) for further details. Hence, 
+one could suspect that the limited heterogeneity in resilience behaviour across regions 
+could derive from the data re-construction. This may impose some measure of 
+symmetry. To assess this possibility, the exercise is repeated, by confining the attention 
+to the sub-sample 1960-2009: the following Subsection provides evidence that the final 
+result of limited regional heterogeneity is confirmed, even for the most recent sub-
+sample, for which the issue of data reliability is not under discussion.    
+ 
+4.3 Focus on the 1960-2009 sub-sample 
+A regression equation like (2) is run over the period 1960-2009, considering the 20 
+Italian regions that were operative in this period. All data are original from ISTAT, the 
+Italian Statistic Office. The years in which recessionary shocks occurred are: 1975, 
+1993, 2003, 2008/09 (a contraction also occurred in 2005, but its absolute size is smaller 
+than 0.1%); three 3-year recovery periods are considerable: the ones following the 1975, 
+the 1993 and the 2003 shock. 
+ The upshot of the SURE estimation can be summarised as follows.  Each of the 
+autonomous growth coefficients is positive and statistically significant at the 5% level, 
+and equality among these coefficients is rejected (p=0.0267). As to the coefficient of the 
+dummy variable pertaining the impact effect of the 1975 shock,  in 12 out of 20 regions, 
+it is statistically significant; consistently, the equality of these coefficients is not 
+accepted by the appropriate test (p=0.000). The impact effect of the 1993 shock is 
+statistically significant in 7 out of 20 cases, but the equality of these coefficients is 
+accepted at the 5% significance level (p=0.0967); however, the joint restriction to zero 
+is rejected (p=0.000). The impact effect of the 2003 shock is significant in only 2 
+regions: not surprisingly, the tests lead to accept the equality of these coefficients 
+(p=0.864), and also the joint restriction to zero (p=0.382). The impact effect of the 
+ 17 
+ 
+2008/09 shock is significant in 18 out of 20 regions, and the constraint of equality 
+across these coefficients is rejected. As to the dummy variables pertaining the recovery, 
+for each of the three instances,  tests lead to accept the null that coefficients are equal 
+across regions, at the 95% confidence level (some doubts could be cast for the post-
+1975 recovery, whose test on coefficient equality provides p=0.0546, and the joint 
+restriction to zero is accepted with p= 0.0578). In words, the Italian regions, over the 
+last forty years, when original regional data are available, show heterogeneous impact 
+reactions to recessionary shock, in only a subset of recessionary episodes, while the 
+recovery experience never emerges to differ across regions. The (more efficient) RCM 
+estimation provides only slightly different results: significant shock-specific coefficients 
+emerge as to the impact reaction, for all recessionary shock episodes, while the recovery 
+dummies emerge to be neither significantly positive nor statistically different across 
+regions. 
+ In essence, a clear-cut conclusion emerges: even over the 1960-2009 period, the 
+regional reaction to recessionary shocks, and especially the recovery from that shocks, 
+does not seem to display sufficient heterogeneity to explain the vast differences of 
+economic performance across the Italian regions: the same conclusion obtained for the 
+whole period of more than a century, holds for the sub-period for which fully reliable 
+and original data are available. Therefore, it would be wrong to say that the scanty 
+heterogeneity in the resilience behaviour of Italian regions in the very long-run is an 
+outcome of data re-construction.  
+ 
+4.4 Evidence on the impulse responses 
+Here, the fact that the shocks have a permanent effect (that is, series are integrated of 
+order 1) is explicitly taken into account. Following FINGLETON et al. (2012, Section 5), 
+once tested for the non-stationary I(1) nature of the processes, for the number of lags 
+imposed (1), and for the number of cointegrating vectors (1), a VECM, is estimated and 
+the OIRFs (orthogonalized impulse responses functions) are analysed: such functions 
+quantify the responses over time in all the endogenous variables to (one standard error) 
+negative shock to one specific variable, everything else equal. This FINGLETON et al. 
+The procedure is applied to the data at hand, combining the Italian regions into 5 macro-
+areas: Northwest, Northeast, Centre, South, Islands. Then, the graphical analysis is 
+ 18 
+ 
+provided, to evaluate how a shock originated in a given area affects the dynamics (of 
+real income per capita)  in the same and in the other areas – see Figure 3; in particular, 
+graphs (a) and (c) correspond to Fig. 8-11 and 12 of FINGLETON et al.: graph (a) report 
+how a shock originated in the relatively wealthier Northwest area affects the dynamics 
+of all areas, and graph (c) reports how the relatively poorer Southern macro-area is 
+affected by its own shock and by shocks originating in remaining  areas. Finally, the 
+graph (b) reports the effect that a shock in each of the 5 areas has in the same area. 
+ 
+Insert about here: 
+Figure 3.(a),(b),(c).- Impulse response functions (from VECM estimation, 1890-2009) 
+ 
+ 
+The comparative analysis of the whole set of impulse response functions permits to 
+observe that: (a)the effect of a shock originated in any given area is the largest in the 
+same area; (b) the Northwest is the area where its own recessionary shocks have the 
+largest (impact and cumulated) effect; (c) South and islands are the areas where shocks 
+originating elsewhere have the smallest effect. 
+ Hence, the impulse response function analysis, explicitly taking into account the 
+permanent effect of shocks (consistent with the I(1) nature of the series in log levels) 
+leads to see that Italian areas show differences, as far as the effects of shocks are 
+concerned, like in FINGLETON et al. (2012) analysis; at the same time, the point of the 
+heterogeneity across areas appears to be quantitatively small, to explain the large and 
+permanent differences of economic performance of Italian regions. The results from this 
+part of the analysis are not at odds with the evidence of the previous Sections: the 
+impulse response analysis takes into account all the shocks hitting the regions every 
+year, whereas the first part of the analysis focuses solely on the specificity of the 
+‘major’ recessionary shocks. What the two parts of the analysis say is that shocks have 
+permanent effects, and the permanent effects of shocks are different across areas, but 
+there is limited heterogeneity in the ways in which different regions react and recover 
+from common ‘major’ recessionary shocks. 
+ 
+ 
+ 19 
+ 
+5.  Performance of Italian regions 
+ 
+On the basis of statistical description of data, and the results of the present estimation 
+exercises, one can provide clear-cut answers to specific questions concerning the 
+regional growth performance in Italy over the very long run. In what follows, comments 
+are developed with reference to the estimation over the whole time sample (1890-2009), 
+if not differently stated. 
+ 
+1. Is the growth performance of Italian regions homogenous? 
+The income levels across regions differ significantly, as is well known and confirmed 
+by formal test also on the data in the databank at hand; for example, an ANOVA F test 
+for equality of the mean level across the 16 Italian regions, rejects the null of equality: 
+F15,1888=11.067, p=0.000. The issue about the growth rates is a little bit more involved: 
+indeed, an ANOVA F test would not reject the equality across the mean values of the 
+growth rates across regions (F15,1872=0.131, p=1.000).11 However, a formal test for 
+equality of alpha coefficients in the regression equation (2) rejects the null of equality. 
+This implies that the autonomous growth rates differ across regions, after having 
+controlled for the effect of shocks and recoveries from shock. Put differently, the 
+consideration of the occurrence of shocks and post-shock recovery leads to say that 
+regions differ as far as the “autonomous” growth rate is concerned, while in the absence 
+of the explicit consideration of recessionary shock, the growth rates would appear equal 
+across regions (as documented by the ANOVA F test). Provocatively, recessionary 
+shocks give a contribution to the equality, instead of inequality, of the regional growth 
+rates in Italy. 
+ 
+2. How many recessionary shocks have significant effect on the regional GDP 
+dynamics? 
+Per capita GDP levels of regions are integrated series: shocks, hitting any region in any 
+year, have permanent effects. However, a very limited number of recessionary shocks 
+have emerged to deliver a significant specific effect on the growth rate of regions, or to 
+have a significant effect during the period of recovery following it. On the basis of 
+ 20 
+ 
+statistical significance of dummy variable, only six significant shocks over a 120 year 
+period can be found. 
+ 
+ 
+3. Accept all major shocks the same effect on any given area? 
+No, the six considered shocks have different impact effects on any region. This result 
+derives from a series of formal test of the null hypotheses )6(,)2(,)1(, ... iii βββ ===  for 
+each i-th region, i=1,2,…16. The result is comprehensible, provided that each shock has 
+specific source, characteristic, intensity, and so on. 
+ 
+4. Has any single major shock a similar or different impact effect on the Italian 
+regions? 
+According to the SURE estimation, only three shocks appear to have a different impact 
+effect across regions: the 1914/15 shock, the 1975 shock, and the 1993 shock. The 
+1920/21, 1929 and 1944/45 shock have significant impact upon the regions, but the 
+appropriate test cannot reject that the effect is equal across regions. The degree of 
+heterogeneity across regions, as their impact reaction to common shock is concerned, 
+appears to be even more limited according to the RCM estimator: basing on such 
+estimator, the homogeneity across regions can be rejected only for the 1914/15 shock. 
+From an econometric point of view, the RCM estimator has to be judged as more 
+efficient. The substantial conclusion, however is quite robust: regional differences in 
+reaction to common shock are the exception rather than the rule.    
+ 
+5. Is the recovery from any single shock equal or heterogeneous across regions?  
+In all cases, the recovery effect from any single shock is equal across regions. This 
+result is robust to the consideration of different length of recovery periods, and to 
+different estimators. (By the way, an analogous result, to this respect, emerges in 
+FINGLETON et al (2012) as concerns the employment in the U.K. regions over the last 
+40 years). In most cases (namely, the recovery periods starting in 1922, 1930, 1976 
+and 1994), the recovery period dummy variables present coefficients that are not only 
+equal among regions, but also equal to zero, indicating that there is no ‘statistically 
+relevant’ difference in the recovery years after the shock. 
+ 21 
+ 
+ 
+6. Can the story of different resilience behaviour across the Italian regions 
+represent a sound explanation of the persistent difference in their growth 
+performance? 
+The answer to this question has to be ‘no’, at least according to the interpretation of the 
+authors of the present study: evidence is provided here that no more than three shocks 
+(in a period of about 120 years) have had a different impact effect on GDP growth rates 
+across regions; the three cases reduce to one if one refers to RCM rather than SURE 
+estimation. In no cases, differences emerge as far as the recovery from the shocks is 
+concerned. Hence, it appears that the story of resilience –though conceptually intriguing 
+and worth analyzing– is unable to provide a clear account of the persistent differential 
+of growth performances across the Italian regions. Of course, the reason of why 
+persistent differences across regions remain over the centuries remain open and it is 
+beyond the end of the present article. 
+ 
+7. Which are the best (worst) Italian regions, as far as the economic performance 
+is concerned, according to the following criteria: (i) income level, (ii) growth 
+rate, (iii) ability to determine the impact of recessionary shock, (iv) the recovery 
+from shocks, (v) the autonomous growth rate (i.e., the growth rate conditional on 
+the shock impact and recovery effects)? 
+Understandably, the resilience story can shed new light on these long-debated issues, 
+only as concerns the analysis perspective (iii), (iv) and (v). However, prior to deal with 
+such perspectives, it is worth remarking that: 
+- The three regions with the highest GDP average level are: Liguria, Lombardia 
+and Piemonte (the three highest GDP levels of the first decade of the period under 
+examination, 1891-1900, pertain to Lazio, Liguria and Lombardia; the three highest 
+peaksin the final decade,2000-09, pertain to Lombardia, Emilia-R., Lazio). At the 
+opposite end of the list, the three regions with the lowest GDP average level 
+areCalabria, Basilicata and Sicilia (the three lowest GDP levels at the beginning of the 
+periodpertain to Calabria, Abruzzo and Basilicata; the three lowest scores at the end of 
+the periodpertain to Campania, Calabria and Puglia). Thus, a substantial degree of 
+stability characterizes the distribution of regional income levels. 
+ 22 
+ 
+- Over the whole sample under consideration, the three regions with the highest 
+average value of annual growth rate are Veneto, Emilia-R. and Lombardia, while the 
+three regions with the lowest growth rates are Campania, Puglia, Sicilia. 
+ To answer point (iii) consider the results of the regression equation (2) and look 
+at the size of beta coefficients; in particular: 
+- To assess the general ability of regions to resist to the impact effect of shocks, it 
+makes sense to view the ‘average’ level of their beta coefficients. If a simple average of 
+beta coefficients for each region is computed, the regions showing the smallest negative 
+impact effect emerges to be Sardegna, Umbria and Basilicata; here it is of interest to 
+note that Sardegna is an island, whose economic dynamics are quite unrelated to 
+national industrial shocks, while Umbria and Basilicata are small regions: adverse 
+shocks have the most limited negative impact in these areas. At the opposite end of the 
+list,  the regions with the highest negative impact effect are Liguria, Lazio and Abruzzo 
+(which are the worst performers as the impact reaction to shock is concerned). 
+- To answer point (iv) one can look at the gamma coefficients and compute the 
+simple average of gamma coefficients pertaining to each region; it is necessary, 
+however, to recall that coefficients are not statistically different across regions, so that 
+the present conclusion is simply a ‘numerical curiosity’ without statistical significance 
+support. Anyway, the best recovery performances appear to pertain to Liguria, Piemonte 
+and Lombardia, while the worst ones belong to Calabria, Basilicata and Sicilia.12 
+- As to the autonomous growth (alpha coefficients), that is, the growth 
+performance after having controlled for the effects of major shocks, the highest values 
+pertain to Veneto, Marche, Abruzzo, while the lower ones belong to Puglia, Campania, 
+Sicilia. 
+ All these elements of information are reported in Table 6, which represents –in 
+terms of a competitive sport analogy– a list for the ‘best’ and ‘worst’ Italian regions, in 
+terms of ranking of economic performance. 
+ 
+Insert about here: 
+Table 6.  - Ranking list of Italian regions‘ economic performance 
+ 
+ 23 
+ 
+8. Is there a relation between the way in which regions react to- and recover 
+from- shocks? Is there a relation between  resilience behaviour and general 
+growth performance? 
+It could be interesting to note that Liguria is the worst performer according to the 
+impact effect of shocks, but the best performer according to the recovery ability; 
+Basilicata is among the best performers as far as the impact reaction is concerned, but 
+among the worst according to the ability to recover. Nevertheless, this negative trade-off 
+between impact and recovery abilities is far from being the rule: Sicily shows a bad 
+performance according to both the impact and the recovery reaction, while Umbria is a 
+good (or very good) performer along both directions, just to mention two opposite faces. 
+Moreover, at first glance, no clear-cut relations emerge between the regional resilience 
+behaviour and the general economic performance. The same conclusion is supported by 
+a simple (and admittedly rough) cross-regional rank correlation analysis between the 
+performance growth, as measured by the average of annual growth rate of per capita 
+GDP, on the one side, and the individual regional coefficients related to resilience on 
+the other side: the cross-regional rank correlation between the average value of per 
+capita GDP growth rate and the average value of beta coefficients is +0.152 (while it 
+should be negative, if one believes that a better impact reaction associates with a better 
+growth performance); the cross-regional rank correlation between the average value of 
+the annual growth rate of GDP and the average value of gamma coefficients is +0.402: 
+it is positive, as expected on the basis of the guess that a better ability to recover 
+associates with a better growth performance; however, the size of the rank correlation 
+coefficient is rather limited to be a signal of a strong association. The picture is a little 
+bit different if the association is considered between the resilience coefficients and the 
+income levels: the rank correlation between the average value of per capita  income and 
+the average value of beta coefficients is equal to -0.270 (which means that a “better” 
+impact reaction to recessionary shock is associated with a higher average income level), 
+while the rank correlation between the average level of per capita income and the 
+average gamma coefficients is equal to +0.930 (or +0.739 if one takes only significant  
+coefficients into consideration): this rank correlation coefficient, in fact, may denote a 
+significant association between the income levels and the ability to recover from 
+recessionary shock, as captured by the gamma coefficients in the regression 
+ 24 
+ 
+specifications at hand. Needless to say, the evaluation of these rank correlations is far 
+from being a rigorous analysis. Furthermore, the rank correlation coefficients cannot tell 
+anything about causal links.  
+ 
+ 
+6.  Concluding remarks 
+ 
+This article has evaluated the economic resilience of Italian regions, that is, the regional 
+behaviour in reacting to shock and in recovering from shock. This study has followed a 
+well established procedure in this (relatively new) research line, especially as concerns 
+the regression analysis design. At the same time, some innovative elements have been 
+introduced; they are worth mentioning: the very long run analysis perspective –the 
+databank under consideration covers about 120 years; the consideration of per capita 
+GDP instead of employment; the efficiency check through proper panel data estimation. 
+Indeed, this study has documented that shocks have permanent effects and such effects 
+differ across areas, but there is limited heterogeneity in the way in which different 
+regions react to and recover from major, common, recessionary shocks. Specifically, a 
+very limited number of significantly heterogeneous impact effects have been counted: 
+three cases, or just one case, according to different estimators, over a period longer than 
+a century. Moreover, no regional significant specificities have emerged as far as the 
+recovery from shock is concerned. These pieces of evidence are quite surprising, 
+provided that huge differences characterize Italian regions, and their long-run economic 
+performances.  
+From a theoretical perspective it is worth emphasizing that the adopted approach 
+to resilience allows to explore to what extent a regional economy is able to sustain a 
+pre-existing state (typically assumed to be an equilibrium state) absorbing an exogenous 
+shock. This approach is based on the assumption that regional performance is 
+characterised by multiple equilibria, not all efficient statically and/or dynamically; 
+according to this framework, therefore, homogeneous reaction to shocks, can be 
+understood as the inability of regions to quickly switch from a low-level equilibrium to 
+a better (more efficient) one as a result of a shock.  
+ 25 
+ 
+Admittedly, this approach has important limitations in both capturing the uneven 
+geographical nature of resilience, and explaining the reasons; nevertheless, it is 
+potentially able to give insight on the spatial divide. In particular, from the present 
+analysis the conclusion can be drawn that differences in economic resilience behaviours 
+are not able to explain the different economic performance of Italian regions with a 
+convincing interpretation. On the other hand, the absence of different resilience 
+behaviours across regions can be distinguished as a reason why differences across 
+regions are so vast and persistent in Italy.  
+Of course, the reasons for these persistent differences in economic performance 
+across the Italian regions remain a fascinating issue that extends beyond the scope of the 
+present study. Nonetheless, the analysis hitherto developed provides insights able to 
+influence the research agenda both in terms of adaptation and adaptability. Indeed, it is 
+worth further exploring the causes of the observed ‘lock-in’ reproducing similar 
+scenarios across regions in the long-run, while not ignoring, in an interdisciplinary 
+perspective, its qualitative dimensions looking also at the interaction between agents, 
+mechanisms, and sites. It can be of interest, for instance, to understand to which specific 
+economic, social and/or institutional variables the resilience behaviour of regions is 
+mainly linked. Without a doubt, a deeper knowledge of these aspects, in a future 
+research agenda, could be crucial in designing and implementing more effective spatial 
+policies. 
+ 
+Acknowledgements. Although the authors alone are responsible for what is written 
+here, thanks go to Vittorio Daniele and Emanuele Felice for useful discussion on data 
+construction and their interpretation, as well as for having made available data in 
+electronic format. Thanks go also to Alan Collins and Tiziana Cuccia for helpful 
+comments, and especially to Prof. Ron Martin for his kind cooperation. The authors 
+have also benefitted from comments from the audience at different seminars and 
+conferences. Last but not least, criticisms and suggestions from two anonymous referees 
+and the Editor have been very useful in improving the article.   
+ 
+ 
+ 26 
+ 
+REFERENCES 
+ 
+BARRO, R.J., SALA-I-MARTIN, X. (1991) Convergence across states and Regions, Brooking 
+Papers on Economic Activity 1,  107-57. 
+BARRO, R.J., SALA-I-MARTIN, X. (1992) Convergence, Journal of Political Economy 100, 223-
+51. 
+BERNARD, A., DURLAUF, S. (1996) Interpreting Tests of the Convergence Hypothesis, Journal 
+of Econometrics 71, 161-74. 
+BATABYAL, A.A. (1999) The Stability of Stochastic System: The Case of Persistence and 
+Resilience, Mathematical and Computer Modelling 30, 27-34. 
+BLOCK, J.,KREMEN, A.M. (1996) IQ and ego-resiliency: conceptual and empirical connections 
+and separateness, Journal of  Personality and Social Psychology 70, 349-61. 
+BOSKER, A., BRAKMAN, S., GARRETSEN, H., SCHRAMM, M. (2007) Looking for Multiple 
+Equilibria when Geography Matters: German City Growth and the WWII Shock, Journal of 
+Urban Economics 61, 152-69.  
+BOSKER, A., BRAKMAN, S., GARRETSEN, H., SCHRAMM, M. (2008) A Century of Shocks: the 
+Evolution of the German City Size Distribution 1925 – 1999. Regional Science and Urban 
+Economics 38, 330–347. 
+BRUNETTI, A., FELICE, E., VECCHI, G. (2011) Reddito in G. VECCHI (Ed.), In ricchezza e in 
+povertà: Il benessere degli Italiani dall’Unità a oggi, il Mulino, Bologna, 209-34. 
+CASETTI, E. (1986) The Dual Expansion Method: An Application for Evaluating the Effects of 
+Population Growth on Development, Systems, Man and Cybernetics, IEEE Transactions 
+16, 29-39. 
+CELLINI, R., SCORCU, A.E. (2007) How many Italies? What Data Show about Growth and 
+Convergence across Italian Regions, 1970-91, Rassegna di lavori dell’ISCO 13, 93-124.  
+CICCARELLI, C., FENOALTEA, S. (2009), La produzione industriale delle regioni d’Italia 1861-
+1913: Una ricostruzione quantitativa – Le industrie non manifatturiere Vol. 1, Banca 
+d’Italia, Roma. 
+CICCARELLI, C., FENOALTEA, S. (2010) Attraverso la lente d’ingrandimento: aspetti provinciali 
+della crescita industriale nell’Italia post-unitaria, Economic History Working Papers – 
+Quaderni di Storia Economia, No 4-2010, Banca d’Italia. 
+D’AMATO M., PISTORESI, B. (1997), Statistical Evidence on Regional Cohesion in Italy, 
+Giornale degli Economisti e Annali di Economia 56, 211-34. 
+ 27 
+ 
+DANIELE, V., MALANIMA, P. (2007) Il prodotto delle regioni e il divario Nord-Sud in Italia 
+1861-2004, Rivista di Politica Economica 97, 267-316. 
+DAVIS, D., WEINSTEIN, D. (2002) Bones, Bombs, and Break Points: The Geography of 
+Economic Activity, American Economic Review 92, 1269-89. 
+DE SIANO, R. AND D’UVA, M. (2008) Beta-convergence in Italy using a trend break date model, 
+The Empirical Economic Letters 7, 589-596. 
+FAZIO, G. AND PIACENTINO, D. (2010) A Spatial Multilevel Analysis of Italian SMEs’ 
+Productivity, Spatial Economic Analysis 5, 299-316. 
+FELICE, E. (2011a) The determinants of Italy’s regional imbalances over the long run: exploring 
+the contributions of human and social capital, Oxford University Economic and Social 
+History working paper series No. 088, Nuffield College, Oxford University. 
+FELICE, E. (2011b) Regional value added in Italy over the long run (1891-2001): linking indirect 
+estimates with official figures, and implications, UHE Working Paper 2011_04, Universitat 
+Autonoma de Barcelona. 
+FINGLETON, B., GARRETSEN, H., MARTIN R. (2012) Recessionary Shocks and Regional 
+Employment: Evidence on the Resilience of U.K. Regions, Regional Science 52, 109-33. 
+FOSTER, S. A. (1991) The expansion method: Implications for geographic research, The 
+Professional Geographer 43, 131-142. 
+HILL, E. W., WIAL, H. AND WOLMAN, H. (2008) Exploring Regional Resilience, Working Paper 
+2008-04. Berkeley, CA: Macarthur Foundation Research Network on Building Resilient 
+Regions, Institute for Urban and Regional Development, University of California. 
+HOLLING, C. S. (1973) Resilience and Stability of Ecological Systems, Annual Review of 
+Ecology and Systematics 4, 1-23. 
+HOLLING, C. S. (1996) Engineering Versus Ecological  Resilience”. In: P. SCHULZE (Ed.), 
+Engineering within Ecological Constraints, National Academy Press, Washington, DC,  
+31-44. 
+LEVIN, S.A., BARRETT, S., ANIYAR, S., BAUMOL W., et al. (1998) Resilience in Natural and 
+Socioeconomic Systems, Environment and Development Economics 3, 222-35. 
+ 
+MACKINNON G., HAUG A., MICHELIS L. (1999) Numerical Distribution Functions of 
+Likelihood Ratio Tests for Cointegration, Journal of Applied Econometrics, 14, 563-577. 
+MALANIMA, P., ZAMAGNI, V. (2010) 150 years of the Italian economy, 1861-2010, Journal of 
+Modern Italian Studies 15, 1-20. 
+ 28 
+ 
+MARTIN, R. (2012) Regional Economic Resilience, Hysteresis and Recessionary Shocks, 
+Journal of Economic Geography 12, 1-32. 
+MCLACHLAN, G. J. AND. BASFORD, K.E.(Eds), (1988) Mixture Models, New York, Marcel 
+Dekker. 
+ONG, A. D., BERGEMAN, C.S. et al. (2006) Psychological resilience, positive emotions, and 
+successful adaptation to stress in later life, Journal of Personality and Social Psychology 
+91, 730-49. 
+PENDALL, R., FOSTER, K.A., COWEL, M. (2010) Resilience and Regio

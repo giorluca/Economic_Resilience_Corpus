@@ -1,0 +1,1762 @@
+Oil Recovery by Surfactant Flooding; Sensitivity Analysis to Technical Parameters and Economic Analysis
+
+United Arab Emirates University
+Scholarworks@UAEU
+Theses Electronic Theses and Dissertations
+5-2017
+Oil Recovery by Surfactant Flooding; Sensitivity
+Analysis to Technical Parameters and Economic
+Analysis
+Hadel Mohsen Moustafa
+Follow this and additional works at: https://scholarworks.uaeu.ac.ae/all_theses
+Part of the Petroleum Engineering Commons
+This Thesis is brought to you for free and open access by the Electronic Theses and Dissertations at Scholarworks@UAEU. It has been accepted for
+inclusion in Theses by an authorized administrator of Scholarworks@UAEU. For more information, please contact fadl.musa@uaeu.ac.ae.
+Recommended Citation
+Moustafa, Hadel Mohsen, "Oil Recovery by Surfactant Flooding; Sensitivity Analysis to Technical Parameters and Economic Analysis"
+(2017). Theses. 657.
+https://scholarworks.uaeu.ac.ae/all_theses/657
+
+
+Approval of the Master Thesis 
+This Master Thesis is approved by the following Examining Committee Members: 
+1) Advisor (Committee Chair): Gamal Alusta 
+) 
+Title: AssistanfProfessor 
+2) Member: Abdulrazag Zekri 
+Title: Professor 
+Department of Chemical and Petroleum Engineering 
+Date 
+3) Member (External Examiner): Eric J. Mackay 
+Title: Professor 
+Date 2 s /�/Zolf--
+tv 
+v 
+This Master Thesis is accepted by: 
+Dean of the College of Engineerin+:/rofessor Sabah Alkass 
+Signature -------;
+,
+,_�-+-;;;�;::==�=:::2:.:.-
+-
+Dean of the College of Graduate Studies: Professor Nagi T. Wakim 
+Signature J-1, b� Date b ( 7 I 2-0 \\\\ 7 
+Copy -=1- of J_Q_ 
+ii 
+ 
+ 
+ 
+ 
+2 Declaration of Original Work 
+ 
+I, Hadel Mohsen Moustafa, the undersigned, a graduate student at the United Arab 
+Emirates University (UAEU), and the author of this thesis entitled “Oil Recovery 
+by Surfactant Flooding; Sensitivity analysis to technical parameters and economic 
+analysis”, hereby, solemnly declare that this thesis is my own original research 
+work that has been done and prepared by me under the supervision of Dr.Gamal 
+Alusta, in the College of Engineering at UAEU. This work has not previously been 
+presented or published, or formed the basis for the award of any academic degree, 
+diploma or a similar title at this or any other university. Any materials borrowed 
+from other sources (whether published or unpublished) and relied upon or included 
+in my thesis have been properly cited and acknowledged in accordance with 
+appropriate academic conventions. I further declare that there is no potential 
+conflict of interest with respect to the research, data collection, authorship, 
+presentation and/or publication of this thesis. 
+ 
+ 
+Student’s Signature                Date      
+vi 
+ 
+ 
+ 
+ 
+4 Abstract 
+  
+Various enhanced oil recovery methods including miscible gas injection, chemical, 
+thermal and other methods are applied at the third phase of production after the 
+primary and secondary recovery have been exhausted. Surfactant flooding is one of 
+the chemical methods that is capable of recovering more oil by decreasing the IFT 
+and/or wettability alteration. 
+This piece of work aims to asses and select the development options using surfactant 
+process that maximize oil recovery for a synthetic reservoir model by optimizing 
+technical and economic analysis. 
+Reservoir simulation study using ECLIPSE 100 was used to study the different 
+development options of surfactant flooding applied and compare them to 
+waterflooding. The development options include continuous surfactant injection, 
+secondary surfactant flooding, and tertiary surfactant flooding. Through the study, 
+the effect of injection rate, surfactant concentration and slug size were investigated 
+by setting up a range of sensitivities.  
+Results of the study reveal a general trend of increased oil recovery with the 
+implementation of surfactant flooding over waterflooding in the range of 0.3 - 7%. In 
+the continuous surfactant injection, the highest field oil efficiency of about 52% was 
+achieved using surfactant concentration of 30 lb/stb at 2000 stb/d. The optimum 
+development process from  the technical and economic point of view is injecting 
+0.25 PV of surfactant as a tertiary recovery process using 25 lb/stb of surfactant and 
+2000 stb/d as an injection  rate. The selected system yields an oil recovery of 
+48.91%. 
+vii 
+ 
+ 
+ 
+ 
+The outcomes of this project is expected to assist the oil industry in planning 
+surfactant flooding for heterogeneous reservoirs; which is the case of most  
+reservoirs in UAE. 
+ 
+Keywords: Enhanced oil recovery, surfactant flooding, continuous surfactant 
+injection, field oil efficiency, tertiary recovery. 
+ 
+ 
+viii 
+ 
+ 
+ 
+ 
+5 Title and Abstract (in Arabic) 
+ 
+ 
+(؛ دراسة تحليلية خافض التوتر السطحيانتاج النفط باستخذام حقن هحلول كيويائي )
+ للعواهل التشغيلية و تحليل اقتصادي  
+ 
+ صالولخ
+، انطشق طانؼذَذ يٍ انخمُُاث انًخمذيت السخخشاج انُفط بًا فٍ رنك حمٍ انغاص انًخهى
+ت انثانثت يٍ اإلَخاج بؼذ اسخُفار انكًُُائُت، و انطشق انحشاسَت و غُشها َخى حطبُمهى فٍ انًشحه
+، هى إحذي انطشق انكًُُائُت انغًش بخافض انخىحش انسطحٍانطشق األونُت و انثاَىَت. 
+انًسخخذيت السخؼادة انًضَذ يٍ انُفط. َخى رنك ػٍ طشَك خفض انخُمم فٍ انُظاو؛ و يٍ خالل 
+ أو ػٍ طشَك حغُش انخبهم.
+ساث انخطىَش باسخخذاو حمُُت خفض انخىحش انهذف يٍ انًششوع هى حمىَى و ححذَذ خُا
+انسطحٍ نضَادة إَخاج انُفط نًُىرج اصطُاػٍ نهخضاٌ حُث َخى بزنك ححسٍُ انًؼاَُش انفُُت بذلت 
+ و حطبُك انذساساث االلخصادَت.
+نذساست انخُاساث  ECLIPSE 100إلخشاء دساست انًحاكاة نهخضاٌ، حى اسخخذاو 
+طحٍ و يماسَخها بانغًش بانًاء . انخُاساث انخطىَشَت حشًم انخطىَشَت نهغًش بخافض انخىحش انس
+ ٍحمٍ خافض انخىحش انسطحٍ باسخًشاس، انغًش انثاَىٌ نخافض انخىحش انسطحٍ، انغًش انثانىث
+نخافض انخىحش انسطحٍ. خالل انذساست، حأثُش يؼذل انحمٍ، حشكُض خافض انىحش انسطحٍ، و 
+ َذ يٍ انخُاساث انخحهُهُت.حدى اندشػت حى ححهُههى ػٍ طشَك وضغ انؼذ
+كشفج َخائح انذساست بشكم ػاو ػهً ححسٍُ يؼذالث اسخخشاج انُفط باسخخذاو طشَمت 
+%. فٍ حمٍ 7 - 0.3غًش خافض انخىحش انسطحٍ ػهً انحمٍ بانًُاِ بُسبت حخشاوذ يا بٍُ
+% 85خافض انخىحش انسطحٍ انًسخًش، حى انحصىل ػهً أػهً كفاءة نهُفط بُسبت حضَذ ػٍ 
+ix 
+ 
+ 
+ 
+ 
+بشيُم سطحٍ  5333بشيُم سطحٍ ػُذ ضخ \\\\سطم 63سخخذاو خافض حىحش سطحٍ حشكُضِ با
+يٍ انحدى  3.58َىيُا  . انؼًهُت انخطىَشَت انًثهً يٍ انًُظىس االلخصادٌ و انفٍُ هٍ حمٍ 
+بشيُم سطحٍ يٍ خافض انخىحش  \\\\سطم 58انًسايٍ كًشحهت اسخخشاخُت ثانىثُت  باسخخذاو 
+َىيُا نُظاو انًخخاس فٍ هزِ انحانت َؼطٍ إَخاخُت بُسبت  بشيُم 5333انسطحٍ ػُذ ضخ  
+79.84.% 
+َخائح هزِ انذساست َُبغٍ أٌ حساػذ انمطاع انصُاػٍ نهُفط فٍ انخخطُط نؼًهُاث غًش 
+خافض انخىحش انسطحٍ فٍ انخضاَاث انغُش يخداَست؛ و هٍ انخضاَاث االكثش شُىػا فٍ دونت 
+ االياساث انًخحذة
+ 
+االسخخشاج انًؼضص نهُفط، غًش خافض انخىحش انسطحٍ، انحمٍ  :ةسيحث الرئيبهفاهين ال
+ .، اإلَخاج انكهٍ نهُفط ٍانًسخًش نخافض انخىحش انسطحٍ، االسخخشاج انثانىث
+. 
+x 
+ 
+ 
+ 
+ 
+6 Acknowledgements 
+ 
+In preparing this piece of work I have had a great deal of help from a number of 
+people. I would like to express my gratitude to my advisor Dr.Gamal Alusta for his  
+continuous supervision and guidance. 
+I would like to thank all members of the Chemical and Petroleum Engineering 
+Department at United Arab Emirates University for assisting me all over my studies 
+and research. My special thanks are extended to Prof.Abdulrazag Zekri, Prof. Jamal 
+Abou-Kassem and Dr. Hazim Alattar for their support and encouragement. 
+Special thanks go to my parents, brothers, sisters  and husband who helped me along 
+the way. 
+xi 
+ 
+ 
+ 
+ 
+7 Dedication 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To my beloved parents and my dear husband 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+xii 
+ 
+ 
+ 
+ 
+8 Table of Contents 
+ 
+Title ..................................................................................................................................... i 
+Declaration of Original Work ........................................................................................... ii 
+Copyright ......................................................................................................................... iii 
+Approval of the Master Thesis .......................................................................................... iv 
+Abstract ............................................................................................................................. vi 
+Title and Abstract (in Arabic) ........................................................................................ viii 
+Acknowledgements ............................................................................................................ x 
+Dedication ......................................................................................................................... xi 
+Table of Contents ............................................................................................................ xii 
+List of Tables................................................................................................................... xiv 
+List of Figures ................................................................................................................. xvi 
+List of Abbreviations.................................................................................................... xviii 
+Chapter 1: Introduction ...................................................................................................... 1 
+1.1 Overview .......................................................................................................... 1 
+1.2 Statement of the Problem ................................................................................. 2 
+1.3 Relevant Literature ........................................................................................... 2 
+1.3.1 Introduction to Surfactants ....................................................................... 2 
+1.3.2 Classification of Surfactants ..................................................................... 3 
+1.3.3 Applications of Surfactants ...................................................................... 4 
+1.3.4 Surfactants in the Petroleum Industry ...................................................... 4 
+Chapter 2: Reservoir Simulation Model Description ....................................................... 15 
+2.1 Gridding and Rock Data ................................................................................ 15 
+2.2 Fluid PVT and Fluid-Rock Interaction properties: ........................................ 17 
+2.3 Surfactant Properties ...................................................................................... 19 
+2.4 Assumptions ................................................................................................... 20 
+Chapter 3: Reservoir Development and Development Options ....................................... 21 
+3.1 Reservoir Development Plan.......................................................................... 21 
+3.2 Reservoir Development Option Identification ............................................... 22 
+Chapter 4: Development Processes Assess Study ............................................................ 28 
+4.1 Sensitivity Analysis ........................................................................................ 28 
+4.1.1 Waterflooding process ............................................................................ 28 
+4.1.2 Surfactant Flooding Processes ............................................................... 33 
+4.2 Economic Model ............................................................................................ 65 
+Chapter 5: Conclusions and Recommendations ............................................................... 70 
+5.1 Conclusions .................................................................................................... 70 
+xiii 
+ 
+ 
+ 
+ 
+5.2 Recommendations .......................................................................................... 71 
+References ........................................................................................................................ 72 
+Appendix .......................................................................................................................... 77 
+  
+xiv 
+ 
+ 
+ 
+ 
+9 List of Tables 
+ 
+Table ‎1-1: Types of surfactant flooding ....................................................................... 6 
+Table ‎2-1: Porosity data ............................................................................................. 16 
+Table ‎2-2: Permeability data ...................................................................................... 16 
+Table ‎2-3: Water PVT data ........................................................................................ 18 
+Table ‎2-4: Surfactant solution viscosity ..................................................................... 19 
+Table ‎2-5: Surfactant adsorption isotherm ................................................................. 19 
+Table ‎2-6: Water/oil surface tension as a function of surfactant concentration ......... 19 
+Table ‎2-7: Capillary desaturation function ................................................................ 19 
+Table ‎3-1: Waterflooding process identification........................................................ 23 
+Table ‎3-2: Continuous surfactant injection process identification ............................. 24 
+Table ‎3-3: Secondary surfactant flooding process identification ............................... 24 
+Table ‎3-4: Tertiary surfactant flooding process identification ................................... 26 
+Table ‎4-1: Waterflooding injection at 1000 stb/d  results .......................................... 29 
+Table ‎4-2: Waterflooding injection at 2000 stb/d results ........................................... 30 
+Table ‎4-3: Waterflooding injection at 3000 stb/d results ........................................... 31 
+Table ‎4-4: Oil recovery efficiency for different injection rates, waterflooding process
+ ................................................................................................................. 32 
+Table ‎4-5: Continuous surfactant injection results (30 lb/stb, 1000 stb/d) ................ 35 
+Table ‎4-6: Continuous surfactant injection results (30 lb/stb, 2000 stb/d) ................ 37 
+Table ‎4-7: Continuous surfactant injection results (30 lb/stb, 3000 stb/d) ................ 38 
+Table ‎4-8: Oil recovery efficiency for continuous surfactant injection scenarios ..... 39 
+Table ‎4-9: Percentage increase in FOE at 2000 stb/d (continuous surfactant injection)
+ ................................................................................................................. 41 
+Table ‎4-10: Secondary flooding results (0.1 PV, 30 lb/stb, 2000 stb/d) .................... 42 
+Table ‎4-11: Secondary flooding results (0.2 PV, 30 lb/stb, 2000 stb/d) .................... 43 
+Table ‎4-12: Secondary flooding results (0.3 PV, 30 lb/stb, 2000 stb/d) .................... 44 
+Table ‎4-13: Secondary flooding results (0.5 PV, 30 lb/stb, 2000 stb/d) .................... 45 
+Table ‎4-14: Oil recovery efficiency of secondary flooding scenarios ....................... 46 
+Table ‎4-15: Percentage increase in FOE at 30 lb/stb (secondary surfactant flooding)
+ ................................................................................................................. 52 
+Table ‎4-16: Optimum combination of surfactant concentration and injection for the 
+different surfactant slug sizes (secondary surfactant flooding) ............... 53 
+Table ‎4-17: Tertiary flooding results (0.1 PV, 30 lb/stb, 2000 stb/d) ........................ 53 
+Table ‎4-18: Tertiary flooding results (0.2 PV, 30 lb/stb, 2000 stb/d) ........................ 55 
+Table ‎4-19: Tertiary flooding results (0.25 PV, 30 lb/stb, 2000 stb/d) ...................... 56 
+Table ‎4-20: Tertiary flooding results (0.3 PV, 30 lb/stb, 2000 stb/d) ........................ 57 
+Table ‎4-21: Oil recovery efficiency of tertiary flooding scenarios ............................ 58 
+Table ‎4-22: Percentage increase in FOE at 30 lb/stb (tertiary surfactant flooding) ... 64 
+Table ‎4-23: Optimum combination of surfactant concentration and injection for the 
+different surfactant slug sizes (tertiary surfactant flooding) ................... 65 
+xv 
+ 
+ 
+ 
+ 
+Table ‎4-24: Ranges used for economic parameters for the surfactant flooding 
+sensitivities .............................................................................................. 66 
+Table ‎4-25: Net present value for the optimum combination of surfactant 
+concentration and injection rate for the different surfactant injection 
+scenarios at different oil prices................................................................ 67 
+Table ‎4-26: Minimum oil price for implementing a profitable surfactant flooding 
+process ..................................................................................................... 69 
+ 
+  
+xvi 
+ 
+ 
+ 
+ 
+10 List of Figures 
+ 
+Figure ‎1-1: Surface-active molecular structure  ........................................................... 3 
+Figure ‎1-2: Surfactant flooding process  ...................................................................... 6 
+Figure ‎1-3: The effect of IFT on the movement of oil ganglia through the narrow 
+necks of pores  ........................................................................................ 8 
+Figure ‎1-4: Three types of microemulsions and the effect of salinity on phase 
+behavior  ................................................................................................. 9 
+Figure ‎1-5: Pseudo-ternary representation of oil-water-surfactant system  ............... 12 
+Figure ‎1-6: The role of wettability and contact angle on oil displacement  ............... 13 
+Figure ‎2-1: Reservoir synthetic model ....................................................................... 16 
+Figure ‎2-2: Relative permeability curves ................................................................... 17 
+Figure ‎2-3: Capillary pressure curve .......................................................................... 17 
+Figure ‎2-4: Oil formation volume factor as function of pressure .............................. 18 
+Figure ‎2-5: Oil viscosity as a function of pressure .................................................... 18 
+Figure ‎2-6: Model injection pattern ........................................................................... 20 
+Figure ‎3-1: Full field development plan optimization  .............................................. 22 
+Figure ‎4-1: Waterflooding injection at 1000 stb/d reservoir performance ................ 29 
+Figure ‎4-2: Waterflooding injection at 2000 stb/d reservoir performance ................ 30 
+Figure ‎4-3: Waterflooding injection at 3000 stb/d reservoir performance ................ 31 
+Figure ‎4-4: Oil recovery efficiency for different injection rates, waterflooding 
+process .................................................................................................. 32 
+Figure ‎4-5: FOE vs. injection rate, waterflooding process ........................................ 33 
+Figure ‎4-6: Schematics of surfactant flooding development processes ..................... 34 
+Figure ‎4-7: Continuous surfactant injection (30 lb/stb, 1000 stb/d) reservoir 
+performance .......................................................................................... 36 
+Figure ‎4-8: Continuous surfactant injection (30 lb/stb, 2000 stb/d) reservoir 
+performance .......................................................................................... 37 
+Figure ‎4-9: Continuous surfactant injection (30 lb/stb, 3000 stb/d) reservoir 
+performance .......................................................................................... 38 
+Figure ‎4-10: Oil recovery efficiency for different scenarios, continuous surfactant 
+injection ................................................................................................ 40 
+Figure ‎4-11: FOE vs. injection rate at different surfactant concentrations (continuous 
+surfactant injection) .............................................................................. 40 
+Figure ‎4-12: Secondary surfactant flooding (0.1 PV, 30 lb/stb, 2000 stb/d) reservoir 
+performance .......................................................................................... 42 
+Figure ‎4-13: Secondary surfactant flooding (0.2 PV, 30 lb/stb, 2000 stb/d) reservoir 
+performance .......................................................................................... 43 
+Figure ‎4-14: Secondary surfactant flooding (0.3 PV, 30 lb/stb, 2000 stb/d) reservoir 
+performance .......................................................................................... 44 
+Figure ‎4-15: Secondary surfactant flooding (0.5 PV, 30 lb/stb, 2000 stb/d) reservoir 
+performance .......................................................................................... 45 
+xvii 
+ 
+ 
+ 
+ 
+Figure ‎4-16: Oil recovery efficiency for different scenarios, secondary surfactant 
+flooding_0.1PV ..................................................................................... 48 
+Figure ‎4-17: Oil recovery efficiency for different scenarios, secondary surfactant 
+flooding_0.3PV ..................................................................................... 48 
+Figure ‎4-18: Oil recovery efficiency for different scenarios, secondary surfactant 
+flooding_0.5 PV .................................................................................... 49 
+Figure ‎4-19: Oil recovery efficiency for different scenarios, secondary surfactant 
+flooding_0.7 PV .................................................................................... 49 
+Figure ‎4-20: FOE vs. injection rate at different surfactant concentrations (secondary 
+surfactant flooding _0.1 PV) ................................................................. 50 
+Figure ‎4-21: FOE vs. injection rate at different surfactant concentrations (secondary 
+surfactant flooding _0.3 PV) ................................................................. 50 
+Figure ‎4-22: FOE vs. injection rate at different surfactant concentrations (secondary 
+surfactant flooding _0.5 PV) ................................................................. 51 
+Figure ‎4-23: FOE vs. injection rate at different surfactant concentrations (secondary 
+surfactant flooding _0.7 PV) ................................................................. 51 
+Figure ‎4-24: Tertiary surfactant flooding  (0.1 PV, 2000 stb/d, 30 lb/stb) reservoir 
+performance .......................................................................................... 54 
+Figure ‎4-25: Tertiary surfactant flooding (0.2 PV, 2000 stb/d, 30 lb/stb) reservoir 
+performance .......................................................................................... 55 
+Figure ‎4-26: Tertiary surfactant flooding (0.25 PV, 2000 stb/d, 30 lb/stb) reservoir 
+performance .......................................................................................... 56 
+Figure ‎4-27: Tertiary surfactant flooding (0.3 PV, 2000 stb/d, 30 lb/stb) reservoir 
+performance .......................................................................................... 57 
+Figure ‎4-28: Oil recovery efficiency for different scenarios, tertiary surfactant 
+flooding_0.1 PV .................................................................................... 60 
+Figure ‎4-29: Oil recovery efficiency for different scenarios, tertiary surfactant 
+flooding_0.2 PV .................................................................................... 60 
+Figure ‎4-30: Oil recovery efficiency for different scenarios, tertiary surfactant 
+flooding_0.25 PV .................................................................................. 61 
+Figure ‎4-31: Oil recovery efficiency for different scenarios, tertiary surfactant 
+flooding_0.3 PV .................................................................................... 61 
+Figure ‎4-32: FOE vs. injection rate at different surfactant concentrations (tertiary 
+surfactant flooding _0.1 PV) ................................................................. 62 
+Figure ‎4-33: FOE vs. injection rate at different surfactant concentrations (tertiary 
+surfactant flooding _0.2 PV) ................................................................. 62 
+Figure ‎4-34: FOE vs. injection rate at different surfactant concentrations (tertiary 
+surfactant flooding _0.25 PV) ............................................................... 63 
+Figure ‎4-35: FOE vs. injection rate at different surfactant concentrations (tertiary 
+surfactant flooding _0.3 PV) ................................................................. 63 
+Figure ‎4-36: Net present value vs. Oil price for the optimum combination of 
+surfactant concentration and injection for the different surfactant 
+injection scenarios ................................................................................. 68 
+xviii 
+ 
+ 
+ 
+ 
+11 List of Abbreviations 
+ 
+ 
+Bo   Oil Formation Volume Factor 
+EOR Enhanced Oil Recovery 
+FOE Field Oil Efficiency (%) 
+FOPT Field Oil Production Total (stb) 
+FPR Field Pressure (psia) 
+FTPTSUR Field Surfactant Injection Total (lb) 
+FTITSUR Field Surfactant Production Total (lb) 
+FWCT Field Water Cut (dimensionless)  
+FWIT Field Water Injection Total (stb) 
+FWPT Field Water Production Total (stb) 
+IFT Interfacial Tension 
+IOIP Initial Oil In Place 
+IOR   Improved Oil Recovery 
+k Permeability (md) 
+kro Relative permeability to oil (md) 
+krw Relative permeability to water (md) 
+Nc Capillary number 
+Pb Bubble point pressure (psia) 
+Pcow Oil water capillary pressure (psia) 
+PV Pore Volume 
+PVT Pressure-Volume-Temperature 
+Sw Water saturation (fraction) 
+μo Oil viscosity (cp) 
+μw Water viscosity (cp) 
+xix 
+ 
+ 
+ 
+ 
+ν Velocity of the displacing fluid 
+σ Oil-water interfacial tension 
+θ Contact angle between the oil-water interface 
+1 
+ 
+ 
+ 
+ 
+1 Chapter 1: Introduction 
+ 
+1.1 Overview 
+Oil recovery processes have been conventionally subdivided into three stages: 
+primary, secondary, and tertiary. Primary production, which is the initial production 
+stage, results from the displacement of oil by the natural energy that exists in the 
+reservoir. Secondary recovery is usually implemented after primary production 
+declines. Waterflooding and gas injection are among the traditional secondary 
+recovery processes (Green et al., 1998). Tertiary recovery is any technique applied 
+after secondary recovery (Lake et al., 1986). Enhanced oil recovery (EOR) 
+encompasses all methods that use external energy resources and/or materials to 
+recover oil that cannot be produced economically by conventional techniques. EOR 
+includes the following: 
+ Chemical methods: polymer, surfactant, micellar polymer and caustic alkaline. 
+ Miscible methods: hydrocarbon gas, carbon dioxide and nitrogen. 
+ Thermal methods: steam flooding, steam stimulation and in-situ combustion 
+(Satter et al., 2008). 
+Most enhanced oil recovery methods can be categorized as secondary or tertiary 
+depending at which stage of the reservoir producing life they are applied (Robertson 
+et al., 1989).The optimum application of each method depends on the reservoir 
+characteristics including oil type (Donaldson et al., 1985). In the last decade, 
+improved oil recovery (IOR) has been used interchangeably with EOR. Although, 
+there is no formal definition, IOR refers to any process that improves oil recovery 
+2 
+ 
+ 
+ 
+ 
+(Stosur et al. , 2003). Therefore, IOR includes other practices such as waterflooding, 
+pressure maintenance, infill drilling and horizontal wells (Lake et al., 1986). 
+1.2 Statement of the Problem 
+Primary depletion and secondary recovery processes typically recover about one 
+third of the original oil-in-place. Thus, about two trillion barrels of conventional oil 
+and five trillion barrels of heavy oil remain in reservoirs after these methods have 
+been exhausted. The low oil recoveries from conventional methods are the result of 
+poor macroscopic sweep efficiencies that are attributed to the lack of mobility 
+control and inefficient microscopic displacement caused by capillary trapping of oil 
+mainly due to wettability and interfacial forces (Romsted, 2014). Thus, in recent 
+years, the field of enhanced oil recovery has become more popular due to a 
+combination of the world’s rising energy consumption, stagnant oil production, and 
+low recoveries by conventional methods. EOR processes offer prospects for 
+ultimately producing 30-60% or more of the reservoir IOIP (ARI, 2006). Surfactant 
+flooding has the potential to improve recovery by reducing IFT and/or wettability 
+alteration (Green et al.,1998). 
+1.3 Relevant Literature 
+1.3.1 Introduction to Surfactants 
+Surfactants, also called surface-active agents, are chemical substances that are 
+adsorbed onto surfaces or interfaces of a system when present at low concentrations 
+(Green et al., 1998). They have a distinctive molecular configuration containing a 
+structural group that has very little affinity for the solvent, called a lipophobic group, 
+3 
+ 
+ 
+ 
+ 
+together with a group that has strong affinity for the solvent, known as the lipophilic 
+group (Rosen et al,, 2004). The lipophilic portion usually contains a long 
+hydrocarbon chain which may be linear or branched. This lipophilic-lipophobic 
+structure is named as amphipathic structure (Donaldson et al., 1989). The lipophilic 
+group is usually called the “tail” and the lipophobic the “head” of the molecule 
+(Green et al.,1998). The surface properties of such a compound are governed by the 
+balance between its lipophilic and lipophobic features. A surfactant is called water 
+soluble when it contains a hydrocarbon chain which could be linear or branched with 
+less than 12 carbon atoms since the polar head groups drag the whole molecule in 
+water. Conversely, when the chain length is greater than 14 carbon atoms, the 
+compounds are named water-insoluble surfactants since they do not dissolve in water 
+because of the long hydrocarbon chains (Donaldson et al., 1989). 
+ 
+        Figure ‎1-1: Surface-active molecular structure (Green et al., 1998) 
+ 
+1.3.2 Classification of Surfactants  
+Most commonly, surfactants are classified based on the ionic nature of the head 
+group as anionic, cationic, nonionic, zwitterionic. The head group in anionic 
+surfactant bears a negative charge in aqueous solutions as in sodium dodecyl sulfate 
+4 
+ 
+ 
+ 
+ 
+(C12H25SO4
+-
+Na
++
+), whereas the head group in cationic surfactant bears a positive 
+charge in aqueous solutions as in dodecyltrimethylammonium bromide 
+(C12H25N
++
+Me3Br
+-
+). Non-ionic surfactant does not ionize in aqueous solutions as in 
+dodecylhexaoxyethylene glycol monoether (C12H25[OCH2CH2]6OH), whereas 
+Zwitterionic bears both positive and negative charges in the surface-active portion as 
+in dimethylsulfonioacetate (CH3)2S
++
+[CH2]CO2
+-
+)
+ 
+(Green and Willhite,1998). 
+1.3.3 Applications of Surfactants 
+Surfactants represent one of the major and most versatile products used in the 
+chemical industry (Rosen et al., 2004).  There are many applications for the products 
+that are used daily (e.g. soaps, detergents, shampoos, cosmetics, pharmaceuticals, 
+foods, and etc.) and in industry (e.g. oilfield chemicals, textile finishing and 
+processing ,emulsions, paint and coatings, pulp and paper, etc.) (Myers,2006).  
+1.3.4 Surfactants in the Petroleum Industry 
+Surfactants are used throughout the petroleum industry. They are important in 
+drilling, cement slurries, acidization, fracturing ,corrosion inhibition, demulsification, 
+cleaning, transportation, waterflooding, steam, foam and chemical flooding and 
+environment protection (Bhardwaj et al., 1993).   
+1.3.4.1 Use of Surfactants in Oil Recovery 
+The use of surfactants for improving the oil recovery started in late 1920’s and early 
+1930’s (Donaldson et al., 1985).Anionics and nonionics surfactants have been used 
+in EOR processes. Anionic surfactants have been the most widely used in oil 
+recovery processes since they are relatively stable, have good surfactant properties, 
+5 
+ 
+ 
+ 
+ 
+exhibit relatively low adsorption on reservoir rock, and can be produced in an 
+economical manner. Among the numerous anionic surfactants, sulfonates have been 
+commonly used in EOR processes during the past 50 years. These include: petroleum 
+sulfonates, synthetic sulfonates and ethoxylates sulfonates (Donaldson et al., 1989).  
+Nonionic surfactants have been used mainly as surfactants to enhance the behavior of 
+surfactant systems. They are much more tolerant of high salinity brine compared to 
+anionics but their surface active properties are not as good as anionics. Cationics are 
+not usually used because they strongly adsorb on reservoir rocks  (Green et al., 
+1998).  
+1.3.4.2 Surfactant Flooding  
+Surfactant flooding is an EOR process in which surfactant solution is injected to 
+sweep the reservoir.  The presence of surfactant lowers the interfacial tension 
+between the oil and water phases and also changes the reservoir rock wettability to 
+improve oil recovery. It has appeared in the literature under many names such as 
+low-tension flooding detergent flooding and chemical flooding (Romsted, 2014) 
+.Surfactant flooding creates microemulsion solutions, which may consist of different 
+combinations of surfactants, co-surfactants, hydrocarbons, water and electrolytes 
+(Green et al., 1998). A typical surfactant flood is shown below: 
+6 
+ 
+ 
+ 
+ 
+ 
+Figure ‎1-2: Surfactant flooding process (Emgwalu, 2009) 
+Generally, there are three types of surfactant flooding for EOR (Rosen et al., 2005) 
+as shown in the following table : 
+Table ‎1-1: Types of surfactant flooding 
+Type of surfactant flooding Technique Note 
+Microemulsion flooding Microemulsions are formed 
+by injecting surfactants, co-
+surfactant, alcohol, and 
+brine to obtain ultralow 
+IFT. 
+It can be designed to perform 
+well in high temperature or 
+salinity or low permeable 
+areas where polymer and/or 
+alkali cannot succeed. 
+Micelle/polymer flooding A micelle slug usually 
+containing  surfactant, co-
+surfactant, alcohol, brine 
+and oil is injected into the 
+reservoir. 
+Displacement efficiency 
+close to 100% (laboratory 
+measurement  ). 
+Alkaline/surfactant/polymer 
+flooding 
+The addition of alkaline 
+chemicals lowers the IFT at  
+considerably low surfactant 
+concentrations.  
+Lower concentration of 
+surfactants is involved in this 
+process in order to  reduce 
+the cost of chemicals. 
+ 
+Surfactant flooding can be conducted as a tertiary displacement near the end of 
+waterflood or as a secondary flood (Green and Willhite,1998). 
+The favorable characteristics for Surfactant Flooding include : 
+7 
+ 
+ 
+ 
+ 
+ High permeability and porosity. 
+ High remaining oil saturation (>25%).  
+ Light oil less than 50 cp--but recent trend is to apply to viscous oils up to 200 cp 
+or even higher viscosity. 
+ Short project life due to favorable combination of small well spacing and/or high 
+injectivity. 
+ Onshore. 
+ Good geological continuity.  
+ Good source of high quality water. 
+ Reservoir temperatures less than 300 ºF. 
+ 
+1.3.4.2.1 Main Aspects of Surfactant Flooding 
+I. Reservoir temperature 
+II. Timing 
+III. Capillary forces and capillary number 
+At the end of waterflooding, the remaining oil is believed to be present as immobile 
+globules distributed through the rock pores in petroleum reservoirs. The two main 
+forces acting on these immobile globules are capillary forces and viscous forces. The 
+capillary number is defined as the ratio of viscous forces to capillary forces and is 
+represented as: 
+         (1.1) 
+where ν and μ are velocity and viscosity of the displacing fluid, respectively, σ is the 
+oil-water interfacial tension and θ is the contact angle between the oil-water interface 
+ cos/caN
+8 
+ 
+ 
+ 
+ 
+and the rock surface measured through the denser phase, which is water in this case 
+(Donnez , 2012). 
+At the end of waterflooding, the capillary number ranges from 10
+-6
+ to 10
+-7
+. The oil 
+displacement efficiency increases as the capillary number increases. The  capillary 
+number can be increased by increasing the aqueous phase viscosity (μw) and flow 
+rate or by decreasing the interfacial tension between oil and water, which generally 
+ranges from 20 to 30 dyne/cm. By injecting an appropriate surfactant, the interfacial 
+tension can be lowered to 10
+-3
+ or 10
+-4 
+dyne/cm (Donaldson et al., 1989). 
+IV.  Interfacial tension I 
+It is well accepted that oil recovery efficiency can be improved by obtaining ultra-
+low interfacial tension between oil and water by adsorption at the interface. The flow 
+of trapped oil droplets or ganglia through the narrow necks of pores is illustrated 
+schematically in Figure 1-3 (Donaldson et al., 1989). 
+ 
+Figure ‎1-3: The effect of IFT on the movement of oil ganglia through the narrow 
+necks of pores (Donaldson et al., 1989) 
+ 
+An ultra-low interfacial tension (often less than 10
+-3
+ dyne/cm) between oil and water 
+phases is required for easy the flow of trapped oil drops since it reduces the 
+deformation work needed for oil ganglia to move through the narrow necks of pore 
+9 
+ 
+ 
+ 
+ 
+channels (Donaldson et al., 1989). Foster (1973) and Hill, Reisberg and Stegemeier 
+(1973) observed that relatively small concentrations of petroleum sulfonates can 
+produce such low interfacial tension between oil and water. Researchers found that 
+the IFT of an oil–water–surfactant system is a function of salinity, oil composition, 
+surfactant type and concentration, cosurfactant, electrolytes, temperature, and the 
+phase behavior of the system (Adkins et al., 2012). 
+ Influence of salinity on IFT  
+Winsor (1954) recognized three types of phase equilibria in microemulsion phase as 
+type I, type II, and type III. Healy and Reed (1974) explained how the Winsor-type 
+behavior describes the change in phase behavior, solubilization of oil and water and 
+IFT as a function of salinity for anionic surfactants. The oil–water–surfactant system 
+is strongly affected by the water salinity. This phase behavior is represented by a 
+ternary diagram as shown in the Figure 1-4: 
+ 
+Figure ‎1-4: Three types of microemulsions and the effect of salinity on phase 
+behavior (Healy and Reed, 1974) 
+10 
+ 
+ 
+ 
+ 
+ 
+The surfactant flood exhibit good aqueous phase solubility and poor oleic phase 
+solubility in case of  low brine salinities, thus forming type I phase behavior. In type 
+I system, an oil-in-water microemulsion is formed, and the surfactant remains in the 
+aqueous phase (Schramm et al., 2000). This system is referred to as the lower phase 
+microemulsion or type II (-) system, where II means no more than two phases can 
+form and (-) means that the tie-lines have negative slope. This phase behavior is not 
+favorable to achieve ultralow IFT. A water-in-oil microemulsion with an excess oil 
+phase is defined as the upper phase microemulsion or type II (+). This behavior leads 
+to the retention of surfactants in the oil phase and is not favored in EOR. In a type III 
+microemulsion, the surfactant forms a microemulsion in a separate phase between 
+the oil and aqueous phases. This phase forms a continuous layer containing 
+surfactant, water and dissolved hydrocarbons. Usually, type III provides low IFT 
+especially when equal volumes of water and oil are solubilized in the microemulsion. 
+This condition is defined as optimal salinity, which exhibits the lowest IFT between 
+the water and the oil. In addition, optimal salinity can be expressed as the midpoint 
+salinity where  IFT between microemulsion and water and that between 
+microemulsion and oil are more or less the same. Type III system is desirable for 
+EOR processes (Aoudia et al., 1995). 
+A. Influence of surfactant structure on IFT 
+Bourrel and Schechter (1988) has established a clear relationship between surfactant 
+structure and fluid properties associated with EOR performance. The surfactant 
+structure determines its solubility in either water or oil. Increasing the effect of the 
+nonpolar end of the surfactant increases oil solubility (Adkins et al., 2012). The best 
+surfactants used in EOR applications normally have a branched tail.  
+11 
+ 
+ 
+ 
+ 
+B. Influence of oil properties on IFT 
+High specific gravity crude oils are normally rich in organic acids; thus, the 
+surfactant-oil solubility is lower in such oils. Some correlations have been found for 
+the tendency  of a surfactant to dissolve in oil as the temperature increases. For many 
+anionics, higher temperatures correspond to better solubility in brine. This behavior 
+is reversed for nonionics. In conclusion, cosurfactants can be used to enhance 
+solubility so that the transition from type II (-) system to type II (+) system can occur 
+at different salinities (Romsted, 2014). 
+C. Influence of surfactant concentration on IFT  
+It is necessary to find an optimal concentration because surfactants get adsorbed by 
+the rock. When a large amount of surfactant gets adsorbed, the concentration in the 
+solution decreases and the surfactant capacity to lower interfacial tension is reduced  
+(Donaldson et al. ,1989). Cayias et al. (1977) reported that IFT decreases as the 
+surfactant concentration increases, and at critical concentration the IFT approaches 
+its minimum value. Beyond this critical concentration, the IFT increases with 
+increase  of surfactant concentration. Sharma et al. (1983) indicated that adding a 
+nonionic surfactant containing phosphate ester can widen the IFT minimum. 
+V. Phase behavior 
+Microemulsion systems can be designed that have ultralow IFT values with either 
+aqueous or hydrocarbon phase. Ultralow IFT are associated with high solubilization 
+of oil and water by the microemulsion system. Thus, regions of low IFT are found by 
+examining the phase behavior of microemulsion systems to locate regions of high 
+solubilization. The phase behavior of microemulsions is complex and there are no 
+universal equations of state for even simple microemulsions. A microemulsion 
+usually consists of at least three components: surfactant, hydrocarbon, and water. 
+12 
+ 
+ 
+ 
+ 
+Cosurfactant and electrolyte could be added though are not necessary. The number of 
+components must be reduced due to time and economic constraints by combining 
+one or more components into pseudocomponents. In most cases, the surfactant and 
+cosurfactant are treated as pseudocomponent named as “surfactant”. Water and 
+electrolyte are represented by the brine pseudocomponent (Green and Willhite, 
+1998). On a ternary diagram such as the one shown in Figure 1-5, by convention, the 
+top apex of the diagram represents the surfactant pseudocomponent, the lower left 
+apex represents brine and the lower right apex represents oil (Reed et al., 1977). 
+Concentrations may be expressed as mass or volume fractions (Green et al., 1998).  
+ 
+Figure ‎1-5: Pseudo-ternary representation of oil-water-surfactant system (Reed and 
+Healy,1977) 
+ 
+VI. Wettability 
+Many researchers including Melrose (1965); McCaffery and Mungan (1970) and 
+Salathiel (1973) suggested that rock wettability can be altered by adding a simple 
+salt, acid or base to flood water. 
+13 
+ 
+ 
+ 
+ 
+.  
+Figure ‎1-6: The role of wettability and contact angle on oil displacement (Donaldson 
+et al., 1989) 
+ 
+As can be seen in Figure 1-7, the oil-wettable surface leads to poor oil displacement, 
+while the water wettable surface leads to more efficient oil displacement. Choosing 
+an appropriate surfactant can selectively change the rock wettability from oil to water 
+that can facilitate favorable conditions for efficient oil displacement (Donaldson et 
+al., 1989).  
+1.3.4.2.2 Mechanism of Surfactant Loss in Porous Media   
+Precipitation, phase trapping and adsorption are various mechanisms by which 
+surfactants get trapped by the reservoir rock. A lot of research in the past and recent 
+times have  produced ways to technically avoid loss of surfactant through 
+precipitation and phase trapping. This may be achieved by using salt tolerant 
+surfactants (Chinenye, 2010). As the surfactant slug contacts reservoir rock and 
+water, there would be a loss of surfactants due to adsorption at solid-liquid interface. 
+Therefore, only part of the total surfactant injected in the reservoir is available for the 
+displacement process (Donaldson et al., 1989). Many investigators including Ginn 
+(1970); Somasundaran and Grieves (1975) and Bae and Petrick (1976) have 
+examined the adsorption of various petroleum sulfonates on solid-liquid interfaces. It 
+14 
+ 
+ 
+ 
+ 
+was noted that the maximum adsorption occurs near the critical micelle concentration 
+which is defined as the concentration of surfactants above which micelles form and 
+all additional surfactants added to the system go to micelles. Novosad (1981) studied 
+surfactant adsorption in the presence of short-chain alcohols. He found that 
+surfactant loss can be minimized by the addition of low molecular weight alcohols 
+such as secondary butyl alcohol and n-propanol. 
+1.3.4.2.3 Application of Surfactant-Based Process in Sandstone Reservoirs 
+Most applications of surfactant-based EOR processes have been in sandstone 
+reservoirs. Favorable reservoir characteristics in sandstones include high porosity, 
+high permeability and good geologic continuity. Low clay content is important to 
+have low surfactant retention (Aoudia et al., 1995). Many of the current chemicals 
+are more effective at temperatures less than 150ºC. In addition, it is more preferable 
+to have the remaining oil in place more than 25% with a viscosity less than 50 cp 
+(Sheng, 2011). A majority of implemented projects have been in onshore reservoirs 
+because of the salinity effect on surfactants and the need for a reliable source of high 
+quality water (Romsted, 2014). One of the reasons that surfactant EOR is not as 
+common in carbonate reservoirs is that anionic surfactants are highly adsorbed on the 
+rock surface because of the positive charge. Furthermore, anhydrite is often present 
+in carbonates which causes precipitation (Morrow, 1990; Al-Hasihm et al., 1996; 
+Bortalotti et al., 2009; Manrique et al., 2007). Since most of the world’s oil reserves 
+are contained in carbonate reservoirs, the application of surfactant-based methods in 
+carbonate reservoirs has lately become an active area of research as a strategy to 
+increase oil recovery (Treibel et al., 1972; Manrique et al., 2014;  Romsted, 2014). 
+ 
+15 
+ 
+ 
+ 
+ 
+2 Chapter 2: Reservoir Simulation Model Description 
+ 
+Surfactant flooding through the reservoir can be modeled using the ECLIPSE 100 
+simulator. The ECLIPSE 100 is a fully–implicit, three-phase, three dimensional 
+general purpose black oil simulator. The surfactant model in ECLIPSE 100 does not 
+provide the detailed chemistry of the process, but rather models the important 
+features of a surfactant flood on a full field basis. The simulation started on 1
+st
+ of 
+January 2009, and continued for 41 years up to 2050. The simulation run stops once 
+the water cut reaches 90%. 
+2.1 Gridding and Rock Data  
+The synthetic reservoir model shown in Figure 2-1 has dimensions 2250' × 1575' × 
+150'. Each layer has 30 x 21 cells. There grid cells consist of 15 layers, distributed 
+among three geological layers: 
+ Geological layer 1 represents grid layers 1 to 5 
+ Geological layer 2 represents to grid layers 6 to 10 
+ Geological layer 3 represents to grid layers 11 to 15. 
+ 
+16 
+ 
+ 
+ 
+ 
+ 
+Figure ‎2-1: Reservoir synthetic model 
+ 
+As illustrated, one injector is located in block number (8, 11) and one producer in 
+block number (22, 11) where both have been completed in the three layers. The 
+depth of  the reservoir top is 400o ft. The initial reservoir pressure was 4000 psi at 
+datum depth of 4000 ft and the production bottom hole pressure was 3500 psi. The 
+oil-water contact is below the reservoir (6000 ft), with zero capillary pressure at the 
+contact. 
+The rock properties are tabulated below. 
+ 
+Table ‎2-1: Porosity data 
+Layer number Porosity (fraction) 
+1 0.20 
+2 0.22 
+3 0.20 
+ 
+Table ‎2-2: Permeability data 
+ Layer number 
+Permeability direction 1 2 3 
+x-direction 100 md 1000 md 100 md 
+y-direction 100 md 1000 md 100 md 
+z-direction 10 md 10 md 100 md 
+ 
+17 
+ 
+ 
+ 
+ 
+2.2 Fluid PVT and Fluid-Rock Interaction properties: 
+ Water and oil relative permeability and capillary pressures functions:  
+ 
+Figure ‎2-2: Relative permeability curves 
+  
+ 
+Figure ‎2-3: Capillary pressure curve 
+ 
+ Water PVT data at reservoir pressure and temperature: 
+  
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+0 0.2 0.4 0.6 0.8 1
+kr,md 
+Sw,fraction 
+krw
+kro
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0 0.2 0.4 0.6 0.8 1
+Pcow,psi 
+Sw,fraction 
+18 
+ 
+ 
+ 
+ 
+Table ‎2-3: Water PVT data 
+Pressure 
+(psia) 
+Bw 
+(rb/stb) 
+cw 
+(psi
+-1
+) 
+μw  
+(cP) 
+4500 1.02 3.0E-06 0.8 
+ 
+ Oil PVT data, bubble point pressure (Pb) = 300 psi: 
+ 
+Figure ‎2-4: Oil formation volume factor as function of pressure 
+ 
+ 
+Figure ‎2-5: Oil viscosity as a function of pressure 
+ 
+ Rock compressibility at 4500 psi= 4E-06 psi-1. 
+1.14
+1.16
+1.18
+1.2
+1.22
+1.24
+1.26
+0 1000 2000 3000 4000 5000 6000 7000
+Bo, rb/stb  
+Pressure, psi 
+0
+0.5
+1
+1.5
+2
+2.5
+0 1000 2000 3000 4000 5000 6000 7000
+μo, rb/stb  
+Pressure, psi 
+19 
+ 
+ 
+ 
+ 
+ Oil density at surface conditions=  49 lb/cf. 
+ Water density at surface conditions= 63 lb/cf. 
+2.3 Surfactant Properties 
+The surfactant properties are tabulated below. 
+Table ‎2-4: Surfactant solution viscosity 
+Surfactant concentration 
+ (lb/stb) 
+Water viscosity 
+(cP) 
+0.0 1.25 
+30.0 1.20 
+ 
+Table ‎2-5: Surfactant adsorption isotherm 
+Surfactant concentration 
+ (lb/stb) 
+Adsorbed mass  
+(lb/lb) 
+0.0 0.0000 
+1.0 0.0000 
+30.0 0.0005 
+ 
+Table ‎2-6: Water/oil surface tension as a function of surfactant concentration 
+Surfactant concentration  
+(lb/stb) 
+Water/Oil surface tension  
+(lb/in) 
+0.0 0.44 
+1.0 8.8E-06 
+30.0 8.8E-06 
+ 
+Table ‎2-7: Capillary desaturation function   
+Log10( Capillary number) Miscibility function 
+-9.0 0.0 
+-4.5 0.0 
+-2.0 1.0 
+10.0 1.0 
+ 
+20 
+ 
+ 
+ 
+ 
+2.4 Assumptions  
+The following assumptions were considered regarding the synthetic reservoir 
+simulation model: 
+ The injection pattern is not fully patterned as illustrated in Figure 2-4, where 
+a direct line drive can be assumed between the injection and production wells. 
+ No flow boundary. 
+ 
+ 
+Figure ‎2-6: Model injection pattern 
+ 
+  
+21 
+ 
+ 
+ 
+ 
+3 Chapter 3: Reservoir Development and Development Options 
+3.1 Reservoir Development Plan 
+Figure 3-1 presents a reservoir development plan that consists of two key 
+components, pilot-field tests and development option identification. The dependent 
+variables of the technical ultimate recovery are described through the development 
+option, where it mainly encompasses the following: 
+ Development process, 
+ Development scheme, 
+ Reservoir management, 
+ Business plan. 
+This plan forms a basis for this piece of work, where different development 
+processes will be examined. 
+22 
+ 
+ 
+ 
+ 
+ 
+Figure ‎3-1: Full field development plan optimization (Abed, 2008) 
+3.2 Reservoir Development Option Identification 
+The assessment and selection of the development option that will maximize the oil 
+recovery needs to be defined through viable development options and processes. 
+In defining the constraints, all dependent variables that will affect the results of the 
+study will be considered (Abed, 2008). 
+In addition, two development processes were identified: 
+ Waterflooding 
+ Surfactant flooding 
+23 
+ 
+ 
+ 
+ 
+For the surfactant flooding process, the following development injection plans will 
+be analyzed: 
+ Continuous surfactant injection 
+ Secondary surfactant flooding 
+ Tertiary surfactant flooding 
+Through the study the effect of injection rate, surfactant concentration and surfactant 
+slug size were investigated.  
+ Surfactant slug size 
+o Secondary flooding: 0.1,0.3,0.5 and 0.7 PV. 
+o Tertiary flooding: 0.1,0.2,0.25 and 0.3 PV. 
+ Surfactant concentration (1,25,30 and 35 lb/stb). 
+ Injection rate (1000,2000 and 3000 stb/d). 
+The injection rate is set for the surfactant and water injection and are equal in all 
+cases. Tables 4-1 to 4-4 present the development processes identified through the 
+study. A total of 111 simulation runs were prepared and run using the ECLIPSE 100 
+simulator, where all the scenarios indicated in the followed tables were considered. 
+Table ‎3-1: Waterflooding process identification 
+Development 
+Process 
+Timing 
+ (years) 
+Surfactant 
+Concentration 
+(lb/stb) 
+Injection 
+Rate  
+(stb/d) 
+Waterflooding 
+Continuous water 
+injection for 41 years 
+       (2009 - 2050) 
+0 
+1000 
+2000 
+3000 
+ 
+  
+24 
+ 
+ 
+ 
+ 
+Table ‎3-2: Continuous surfactant injection process identification 
+Development 
+Process 
+Timing  
+(years) 
+Surfactant 
+Concentration 
+(lb/stb) 
+Injection 
+Rate  
+(stb/d) 
+  
+1 
+1000 
+2000 
+3000 
+  
+ 
+25 
+1000 
+2000 
+Continuous Continuous surfactant  3000 
+surfactant injection for 41 years  1000 
+injection (2009 - 2050) 30 2000 
+   3000 
+   1000 
+  35 2000 
+   3000 
+ 
+Table ‎3-3: Secondary surfactant flooding process identification 
+Development 
+Process 
+Surfactant slug size 
+(PV) 
+Surfactant 
+Concentration 
+(lb/stb) 
+Injection 
+Rate  
+(stb/d) 
+ 
+Secondary 
+surfactant 
+flooding 
+0.1 PV  
+1 
+1000 
+2000 
+3000 
+ 
+25 
+1000 
+2000 
+ 3000 
+ 1000 
+30 2000 
+ 3000 
+ 1000 
+35 2000 
+ 3000 
+0.3 PV 
+ 1000 
+1 2000 
+ 3000 
+ 1000 
+25 2000 
+ 3000 
+ 1000 
+25 
+ 
+ 
+ 
+ 
+30 2000 
+ 3000 
+ 1000 
+35 2000 
+ 3000 
+0.5 PV 
+ 1000 
+1 2000 
+ 3000 
+ 1000 
+25 2000 
+ 3000 
+ 1000 
+30 2000 
+ 3000 
+ 1000 
+35 2000 
+ 3000 
+0.7 PV 
+ 1000 
+1 2000 
+ 3000 
+ 1000 
+25 2000 
+ 3000 
+ 1000 
+30 2000 
+ 3000 
+ 1000 
+35 2000 
+ 3000 
+ 
+  
+26 
+ 
+ 
+ 
+ 
+Table ‎3-4: Tertiary surfactant flooding process identification 
+Development 
+Process 
+Surfactant slug size 
+(PV) 
+Surfactant 
+Concentration 
+(lb/stb) 
+Injection 
+Rate 
+ (stb/d) 
+Tertiary 
+surfactant 
+flooding 
+0.1 PV 
+1 
+1000 
+2000 
+3000 
+ 
+25 
+1000 
+2000 
+ 3000 
+ 1000 
+30 2000 
+ 3000 
+ 1000 
+35 2000 
+ 3000 
+0.2 PV 
+ 1000 
+1 2000 
+ 3000 
+ 1000 
+              25 2000 
+ 3000 
+ 1000 
+30 2000 
+ 3000 
+ 1000 
+35 2000 
+ 3000 
+0.25 PV 
+1 
+1000 
+2000 
+3000 
+25 
+1000 
+2000 
+3000 
+30 
+1000 
+2000 
+3000 
+35 
+1000 
+2000 
+3000 
+0.3 PV  1000 
+27 
+ 
+ 
+ 
+ 
+1 2000 
+ 3000 
+ 1000 
+25 2000 
+ 3000 
+ 1000 
+30 2000 
+ 3000 
+ 1000 
+35 2000 
+ 3000 
+28 
+ 
+ 
+ 
+ 
+4 Chapter 4: Development Processes Assess Study 
+ 
+Two processes were defined, waterflooding and surfactant flooding. For the 
+surfactant flooding process, three development processes were investigated. 
+The main development processes are continuous surfactant injection, secondary 
+surfactant injection, and tertiary surfactant injection.  
+Different sensitivities were handled for both processes as defined in chapter 3. In 
+case of waterflooding, the effect of injection rate was examined. However, for the 
+surfactant flood process, the sensitivities were carried on the effect of different 
+injection rate, surfactant concentration and surfactant slug size. 
+4.1 Sensitivity Analysis 
+4.1.1 Waterflooding process 
+As stated previously, the prediction runs were simulated by studying the effect of: 
+Injection rate (1000, 2000, 3000 stb/d). 
+The 2000 stb/d is the base case injection  rate. The results of the three simulation 
+runs are shown in Tables 4-1 to 4-3 and Figures 4-1 to 4-3. 
+The main results of each run throughout the study are summarized by the following 
+terms as follows: 
+ FOE: Field Oil Efficiency (%) 
+ FOPT: Field Oil Production Total (stb) 
+ FPR: Field Pressure (psia) 
+ FWCT: Field Water Cut (dimensionless) 
+ FWIT: Field Water Injection Total (stb) 
+29 
+ 
+ 
+ 
+ 
+ FWPT: Field Water Production Total (stb) 
+ FTITSUR: Field Surfactant Injection Total (lb) 
+ FTPTSUR: Field Surfactant Production Total (lb) 
+Table ‎4-1: Waterflooding injection at 1000 stb/d  results 
+Development Process Results 
+Development 
+Process 
+FOPT 
+(stb) 
+FWIT 
+(stb) 
+FWPT 
+(stb) 
+FTITSUR 
+(lb) 
+FTPTSUR 
+(lb) 
+FOE 
+(%) 
+Water 5.4257E+06 1.5156E+07 9.0223E+06 0.0 0.0 40.66 
+ 
+ 
+ 
+Figure ‎4-1: Waterflooding injection at 1000 stb/d reservoir performance 
+  
+30 
+ 
+ 
+ 
+ 
+Table ‎4-2: Waterflooding injection at 2000 stb/d results 
+ 
+ 
+ 
+Figure ‎4-2: Waterflooding injection at 2000 stb/d reservoir performance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Development Process Results 
+Development 
+Process 
+FOPT 
+(stb) 
+FWIT 
+(stb) 
+FWPT 
+(stb) 
+FTITSUR 
+(lb) 
+FTPTSUR 
+(lb) 
+FOE 
+(%) 
+Water 5.9925E+06 2.3376E+07 1.6577E+07 0.0 0.0 44.91 
+31 
+ 
+ 
+ 
+ 
+Table ‎4-3: Waterflooding injection at 3000 stb/d results 
+ 
+ 
+ 
+Figure ‎4-3: Waterflooding injection at 3000 stb/d reservoir performance 
+ 
+According to the illustrated results, the following conclusions can be drawn: 
+ The injection rate was set constant throughout all runs. 
+ The water cut economic limit which is 90% was not reached after the 41 years 
+which is the entire simulation period when water was injected at 1000 stb/d. On 
+the other hand, the water cut economic limit was reached after 32 years with the 
+2000 stb/d injection rate and after 20 years with the 3000 stb/d.  
+ Increasing the water injection rate leads to reaching the water cut economic limit 
+in a shorter time. 
+Development Process Results 
+Development 
+Process 
+FOPT 
+(stb) 
+FWIT 
+(stb) 
+FWPT 
+(stb) 
+FTITSUR 
+(lb) 
+FTPTSUR 
+(lb) 
+FOE 
+(%) 
+Water 6.5648E+06 14787E+07 7.2438E+06 0.0 0.0 42.99 
+32 
+ 
+ 
+ 
+ 
+ 
+ Early water breakthrough was observed in the three cases. 
+ Following the pressure drawdown period which lasted for almost a year in all 
+cases, the pressure started to build up since the effect of water injection has been 
+felt. 
+Table 4-4 shows the oil recovery obtained for the different injection rates. Figure 4-4 
+shows the oil recovery efficiency profile for the different cases and Figure 4-5 is a 
+bar graph representing FOE at each injection rate attempted. 
+Table ‎4-4: Oil recovery efficiency for different injection rates, waterflooding process 
+Injection rate 
+(stb/d) 
+FOE 
+(%) 
+Date 
+1000 40.66 01 Jan 2050 
+2000 44.91 01 Jan 2041 
+3000 42.91 01 Jan 2029 
+ 
+ 
+Figure ‎4-4: Oil recovery efficiency for different injection rates, waterflooding 
+process 
+33 
+ 
+ 
+ 
+ 
+ 
+Figure ‎4-5: FOE vs. injection rate, waterflooding process 
+ 
+As shown above, the maximum oil recovery was achieved at an injection rate of 
+2000 stb/d. Increasing the injection rate from 1000 to 2000 stb/d increased the 
+recovery by 10%.  Injecting water at 3000 stb/d resulted in about 4% decrease in the 
+recovery since the water cut limit was reached relatively earlier which lead to 
+shutting in the oil producer. 
+4.1.2 Surfactant Flooding Processes 
+The forecast runs attempted were simulated by studying the effect of different 
+parameters on the performance of the flood as follows, where three different 
+development processes were studied: 
+ Continuous surfactant injection 
+o Surfactant concentration (1,25,30 and 35 lb/stb) 
+o Injection rate (1000, 2000, and 3000 stb/d) 
+ Secondary surfactant flooding 
+o Surfactant slug size (0.1, 0.3,0.5 and 0.7 PV) 
+0.36
+0.37
+0.38
+0.39
+0.4
+0.41
+0.42
+0.43
+0.44
+0.45
+0.46
+1000 2000 3000
+F
+O
+E
+, 
+%
+ 
+Injection rate, bbl/d 
+34 
+ 
+ 
+ 
+ 
+o Surfactant concentration (1,25,30 and 35 lb/stb) 
+o Injection rate (1000, 2000, and 3000 stb/d)  
+ Tertiary surfactant flooding 
+o Surfactant slug size (0.1, 0.2 and 0.3 PV) 
+o Surfactant concentration (1,25,30 and 35 lb/stb) 
+o Injection rate (1000, 2000, and 3000 stb/d) 
+ 
+Figure 4-6 is a graphic representation of the different surfactant flooding 
+development options investigated throughout the study along with normal 
+waterflooding process. 
+ 
+Figure ‎4-6: Schematics of surfactant flooding development processes 
+ 
+35 
+ 
+ 
+ 
+ 
+It is important to note at this stage that ECLIPSE 100 assumes that the surfactant 
+exists only in the water phase, and the input to the reservoir is specified as a 
+concentration at the water injector. 
+I. Continuous Surfactant Injection 
+Twelve runs were simulated using ECLIPSE 100 and the effect of different 
+surfactant concentrations and injection rates were studied. The results of three runs 
+all at 30 lb/stb surfactant concentration and at different injection rates are presented 
+in Tables 4-5 to 4-7 and Figures 4-7 to 4-9. Similar trends and results were obtained 
+for other surfactant concentration including 1, 25 and 35 lb/stb. A comparison 
+between all different scenarios will be presented in terms of oil recovery efficiency. 
+Table ‎4-5: Continuous surfactant injection results (30 lb/stb, 1000 stb/d) 
+Development Process Results 
+Development 
+Process 
+FOPT 
+(stb) 
+FWIT 
+(stb) 
+FWPT 
+(stb) 
+FTITSUR 
+(lb) 
+FTPTSUR 
+(lb) 
+FOE 
+(%) 
+Surfactant 6.9782E+06 1.5156E+07 7.2095E+06 4.5468E+8 1.7785E+8 52.30 
+ 
+36 
+ 
+ 
+ 
+ 
+ 
+Figure ‎4-7: Continuous surfactant injection (30 lb/stb, 1000 stb/d) reservoir 
+performance 
+ 
+  
+37 
+ 
+ 
+ 
+ 
+Table ‎4-6: Continuous surfactant injection results (30 lb/stb, 2000 stb/d) 
+Development Process Results 
+Development 
+Process 
+FOPT 
+(stb) 
+FWIT 
+(stb) 
+FWPT 
+(stb) 
+FTITSUR 
+(lb) 
+FTPTSUR 
+(lb) 
+FOE 
+(%) 
+Surfactant 7.1819E+06 1.8624E+07 1.0395E+07 5.5872E+8 2.6356E+8 53.82 
+ 
+ 
+Figure ‎4-8: Continuous surfactant injection (30 lb/stb, 2000 stb/d) reservoir 
+performance 
+ 
+  
+38 
+ 
+ 
+ 
+ 
+Table ‎4-7: Continuous surfactant injection results (30 lb/stb, 3000 stb/d) 
+Development Process Results 
+Development 
+Process 
+FOPT 
+(stb) 
+FWIT 
+(stb) 
+FWPT 
+(stb) 
+FTITSUR 
+(lb) 
+FTPTSUR 
+(lb) 
+FOE 
+(%) 
+Surfactant 7.0533E+06 1.8627E+07 1.0490E+07 5.5881E+8 2.6768E+8 52.86 
+ 
+ 
+Figure ‎4-9: Continuous surfactant injection (30 lb/stb, 3000 stb/d) reservoir 
+performance 
+ 
+Based on the results presented at 30 lb/stb where the three different injection rates 
+were attempted, the following findings can be drawn: 
+ The earliest water breakthrough was experienced when the injection rate was 
+3000 stb/d. 
+ As the injection rate time increases, the water breakthrough takes place earlier. 
+ The water cut limit was not reached after 41 years when water was injected at 
+1000 stb/d, but it was reached after 26 years with the 2000 stb/d and 17 years 
+with the 3000 stb/d. 
+39 
+ 
+ 
+ 
+ 
+ The highest build up plateau was associated with the 3000 stb/d injection rate 
+since the largest volume of water and surfactants were injected in this case. 
+ The highest total oil produced was achieved with the 2000 stb/d injection rate. 
+Table 4-8 shows the oil recovery obtained for different surfactant concentrations 
+corresponding to the three injection rates and Figure 4-10 represents the oil recovery 
+efficiency profile for each scenario. 
+Table ‎4-8: Oil recovery efficiency for continuous surfactant injection scenarios 
+Surfactant concentration 
+(lb/stb) 
+Injection rate 
+(stb/d) 
+FOE 
+(%) 
+Date 
+1 
+1000 40.87 01 Jul 2050 
+2000 45.15 01 Jan 2040 
+3000 43.25 01 Jan 2029 
+25 
+1000 48.79 01 Jan 2050 
+2000 51.66 01 Jan 2037 
+3000 50.47 01 Jul 2028 
+30 
+1000 52.30 01 Jul 2050 
+2000 53.82 01 Jul 2034 
+3000 52.86 01 Jan 2026 
+ 1000 52.60 01 Jul 2050 
+35 2000 54.10 01 Jul 2050 
+ 3000 53.09 01 Jan 2026 
+ 
+ 
+ 
+40 
+ 
+ 
+ 
+ 
+ 
+Figure ‎4-10: Oil recovery efficiency for different scenarios, continuous surfactant 
+injection 
+ 
+Figure ‎4-11: FOE vs. injection rate at different surfactant concentrations (continuous 
+surfactant injection) 
+ 
+Based on the data presented above, implementing the continuous surfactant flooding 
+at 2000 stb/d yielded the highest oil recovery efficiency at all surfactant 
+concentrations. Conducting the flood at the lowest surfactant concentration did not 
+30
+35
+40
+45
+50
+55
+60
+1000 2000 3000
+FOE, % 
+Injection rate, stb/d 
+1 lb/stb
+25 lb/stb
+30 lb/stb
+35 lb/stb
+41 
+ 
+ 
+ 
+ 
+result in a significant enhancement in oil recovery over waterflooding. The 
+percentage increase over waterflooding for the 1000, 2000 and 3000 stb/d are 0.51, 
+0.53 and 0.79 %,  respectively.  Increasing the surfactant concentration, increased the 
+oil recovery efficiency. It is clearly shown in Table 4-8 that increasing the injection 
+rate at any constant surfactant concentration to 3000 stb/d decreases the oil recovery. 
+This happens because the water cut economic limit is reached in a relatively shorter 
+time compared to the other two cases. Conducting the flood at 35 lb/stb and 2000 
+stb/d leads to the maximum oil recovery of all cases. The optimum combination can 
+be only determined by calculating the net present value for each combination. 
+Table ‎4-9: Percentage increase in FOE at 2000 stb/d (continuous surfactant injection) 
+Surfactant concentration 
+(lb/stb) 
+FOE 
+(%) 
+Percentage Increase-FOE 
+(%) 
+1 45.2 - 
+25 51.7 19.38 
+30 53.8 7.19 
+35 54.1 0.57 
+ 
+As seen in Table 4-9, increasing the surfactant concentration at a constant injection 
+rate leads to increase in the oil recovery efficiency. It is clear that increasing the 
+surfactant concentration to 25 lb/stb leads to a significant increase in the recovery 
+efficiency but the increase became less significant when the concentration is 
+increased to 30 lb/stb and almost negligible when the concentration is 35 lb/stb. The 
+same trend was noticed with the other injection rates. Accordingly, conducting the 
+continuous surfactant flooding at 30 lb/stb and 2000 stb/d is considered to the 
+optimum case from the technical point of view.  
+ 
+  
+42 
+ 
+ 
+ 
+ 
+I. Secondary Surfactant flooding 
+A total of forty eight runs were simulated using ECLIPSE 100 and the effect of 
+different surfactant slug size, surfactant concentrations and injection rates were 
+studied. The results of four runs all at 30 lb/stb surfactant concentration and 2000 
+stb/d at four different surfactant slug sizes are presented in Tables 4-10 to 4-13 and 
+Figures 4-12 to 4-15. Similar results an

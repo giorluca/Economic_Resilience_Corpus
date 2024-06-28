@@ -1,0 +1,1289 @@
+V-, U-, L-, or W-shaped economic recovery after COVID: Insights from an
+  Agent Based Model
+
+V –, U –, L – or W–shaped recovery after COVID?
+Insights from an Agent Based Model
+Dhruv Sharma1,2, Jean-Philippe Bouchaud3,2,
+Stanislao Gualdi3, Marco Tarzia4,5, and Francesco Zamponi1
+1 Laboratoire de Physique de l’Ecole Normale Supérieure, ENS, Université PSL, CNRS, Sorbonne Université,
+Université de Paris, F-75005 Paris, France
+2Chair of Econophysics & Complex Systems, Ecole polytechnique, 91128 Palaiseau, France
+3Capital Fund Management, 23 rue de l’Université, 75007 Paris
+4LPTMC, CNRS-UMR 7600, Sorbonne Université, 4 Pl. Jussieu, F-75005, Paris, France
+5Institut Universitaire de France, 1 rue Descartes, 75231 Paris Cedex 05, France
+Working paper, June 2020
+JEL Codes: E17 E32 E52
+Abstract
+We discuss the impact of a Covid-like shock on a simple toy economy, described by the Mark-0
+Agent-Based Model that we developed and discussed in a series of previous papers. We consider
+a mixed supply and demand shock, and show that depending on the shock parameters (amplitude
+and duration), our toy economy can display V-shaped, U-shaped or W-shaped recoveries, and even
+an L-shaped output curve with permanent output loss. This is due to the existence of a self-sustained
+“bad” state of the economy. We then discuss two policies that attempt to moderate the impact of the
+shock: giving easy credit to firms, and the so-called helicopter money, i.e. injecting new money into
+the households savings. We find that both policies are effective if strong enough, and we highlight
+the potential danger of terminating these policies too early. While we only discuss a limited number
+of scenarios, our model is flexible and versatile enough to allow for a much wider exploration, thus
+serving as a useful tool for the qualitative understanding of post-Covid recovery.
+1 Introduction
+The coronavirus pandemic has buffeted the world economy and induced one of the most abrupt drops
+in output ever recorded. What comes next? Will the economy recover quickly as lock-down measures
+are lifted, or will the damage inflicted by the massive waves of layoffs be more permanent? In pictorial
+terms, will the economic crisis be V-shaped, as commentators were initially hoping for, or U-shaped
+(prolonged drop followed by a quick recovery), or perhaps W-shaped, with a relapse due either to a
+second outburst of the illness, or to a premature lifting of the economic support to households and
+firms? The possibility of an L-shaped crisis, with a permanent loss of output, is also discussed. Or else,
+maybe, a “swoosh”, with a rapid drop followed by an excruciatingly slow recovery? [1]
+There has been a flurry of activity to understand the consequences of the economic shock due to
+widespread lock-downs and loss of economic activity. While some have coupled classical economic
+models with SIR-like epidemic models, with the underlying assumption that the economy is somehow
+slaved to the dynamics of COVID [2], others have reasoned in terms of traditional economic models.
+There has been analytical support for both quick (V or U shaped) recoveries [3] and prolonged (L-
+shaped) crisis due to a stagnation trap (poor economic forecasts leading to lower consumption leading
+to lower investment) [4]. Given how different sectors of the economy are effected disproportionately
+(some completely shut, some are not), there are fears of deep recession due to a Keynesian supply
+shock - a deep demand shock greater in magnitude to the supply shock that cause them [5].
+In this short note, we want to explore how the economic system by itself can recover from such
+a rapid drop of both supply and demand, even assuming quick return to normal in terms of sanitary
+1
+ar
+X
+iv
+:2
+00
+6.
+08
+46
+9v
+1 
+ [e
+co
+n.G
+N]
+  1
+5 J
+un
+ 20
+20
+measures. We perform numerical experiments using a prototype Agent Based Model that we have
+studied in depth in the past, in the context of monetary policy and inflation targeting.
+Within our (highly simplified) model, we find that the length and severity of the crisis (its “typo-
+graphical shape”) can be strongly affected by policy measures. We argue that, as was done in most
+European states, generous policies that avoid (as much as possible) bankruptcies and redundancies, al-
+low the economy to recover rapidly, although endogenous relapses are possible (i.e. a W-shape without
+a second lock-down period).
+In our model, U-shaped or L-shaped recoveries occur when the economy falls into what we called
+a “bad phase” in [6], characterized by a self-consistently sustained state of economic depression and
+deflation. The time needed for the “good phase” of the economy to re-establish itself when the shock
+is over can be extremely long (so long that it might exceed the simulation time). As a function of
+the parameters describing the crisis (amplitude and duration of the shock), we find that there is a
+discontinuous transition between V-shape recoveries and L-shape recessions. The main message of our
+numerical experiments is that policy should “do whatever it takes” [7] to prevent the economy tipping
+into such a “bad phase”, taking all measures that are seen to help the economy recover and shorten the
+recession period, such as “helicopter money” and easy access to credit for firms.
+Although our model is not realistic on several counts and should no doubt be enriched, we believe
+that it offers interesting scenarios for recovery that helps sharpening one’s intuition and anticipating
+consequences that are often outside of the grasp of traditional approaches, where non-linear feedback
+effects and collective phenomena are absent. Because of heterogeneities and non-linearities, these
+emerging surprises are hard to anticipate and we need to develop qualitative numerical simulations, aka
+telescopes for the mind [8]. Although ABMs are spurned because they are hard (perhaps impossible) to
+calibrate, we have long argued [9] that one should abandon the “pretense of knowledge” and false sense
+of control provided by mainstream models and opt for a more qualitative, scenario driven approach
+to macroeconomic phenomena, with emphasis on mechanisms, feedback loops, etc. rather than on
+precise, but misleading, numbers. As Keynes famously said: It is better to be roughly right than precisely
+wrong. This is all the more so for policy makers in the face of a major crisis, such as the Covid shock.
+Although highly stylized, our ABM generates a surprisingly rich variety of behaviour, in fact all the
+recovery letters listed above. Many parameters can be changed, such as those setting the “equilibrium”
+output and inflation levels, but also the length and severity of the shock, the amplitude of the policy
+response, etc. In the present note, we have only explored a small swath of possibilities. In order to
+allow our readers to experiment more and explore the variety of possible outcomes, we have put a
+version of our code on-line here.
+2 A short recap on Mark-0
+The Mark-0 model with a Central Bank (CB) and interest rates has been described in full details in [6,
+9, 10], where pseudo-codes are also provided. It was originally devised as a simplification of the Mark
+family of ABMs, developed in [11, 12]. We will not repeat here the full logic of the model, but only
+focus on the elements that are relevant for our crisis/recovery experiments.
+First, we need some basic notions. The model is defined in discrete time, where the unit time
+between t and t + 1 will be chosen to be ∼ 1 month. Each firm i at time t produces a quantity Yi(t)
+of perishable goods that it attempts to sell at price pi(t), and pays a wage Wi(t) to its employees.
+The demand Di(t) for good i depends on the global consumption budget of households CB(t), itself
+determined as an inflation rate-dependent fraction of the household savings. Di is a decreasing function
+of the firm price pi , with a price sensitivity parameter that can be tuned. To update their production,
+price and wage policy, firms use reasonable “rules of thumb” [9] that also depend on the inflation
+rate through their level of debt (see below). For example, production is decreased and employees are
+made redundant whenever Yi > Di , and vice-versa.
+1 The model is fully “stock-flow consistent” (i.e.
+all the stocks and flows within the toy economy are properly accounted for). In particular, there is
+1As a consequence of these adaptive adjustments, the economy is on average always ‘close’ to the global market clearing
+condition one would posit in a fully representative agent framework. However, small fluctuations persists in the limit of large
+system sizes giving rise to a rich phenomenology [9], including business cycles.
+2
+no uncontrolled money creation or destruction in the dynamics.2 We will actually allow some money
+creation below, when “helicopter money” policies will be investigated.
+In Mark-0 we assume a linear production function with a constant productivity, which means that
+output Yi and labour Ni coincide, up to a multiplicative factor ζ: Yi = ζNi . The unemployment rate u
+is defined as:
+u(t) = 1−
+∑
+i Ni(t)
+N
+, (1)
+where N is the number of agents. Note that firms cannot hire more workers than available, so that
+u(t)≥ 0 at all times – see Eq. (5) below.
+We assume that the banking sector – described at the aggregate level by a single “representative
+bank” – sets the interest rates on deposits and loans (ρd(t) and ρ`(t) respectively) uniformly for all
+lenders and borrowers. Therefore, the rate ρ` increases and ρd decreases when the firm default rate
+increases, in such a way that the banking sector (i.e., the representative bank) – which fully absorbs
+these defaults – makes zero profit at each time step (see [6, 10] for more details).
+Although we have explored at length the effect of monetary policy and inflation anticipations in
+[10], we disregard these aspects of the problem in the present study: the baseline interest rate fixed
+by the central bank is set to zero, and inflation expectations of both firms and households are also
+zero. There is no Taylor rule coupling between inflation and interest rates either. The rationale for this
+choice is that we expect classical monetary policy tools to be quite ineffective as emergency measures,
+although they might be important to determine the long term fate of our toy economies. We leave this
+issue for further investigations.
+2.1 Households
+We assume that the total consumption budget of households CB(t) is given by:
+CB(t) = c
+
+S(t) +W (t) +ρd(t)S(t)
+
+, (2)
+where S(t) is the savings, W (t) =
+∑
+i Wi(t)Ni(t) the total wages, and ρ
+d(t) is the interest rate on
+deposits, and c is the “consumption propensity” of households. If c is chosen to increase with increasing
+inflation [6, 10], then Eq. (2) describes a feedback of inflation on consumption similar to the standard
+Euler equation of DSGE models (see e.g. [13]). However, we neglect this effect in the present note.
+The total household savings evolve according to:
+S(t + 1) = S(t) +W (t) +ρd(t)S(t)− C(t), (3)
+where C(t)≤ CB(t) is the actual consumption of households, determined by the matching of production
+and demand, see [9].
+2.2 Firms
+2.2.1 Financial fragility
+The model contains NF firms (we chose NF = N for simplicity [9]), each firm being characterized by
+its workforce Ni and production Yi = ζNi , demand for its goods Di , price pi , wage Wi and its cash
+balance E i which, when negative, is the debt of the firm. We characterize the financial fragility of the
+firm through the debt-to-payroll ratio
+Φi = − EiWiNi . (4)
+Negative Φ’s describe healthy firms with positive cash balance, while indebted firms have a positive Φ.
+If Φi < Θ, i.e. when the flux of credit needed from the bank is not too high compared to the size of the
+company (measured as the total payroll), the firm i is allowed to continue its activity. If on the other
+hand Φi ≥ Θ, the firm i defaults and the corresponding default cost is absorbed by the banking sector,
+2In our baseline simulation, the total amount money in circulation is set to 0 at t = 0. This choice is actually irrelevant in
+the long run, but may have important short term effects.
+3
+which adjusts the loan and deposit rates ρ` and ρd accordingly. The defaulted firm is replaced by a
+new one at rate ϕ, initialised at random (using the average parameters of other firms). The parameter
+Θ controls the maximum leverage in the economy, and models the risk-control policy of the banking
+sector.
+2.2.2 Production update
+If the firm is allowed to continue its business, it adapts its price, wages and production according to
+reasonable (but of course debatable) “rules of thumb” – see [6, 9]. In particular, the production update
+is chosen as follows:
+If Yi(t)< Di(t) ⇒ Yi(t + 1) = Yi(t) +min{η+i (Di(t)− Yi(t)),ζu?i (t)}
+If Yi(t)> Di(t) ⇒ Yi(t + 1) = Yi(t)−η−i [Yi(t)− Di(t)] (5)
+where u?i (t) is the maximum number of unemployed workers available to the firm i at time t, which
+depends on its wage (see [10, Appendix A]). The coefficients η± ∈ [0, 1] express the sensitivity of
+the firm’s target production to excess demand/supply. We postulate that the production adjustment
+depends on the financial fragility Φi of the firm: firms that are close to bankruptcy are arguably faster
+to fire and slower to hire, and vice-versa for healthy firms. In order to model this tendency, we posit
+that the coefficients η±i for firm i (belonging to [0,1]) are given by:
+η−i = [[η−0 (1+ ΓΦi(t))]]
+η+i = [[η
++
+0 (1− ΓΦi(t))]], (6)
+where η±0 are fixed coefficients, identical for all firms, and [[x]] = 1 when x ≥ 1 and [[x]] = 0 when
+x ≤ 0. The factor Γ > 0 measures how the financial fragility of firms influences their hiring/firing
+policy, since a larger value of Φi then leads to a faster downward adjustment of the workforce when
+the firm is over-producing, and a slower (more cautious) upward adjustment when the firm is under-
+producing. Since the “dangerous” level of fragility is Φ = Θ, we assume that Γ = Γ0/Θ, where Γ0 is an
+adjustable parameter. However, we neglected this effect in the present work and set Γ0 = 0.
+2.2.3 Price update
+Following the initial specification of the Mark series of models [11], prices are updated through a
+random multiplicative process, which takes into account the production-demand gap experienced in
+the previous time step and if the price offered is competitive (with respect to the average price). The
+update rule for prices reads:
+If Yi(t)< Di(t) ⇒
+¨
+If pi(t)< p(t) ⇒ pi(t + 1) = pi(t)(1+ γξi(t))
+If pi(t)≥ p(t) ⇒ pi(t + 1) = pi(t)
+If Yi(t)> Di(t) ⇒
+¨
+If pi(t)> p(t) ⇒ pi(t + 1) = pi(t)(1− γξi(t))
+If pi(t)≤ p(t) ⇒ pi(t + 1) = pi(t)
+(7)
+where ξi(t) are independent uniform U[0,1] random variables and γ is a parameter setting the relative
+magnitude of the price adjustment, chosen to be 1% (per month) throughout this work.3
+3In [10], we introduced a factor (1+ bpi(t)) in the price and wage update rules, to model the fact that firms also factor in
+an anticipated inflation bpi(t) when they set their prices and wages. This effect is neglected here, as it plays a minor role in
+the present discussion.
+4
+Number of firms NF 10000
+Consumption propensity c 0.5
+Price adjustment parameter γ 0.01
+Firing propensity η0− 0.2
+Hiring propensity η0+ Rη
+0−
+Hiring/firing ratio R 2
+Bankruptcy threshold Θ 3
+Rate of firm revival ϕ 0.1
+Productivity factor ζ 1
+Financial fragility sensitivity Γ0 0
+Table 1: Parameters of the Mark-0 model that are relevant for this work, together with their symbol and baseline values. For
+a comprehensive list of parameters, see [10].
+2.2.4 Wage update
+The wage update rule follows the choices made for price and production. Similarly to workforce ad-
+justments, we posit that at each time step firm i updates the wage paid to its employees as:
+W Ti (t + 1) = Wi(t)[1+ γ(1− ΓΦi)(1− u(t))ξ′i(t)] if
+¨
+Yi(t)< Di(t)
+Pi(t)> 0
+Wi(t + 1) = Wi(t)[1− γ(1+ ΓΦi)u(t)ξ′i(t)] if
+¨
+Yi(t)> Di(t)
+Pi(t)< 0
+(8)
+where Pi = pi min(Yi , Di)−WiNi is the profit of the firm at time t and ξ′i(t) an independent U[0, 1]
+random variable. If W Ti (t + 1) is such that the profit of firm i at time t with this amount of wages
+would have been negative, Wi(t + 1) is chosen to be exactly at the equilibrium point where Pi(t) = 0;
+otherwise Wi(t + 1) = W Ti (t + 1). Here, Γ is the same parameter introduced in Eq. (6).
+Note that within the current model the productivity of workers is not related to their wages. The
+only channel through which wages impact production is that the quantity u?i (t) that appears in Eq. (5),
+which represents the share of unemployed workers accessible to firm i, is an increasing function of Wi .
+Hence, firms that want to produce more (hence hire more) do so by increasing Wi , as to attract more
+applicants (see [6, Appendix A] for details).
+The above rules are meant to capture the fact that deeply indebted firms seek to reduce wages more
+aggressively, whereas flourishing firms tend to increase wages more rapidly:
+• If a firm makes a profit and it has a large demand for its good, it will increase the pay of its workers.
+The pay rise is expected to be large if the firm is financially healthy and/or if unemployment is
+low because pressure on salaries is high.
+• Conversely, if the firm makes a loss and has a low demand for its good, it will attempt to re-
+duce the wages. This reduction is more drastic if the company is close to bankruptcy, and/or if
+unemployment is high, because pressure on salaries is then low.
+• In all other cases, wages are not updated.
+The model, as presented above, has several free parameters. Some values are fixed throughout this
+work, using values that have been found in previous work to yield reasonable results [6, 9, 10]: their
+list is given in Table 1.
+3 A Covid-like shock to the economy: phenomenology
+The baseline values of the parameters, summarized in Table 1, allow our economy to settle in a rather
+prosperous state, with a low level of unemployment and, therefore, a near maximum output given the
+level of productivity ζ= 1. The inflation level is ≈ 1.5%/year and the average financial fragility 〈Φ〉 of
+5
+−10 0 10 20 30 40 50 60
+Time (in Months)
+0.2
+0.4
+0.6
+0.8
+1.0
+C
+ha
+ng
+e
+in
+ou
+tp
+ut
+Coronavirus Shock and Recovery scenarios
+V-shaped
+L-shaped
+U-shaped
+W-shaped
+Figure 1: Some recovery patterns following the coronavirus shock, which starts at time t = 0. We show, as a function of
+time, the fall in output relative to the no-shock scenario. For mild shocks (∆c/c = 0.3, ∆ζ/ζ = 0.1, lasting six months), the
+economy contracts but quickly recovers (V-Shaped recovery). For more severe shocks over the same time period (∆c/c = 0.3,
+∆ζ/ζ= 0.2), the economy contracts permanently and never recovers (at least on the time scale of the simulation). This is the
+dreaded L-shaped scenario, in the absence of any government policy. An increase in consumption above pre-crisis levels and
+a helicopter money drop at the end of the shock leads to a faster recovery (U-shaped recovery). Finally, a W-shaped scenario
+can also be found for stronger shocks (∆c/c = 0.3, ∆ζ/ζ = 0.5, lasting nine months) with strong government policy and a
+helicopter drop (see next section).
+the firms is ≈ 1 (i.e. a debt equal to one month of wages), far from the baseline bankruptcy threshold
+Θ = 3.
+The specificity of the Covid crisis is that it induced both a supply and a demand shock [14]. We can
+model this effect by a sudden drop of the productivity of firms, i.e. ζ→ ζ−∆ζ, and of the consumption
+propensity of households, i.e. c → c −∆c. These drops are meant to mimic the effect of a lock-down
+on the economy, that leads both to a drop of supply (employees must stay home and either not work
+at all or work remotely with lower productivity, while keeping their salaries) and a drop of demand
+(customers cannot go shopping, or are afraid to spend). It is uncertain how long the effects of the
+crisis would last. Hence, an important parameter describing the shock is its duration T . We will choose
+henceforth three benchmark values: 3 months, 6 months and 9 months. These values are meant to
+represent an effective length of the shock, accounting for the fact that lock-down measures can be
+partially lifted, which leads to an increased value of both ζ and c during the shock period and hence a
+shorter effective shock duration.
+In Fig. 1, we show several typical crisis and recovery shapes, depending on the strength of the
+shock and the policy used to alleviate the severity of the crisis. For small enough ∆c and/or ∆ζ, there
+is no drop of output at all. For larger shock amplitude or duration, one observes a V-shape recovery, as
+expected when the shock is mild enough not to dent the financial health of the firms. Stronger shocks
+can however lead to a permanent dysfunctional state (L-shape), with high unemployment, falling wages
+and savings, and a high level of financial fragility and bankruptcies. An L-shaped scenario can however
+be prevented if after the shock, consumer demand picks. To facilitate and boost consumption, a one-
+time policy of helicopter money can move the economy towards a path of recovery over the scale of a
+few years (U-shape).
+For a more complete picture of the influence of these shocks, we plot the “phase diagrams” of the
+crises in absence of any policy, in the plane ∆c/c,∆ζ/ζ, for T = 3, 6 and 9 months in Fig. 2. We
+show (a) the probability of a “dire” (L-shaped) crisis, (b) the peak value of unemployment during
+the shock and (c) the peak value of unemployment after the shock. Black regions indicate that the
+economy survives well (i.e. no dire crisis, or short crises with little unemployment). This occurs, as
+expected, in the lower left corner of the graphs (small ∆c/c,∆ζ/ζ). These black regions shrink as T
+increases. We also note that mild shocks lasting only a short time (T = 3 months) can cause lasting
+damage. Indeed, we observe that low rates of unemployment during the shock are not representative
+of the future evolution. Interesting, there is an abrupt, first order transition line (a “tipping point”
+in the language of [9]) beyond which crises have a very large probability to be permanent, with high
+levels of unemployment (yellow regions). Because the location of such a tipping point in the real-world
+6
+0.2 0.4 0.6 0.8
+∆c/c
+0.2
+0.4
+0.6
+0.8
+∆
+ζ
+/ζ
+Proba(L-shaped crisis)
+0.2 0.4 0.6 0.8
+∆c/c
+0.2
+0.4
+0.6
+0.8
+Max u (During shock)
+0.2 0.4 0.6 0.8
+∆c/c
+0.2
+0.4
+0.6
+0.8
+Max u (After shock)
+0.00
+0.11
+0.22
+0.33
+0.44
+0.55
+0.66
+0.77
+0.88
+0.99
+0.00
+0.11
+0.22
+0.33
+0.44
+0.55
+0.66
+0.77
+0.88
+0.99
+0.00
+0.11
+0.22
+0.33
+0.44
+0.55
+0.66
+0.77
+0.88
+0.99
+Consumption + Production Shock - Shock Length = 3
+0.2 0.4 0.6 0.8
+∆c/c
+0.2
+0.4
+0.6
+0.8
+∆
+ζ
+/ζ
+Proba(L-shaped crisis)
+0.2 0.4 0.6 0.8
+∆c/c
+0.2
+0.4
+0.6
+0.8
+Max u (During shock)
+0.2 0.4 0.6 0.8
+∆c/c
+0.2
+0.4
+0.6
+0.8
+Max u (After shock)
+0.00
+0.11
+0.22
+0.33
+0.44
+0.55
+0.66
+0.77
+0.88
+0.99
+0.00
+0.11
+0.22
+0.33
+0.44
+0.55
+0.66
+0.77
+0.88
+0.99
+0.00
+0.11
+0.22
+0.33
+0.44
+0.55
+0.66
+0.77
+0.88
+0.99
+Consumption + Production Shock - Shock Length = 6
+0.2 0.4 0.6 0.8
+∆c/c
+0.2
+0.4
+0.6
+0.8
+∆
+ζ
+/ζ
+Proba(L-shaped crisis)
+0.2 0.4 0.6 0.8
+∆c/c
+0.2
+0.4
+0.6
+0.8
+Max u (During shock)
+0.2 0.4 0.6 0.8
+∆c/c
+0.2
+0.4
+0.6
+0.8
+Max u (After shock)
+0.00
+0.11
+0.22
+0.33
+0.44
+0.55
+0.66
+0.77
+0.88
+0.99
+0.01
+0.11
+0.21
+0.31
+0.41
+0.51
+0.61
+0.71
+0.81
+0.91
+0.00
+0.11
+0.22
+0.33
+0.44
+0.55
+0.66
+0.77
+0.88
+0.99
+Consumption + Production Shock - Shock Length = 9
+Figure 2: Phase diagrams in the ∆c/c-∆ζ/ζ plane for different shock lengths. As the length of the shock is increased,
+the probability of having a long-crisis increases even for mild shocks. Top Row: Shock lasting for 3 months. The region
+of parameter space with no L-shaped crisis is quite large allowing for strong consumption shocks (∆c/c ® 0.5) and mild
+productivity shocks (∆ζ/ζ ® 0.3). Note that for such a short shock, the effects on unemployment are seen after the shock
+has passed. Middle Row: Shock lasts for 6 months. A decrease in the region of no-crisis is observed. Mild shocks (∆c/c ∼ 0.4)
+can also lead to prolonged crises. During the shock itself, extremely high rates of unemployment can be seen. Bottom Row:
+Shock lasts for 9 months. Only for extremely mild shocks does the economy not undergo a prolonged crisis.
+economy is extremely hard to estimate4, our results suggest that governments should be very cautious
+and do as much as possible to prevent a possible collapse of the economy.
+It is useful to focus on the line ∆ζ = 0 of these two-dimensional plots, corresponding to a con-
+sumption shock without productivity shock. We show in Fig. 3 the same three quantities as in Fig. 2.
+An abrupt transition between no dire crises and dire crises can be seen for ∆c/c ∼ 0.4 when T = 9
+months.
+We now implement, within our model, some emergency governmental policy inspired from those
+that are actually currently in place in different countries. From now on, we choose ∆c/c = 0.3 and
+∆ζ/ζ= 0.5 as reasonable values to represent the severity of the Covid shock [15, 16], and let T again
+take the values 3,6 and 9 months. In the absence of any active policy, the economy collapses into a
+deep recession, with an output reduced by 2/3 compared to pre-shock levels.
+4In physics, it is well known that there is no way to know that one is approaching a first order transition between two
+phases, just looking from within a single phase. Hence, no simple indicator would predict the tipping point of the economy
+from within its “good” phase.
+7
+0.2 0.4 0.6 0.8 1.0
+∆c/c
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Proba(L-shaped crisis)
+Shocklength = 3
+Shocklength = 6
+Shocklength = 9
+0.2 0.4 0.6 0.8 1.0
+∆c/c
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Max u (During shock)
+Shocklength = 3
+Shocklength = 6
+Shocklength = 9
+0.2 0.4 0.6 0.8 1.0
+∆c/c
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Max u (After shock)
+Shocklength = 3
+Shocklength = 6
+Shocklength = 9
+Pure Consumption Shock Phase Diagram
+Figure 3: Phase diagram for a pure consumption shock (∆ζ/ζ = 0). We observe an abrupt transition to an L-shaped crisis
+for consumption shocks beyond ∆c/c = 0.5 for T = 3 months, and beyond ∆c/c = 0.4 for T = 6 or 9 months. Below
+these shock amplitudes, there is no prolonged crises but short-lived crises are observed. This can be seen by observing the
+maximum unemployment rate during the shocks: for ∆c/c = 0.4, we reach about 15% unemployment.
+4 Securing a quick recovery?
+The toolbox developed in the aftermath of the Global Financial Crisis (GFC) of 2008 puts monetary
+policy in the center of economic crisis management. This takes the form of either direct interest rate
+cuts or, as was seen recently for the GFC interventions, even stronger measures such as quantitative
+easing. Our Agent Based Model provides several channels through which the economy can be propped
+up, including interest rate cuts [10]. However, given that the interest rates are already very low, the
+interest-rate channel itself might not be effective, and might lead to a stagnation trap and a L-shaped
+recovery [4]. Hence, in this work, we disregard the interest-rate channel, since it cannot be used as an
+emergency measure in the face of a collapsing supply sector. We focus on two possible channels: easy
+credit for firms, and “helicopter money” for households.
+A way to loosen the stranglehold on struggling firms is to give them easy access to credit lines,
+independently of their financial situation. In our model, this amounts to a significant increase of the
+bankruptcy threshold Θ. So the policy we investigate is the following: during the whole duration of
+the shock, we set Θ =∞, i.e. all firms are allowed to continue their business and accumulate debt.
+When the shock is over, the value of Θ is taken back down. This can be done in several ways. One
+extreme possibility (that we call naive below) is to set Θ to its pre-shock value as soon as the shock
+is over. Intuitively, when the shock is short enough, allowing endangered firms to survive might be
+enough. For long shocks however, such a naive policy is not going to be very helpful as firms that have
+muddled through the shock have become much more fragile at the end of the shock. So in this case,
+many will fail when credit is tightened, and the economy plunges into recession as if no policy was
+applied. This is precisely what is shown in Figs. 4, 5, second column (“Naive Policy”). Note that we
+only show the results corresponding to T = 3 months and T = 9 months. For the shock amplitude
+that we have chosen, the case T = 6 months is qualitatively similar to the case T = 3 months and is
+therefore not shown.
+Another possibility, that we call “adaptive”, is to reduce Θ progressively, in a way that is adapted to
+firms’ average fragility. We assume that the government measures the instantaneous value of 〈Φ〉 over
+firms still in activity, weighted by production, 〈Φ〉=∑i ΦiYi/∑i Yi , and sets Θ as:
+Θ = max (θ 〈Φ〉, 3) , (t > T ), (9)
+where θ is some offset that we chose to be θ = 1.25. This means that only the most indebted firms,
+whose fragility exceeds the average value by more than 25%, will go bust as the effective threshold Θ
+is progressively reduced. As shown in Figs. 4, 5 fourth column (“Adaptive Policy”), this scheme is very
+successful: the economy recovers 100% of its pre-shock output at the end of the shock, for all three
+durations T = 3, 6,9 months. As can be seen from the plot of the average fragility, this comes at the
+price of 〈Φ〉 reaching very high values for a while (for example 〈Φ〉 ≈ 6, i.e. six times its pre-shock
+value, when T = 9 months). But the slow removal of the easy credit policy allows the economy to
+smoothly revert to its pre-shock state, with a limited number of bankruptcies.
+8
+-10 0 10 20 30 40 50 60
+2000
+4000
+6000
+8000
+10000
+T
+ot
+al
+O
+ut
+pu
+t
+No policy
+-10 0 10 20 30 40 50 60
+2000
+4000
+6000
+8000
+10000
+Naive Policy
+-10 0 10 20 30 40 50 60
+2000
+4000
+6000
+8000
+10000
+Naive Policy + Helicopter
+-10 0 10 20 30 40 50 60
+2000
+4000
+6000
+8000
+10000
+Adaptive Policy
+-10 0 10 20 30 40 50 60
+0
+1
+2
+3
+F
+ra
+gi
+lit
+y
+-10 0 10 20 30 40 50 60
+0
+1
+2
+3
+-10 0 10 20 30 40 50 60
+0
+1
+2
+3
+-10 0 10 20 30 40 50 60
+0
+1
+2
+3
+-10 0 10 20 30 40 50 60
+0.97
+0.98
+0.99
+1.00
+In
+fl
+at
+io
+n/
+W
+ag
+es
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60
+0.97
+0.98
+0.99
+1.00
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60
+0.97
+0.98
+0.99
+1.00
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60
+0.97
+0.98
+0.99
+1.00
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60
+Time (in Months)
+5000
+10000
+15000
+20000
+25000
+30000
+S
+av
+in
+gs
+-10 0 10 20 30 40 50 60
+Time (in Months)
+5000
+10000
+15000
+20000
+25000
+30000
+-10 0 10 20 30 40 50 60
+Time (in Months)
+5000
+10000
+15000
+20000
+25000
+30000
+-10 0 10 20 30 40 50 60
+Time (in Months)
+5000
+10000
+15000
+20000
+25000
+30000
+0
+1
+U-rate
+0.000
+0.002
+U-rate
+0.000
+0.002
+U-rate
+0.000
+0.002
+U-rate
+0.0
+0.5
+Bankruptcies
+−0.05
+0.00
+0.05
+Bankruptcies
+−0.05
+0.00
+0.05
+Bankruptcies
+−0.05
+0.00
+0.05
+Bankruptcies
+Consumption + Production Shock - Shocklength = 3, ∆c/c= 0.3, ∆ζ/ζ= 0.5
+Figure 4: Scenarios for shock length of 3 months (marked in grey) with and without policy. First column: Without a policy
+intervention, the economy suffers a deep contraction with extremely high rates of unemployment and a subsequent loss in
+wages. A large number of firms go bankrupt and household savings reduce permanently after a brief increase during the
+shock. Permanent deflation and drop of real wages are also observed. Second Column: A policy of extending the credit limits
+for all firms is introduced, which lasts the duration of the crisis. This improves the situation of the economy. A temporary
+contraction in output can not be avoided but the policy is able to prevent bankruptcies and hence keep unemployment during
+and beyond the crisis very low. Third Column: The situation with the naive policy followed by a helicopter drop of money
+is shown. Since the naive policy by itself was enough to prevent a crisis, the helicopter drop does not change the outcome,
+apart from increasing the savings of households. Note that the money injected into the economy by the helicopter drop
+quickly disappears due to inflation. Fourth Column: An adaptive policy which reduces the bankruptcy threshold Θ gradually
+is essentially equivalent to the naive policy in this case. The vertical dotted line marks the end of this policy.
+9
+-10 0 10 20 30 40 50 60 70 80 90 100110
+2000
+4000
+6000
+8000
+10000
+T
+ot
+al
+O
+ut
+pu
+t
+No policy
+-10 0 10 20 30 40 50 60 70 80 90 100110
+2000
+4000
+6000
+8000
+10000
+Naive Policy
+-10 0 10 20 30 40 50 60 70 80 90 100110
+2000
+4000
+6000
+8000
+10000
+Naive Policy + Helicopter
+-10 0 10 20 30 40 50 60 70 80 90 100110
+2000
+4000
+6000
+8000
+10000
+Adaptive Policy
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0
+2
+4
+6
+F
+ra
+gi
+lit
+y
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0
+2
+4
+6
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0
+2
+4
+6
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0
+2
+4
+6
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0.875
+0.900
+0.925
+0.950
+0.975
+1.000
+In
+fl
+at
+io
+n/
+W
+ag
+es
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0.875
+0.900
+0.925
+0.950
+0.975
+1.000
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0.875
+0.900
+0.925
+0.950
+0.975
+1.000
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0.875
+0.900
+0.925
+0.950
+0.975
+1.000
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60 70 80 90 100110
+Time (in Months)
+0
+10000
+20000
+30000
+40000
+50000
+S
+av
+in
+gs
+-10 0 10 20 30 40 50 60 70 80 90 100110
+Time (in Months)
+0
+10000
+20000
+30000
+40000
+50000
+-10 0 10 20 30 40 50 60 70 80 90 100110
+Time (in Months)
+0
+10000
+20000
+30000
+40000
+50000
+-10 0 10 20 30 40 50 60 70 80 90 100110
+Time (in Months)
+0
+10000
+20000
+30000
+40000
+50000
+0
+1
+U-rate
+0
+1
+U-rate
+0
+1
+U-rate
+0.000
+0.002
+U-rate
+0.0
+0.5
+Bankruptcies
+0.0
+0.5
+Bankruptcies
+0.0
+0.5
+Bankruptcies
+−0.05
+0.00
+0.05
+Bankruptcies
+Consumption + Production Shock - Shocklength = 9, ∆c/c= 0.3, ∆ζ/ζ= 0.5
+Figure 5: Scenarios for shock length of 9 months (marked in grey) with and without policy. First column: Similar to Fig. 4,
+the economy undergoes a severe and prolonged contraction. However, given the length of the shock, there is a deeper fall in
+the level of real wages with firms continuing to go bankrupt far after the shock has occurred. Second Column: The presence
+of the naive policy in this case is unable to rescue the economy and in turn exacerbates the situation. Given the already
+fragile nature of the firms, removing the easy credit policy abruptly leads to a further spate of bankruptcies. This leads to
+wages being depressed further and unemployment remaining high. Third Column: The introduction of helicopter money
+improves upon the naive policy intervention at the expense of the economy undergoing another endogenous crisis. This is
+the W-shaped scenario from Fig. 1. Fourth Column: The adaptive policy in this situation drastically improves the economic
+outcomes. The contraction in output is inevitable but by providing firms the support they need for as long as possible (for
+more than 6 years here), the policy is able to keep unemployment low and prevent any bankruptcies due to the shock. The
+vertical dotted line marks the end of this policy.
+10
+-10 0 10 20 30 40 50 60 70 80 90 100110
+2000
+4000
+6000
+8000
+10000
+T
+ot
+al
+O
+ut
+pu
+t
+No policy
+-10 0 10 20 30 40 50 60 70 80 90 100110
+2000
+4000
+6000
+8000
+10000
+Naive Policy
+-10 0 10 20 30 40 50 60 70 80 90 100110
+2000
+4000
+6000
+8000
+10000
+Naive Policy + Helicopter
+-10 0 10 20 30 40 50 60 70 80 90 100110
+2000
+4000
+6000
+8000
+10000
+Adaptive Policy
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0
+1
+2
+3
+4
+5
+F
+ra
+gi
+lit
+y
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0
+1
+2
+3
+4
+5
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0
+1
+2
+3
+4
+5
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0
+1
+2
+3
+4
+5
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0.875
+0.900
+0.925
+0.950
+0.975
+1.000
+In
+fl
+at
+io
+n/
+W
+ag
+es
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0.875
+0.900
+0.925
+0.950
+0.975
+1.000
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0.875
+0.900
+0.925
+0.950
+0.975
+1.000
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60 70 80 90 100110
+0.875
+0.900
+0.925
+0.950
+0.975
+1.000
+1+Month. Infl.
+Real Wages
+-10 0 10 20 30 40 50 60 70 80 90 100110
+Time (in Months)
+0
+10000
+20000
+30000
+40000
+50000
+S
+av
+in
+gs
+-10 0 10 20 30 40 50 60 70 80 90 100110
+Time (in Months)
+0
+10000
+20000
+30000
+40000
+50000
+-10 0 10 20 30 40 50 60 70 80 90 100110
+Time (in Months)
+0
+10000
+20000
+30000
+40000
+50000
+-10 0 10 20 30 40 50 60 70 80 90 100110
+Time (in Months)
+0
+10000
+20000
+30000
+40000
+50000
+0
+1
+U-rate
+0
+1
+U-rate
+0
+1
+U-rate
+0.00
+0.25
+U-rate
+0.0
+0.5
+Bankruptcies
+0.0
+0.5
+Bankruptcies
+0.0
+0.5
+Bankruptcies
+−0.05
+0.00
+0.05
+Bankruptcies
+Consumption Shock - Shocklength = 9, ∆c/c= 0.7
+Figure 6: Scenarios for a severe consumption shock ∆c/c = 0.7 of length of 9 months (marked in grey) with and without
+policy for a pure consumption shock. First column: A prolonged crisis with a deep contraction is observed similar to the
+situation shown in Fig. 5. Second column: The naive policy is not sufficient to mitigate the crisis. In fact, removing the
+policy as the shock ends leads to further contraction and higher rate of bankruptcies. Third column: With the presence of
+helicopter money to boost spending, we observe a rapid recovery. However, another short-lived crisis is observed after the
+initial shock-induced crisis (W-shape recovery). Fourth column: With an adaptive policy, we are able to prevent bankruptcies
+and keep unemployment in control as well.
+11
+Note that at the end of the shock, when c returns to its original value, households start to over-
+spend with respect to the pre-crisis level, because their savings increase during the shock (mirroring
+the increase of firms’ debt) and they want to spend a fixed fraction of them, see Eq. (2). However, this
+over-spending can be insufficient to drive back the economy to its pre-crisis state.
+Another possible policy is thus to inject cash in the economy to boost consumption and facilitate
+recovery. This is often nicknamed “helicopter money”. This involves the expansion of the money supply
+by the central bank and has multiple transmission channels: the central bank transfers cash directly to
+its citizens or it can transfer it directly to the government which in turn would spend it on healthcare
+or infrastructure projects. This policy has been considered radical due to the fear that an expansion in
+money supply might lead to runaway inflation. In normal times, there might be support for such a view,
+but it has been shown that a helicopter drop may not always be inflationary [17]. Given the enormity
+of the crisis, there have been calls from all corners for central banks to break “taboos” [7, 18, 19] and
+do what is necessary.
+In this work, we implement a helicopter-money drop by assuming that the government distributes
+money to households multiplying their savings by a certain factor κ > 1: S → κS. The distribution
+takes place at the end of the shock, and we study here how the “naive policy” (for which Θ goes back
+to its baseline value immediately after the shock) can be improved by some helicopter money.
+Results for κ= 1.5 are shown in Figs. 4, 5 in the third column (“Naive Policy + Helicopter Money”).
+We indeed see that in the case T = 9 months, for which the naive policy was not sufficient to prevent
+a prolonged recession, increasing the consumption budgets of households does allow the economy to
+recover. However, a quite interesting effect appears, in the form of a W-shape, or relapse of the economy,
+even in the absence of a second lock-down period. This “echo” of the initial shock is due to financially
+fragile firms that eventually have to file for bankruptcy when credit has tightened. This second blip is
+however temporary and the economy manages to settle back on an even keel. This experiment shows
+the importance of boosting consumption when the shock is over. A similar effect would be obtained
+if instead of the savings S, the consumption propensity c was increased post-lock-down. This echoes
+pleas from policy makers, wooing households into over-spending once the shock period is over. A
+combination of the two might indeed lead the economy to a faster recovery as shown in the U-shape
+recovery in Fig. 1.
+We also studied the case of a pure, rather severe consumption shock ∆c/c = 0.7 lasting T = 9
+months in Fig. 6. We observe that a prolonged drop in consumption, without any loss in production,
+can still lead to long-lived crisis. The “naive”policy in this case is not enough to hasten the recovery.
+Direct cash transfer to households via helicopter money drop helps the economy recover faster but leads
+to a slow, W-shape recovery. Finally, the “adaptive” policy again works best in keeping unemployment
+low and ensures a rapid recovery.
+5 Discussion & Conclusion
+In this paper, we have discussed the impact of a Covid-like shock on the toy economy described by the
+Mark-0 Agent-Based Model developed in [6, 9, 10]. We have shown that, depending on the amplitude
+and duration of the shock, the model can describe different kind of recoveries (V-, U-, W-shaped),
+or even the absence of full recovery (L-shape). Indeed, as we discussed in [9], the non-linearities
+and heterogeneities of Mark-0 allow for the presence of “tipping points” (or phase transitions in the
+language of physics), for which infinitesimal changes of parameters can induce macroscopic changes
+of the economy. The model display a self-sustained “bad” phase of the economy, characterized by
+absence of savings, mass unemployment, and deflation. A large enough shock can bring the model
+from a flourishing economy to such a bad state, which can then persist for long times, corresponding
+to decades in our time units5.
+We have then studied how government policies can prevent an economic collapse. We considered
+5Whether such a bad phase is truly stable forever or would eventually recover (via a nucleation effect similar to metastable
+phases in physics) is an interesting conceptual point. It could also have practical implications because if recovery happens
+via nucleation, one could imagine triggering it via the artificial creation of the proper “nucleation droplet”, in the physics
+parlance. We leave this discussion for future studies.
+12
+two policies that are currently being implemented in several countries: helicopter money for house-
+holds and easy credit for firms. We find that some kind of easy credit is needed to avoid a wave of
+bankruptcies, and mixing both policies is effective, provided policy is strong enough. We also highlight
+that, for strong enough shocks, some flexibility on firm fragility might be needed for long time (a few
+years) after the shock to prevent a second wave of bankruptcies. Too weak a policy intervention is not
+effective and can result in a “swoosh” recovery or no recovery at all. Again, a threshold effect is at play,
+with potentially sharp changes in outcome upon small changes of policy strength.
+Our results then suggest that governments should try to be on the safe side and do “whatever it
+takes” to prevent the economy to fall in a bad state, and stimulate a rapid recovery.
+There are, however, some major limitations of our study. For example, in our model money is con-
+served and is essentially equal to zero (in real value) in the good phase of the economy, because any
+initial amount of money is washed away by inflation. Hence, total savings equal total debt (unless
+some helicopter money is injected). The interest rates on both deposits and loans are determined by a
+central bank via a zero-profit rule, in order to absorb the costs of defaults [6, 10]. Mark-0 thus correctly
+describes the firm bankruptcies due to excessive debt, and the resulting increase of the interest rate on
+loans (and decrease of the interest rate on deposits). However, in Mark-0 there is no splitting of debt
+into a “public” and a “private” sector, hence no competition between investments in corporate bonds
+and in government bonds. As a result, within the current framework we cannot model possible “panic”
+effects that would result from a ballooning public debt, which could potentially lead to an increase of
+the yield of government bonds, possibly resulting in runaway public debt, confidence collapse and hy-
+perinflation. This is indeed the major objection currently being raised against a stronger governmental
+response.
+Similarly, there is no coupling, in the current version of Mark-0, between a firm financial fragility
+and the interest rate on its debt (i.e. no extra risk premium for fragile firms). This could again lead
+to a run away mechanism and a collapse of the corporate sector. Modeling all these effects is possible
+within Mark-0, but we leave these important extensions for future work. We note that in any case our
+results show that the excess debt accumulated during the crisis decays (via excess inflation) over the
+scale of a few years, provided economic recovery is achieved.
+Despite these limitations, we believe that our model is flexible enough and captures enough of the
+basic phenomenology to be used as an efficient “telescope of the mind” [8]. One can play with the
+parameters to investigate qualitatively the different scenarios that can arise under different policies
+and shocks. For instance, one could impose a different shock on the economy by reducing the value of
+R (the ratio of firms’ hiring and saving propensity), either by increasing the speed at which firms fire
+their employees, or by reducing the hiring rate.6 A low enough value of R indeed drives the Mark-0
+economy to a bad state [9]. A different policy, which we did not consider here, is that the government
+pays the wages directly, allowing firms to keep their financial health unscathed. This can also easily
+implemented in Mark-0, but should be roughly equivalent to an increase of Θ.
+In this work, we did not investigate the feedback channels modeled by the awareness parameter Γ
+[see Eqs. (6) and (8)], which was set to zero throughout our work. A positive Γ means that firms’ hir-
+ing/firing propensity and wage policy depend on their financial fragility, which could lead to interesting
+effects. We again leave this for a future investigation.
+As we have emphasized above, we have not investigated in this study the standard monetary policy
+tool, namely interest rate cuts. Whereas such cuts are not expected to play a major role in the short
+term management of the crisis, their effect on the long-term fate of the economy (in particular when
+the recovery is L-shape) can be important and should be examined as well. Readers interested in this
+issue can use the code available on-line here.
+Yet another direction for future investigations would be to consider the effect of successive lock-
+downs due to subsequent spikes of Covid infections. It would be interesting to study the different
+recovery patterns that can arise in this case and assess which policy strategy is the most effective,
+perhaps coupling Mark-0 with SIR-like models.7
+Finally, we believe that one of the most needed extension of Mark-0 is to allow the role of inequalities
+6This actually happened during the lock-down, as most hires were frozen.
+7Note again, however, that W-shape recoveries can be observed in our model even in absence of a second wave of infections.
+13
+(of firm sizes and of household wealth and wages) to be discussed. Such an extension would bring our
+ABM closer to reality, while addressing one of the most pressing issues of our current times.
+References
+[1] Paul Hannon and Saabira Chaudhuri. Why the Economic Recovery Will Be More of a ‘Swoosh’
+Than V-Shaped. Wall Street Journal, May 2020. Retrieved 12 June 2020.
+[2] Martin Eichenbaum, Sergio Rebelo, and Mathias Trabandt. The Macroeconomics of Epidemics.
+National Bureau of Economic Research, Working Paper Series, Mar 2020.
+[3] Warwick J. McKibbin and Roshen Fernando. The Global Macroeconomic Impacts of COVID-19:
+Seven Scenarios. SSRN Electronic Journal, pages 1–43, March 2020.
+[4] Luca Fornaro and Martin Wolf. Covid-19 Coronavirus and Macroeconomic Policy. Barcelona GSE
+Working Paper Series, March 2020.
+[5] Veronica Guerrieri, Guido Lorenzoni, Ludwig Straub, and Iván Werning. Macroeconomic Impli-
+cations of COVID-19: Can Negative Supply Shocks Cause Demand Shortages? National Bureau
+of Economic Research Working Paper Series, 53(9):1689–1699, April 2020.
+[6] Stanislao Gualdi, Marco Tarzia, Francesco Zamponi, and Jean-philippe Bouchaud. Monetary pol-
+icy and dark corners in a stylized agent-based model. Journal of Economic Interaction and Coor-
+dination, 12(3):507–537, Oct 2017.
+[7] Richard Baldwin and Beatrice Weder di Mauro. Mitigating the COVID Economic Crisis: Act Fast
+and Do Whatever It Takes. Vox CEPR Policy Portal, 2020.
+[8] Mark Buchanan. This Economy does not compute. New York Times, 2008. Retrieved 12 June
+2020.
+[9] Stanislao Gualdi, Marco Tarzia, Francesco Zamponi, and Jean Philippe Bouchaud. Tipping points
+in macroeconomic agent-based models. Journal of Economic Dynamics and Control, 50:29–61,
+2015.
+[10] Jean-Philippe Bouchaud, Stanislao Gualdi, Marco Tarzia, and Francesco Zamponi. Optimal infla-
+tion target: insights from an agent-based model. Economics: The Open-Access, Open-Assessment
+E-Journal, pages 1–19, Sep 2018.
+[11] Edoardo Gaffeo, Domenico Delli Gatti, Saul Desiderio, and Mauro Gallegati. Adaptive Microfoun-
+dations for Emergent Macroeconomics. Eastern Economic Journal, 34(4):441–463, Oct 2008.
+[12] Domenico Delli Gatti, Saul Desiderio, Edoardo Gaffeo, Pasquale Cirillo, and Mauro Gallegati.
+Macroeconomics from the Bottom-up. Springer Science & Business Media, 2011.
+[13] Frank Smets and Raf Wouters. An Estimated Dynamic Stochastic General Equilibrium Model of
+the Euro Area. Journal of the European Economic Association, 1(5):1123–1175, Sep 2003.
+[14] R. Maria del Rio-Chanona, Penny Mealy, Anton Pichler, Francois Lafond, and Doyne Farmer. Sup-
+ply and demand shocks in the COVID-19 pandemic: An industry and occupation perspective.
+Covid Economics, (6), Apr 2020.
+[15] Mark Carney and Ben Broadbent. Bank of England Monetary Policy Report May 2020. Technical
+Report May, Bank of England, 2020.
+[16] Pierre Aldama, Raphaël Cancé, Marion Cochard, Marie Delorme, William Honvo, Yannick
+Kalantzis, Guy Levy-Rueff, Emilie Lor-Lhommet, Jean-François Ouvrard, Simon Perillaud, Béa-
+trice Rouvreau, Paul Sabalot, Katja Schmidt, Antoine Sigwalt, Camille Thubin, Youssef Ulgazi,
+Paul Vertier, and Thao Vu. Macro-economic projections June 2020. Technical report, Banque de
+France, June 2020.
+14
+[17] Willem H. Buiter. The Simple Analytics of Helicopter Money: Why It Works — Always. Economics:
+The Open-Access, Open-Assessment E-Journal, 8(1), 2014.
+[18] Sony Kapoor and Willem H. Buiter. To fight the COVID pandemic , policymakers must move fast
+and break taboos. Vox CEPR Policy Portal, 2020. Retrieved 12 June 2020.
+[19] Jordi Gali. Helicopter Money: the time is now. Vox CEPR Policy Portal, 2020. Retrieved 12 June
+2020.
+15

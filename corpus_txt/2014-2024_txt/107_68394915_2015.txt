@@ -1,0 +1,733 @@
+A Framework for Measuring County Economic Resilience
+
+Regional Research Institute Publications and
+Working Papers Regional Research Institute
+3-17-2015
+A Framework for Measuring County Economic
+Resilience
+Mulugeta Kahsai
+mkahsai@vsu.edu
+Junbo Yu
+Mark Middleton
+Peter V. Schaeffer
+West Virginia University, peter.schaeffer@mail.wvu.edu
+Randall Jackson
+West Virginia University, randall.jackson@mail.wvu.edu
+Follow this and additional works at: https://researchrepository.wvu.edu/rri_pubs
+Part of the Regional Economics Commons
+This Working Paper is brought to you for free and open access by the Regional Research Institute at The Research Repository @ WVU. It has been
+accepted for inclusion in Regional Research Institute Publications and Working Papers by an authorized administrator of The Research Repository @
+WVU. For more information, please contact ian.harmon@mail.wvu.edu.
+Digital Commons Citation
+Kahsai, Mulugeta; Yu, Junbo; Middleton, Mark; Schaeffer, Peter V.; and Jackson, Randall, "A Framework for Measuring County
+Economic Resilience" (2015). Regional Research Institute Publications and Working Papers. 22.
+https://researchrepository.wvu.edu/rri_pubs/22
+Regional Research Institute
+West Virginia University
+Working Paper Series
+A Framework for Measuring County Economic
+Resilience
+An Application to West Virginia
+Mulugeta S. Kahsai, Assistant Professor, Virginia State
+University; Junbo Yu, School of Administration, Jilin
+University; MarkMiddleton, Graduate Research
+Assistant, Regional Research Institute; Peter V. Schaeffer,
+Professor, Division of ResourceManagement; RandallW.
+Jackson, Regional Research Institute Director and
+Professor Department of Geography
+Working Paper Number 2015-03
+Website address: rri.wvu.edu
+A Framework for Measuring County
+Economic Resilience
+Mulugeta S. Kahsai1, Junbo Yu2, Mark Middleton3,4, Peter V.
+Schaeffer3 and Randall W. Jackson∗4,5
+1Division of Technology, Virginia State University
+2School of Administration,Jilin University
+3Division of Resource Management, West Virginia University
+4Regional Research Institute, West Virginia University
+5Department of Geography, West Virginia University
+March 17, 2015
+Abstract
+The study provides a framework to develop economic resilience
+index for West Virginia counties based on the premise that county
+economic resilience depends on its physical and human resources,
+structure and diversity of its economic base (employment and in-
+come diversity), entrepreneurial activity and business dynamics and
+scale and proximity (spatial issues). Using 17 indicators along four
+of the six proposed dimensions, a preliminary economic resilience in-
+dex has been created for West Virginia counties between for the years
+2000 and 2005. Geospatial maps are also developed to explore the
+evolution of the geographical patterns of economic resilience across
+time. The effectiveness of the index is further affirmed in correlation
+analyses where the contribution of economic resilience to unemploy-
+ment reduction and employment growth is highly significant. These
+preliminary results are encouraging and appear to be pointing in a
+useful direction. The discussion in this study can serve as a start-
+ing point for building a broad-based, standardized, and consistent
+definition and measure of economic resilience.
+Keywords: Regional economic development, Economic structure, Re-
+silience
+JEL Classification: R11
+∗Randall.jackson@mail.wvu.edu
+2/21
+1 Introduction
+Globalization, rapid technological change, deep recessions, and man-made
+and natural disasters have generated interest in regional economic re-
+silience as an important field of study. The economic impact of these
+exogenous shocks and the recovery mechanisms differ from region to re-
+gion. Lack of economic diversification is one of the major weaknesses that
+limits the ability of a region to absorb an external shock. In rural West
+Virginia, an over-dependence on the coal and steel industry has shattered
+the economies of many counties in the South and Northern panhandle of
+the state.
+McDowell County is a good example of a county that is struggling to
+recover from economic and natural disasters. Once a leading producer of
+coal in the US, it is hard hit by change in technology in coal production, de-
+cline in industry demand (starting in the 1950s), and flooding (2001-2002).
+In the 1950s the county population was close to 100,000 (West Virginia
+Health Statistics Center, 2002) and in 1980, 68.9% of its industrial earnings
+and 48% of it employment were dependent on coal1. With technological
+changes in the coal industry everything started to fall apart. The use of
+new mining technologies, competition and demand decline from the steel
+industry resulted in the restructuring of the mining industry and a decrease
+in the mining labor force. Its population decreased to an estimated 25,000
+in 2005. In a quarter of a century (1980-2005) alone, it lost more than 50%
+of its population and 63.5% of its employment. McDowell County was
+not able to absorb the external shock and bounce back to transform and
+diversify its economy and is lagging behind in almost every measure of
+economic activity. McDowell is an example of many rural counties whose
+economic resilience and the survival of the community are challenged by
+economic downturns and disasters. Local stakeholders stand to benefit
+from a better understanding of the impact of external shocks on their local
+areas that help them improve response strategies that will minimize ad-
+verse effects while at the same time building a more resilient economy and
+community.
+1Most of the population, employment, and earnings data used in the McDowell county
+example are from the Bureau of Economic Analysis (BEA).
+3/21
+The literature in this subarea of regional economics is at still in its in-
+fancy. However, the closely related issue of the relationship between eco-
+nomic instability and diversification has been the subject of many studies.
+In theory, economic diversity results in a more stable economy (Akpadock,
+1996; Jackson, 1984). The broader concept of community resilience is also
+getting much more attention due to the threat of and concerns for man-
+made and natural disasters. Economic resilience is one dimension of this
+broader concept of community and regional resilience.
+The main objective of this study is to develop a county economic re-
+silience index for measuring the ability of local economies to withstand
+external shocks and bounce back. It can serve as a standalone measure
+of economic resilience in relation to economic downturn or it can be used
+more generally as one measure of community or regional resilience. It is
+one aspect of the community resilience that includes both social and nat-
+ural capital of the community. The index highlights and identifies which
+geographical areas are best positioned to cope with economic downturns
+and those that are at risk. The index also gives a measurement that reflects
+the multidimensionality of economic resilience. It provides a framework
+for identifying the areas of greatest strength and weakness, with a focus
+on the physical and human resources, structure and diversity of the eco-
+nomic base (employment and income diversity), entrepreneurial activity
+and business dynamics and scale and proximity (spatial issues). The study
+is also expected to contribute to our understanding of the geography of
+economic resilience and its implication for rural economic development.
+A geospatial map is used to assess the spatial distribution of economic
+resilience over time.
+The index created in this study is not without limitations. Average
+county-level data masks many important details that could highlight the
+differences in economic resilience within a county. The lack of a consistent
+county level database limits the ability to create a broad based index. The
+variables included to create the index may not provide a complete picture
+of economic resilience of West Virginia counties. However, the index can
+serve as a foundation for discussion for understanding economic resilience
+and standardizing its measurement. It will also provide a benchmark for
+comparing the strengths and weaknesses of West Virginia counties.
+4/21
+2 Defining Economic Resilience
+Detailed descriptions and definitions of the resilience concept used in dif-
+ferent disciplines are given by Mayunga (2007); Norris et al. (2008); Rose
+(2009). Despite the many definitions, it appears that there is some con-
+sensus among researchers and practitioners on common attributes of re-
+silience. Regional or community resilience is defined “as the ability of a
+region to anticipate, prepare for, respond to and recover from a distur-
+bance” (Foster, 2007; Mayunga, 2007) while Peacock (2009) defines it “as
+the ability of a community to absorb, deflect or resist disaster impacts,
+bounce back after being impacted, and learn from experience and modify
+its behavior and structure to adapt to future threats”.
+Economic resilience to disasters is defined as the inherent and adaptive
+responses to hazards that enable individuals and communities to avoid
+some potential losses (Rose, 2004). Rose describes static economic re-
+silience as the ability or capacity of a system to absorb or cushion against
+damage or loss and dynamic resilience as the ability of a system to recover
+from a severe shock. Following the literature, in this study economic re-
+silience is defined as the ability to absorb shock and bounce back. In this
+study, bouncing back is defined as returning to the economic status before
+the external shock. While there is some discussion surrounding the de-
+sirability of returning to previous economic status rather than some new
+normal, and potentially better economic status, setting the target for the
+index at complete return establishes a foundational point of reference that
+is useful for interregional comparison. The index will provide a base line
+where local authorities and policy makers can gauge their region. It will
+serve to identify the key factors underlying economic resilience at county
+level.
+3 Literature
+Economic resilience is a highly complex construct which is affected by sev-
+eral factors. Disaster and economic downturns are the two main factors
+that test the resiliency of a region. There are several frameworks which
+focus on economic resilience (Briguglio et al., 2009; Rose, 2007; EDAW and
+5/21
+AECOM, 2009; Arnold et al., 2009). Although these conceptual frame-
+works have advanced our understanding, in the case of the US, they have
+not led to an index that could have a practical application at the local level.
+Several approaches are used to measure the economic resilience of a
+region. Computational general equilibrium (CGE) modeling (Rose and
+Liao, 2005), case studies (Foster, 2007), discriminant analysis (Chapple and
+Lester, 2007), and an entropy index of industrial diversification (Horne
+et al., 1999) are some of the approaches that have been used to study re-
+gional economic resilience in the US. Horne et al. (1999) equate economic
+resilience to industrial diversification and assumed that greater diversity
+of the industrial base leads to more resilient economies. This implies that
+a county with a diversified industrial base is more resilient than an indus-
+trial concentrated one. This seems intuitive but warrants some caution. A
+region with a diversified economy might lack strong capabilities to bounce
+back after shock (Lanza et al., 2010), perhaps because it fails to incorporate
+the role of human and physical capital in economic resilience.
+Resilience measures the capacity of the community impacted by an
+external shock to adjust and recover quickly. The stronger the social, eco-
+nomic, and environmental capital, the more resources community has from
+which to draw for recovery. Small rural communities may not have the
+necessary resources to deal with major disasters or economic downturns,
+but they may have a very strong sense of community. How much strong
+social capital can compensate the lack of resources and help communities
+to recover is an issue by itself worth investigating. The presence or absence
+of existence of separate small communities (ethnic, race, economic) within
+a larger jurisdiction was found to be important in community resilience in
+areas of Mississippi and Louisiana affected by Katrina (Li et al., 2014). The
+scale of the economy and the proximity of the region to major urban, trans-
+portation, and communication centers could also play a role in fostering
+economic resilience.
+6/21
+4 Methodology
+The County Economic Resilience Index (CERI) builds on past research and
+analysis that used economic resilience indicators as one dimension in com-
+munity resilience and/ or social vulnerability index (Cutter et al., 2003, 2008,
+2009; Peacock, 2009; EDAW and AECOM, 2009). The approach is based on
+the assumption that economic resilience is a complex phenomenon which
+cannot be explained by one single attribute but multiple attributes of a
+region can be combined to create a single, composite index value. Fig-
+ure 1 and Table 1 shows the proposed framework. The County Economic
+Resilience Index (CERI) proposed in this study has six dimensions: indus-
+trial diversity, entrepreneurial activity and business dynamics, human and
+social capital, scale and proximity, and physical capital (infrastructure).
+Figure 1: Proposed Framework for County Economic Resilience Index
+(CERI)
+4.1 Industrial Diversity
+Regional economic resilience to large extent depends on the industrial base
+of its underlying economy. A highly concentrated economic base can give
+a competitive advantage due to specialization and can be a major source
+of economic growth. It can also expose the region to external shocks due
+to over-dependence on particular activities. This can lead to localized job
+losses if global trends result in outsourcing or demand change. A balance
+7/21
+between diversification and specialization is needed in order to stay com-
+petitive but also minimize the exposure to external shocks. To construct
+a measure of industrial diversity, an index is developed by aggregating
+industrial employment into ten sectors2. The computation of the index is
+based on data from the Bureau of Labor Statistics (BLS), Quarterly Cen-
+sus of Employment and Wages. Following Attaran and Zwick (1989) and
+Nissan and Carter (2006) an Entropy Index (E) of industrial diversity is
+created as follows:
+E =
+n∑
+i=0
+Pi × log
+1
+Pi
+(1)
+Where n is the number of sectors and Pi is the percentage of employment
+in each sector from total private employment. The greater the value E the
+more diversified will be the industrial base.
+4.2 Income Diversity (INCD)
+In social sciences, income diversity often is related to the measures of
+income distribution that try to show income inequality and its effect to
+economic development. This is a very important measure of the overall
+wellbeing of the community. But for economic resilience, sources of in-
+come are equally important. The measure used in this study will capture
+the source of income and the distribution of the income in the region.
+The objective here is to assess the role of income diversity in absorbing
+shocks and bouncing back. First an entropy index of income sources using
+the same formula as in the industrial diversity index will be created by
+summing up the different sources of income as percentages of per capita
+income. This index will be added to the Gini coefficient of income inequal-
+ity to form the index of income diversity. The indicators used to measure
+the sources of income diversity are:
+1. Percentage of wage and salaries (labor income) from total per capita
+income
+2The super sectors are natural resource s and mining, construction, manufacturing,
+trade, transportation, and utilities, information, financial services, professional and busi-
+ness services, leisure and hospitality, and other services.
+8/21
+2. Percentage of investment income from total per capita income
+3. Percentage of self employment income from total per capita income
+4. Percentage of transfer payment income from total per capita income
+INCD =
+n∑
+i=0
+Pi × log
+1
+Pi
++ Gini (2)
+Where Pi is the percentages of the different sources of income from per
+capita income and Gini is the Gini coefficient of income inequality.
+4.3 Entrepreneurial Activity and Business Dynamics
+This dimension captures the extent of self-employment, the number of
+patents, and establishment churn as a proxy measure of the entrepreneurial
+activity and business dynamics. A region that scores high in this dimension
+possesses the flexibility and attitude that might allow its economy to adjust
+rapidly to changing economic conditions.
+1. Self Employment: % of Number of nonfarm proprietors from total
+employment
+2. Establishment churn: It is defined as the total establishment Births,
+Deaths, Expansions, and contractions, relative to the total number of
+firms in county j.
+Establishment Churn j =
+Births + Deaths + Expansion + Constraction
+Deaths + Expansions + Constraction + Constants
+(3)
+Where Births is the establishment births in year t, Deaths is establish-
+ment deaths in year t, Expansion is establishment expansions in year
+t, Contraction is establishment contractions in year t, and Constants is
+9/21
+establishment constants in year t. Establishment Births, Deaths, Ex-
+pansions, Contractions, and Constants are determined by the change
+in establishment employment between the initial and subsequent
+years.
+3. Number of patents: the number of patents in a county is used as a
+proxy for a measure of innovation.
+4.4 Scale and Proximity
+Local economies do not exist in isolation. They affect and are affected by
+the economic activities in the region. In West Virginia, this is more apparent
+in the Eastern and Northern panhandle. Counties in the Eastern panhan-
+dle benefit from the proximity and agglomeration of the Washington DC
+metro area. On the other hand, the economies in the Northern panhandle
+are part of the Rust Belt and are related to the Pittsburgh metro area. The
+downturn of the manufacturing sector in the region is one of the reasons
+that affected the economies of the counties in the Northern panhandle of
+the state.
+The scale and proximity dimension captures the agglomeration ef-
+fects associated with larger economies. It identifies the level of inter-
+connectivity between neighboring urban economies and reflects the impor-
+tance of size to economic resilience. Higher levels of integration provide
+additional opportunities to business and the workforce, while more self
+contained or isolated economies are dependent upon local opportunities.
+There are three indicators within this domain:
+1. Establishment or business density is the number of businesses for
+1000 employee
+2. Population Density reflects the scale of the local economy and is
+measured as population per square mile
+3. Average distance and time of work to commute captures both the
+opportunities and willingness of local people to access employment
+opportunities beyond the city boundaries.
+10/21
+4.5 Human Capital
+Higher levels of human capital in a community are expected to increase
+resiliency by enhancing innovative and productive activities. Human cap-
+ital also helps regions develop the ability to anticipate, cope, adapt, and
+recover from disasters and downturns. Educational attainment is the com-
+monly used measure of human capital (reference here would be good). The
+percentage of creative class employment relative to over employment is
+used as proxy to the quality and creativity of the work force. The variables
+used in this dimension are:
+1. Education for persons 25 and over with bachelor’s degree or higher
+2. Education of persons 25 and over with some college level or an
+associate’s degree
+3. Percentage of creative class employment relative to over employment
+4.6 Physical Capital
+The strength of economic activity in a region depends on the physical in-
+frastructure in the region. These regional assets facilitate communication
+and transportation that are vital in sustaining a competitive advantage.
+These include physical assets and other advantages from location. Physi-
+cal capital refers to the built environment of buildings roads and bridges;
+and utilities. The three indicators that are used as proxies to physical cap-
+ital are:
+1. Housing stock
+2. Road and highway density
+3. Access to health care providers
+4.7 The Composite Index
+Several approaches are available to create the composite index of County
+Economic Resilience. One approach is to use a three step process.
+11/21
+1. Convert raw data of each indicator to a ratio by dividing the county
+level data by the West Virginia state level average
+2. Standardize all indicators using xi−xMinxMax−xMin to a measure between 0-1
+3. Create sub-indices by summing the standardized indicators
+4. Give weight (W) to each sub-indices or dimension (D)
+5. Sum the weighted averages for each county j
+CERI j =
+n∑
+i=0
+Wi ×Di
+The second approach is to use principal component analysis (PCA). In
+this approach all the individual indicators will be included in the PCA
+and the components with eigenvalues greater than one will be summed
+together to form the composite index.
+5 Data Sources
+The County Economic Resilience Index is created using data which is pub-
+licly available from official government statistical agencies. The Bureau of
+Economic Analysis (BEA), US Census Bureau, Bureau of Labor Statistics
+(BLS), and West Virginia Work Labor Market Information are some of the
+data sources used to create the database for the study. One of the major
+problems was finding consistent time series data for all indicators. Some
+of the census variables are available only on decennial bases. In such cases,
+the closest census year data is used. For example, for all cases during the
+period of 1995-2005, the decennial Census of 2000 is used and for cases of
+1985-1995, the decennial Census of 1990 is used.
+12/21
+6 Preliminary Results of the County Economic
+Resilience Index (CERI)
+The composite CERI contains four dimensions: industrial diversity, hu-
+man capital, entrepreneurial activity and business dynamics, and scale
+and proximity. Each of the dimensions is a sub-index by itself and is cre-
+ated from multiple variables. The preliminary CERI for 2000 and 2005
+are created from 17 variables. Industrial diversity is constructed as index
+of employment rate in 10 sectors; human capital consists of percentage
+of population with college degrees, some college degrees, and creative
+class; entrepreneurial activity and business dynamics includes establish-
+ment Churn and percentage of self employment; and scale and proximity
+is formed from population density and establishment density.
+A four step approach: converting the county raw data to a relative
+measure by dividing the county level data by the West Virginia state level
+average; standardizing using xi−xMinxMax−xMin to a measure between 0-1; creating
+sub-indices of the four dimensions by summing the standardized indica-
+tors; and finally summing the dimensions to create CERI. Equal weight is
+given to each variable in the sub-indices and each dimension in the com-
+posite index.
+Table 2 presents the CERI by quartile for West Virginia counties. The
+counties in each quartile are listed from the highest to the lowest. Figure
+1 also provides the spatial distribution of the quartiles in 2000 and 2005.
+CERI is highly correlated with the degree of urbanization of the counties.
+The correlation between the CERI 2000 and 2005 with the Index of Relative
+Rurality (IRR)3 is −0.65 and −0.61 respectively. This makes sense because
+as the level of urbanization increases, counties are expected to be stronger
+economically.
+3The Index of Relative Rurality (IRR) is created by Brigitte Waldorf, professor with the
+Department of Agricultural Economics at Purdue University. It is used to determine a
+county’s degree of rurality based on four dimensions of rurality: population, population
+density, extent of urbanized area, and the distance to the nearest metro area. The index
+is based on a scale from 0 to 1, with 0 being the most urban place and 1 being the most
+rural place. According to this index rural counties are defined as counties with the 0.4 or
+greater in the index (Waldorf, 2006).
+13/21
+Figure 2: West Virginia CERI Map by Quartile
+Figure 3: West Virginia CERI Map by Standard Deviation
+14/21
+Table 1: Dimensions of County Economic Resilience Index and their Po-
+tential Indicators
+Dimensions Potential Indicators Potential Impact on CERAI
+Employment and
+Industrial Diver-
+sity
+Sectoral mix of employ-
+ment
+The higher the diversity of the
+industrial base the more re-
+silient the economy
+Income Diversity
+Labor income
+Diversity of income sources
+helps to absorb external
+shock
+Investment income
+Business income
+Transfer payments
+Income Inequality
+Human Capital
+Educational attainment Increases knowledge and
+skill to understand
+community risks; increases
+ability to develop and
+implement risk reduction
+strategy
+Age distribution
+Health
+Mobility of labor force
+Creative class
+Physical Capi-
+tal/Infrastructure
+(Assets)
+Housing stock
+Facilitates communication
+and transportation; reflects
+the importance of strategic
+infrastructure in sustaining a
+competitive advantage.
+Industrial building stock
+Road and highway den-
+sity
+Railroads and Airports
+Water and water treat-
+ment plants
+Communication and in-
+formation infrastructure
+(radio, phone, newspa-
+per, broadband, etc.)
+Energy supply infrastruc-
+ture
+Access to health care
+providers (in general)
+Retirement homes
+Entrepreneurial
+activity and
+business
+dynamics
+Percentage of self-
+employment
+Establishment Churn,
+Patents
+Scale and
+proximity
+Population size and den-
+sity,
+Enhances local capital stocks;
+capturing the agglomeration
+effectsEstablishment density,
+Average distance and
+time of work commute
+15/21
+Table 2: CERI by Quartile
+1st Quartile 2000 1st Quartile 2005 2nd Quartile 2000 2nd Quartile 2005
+COUNTY Index COUNTY Index COUNTY Index COUNTY Index
+MONONGALIA 4.84 MONONGALIA 5.13 WAYNE 3.32 MONROE 3.78
+PUTNAM 4.53 JEFFERSON 5.09 JACKSON 3.29 BROOKE 3.70
+CABELL 4.50 CABELL 4.68 WIRT 3.28 JACKSON 3.65
+JEFFERSON 4.48 PUTNAM 4.68 UPSHUR 3.26 FAYETTE 3.64
+KANAWHA 4.39 BERKELEY 4.64 FAYETTE 3.16 WAYNE 3.61
+OHIO 4.29 KANAWHA 4.54 CALHOUN 3.15 GILMER 3.61
+WOOD 4.09 OHIO 4.43 PRESTON 3.12 HAMPSHIRE 3.60
+BERKELEY 4.03 WOOD 4.36 HAMPSHIRE 3.09 MARSHALL 3.6
+MARION 3.79 MARION 4.30 MORGAN 3.08 MERCER 3.59
+RALEIGH 3.74 WIRT 4.06 MARSHALL 3.07 MINERAL 3.50
+HARRISON 3.63 DODDRIDGE 3.99 TAYLOR 3.05 TUCKER 3.44
+DODDRIDGE 3.54 HARRISON 3.99 GILMER 3.03 PRESTON 3.41
+BROOKE 3.44 MORGAN 3.89 GREENBRIER 3.02 TAYLOR 3.40
+MERCER 3.38 RALEIGH 3.87 MINERAL 3.01 UPSHUR 3.38
+3rd Quartile 2000 3rd Quartile 2005 4th Quartile 2000 4th Quartile 2005
+COUNTY Index COUNTY Index COUNTY Index COUNTY Index
+LINCOLN 2.96 HANCOCK 3.33 NICHOLAS 2.42 LOGAN 2.96
+POCAHONTAS 2.95 PENDLETON 3.33 GRANT 2.40 LEWIS 2.96
+RANDOLPH 2.92 ROANE 3.30 RITCHIE 2.35 BRAXTON 2.93
+HANCOCK 2.90 GREENBRIER 3.28 PENDLETON 2.35 WETZEL 2.83
+PLEASANTS 2.85 BARBOUR 3.21 CLAY 2.35 WYOMING 2.72
+BARBOUR 2.84 POCAHONTAS 3.2 0 SUMMERS 2.34 MINGO 2.69
+LOGAN 2.84 LINCOLN 3.16 MINGO 2.31 RITCHIE 2.60
+MONROE 2.82 SUMMERS 3.13 WYOMING 2.16 MASON 2.53
+TYLER 2.76 GRANT 3.1 MASON 2.13 CLAY 2.36
+BRAXTON 2.73 RANDOLPH 3.09 WETZEL 2.11 WEBSTER 2.29
+LEWIS 2.65 CALHOUN 3.08 WEBSTER 2.01 TYLER 2.15
+ROANE 2.62 PLEASANTS 2.97 HARDY 1.79 MCDOWELL 1.97
+TUCKER 2.47 NICHOLAS 2.96 MCDOWELL 1.74 HARDY 1.84
+BOONE 1.3 BOONE 1.76
+16/21
+Figure 3 and table 3 present the spatial distribution of CERI based on
+the deviation of the index from the mean. It highlights which counties are
+in the top and bottom of the list. There are eight counties that score one
+standard deviation above the state mean of 3.03 and seven counties below
+it (Table 3). The rest 40 counties are within one standard deviation of the
+mean. According to this preliminary index, the counties that scored high
+are part of a metro area with a major city, close to interstate highway, and
+high in human capital.
+Table 3: West Virginia CERI by Standard Deviation
+COUNTY AVCERI00 + Stdv COUNTY AVCERI05 + Stdv
+MONONGALIA 4.84 MONONGALIA 5.13
+PUTNAM 4.53 JEFFERSON 5.09
+CABELL 4.50 CABELL 4.68
+JEFFERSON 4.48 PUTNAM 4.68
+KANAWHA 4.39 BERKELEY 4.64
+OHIO 4.29 KANAWHA 4.54
+WOOD 4.09 OHIO 4.43
+BERKELEY 4.03 WOOD 4.36
+MARION 3.79 MARION 4.3
+COUNTY AVCERI00 − Stdv COUNTY AVCERI05 − Stdv
+WYOMING 2.16 RITCHIE 2.6
+MASON 2.13 MASON 2.53
+WETZEL 2.11 CLAY 2.36
+WEBSTER 2.01 WEBSTER 2.29
+HARDY 1.79 TYLER 2.15
+MCDOWELL 1.74 MCDOWELL 1.97
+BOONE 1.30 HARDY 1.84
+BOONE 1.76
+Jefferson and Marion are the two counties considered rural (according
+to IRR) that scored one standard deviation above the mean in the index in
+2000 and 2005 (Table 3). Jefferson County is part of the Washington D.C.
+metropolitan area and it is hard to consider it rural. Marion County is
+center of the Fairmont Micropolitan Statistical Area and is adjacent to the
+Morgantown Metropolitan region. In both cases the economy of the coun-
+ties has benefited from its proximity to major urban centers. However, this
+17/21
+is not true in the case of the counties that scored low. Some of the counties
+included in this group are physically adjacent to metro areas and their
+economies are not benefiting from any spillover effect from its geographic
+proximity to urban centers. Even though, a detailed study is needed to
+understand what is going in these counties, one possible explanation could
+be the level of accessibility or connectivity with the urban centers.
+We test the performance of the index in relation to the unemployment
+rate of 2002. The correlation of CERI of 2000 with the unemployment rate
+in 2002 was −0.48 and was highly significant at the one percent level. This
+indicates that counties that scored high in the index on average have low
+unemployment rate in the recession of 2001-2002. Is this an indication of
+absorbing the economic shocks and dislocations of the previous decades?
+7 Conclusion
+The differential performance of U.S. regions in face of the most recent eco-
+nomic downturn signifies the necessity of understanding the composition
+and determinants of economic resilience. By adopting a working definition
+of economic resilience as the ability to absorb shock and bounce back, this
+study proposed a framework to create a county level index of economic re-
+silience. Our main objective at this stage is to initiate a discussion that can
+contribute to the conceptualization and validation of a consistent measure
+of county economic resilience in the U.S. context.
+Drawing on previous literature that concentrates on social vulnerabil-
+ity and disaster resilience, this paper first identifies the research gap in
+defining and measuring economic resilience and addresses this gap by
+formulating new concepts and measures that suit the U.S. situation. Next,
+by choosing 17 indicators along four of the six proposed dimensions, a
+preliminary economic resilience index has been created and implanted for
+West Virginia counties between the years 2000 and 2005. Geospatial maps
+are also developed to explore the evolution of the geographical patterns of
+economic resilience across time. The index is found to be consistent with
+the ARC classification of economic status, i.e. competitive, transitional,
+and distressed, for West Virginia counties. The majority of the counties
+18/21
+that scored low in the economic resilience index are classified as distressed
+by ARC. The effectiveness of the index is further affirmed in subsequent
+correlation analyses where the contribution of economic resilience to un-
+employment reduction and employment growth is highly significant.
+These preliminary results are encouraging and appear to be pointing
+in a useful direction. The discussion in this study can serve as a starting
+point for building a broad-based, standardized, and consistent definition
+and measure of economic.
+References
+Akpadock, F. (1996). Diversification trends of the regional economy of mill-
+town communities in northeast ohio, 1980-1991. Community Development,
+27(2):177–196.
+Arnold, J., Longlands, S., McInroy, N., and Smith, J. (2009). Toward a new
+wave of local economic activism: The future for economic strategies.
+Technical report, Centre for Local Economic Strategies.
+Attaran, M. and Zwick, M. (1989). An information theory approach to mea-
+suring industrial diversification. Journal of Economic Studies, 16(1):19–30.
+Briguglio, L., Cordina, G., Farrugia, N., and Vella, S. (2009). Economic
+vulnerability and resilience: concepts and measurements. Oxford Devel-
+opment Studies, 37(3):229–247.
+Chapple, K. and Lester, B. (2007). Emerging patterns of regional resilience.
+Technical report, UC Berkeley: Institute of Urban and Regional Devel-
+opment.
+Cutter, S. L., Barnes, L., Berry, M., Burton, C., Evans, E., Tate, E., and Webb,
+J. (2008). A place-based model for understanding community resilience
+to natural disasters. Global environmental change, 18(4):598–606.
+Cutter, S. L., Boruff, B. J., and Shirley, W. L. (2003). Social vulnerability to
+environmental hazards. Social science quarterly, 84(2):242–261.
+19/21
+Cutter, S. L., Emrich, C. T., and Burton, C. G. (2009). Baseline indicators
+for disaster-resilient communities. In CARRI Workshop, Broomfield, July.
+Available at: www. resilientus. org/library/Susan_Cutter_1248296816. pdf.
+EDAW and AECOM (2009). Index of economic resilience. Technical report,
+EDAW and AECOM.
+Foster, K. A. (2007). A case study approach to understanding regional
+resilience. Technical report, Institute of Urban & Regional Development.
+Horne, A. L., Haynes, R. W., et al. (1999). Developing measures of socioe-
+conomic resiliency in the interior columbia river basin. Technical report,
+Department of Agriculture, Forest Service, Pacific Northwest Research
+Station.
+Jackson, R. W. (1984). An evaluation of alternative measures of regional
+industrial diversification. Regional Studies, 18(2):103–112.
+Lanza, S. P. et al. (2010). Bouncing back: Explaining the ability to recover
+from recession in connecticut and other states. The Connecticut Economy,
+(Winter).
+Li, H., Fernandez, S. J., and Ganguly, A. (2014). Racial geography, economic
+growth and natural disaster resilience. J Geogr Nat Disast, 4(123):2167–
+0587.
+Mayunga, J. S. (2007). Understanding and applying the concept of com-
+munity disaster resilience: a capital-based approach. Summer academy
+for social vulnerability and resilience building, pages 1–16.
+Nissan, E. and Carter, G. (2006). The measurement of employment diversity
+for states and regions. Journal of Economics and Finance, 30(2):186–197.
+Norris, F., Stevens, S., Pfefferbaum, B., Wyche, K., and Pfefferbaum, R.
+(2008). Community resilience as a metaphor, theory, set of capacities, and
+strategy for disaster readiness. American Journal of Community Psychology,
+41(1-2):127–150.
+Peacock, W. (2009). Advancing coastal community resilience. Technical
+Report Resilience Research Workshop, The Community and Regional
+Resilience Institute.
+20/21
+Rose, A. (2004). Defining and measuring economic resilience to disasters.
+Disaster Prevention and Management: An International Journal, 13(4):307–
+314.
+Rose, A. (2007). Economic resilience to natural and man-made disasters:
+Multidisciplinary origins and contextual dimensions. Environmental Haz-
+ards, 7(4):383–398.
+Rose, A. and Liao, S.-Y. (2005). Modeling regional economic resilience to
+disasters: A computable general equilibrium analysis of water service
+disruptions. Journal of Regional Science, 45(1):75–112.
+Rose, A. Z. (2009). Economic resilience to disasters. Technical Report
+Research report 8, The Community and Regional Resilience Institute.
+Waldorf, B. (2006). A continuous multi-dimensional measure of rurality:
+Moving beyond threshold measures. Annual meetings of the American
+Agricultural Economics Association, Long Beach, CA, pages 23–26.
+West Virginia Health Statistics Center (2002). A look at west virginia’s
+population by decade, 1950-2000. Technical report, West Virginia Health
+Statistics Center.
+21/21
+Table 4: CERI Ranking for 2000 and 2005
+COUNTY CERI00 Rank00 COUNTY CERI05 Rank05
+MONONGALIA 4.84 1 MONONGALIA 5.13 1
+PUTNAM 4.53 2 JEFFERSON 5.09 2
+CABELL 4.50 3 CABELL 4.68 3
+JEFFERSON 4.48 4 PUTNAM 4.68 4
+KANAWHA 4.39 5 BERKELEY 4.64 5
+OHIO 4.29 6 KANAWHA 4.54 6
+WOOD 4.09 7 OHIO 4.43 7
+BERKELEY 4.03 8 WOOD 4.36 8
+MARION 3.79 9 MARION 4.30 9
+RALEIGH 3.74 10 WIRT 4.06 10
+HARRISON 3.63 11 DODDRIDGE 3.99 11
+DODDRIDGE 3.54 12 HARRISON 3.99 12
+BROOKE 3.44 13 MORGAN 3.89 13
+MERCER 3.38 14 RALEIGH 3.87 14
+WAYNE 3.32 15 MONROE 3.78 15
+JACKSON 3.29 16 BROOKE 3.70 16
+WIRT 3.28 17 JACKSON 3.65 17
+UPSHUR 3.26 18 FAYETTE 3.64 18
+FAYETTE 3.16 19 WAYNE 3.61 19
+CALHOUN 3.15 20 GILMER 3.61 20
+PRESTON 3.12 21 HAMPSHIRE 3.60 21
+HAMPSHIRE 3.09 22 MARSHALL 3.60 22
+MORGAN 3.08 23 MERCER 3.59 23
+MARSHALL 3.07 24 MINERAL 3.50 24
+TAYLOR 3.05 25 TUCKER 3.44 25
+GILMER 3.03 26 PRESTON 3.41 26
+GREENBRIER 3.02 27 TAYLOR 3.40 27
+MINERAL 3.01 28 UPSHUR 3.38 28
+LINCOLN 2.96 29 HANCOCK 3.33 29
+POCAHONTAS 2.95 30 PENDLETON 3.33 30
+RANDOLPH 2.92 31 ROANE 3.30 31
+HANCOCK 2.90 32 GREENBRIER 3.28 32
+PLEASANTS 2.85 33 BARBOUR 3.21 33
+BARBOUR 2.84 34 POCAHONTAS 3.20 34
+LOGAN 2.84 35 LINCOLN 3.16 35
+MONROE 2.82 36 SUMMERS 3.13 36
+TYLER 2.76 37 GRANT 3.10 37
+BRAXTON 2.73 38 RANDOLPH 3.09 38
+LEWIS 2.65 39 CALHOUN 3.08 39
+ROANE 2.62 40 PLEASANTS 2.97 40
+TUCKER 2.47 41 NICHOLAS 2.96 41
+NICHOLAS 2.42 42 LOGAN 2.96 42
+GRANT 2.40 43 LEWIS 2.96 43
+RITCHIE 2.35 44 BRAXTON 2.93 44
+PENDLETON 2.35 45 WETZEL 2.83 45
+CLAY 2.35 46 WYOMING 2.72 46
+SUMMERS 2.34 47 MINGO 2.69 47
+MINGO 2.31 48 RITCHIE 2.60 48
+WYOMING 2.16 49 MASON 2.53 49
+MASON 2.13 50 CLAY 2.36 50
+WETZEL 2.11 51 WEBSTER 2.29 51
+WEBSTER 2.01 52 TYLER 2.15 52
+HARDY 1.79 53 MCDOWELL 1.97 53
+MCDOWELL 1.74 54 HARDY 1.84 54
+BOONE 1.30 55 BOONE 1.76 55

@@ -1,0 +1,994 @@
+Legal Strategies for Economic Empowerment of Persons in Recovery
+
+Volume 120 | Issue 3 Article 14
+April 2018
+Legal Strategies for Economic Empowerment of
+Persons in Recovery
+Lauren Rogal
+Follow this and additional works at: https://researchrepository.wvu.edu/wvlr
+Part of the Health Law and Policy Commons, and the Labor and Employment Law Commons
+This Essays on Appalachia is brought to you for free and open access by the WVU College of Law at The Research Repository @ WVU. It has been
+accepted for inclusion in West Virginia Law Review by an authorized editor of The Research Repository @ WVU. For more information, please contact
+ian.harmon@mail.wvu.edu.
+Recommended Citation
+Lauren Rogal, Legal Strategies for Economic Empowerment of Persons in Recovery, 120 W. Va. L. Rev. (2018).
+Available at: https://researchrepository.wvu.edu/wvlr/vol120/iss3/14
+LEGAL STRATEGIES FOR ECONOMIC EMPOWERMENT OF
+PERSONS IN RECOVERY
+Lauren Rogal*
+I. SUBSTANCE USE DISORDERS AND RECOVERY ......... ....... 1027
+II. RECOVERY AND OPPORTUNITY IN APPALACHIA ...... ....... 1028
+III. OBSTACLES TO EMPLOYMENT OF PERSONS IN RECOVERY........ 1030
+A. Flawed Employment Histories ....................... 1031
+B. Stigma and Discrimination ................. ..... 1031
+C. Criminal Justice Involvement ................ ..... 1035
+IV. REFORMS TO INCREASE EMPLOYMENT OF PERSONS
+IN RECOVERY ........................................... 1036
+A. Non-Discrimination Laws............... ........... 1036
+B. Rehabilitative Employment ................ ...... 1036
+C. Hiring Incentives. ............................. 1038
+D. Employer Risk Reduction .................. ...... 1040
+E. Reducing Collateral Consequences of Crimes
+Related to Substance Use Disorder ............ ..... 1042
+V. OCCUPATIONAL LICENSING ............................... 1043
+VI. CONCLUSION ........................................... 1046
+Substance use disorders, which afflict nearly 8% of the U.S. population,'
+exact a devastating human and economic toll. The opioid epidemic has caused
+overdose deaths to quadruple since 1999.2 In 2013 alone, the epidemic imposed
+an economic burden of over $78.5 billion, including $28.9 billion in spending on
+health care and substance abuse treatment. These burdens increasingly fall on
+rural and under-resourced areas, particularly in the Appalachian region. The
+crisis has evoked a range of policy reforms to prevent addiction, investments in
+treatment for sufferers, and lawsuits against purveyors of addictive substances.
+* Thanks to Alex Hurder, Jennifer Shinall, and Priya Baskaran for their insights and
+feedback as well as the editors of the Law Review, especially Christine E. Pill and Rebecca Trump.
+I U.S. DEP'T OF HEALTH & HUMAN SERVS., FACING ADDICTION IN AMERICA: THE SURGEON
+GENERAL'S REPORT ON ALCOHOL, DRUGS, AND HEALTH 1-7 (2016) [hereinafter SURGEON
+GENERAL'S REPORT], https://addiction.surgeongeneral.gov/surgeon-generals-report.pdf.
+2 Carina Storrs, Public Health Experts: Decriminalize Minor Drug Offenses, CNN (Mar. 25,
+2016, 5:09 PM), http://www.cnn.com/2016/03/25/health/decriminalize-minor-drug-offenses-
+public-health/index.html.
+3 Curtis S. Florence et al., The Economic Burden of Prescription Opioid Overdose, Abuse,
+and Dependence in the United States, 54 MED. CARE 901, 904 (2016).
+1025
+1
+Rogal: Legal Strategies for Economic Empowerment of Persons in Recovery
+Published by The Research Repository @ WVU, 2018
+WEST VIRGINIA LA WREVIEW
+Ultimately, however, society must assist the millions of people in recovery from
+substance use disorders to become productive, self-sufficient members of their
+communities.
+Approximately 10% of Americans are in recovery from substance use
+disorders.' They face many obstacles to gainful employment, including stigma,
+compromised work histories, employer risk perception, and (in many cases)
+records of interaction with the criminal justice system. Substance use disorders
+and related criminal records can also prevent people in recovery from obtaining
+occupational licenses necessary to become employed or start a business. Such
+barriers are compounded for individuals in rural areas, where access to
+vocational training, employment, and enterprise incubation services is already
+limited.
+This essay focuses on legal strategies to expand employment and
+entrepreneurship opportunities for persons in recovery. The topic is vital because
+economic wellbeing contributes to "recovery capital" - the internal and external
+resources that sustain long-term sobriety.' The need for effective legal
+interventions is particularly acute in Appalachia, which suffers from a
+disproportionate share of both substance use disorder and economic despair. Part
+I provides an overview of substance use disorder and the .recovery process. Part
+II explores the acute impact of substance use disorder in Appalachia and how the
+region's socioeconomic dynamics impede economic reintegration of persons in
+recovery. Part III identifies three frequent obstacles to finding employment
+experienced by persons in recovery: spotty work histories, stigma, and records
+of criminal justice involvement. Part IV addresses opportunities for policy
+reform in the areas of employment nondiscrimination, rehabilitative
+employment, employer tax incentives, risk management, and the employment
+impact of crimes related to substance use disorder. Part V addresses access to
+occupational licensing, a crossover concern for individuals interested in
+entrepreneurship or employment.
+4 See SURGEON GENERAL'S REPORT, supra note 1, at 1-7.
+5 William Cloud et al., Conceptualizing Recovery Capital: Expansion of a Theoretical
+Construct, 43 SUBSTANCE USE & MISUSE 1971, 1973 (2008).
+[Vol. 1201026
+2
+West Virginia Law Review, Vol. 120, Iss. 3 [2018], Art. 14
+https://researchrepository.wvu.edu/wvlr/vol120/iss3/14
+Legal Strategies for Economic Empowerment
+I. SUBSTANCE USE DISORDERS AND RECOVERY
+Substance use disorders6 are characterized by persistent use of drugs
+despite significant adverse physiological, behavioral, and social consequences.7
+The diagnosis may apply to use of alcohol, opiates, stimulants, hallucinogens,
+inhalants, and several other substances.' There are four general categories of
+diagnostic criteria: (1) impaired control over one's use of the drug; (2) social
+impairment due to the drug; (3) risky use of the drug; and (4) pharmacological
+criteria such as tolerance and withdrawal.' Substance use disorders may be mild,
+moderate, or severe, depending on the number of criteria present.10 Sufferers
+typically experience changes to their brain structure and function that persist and
+produce cravings for the drug long after detoxification." Particularly in severe
+cases, this physiological addiction may result in repeated relapses. 12
+There are many definitions of recovery from substance use disorder.
+These definitions typically include abstinence but may also encompass a range
+of other life changes. 13 There is little consensus in the literature as to when
+recovery becomes durable and stable.14 More than 60% of people who receive
+treatment relapse within one year of being discharged." It can take 4-5 years
+before relapse risk drops below 15%, comparable to the general population's
+lifetime risk of developing a substance use disorder.'" Generally, sufferers of
+serious substance use disorders are encouraged to remain in some form of
+6 This essay uses the term "substance use disorder" in accordance with the Fifth Edition of
+the Diagnostic and Statistical Manual of Mental Disorders (DSM-V). AM. PSYCHIATRIC Ass'N,
+DIAGNOSTIC AND STATISTICAL MANUAL OF MENTAL DISORDERS 481 (5th ed. 2013) [hereinafter
+DSM-V]. The DSM-V introduced the term as an umbrella replacement for its previous categories
+of "substance abuse disorder" and "substance dependence disorder." See id. The DSM-V
+discourages clinical use of the term "addiction" due to its negative connotations. Id. at 485.
+7 Id at 481.
+8 Id
+9 Id. at 483-84.
+10 Id. at 484.
+1" Id. at 48 1.
+12 Id.
+13 WILLIAM L. WHITE, RECOVERY/REMISSION FROM SUBSTANCE USE DISORDERS: AN ANALYSIS
+OF REPORTED OUTCOMES IN 415 SCIENTIFIC REPORTS, 1868-2011, at 8,
+https://www.naadac.org/assets/1959/whitewl2012 recoveryremissionfrom su
+bstance abuse disorders.pdf; SURGEON GENERAL'S REPORT, supra note 1, at 5-5 (86% of study
+participants viewed abstinence as part oftheir recovery. Other components include personal growth
+and service to others.).
+14 WHITE, supra note 13, at 11.
+15 SURGEON GENERAL'S REPORT, supra note 1, at 2-2.
+16 Id. at 5-7.
+2018] 1027
+3
+Rogal: Legal Strategies for Economic Empowerment of Persons in Recovery
+Published by The Research Repository @ WVU, 2018
+WEST VIRGINIA LAW REVIEW
+treatment for at least one year.17 The Fifth Edition of the Diagnostic and
+Statistical Manual refers to "early remission" as the absence of any diagnostic
+criteria (other than craving) for at least three months." Sustained remission
+means that the individual has not met any of the diagnostic criteria (other than
+craving) for a period of 12 months.19 Approximately half of adults with substance
+use disorder ultimately attain sustained remission.20
+A number of psychosocial factors can impact the odds of recovery,
+including supportive relationships, spiritual life, education, and employment. 2 1
+One of the most significant prognostic variables is "having something to lose,"
+such as employment, social support, or freedom, if relapse occurs. 22 Stable
+employment provides a legal source of income, self-esteem, and an opportunity
+for social integration among peers who are not using drugs.23 Generating
+economic opportunities for persons in recovery can, therefore, reinforce the
+recovery process.
+II. RECOVERY AND OPPORTUNITY IN APPALACHIA
+The Appalachian region suffers from both troubling levels of substance
+use disorder and a deficit of opportunity. While Appalachia generally trails the
+rest of the country in abuse of most substances, it has disproportionately high
+rates of opioid and alcohol use disorder.24 Appalachian men in the prime of their
+lives (ages 25-44) are 72-78% more likely to die of an overdose than non-
+17 Id. at 4-18.
+18 DSM-V, supra note 6, at 491 (alcohol). For Cannabis, see id at 510; for phencyclidine, see
+id. at 521; for hallucinogens, see id at 524; for inhalants, see id. at 534; for opioids, see id. at 541;
+for sedatives, hypnotics, or anxiolytics, see id at 55 1; for stimulants, see id. at 562; for tobacco,
+see id. at 571; and for other or unknown substances, see id. at 578.
+19 See id. at 491.
+20 SURGEON GENERAL'S REPORT, supra note 1, at 5-2.
+21 Id. at 5-8; Paul Duffy & Helen Baldwin, Recovery Post Treatment: Plans, Barriers and
+Motivators, 8 SUBSTANCE ABUSE TREATMENT, PREVENTION, & POL'Y 2, 1 (2013),
+http://www.substanceabusepolicy.com/content/8/1/6 (discussing the components of recovery
+capital). Participants leaving treatment characterized employment as a longer-term goal due to
+concerns about stress triggering relapse. Id. This may also have been influenced by the fact that
+participants all resided in England and generally had access to public benefits. Id.
+22 Alexandre B. Laudet et al., Pathways to Long-Term Recovery: A Preliminary Investigation,
+34 J. PSYCHOACTIVE DRUGS 305, 308 (2002).
+23 Jerome J. Platt, Vocational Rehabilitation of Drug Users, 117 PSYCHOL. BULLETIN 416,
+416-17 (1995).
+24 ZHIWEI ZHANG ET AL., APPALACHIAN REG'L COMM'N, AN ANALYSIS OF MENTAL HEALTH
+AND SUBSTANCE ABUSE DISPARITIES & ACCESS TO TREATMENT SERVICES IN THE APPALACHIAN
+REGION 3-4 (2008),
+https://www.arc.gov/assets/research reports/AnalysisofMentalHealthandSubstanceAbuseDisparit
+ies.pdf.
+1028 [Vol. 120
+4
+West Virginia Law Review, Vol. 120, Iss. 3 [2018], Art. 14
+https://researchrepository.wvu.edu/wvlr/vol120/iss3/14
+Legal Strategies for Economic Empowerment
+Appalachian men in the same age group. 25 The mortality rate for Appalachian
+women in that age bracket is 92-104% higher than the mortality rate for women
+outside Appalachia.26 Opioids caused nearly 69% of all overdose deaths in the
+region in 2015.27
+Over 40% of Appalachia's 25 million residents live in rural areas,
+compared to 20% of all Americans. 28 Rural residents generally have limited
+access to recovery resources due to geographic dispersion and resource
+constraints. 29 Treatment programs have difficulty achieving economies of
+scale.30 Transportation costs and lack of insurance are greater barriers to
+treatment in rural areas than in urban ones.3 1 As a result, rural residents are
+approximately half as likely to receive treatment as urban residents.3 2
+The social and economic structure of Appalachian communities presents
+special challenges to the reintegration of persons in recovery. Despite impressive
+strides in the past 60 years, Appalachia has higher poverty,3 3 less access to
+transportation and communication infrastructure, and less labor force
+participation than the rest of the U.S. (due in part to a dearth of rural job
+opportunities).34 While Appalachia has traditionally relied on large mining and
+manufacturing companies for employment, those businesses and their payrolls
+have been shrinking for decades.35 Small businesses, meanwhile, are less likely
+25 MICHAEL MEIT ET AL., APPALACHIAN REG'L COMM'N, APPALACHIAN DISEASES OF DESPAIR
+14 (2017),
+https://www.arc.gov/assets/research-reports/AppalachianDiseasesoffespairAugust2017.pdf.
+26 Id. at 15.
+27 Id. at 16.
+28 APPALACHIAN REG'L COMM'N, APPALACHIA THEN AND Now: EXAMINING CHANGES TO THE
+APPALACHIAN REGION SINCE 1965, at 42 (2015) [hereinafter ARC THEN AND Now],
+https://www.arc.gov/assets/researchreports/AppalachiaThenAndNowCompiledReports.pdf.
+29 MATHEMATICA POLICY RESEARCH, INC., RURAL RESEARCH NEEDS AND DATA SOURCES FOR
+SELECTED HUMAN SERVICES TOPICS 63 (2005),
+https://aspe.hhs.gov/system/files/pdf/139376/voll.pdf.
+30 Id.
+3' Id. at 64-65.
+32 Id. at 66.
+33 Relative Poverty Rates in Appalachia, 2011-2015, APPALACHIAN REGIONAL COMMISSION
+https://www.arc.gov/research/MapsofAppalachia.asp?MAP_ID=128 (last visited Mar. 29, 2018)
+(citing a U.S. average of 15% and an Appalachian average of 17.1%). In rural counties, the poverty
+rate is twice as high as the national average. Martin T. Hall et al., Sobriety Treatment and Recovery
+Teams in Rural Appalachia: Implementation and Outcomes, 94 CHILD WELFARE 119, 121 (2015)
+(cataloguing the region's health-related challenges).
+34 ARC THEN AND Now, supra note 28, at 6-12.
+35 Id. at 8-9.
+2018] 1029
+5
+Rogal: Legal Strategies for Economic Empowerment of Persons in Recovery
+Published by The Research Repository @ WVU, 2018
+WEST VIRGINIA LAW REVIEW
+than large companies to hire high-risk employees, 36 perhaps because they have
+less demand for employees or less capacity to absorb risk. Entrepreneurs in
+Appalachia continue to have limited access to debt and equity capital, despite the
+expansion of microcredit programs.3 7 Finally, rural areas have higher
+"acquaintance density" (i.e., likelihood of familiarity with other community
+members)," so employers have greater knowledge of applicants, including their
+history of substance use disorder and related legal troubles.
+While persons in recovery nationwide face obstacles to economic
+opportunity, the socioeconomic characteristics of Appalachia exacerbate these
+challenges. The cumulative effects of growing opioid use disorder, geographic
+dispersion, and a still-diversifying economy increase the need for effective
+policy interventions. This essay's proposals, which address discrimination,
+employer risk aversion, and other barriers to economic reentry, have the potential
+to empower this vulnerable group of citizens in Appalachia and beyond.
+III. OBSTACLES TO EMPLOYMENT OF PERSONS iN RECOVERY
+People recovering from substance use disorder often have difficulty
+finding stable employment due to blemished work histories and pervasive
+stigma.39 While former substance use disorder is generally considered a disability
+under civil rights laws,40 persons in early stages of recovery have little protection
+from discrimination. Finally, many people in recovery have encountered the
+criminal justice system, which dramatically increases the likelihood of
+joblessness.41 This Section recommends legal and policy reforms to facilitate
+second-chance and rehabilitative employment, incentivize hiring, and reduce
+employer risk with respect to persons in recovery.
+36 Eric J. Wodahl, The Challenges of Prisoner Reentry from a Rural Perspective, 7(2) W.
+CRIMINOLOGY REv. 32, 39 (2006) (stating that small employers are most averse to hiring ex-
+offenders).
+3 RUPRI CTR. FOR RURAL ENTREPRENEURSHIP, CREATING AN ENTREPRENEURIAL APPALACHIAN
+REGION 8 (2008),
+https://www.arc.gov/assets/research-reports/creatinganentrepreneurialappalachia.pdf
+38 Wodahl, supra note 36, at 38.
+39 See Dieter Henkel et al., Unemployment and Substance Use: A Review of the Literature
+(1990-2010), 4 CURRENT DRUG ABUSE REvs. 4, 11 (2011).
+40 See, e.g., 42 U.S.C. § 12114(b) (2012).
+41 See Amy L. Solomon, In Search of a Job: Criminal Records as Barriers to Employment,
+270 NAT'L INST. JUST. J. 42, 43-44 (2012).
+[Vol. 1201030
+6
+West Virginia Law Review, Vol. 120, Iss. 3 [2018], Art. 14
+https://researchrepository.wvu.edu/wvlr/vol120/iss3/14
+Legal Strategies for Economic Empowerment
+A. Flawed Employment Histories
+Substance use disorders adversely affect employment.42 Sufferers are
+less likely to work, and their jobs are more likely to be temporary and part-time.4 3
+Explanations include lower productivity, absenteeism, drug-induced health
+problems, and interactions with the criminal justice system.44 Even after attaining
+sustained remission, people in recovery may have a higher risk ofjob loss due to
+discrimination.45 People in recovery may, therefore, have resume gaps and weak
+references, making it harder to obtain gainful employment.
+B. Stigma and Discrimination
+Substance use disorder is heavily stigmatized in the workplace. A full
+78% of Americans tell researchers that they would not be willing to work closely
+with an addict.46 Nearly two-thirds of Americans believe that employers should
+be permitted to deny employment to persons with a substance use disorder, while
+only one quarter of Americans take this position with respect to other mental
+illnesses.4 7 Some of this stigma is likely to attach to people in recovery, since
+most Americans believe that treatment options are ineffective and nearly 30%
+believe that recovery is not possible at all.48 In one study, respondents rated
+fictional job applicants with histories of substance abuse significantly lower than
+candidates without such histories with respect to qualities such as stability,
+reliability, and safety.49
+The Americans with Disabilities Act ("ADA") prohibits employer
+discrimination against any "qualified individual on the basis of disability" in
+42 Henkel et al., supra note 39, at 11.
+43 Id. at 12.
+4 Id. at 11.
+45 Marjorie L. Baldwin et al., Job Loss Discrimination and Former Substance Use Disorders,
+110 J. DRUG & ALCOHOL DEPENDENCE 1, 3-5 (2010). Research has shown ajob loss rate for people
+in sustained remission that is 15-23% higher than people without histories of substance abuse
+disorder. Id. at 3.
+46 Colleen L. Barry et al., Stigma, Discrimination, Treatment Effectiveness, and Policy: Public
+Views About Drug Addiction and Mental Illness, 65 PSYCHIATRIC SERV. 1269, 1271 (2014).
+47 Id.
+48 Id.
+49 Aaron U. Bolin, The Effects of Applicant General and Substance Use History on
+Perceptions of Job Applicants, 1 AM. J. PSYCH. RES. 45, 55 (2005),
+https://www.mcneese.edu/f/c/5700dl6d/ajpr5.pdf Respondents rated their behavioral
+expectations of applicants in areas such as stability, dependability, safety, punctuality,
+trustworthiness, and overall effect on business. Id. at 51. Applicants with histories of alcohol abuse
+rated higher than those with histories of drug abuse. Id. at 53-54. Women were particularly
+stigmatized by former substance use disorders. Id. at 54-55.
+103 12018]1
+7
+Rogal: Legal Strategies for Economic Empowerment of Persons in Recovery
+Published by The Research Repository @ WVU, 2018
+WEST VIRGINIA LAW REVIEW
+hiring, compensation, and all other terms of employment.so A disability refers to
+"(A) a physical or mental impairment that substantially limits one or more major
+life activities of such individual; (B) a record of such an impairment; or (C) being
+regarded as having such an impairment. .. ."sI A substance use disorder may
+constitute a disability so long as the individual is not currently engaging in the
+illegal use of drugs. 2 The ADA expressly offers coverage to abstinent
+individuals who are in a supervised treatment program, have completed
+treatment, or have otherwise been rehabilitated.53 Thus, an individual who has
+recovered from a sufficiently severe54 substance use disorder would come under
+the ADA's protection as a person with a "record of... impairment.""
+The ADA's protections against employment discrimination are
+substantial but not airtight. Employers cannot ask job applicants about
+disabilities unless the question is "job-related and consistent with business
+necessity."5 They must provide reasonable accommodations to persons with
+disabilities who are otherwise qualified for the employment in question, unless
+doing so would impose an undue hardship on the employer. 57 Employers may,
+however, verify that employees are no longer using drugs by requiring periodic
+drug tests and imposing other behavioral standards."
+Two gaps within the ADA's protections may harm the employment
+prospects of persons in recovery. First, the ADA does not protect persons in early
+recovery stages from termination or the denial of job opportunities. The term
+"currently engaging in the illicit use of drugs" is generally construed to
+encompass individuals who have used drugs recently enough that the employer
+may reasonably believe it remains a problem. 9 For example, the Fourth Circuit
+50 42 U.S.C. § 12112(a) (2012).
+51 Id. § 12102(1)(A).
+52 See id. § 12114(a).
+53 Id. § 12114(b).
+54 The ADA imposes a severity standard by defining disability as an "impairment that
+substantially limits one or more major life activities." Id. § 12102(l)(A). Major life activities
+include activities such as caring for oneself, learning, reading, concentrating, thinking,
+communicating, or working. Id § 12102(l)(B). Such disabilities may be episodic so long as they
+meet the severity threshold when active. Id. § 12102(4)(D).
+5s Id. § 12114(1)(B).
+56 Id. § 12112(d)(4)(A).
+57 Id § 12112(b)(5)(A).
+58 Id. § 12114(b).
+5 Interpretive guidance in the regulations provides that "currently engaging" is not intended
+to be limited to the use of drugs on the day of, or within a manner of days or weeks before, the
+employment action in question. 29 C.F.R. app. § 1630.3 (2012). Rather, the provision is intended
+to apply to the illegal use of drugs that has occurred recently enough to indicate that the individual
+is actively engaged in such conduct. Id. Similarly, the Conference Report on the ADA states that
+the exclusion of current users
+1032 [Vol. 120
+8
+West Virginia Law Review, Vol. 120, Iss. 3 [2018], Art. 14
+https://researchrepository.wvu.edu/wvlr/vol120/iss3/14
+Legal Strategies for Economic Empowerment
+may consider drug use current if it occurs "in a periodic fashion during the weeks
+and months" prior to the adverse employment action.o Courts assess whether
+drug use is current on a case-by-case basis6 I and have denied coverage to
+individuals who have been abstinent for three or four months.62 At nine or twelve
+months of sobriety, however, courts hold that they are not current users. The
+Author has not found case law assessing whether persons who have abstained for
+five to eight months are considered current users.
+Second, the ADA allows companies to permanently ban from
+employment any person who fails a drug test while suffering from a substance
+use disorder, even after the individual has successfully rehabilitated. 64 In
+Raytheon Co. v. Hernandez,"5 a 25-year employee was forced to resign due to a
+positive drug test and reapplied over two years later, after participating in a
+recovery self-help program.66 The employer rejected his application per its policy
+is intended to ensure that employers may discharge or deny employment to
+persons who illegally use drugs on that basis, without fear of being held liable
+for discrimination. The provision is not intended to be limited to persons who
+use drugs on the day of, or within a matter of days or weeks before, the
+employment action in question. Rather, the provision is intended to apply to a
+person whose illegal use of drugs occurred recently enough to justify a
+reasonable belief that a person's drug use is current .... Employers are
+entitled to seek reasonable assurances that no illegal use of drugs is
+occurring or has occurred recently enough so that continuing use is a real and
+ongoing problem.
+H.R. REP. No. 101-596, at 64, as reprinted in 1990 U.S.C.C.A.N. 267, 573.
+60 Shafer v. Preston Mem'l Hosp. Corp., 107 F.3d 274,278 (4th Cir. 1999), abrogated by Baird
+ex rel. Baird v. Rose, 192 F.3d 462 (4th Cir. 1999).
+61 Shirley v. Precision Castparts Corp., 726 F.3d 675, 680 (5th Cir. 2013).
+62 Greer v. Cleveland Clinic Health Sys., 503 Fed. Appx. 422, 431 (6th Cir. 2012) (employee
+who had not used drugs in three months was a current user under the ADA); Lyons v. Johns
+Hopkins Hosp., No. CCB-15-0232, 2016 WL 7188441, at *4 (D. Md. Dec. 12,2016) (four months
+without drug use was "not such a lengthy period that Mr. Lyons cannot qualify as a recent user"
+given his long history of drug use, apparent denial about his addiction, and failure to complete
+inpatient treatment); Quinones v. Univ. of P.R., Civil No. 14-1331(JAG), 2015 WL 631327, at *6
+(D.P.R. Feb. 13, 2015) (employee who had not used drugs for over three months was a current user
+under the ADA). A significant number of cases arise from termination of healthcare professionals,
+which may impact the holdings. See, e.g., Zenor v. El Paso Healthcare Sys. Ltd., 176 F.3d 847,
+857 (5th Cir. 1999) (noting that the employee's position as a pharmacist "required a great deal of
+care and skill"); Quinones, 2015 WL 631327, at *6 ("[This] holding today becomes even more
+forceful after considering Plaintiff s responsibilities as an ophthalmology resident . . . .").
+63 United States v. Southern Mgm't Corp., 955 F.2d 914, 921-23 (4th Cir. 1992) (finding that
+individuals who had not used drugs in one year are not current users under the Fair Housing Act);
+Wallace v. Veterans Admin., 683 F. Supp. 758, 759-61 (D. Kan. 1988) (finding that a nurse who
+had been free of drug use for nine months was covered under the Rehabilitation Act of 1973).
+64 Lopez v. Pac. Mar. Ass'n., 657 F.3d 762, 768 (2011).
+65 540 U.S. 44 (2003).
+66 Id. at 47.
+2018] 1033
+9
+Rogal: Legal Strategies for Economic Empowerment of Persons in Recovery
+Published by The Research Repository @ WVU, 2018
+WEST VIRGINIA LA WREVIEW
+of refusing to rehire employees who violated workplace conduct rules.67 In the
+subsequent litigation, the Supreme Court deemed the no rehires policy a
+"legitimate, nondiscriminatory" penalty for misconduct on the job." In a later
+case, the Ninth Circuit extended this reasoning to permit a one-strike policy
+against applicants who never held a position in the company.69 Santiago Lopez,
+then an addict, was denied a longshoreman position in 1997 after failing a drug
+test.7 0 After undergoing treatment and becoming sober, he reapplied in 2004 and
+was rejected under the employer's one-strike policy.7' The Ninth Circuit held
+that the policy did not facially discriminate against persons with disabilities
+because it penalized misconduct engaged in by both disabled and non-disabled
+persons.72 The court also found that Lopez had not provided evidence that the
+one-strike rule resulted in "fewer recovered drug addicts in Defendant's employ,
+as compared to the number of qualified recovered drug addicts in the relevant
+labor market." 73 (As the court conceded, providing such evidence would be
+challenging given the legal restrictions on inquiring into a person's history of
+substance use disorder).7 4 Allowing such permanent bans on employment will
+likely foreclose opportunities from many individuals in recovery, particularly
+those who work in industries or reside in areas dominated by a few large
+companies.
+67 Id.
+68 Id. at 54.
+69 Lopez, 657 F.3d at 764-66.
+70 Id. at 764.
+71 Id.
+72 Id.
+73 The court deemed such a showing necessary to sustain a disparate impact claim under the
+ADA. Id. at 767.
+74 Id. at 768. In his dissent, Judge Pregerson declared it
+manifestly unreasonable to require statistical data regarding the number of
+recovering addicts either hired by an employer or screened out by a drug test.
+Recovering addicts are unlikely to identify themselves to employers, or to a
+plaintiffs investigator in a lawsuit such as this, even if asked. One of the
+primary limitations suffered by individuals recovering from addiction is the
+continuing stigma associated with their prior drug and alcohol use.... Thus,
+statistical evidence on recovering addicts is, as a practical matter, rarely
+available.
+Id. at 769 (Pregerson, J., dissenting) (citation omitted).
+7 The Lopez dissent laments that the employer "exercises singular control over an industry
+spanning the whole west coast of the United States, [so] the potential impact of the policy is broad
+and pervasive." Id. at 770.
+1034 [Vol. 120
+10
+West Virginia Law Review, Vol. 120, Iss. 3 [2018], Art. 14
+https://researchrepository.wvu.edu/wvlr/vol120/iss3/14
+Legal Strategies for Economic Empowerment
+C. Criminal Justice Involvement
+Substance disorders increase the likelihood of interaction with the
+criminal justice system." According to one study, people receiving treatment for
+opioid addiction had a 38% rate of arrest within the next two years.7 7
+Unsurprisingly, a high proportion of incarcerated individuals meet the diagnostic
+criteria for substance use disorder.7 8 People of color have disproportionately high
+arrest and conviction rates for drug-related offenses, despite using illicit drugs at
+similar levels as whites.79 While drug courts divert a small fraction of offenders
+with substance use disorder from incarceration,80 even these comparatively
+fortunate individuals may not be able to expunge the charge or conviction from
+their record."
+A great deal has been written about the collateral consequences of
+criminal records, including the widespread denial of employment opportunities
+and occupational licenses. 82 Criminal convictions can disqualify one from
+76 William H. Fisher et al., Co-Occurring Risk Factorsfor Arrest Among Persons with Opioid
+Abuse and Dependence: Implications for Developing Interventions to Limit Criminal Justice
+Involvement, 47(3) J. SUBSTANCE ABUSE TREATMENT 197, 201 (2014) (finding that 26% of
+individuals enrolled in Massachusetts Medicaid who had a diagnosis of opioid dependence or abuse
+were arrested in 2010).
+7 Elizabeth E. Harris et al., Criminal Charges Prior to and After Initiation of Office-Based
+Buprenorphine Treatment, 7 SUBSTANCE ABUSE TREATMENT, PREVENTION, AND POL'Y 10, 19
+(2012).
+78 58% of state prisoners and 63% of sentenced jail inmates met the DSM-IV criteria for drug
+dependence or abuse. JENNIFER BRONSON ET AL., DRUG USE, DEPENDENCE, AND ABUSE AMONG
+STATE PRISONERS AND JAIL INMATES, 2007-2009, at 1 (2017),
+https://www.bjs.gov/content/pub/pdf/dudaspji0709.pdf.
+7 HUMAN RIGHTS WATCH, DECADES OF DISPARITY: DRUG ARRESTS AND RACE IN THE UNITED
+STATES 1 (2009), https://www.hrw.org/sites/default/files/reports/usO3O9web 1.pdf.
+80 The Urban Institute estimates that only 3.8% of arrestees at risk for substance use disorder
+are eligible for drug court. AVINASH SINGH BHATI ET AL., URBAN INSTITUTE, To TREAT OR NOT TO
+TREAT: EVIDENCE ON THE PROSPECTS OF EXPANDING TREATMENT TO DRUG-INVOLVED OFFENDERS
+33 (2008), https://www.urban.org/sites/default/files/publication/31621/411645-To-Treat-or-Not-
+to-Treat.PDF.
+8 Procedures vary among drug courts. Some require a guilty plea to avoid prison time, while
+others dismiss charges upon successful completion of the drug court program. RYAN S. KING &
+JILL PASQUARELLA, DRUG COURTS: A REVIEW OF THE EVIDENCE 3 (2009),
+http://sentencingproject.org/wp-content/uploads/2016/01/Drug-Courts-A-Review-of-the-
+Evidence.pdf. In Georgia, for example, access to information about a drug charge may be restricted
+if the individual successfully completes the drug court treatment program with no additional
+arrests. GA. CODE ANN. § 35-3-37(h)(2)(D).
+82 See, e.g., A.B.A. COMM'N ON EFFECTIVE CRIMINAL SANCTIONS, INTERNAL EXILE:
+COLLATERAL CONSEQUENCES OF CONVICTION IN FEDERAL LAWS AND REGULATIONS (2009),
+https://www.americanbar.org/content/damL/aba/migrated/cecs/internalexile.authcheckdam.pdf;
+Gabriel J. Chin, The New Civil Death: R§ethinking Punishment in the Era ofMass Conviction, 160
+U. PA. L. REV. 1789 (2012); Margaret Colgate Love, Paying Their Debt to Society: Forgiveness,
+10352018]
+11
+Rogal: Legal Strategies for Economic Empowerment of Persons in Recovery
+Published by The Research Repository @ WVU, 2018
+WEST VIRGINIA LA WREVIEW
+employment in the public sector, with government contractors, and in some
+regulated industries.8 3 In addition, the vast majority of human resources
+managers conduct some sort of background check on prospective hires.
+Implications for occupational licensing are discussed in Part V.
+IV. REFORMS TO INCREASE EMPLOYMENT OF PERSONS IN RECOVERY
+Policymakers should leverage the law to promote employment
+opportunities for persons in recovery. Opportunities for positive reform include
+(1) implementing nondiscrimination provisions to protect persons who have
+undergone treatment; (2) relaxing tax rules to facilitate nonprofit rehabilitative
+employment programs; (3) reforming the Work Opportunity Tax Credit to
+incentivize hiring of persons in recovery; (4) reducing the risk to employers when
+they hire persons in recovery; and (5) addressing the collateral consequences of
+drug-related convictions.
+A. Non-Discrimination Laws
+A legislative remedy is necessary to avoid outcomes like in Lopez, where
+a rehabilitated individual was categorically barred from employment based on a
+failed drug test seven years earlier, when he was not an employee and, therefore,
+could not have violated any company policy.8 4 At a minimum, the law should
+prohibit employers from enforcing such bans beyond a reasonable interval of
+time. A more protective law would cover former employees whose only offense
+was a failed drug test, who used the drug in the course of a substance use disorder,
+and who obtain a certificate of sustained remission (denoting one year without
+symptoms) from a treatment program. In cases where substance use poses a
+greater danger to business operations and safety (e.g., heavy machinery
+operations), the required interval of remission could perhaps be extended. Such
+an extension should not, however, go beyond the time at which the individual's
+risk of relapse drops to 15%, the lifetime rate of risk that an individual will
+develop substance use disorder. The appropriate policy measure would protect
+against discrimination while recognizing the legitimate interests of employers in
+enforcing company policies and guaranteeing a drug free workplace.
+B. Rehabilitative Employment
+As the case law demonstrates, persons in early recovery cannot rely on
+nondiscrimination laws to protect their ability to earn a living. One potential
+Redemption, and the Uniform Collateral Consequences of Conviction Act, 54 How. L.J. 753
+(2011).
+83 Chin, supra note 82, at 1800.
+84 See supra notes 69-75 and accompanying text.
+1036 [Vol. 120
+12
+West Virginia Law Review, Vol. 120, Iss. 3 [2018], Art. 14
+https://researchrepository.wvu.edu/wvlr/vol120/iss3/14
+Legal Strategies for Economic Empowerment
+remedy is rehabilitative employment, giving people the opportunity to develop
+positive work history and demonstrate their readiness for the workforce. While
+charities" are the most likely organizations to absorb the risk involved in
+providing this opportunity, current law impedes them from doing so.
+In order to retain their tax-exempt status, charities must operate for
+primarily educational, charitable, scientific, literary and other similar purposes."
+They may not conduct a substantial commercial or other non-exempt activity.87
+The IRS evaluates whether an activity is commercial based on all of the attendant
+facts and circumstances but consistently finds that the following factors point to
+illicit commercial purposes: (1) competing with for-profit entities; (2) pricing
+goods and services above cost; (3) accumulating unreasonably large reserves; (4)
+"commercial"-seeming promotional and marketing practices; and (5) complete
+reliance on earned income rather than grants and donations.
+Under this "commerciality" test, a charity may not conduct a commercial
+enterprise for the purpose of providing employment to the unemployable."
+Charities may, however, conduct vocational training as an educational activity,
+and they may temporarily employ beneficiaries in a "commercial" operation as
+part of on-the-job vocational training.90 However, such employment may not
+extend beyond the period necessary to implement the training curriculum.9 ' This
+construct does not allow charities to provide, as a substantial part of their overall
+activities, rehabilitative employment to individuals who merely require an
+opportunity to prove themselves.
+The IRS should recognize that providing transitional employment to
+persons in early recovery constitutes a charitable activity by preventing relapse
+and facilitating their reentry into the economy. Without repudiating the
+commerciality doctrine, the IRS could recognize that charities absorb greater risk
+due to these employment practices than commercial ventures would typically
+undertake.9 2 For example, the IRS could rule that a charity may provide non-
+training rehabilitative employment in an earned-income setting so long as (i) the
+85 For the purposes of this essay, charities are defined as organizations exempt from federal
+income taxation under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended.
+86 I.R.C. § 501(c)(3); Treas. Reg. 1.501(c)(3)-l(d)(1)(i) (2017).
+87 See, e.g., Rev. Rul. 73-127, 1973-1 C.B. 221.
+88 See Living Faith, Inc. v. Comm'r., 950 F.2d 365, 373 (7th Cir. 1991); Airlie Found. v. IRS,
+283 F. Supp. 2d 58, 63-65 (D.D.C. 2003); B. S. W. Grp., Inc. v. Comm'r., 70 T.C. 352, 357 (1978).
+89 I.R.S. Priv. Ltr. Rul. 201525012 (June 19, 2015).
+90 Rev. Rul. 73-127, 1973-1 C.B. 221.
+91 Id.
+92 A similar rationale allows charities to provide microfinance services to businesses that
+would not otherwise obtain access to credit. While business lending is typically considered a
+commercial activity, the IRS distinguishes nonprofit microfinance programs from their
+commercial counterparts based on their level of risk. Rev. Rul. 74-587, 1974-2 C.B. 162; Rev. Rul.
+68-117, 1968-1 C.B. 251.
+2018] 1037
+13
+Rogal: Legal Strategies for Economic Empowerment of Persons in Recovery
+Published by The Research Repository @ WVU, 2018
+WEST VIRGINIA LAW REVIEW
+participants cannot otherwise obtain employment due to their current or recent
+substance use disorder; (ii) the participants constitute virtually the entire staff;
+and (iii) the participants engage in regular job-seeking activities. These programs
+could thus provide a transition between substance treatment and conventional
+employment.
+C. Hiring Incentives
+Beyond rehabilitative employment by charities, for-profit enterprises
+should have an incentive to hire persons in recovery to permanent positions. This
+should include reforming how the Work Opportunity Tax Credit ("WOTC"),
+designed to encourage employment of at-risk individuals, affects persons in
+recovery. The available research, which generally uses the welfare recipient
+target group, shows moderate positive effects of the WOTC on employment in
+the first year after certification and less effect in the long term.93 Research is
+impeded, however, by underutilization of the WOTC by employers.94
+Enacted in 1996 as part of comprehensive welfare reform," the WOTC
+allows employers to claim a tax credit for hiring disadvantaged veterans, recently
+released felons, certain recipients of public assistance (including disability
+benefits), people referred from State vocational rehabilitation programs, and
+others.96 For most of these targeted groups, the tax credit equals 40% of the
+employee's first-year wages,97 provided that the employee works at least 400
+hours. For employees who work at least 120 hours but fewer than 400 hours, the
+employer may claim only a 25% tax credit.98 However, employers may typically
+only count $6,000 in each employee's wages towards the credit,99 capping the
+per-employee credit at $2,400.100
+The WOTC targets two categories of persons with disabilities: recipients
+of disability benefits and participants in vocational rehabilitation programs. In
+practice, this excludes many people in recovery. First, the Social Security Act
+93 Sarah Hamersma, The Effects of an Employer Subsidy on Employment Outcomes: A Study
+of the Work Opportunity and Welfare-to-Work Tax Credits, 27(3) J. POL'Y ANALYSIS & MGMT.
+498, 509 (2008).
+94 Id. at 5 10.
+9 Pub. L. No. 104-188, § 1201, 110 Stat. 1755 (1996) (codified as amended at 26 U.S.C. § 51).
+The WOTC represented a reform of the Targeted Jobs Credit, which targeted low-wage, low-skill
+workers generally and was found to operate as a windfall for companies that would have hired such
+workers irrespective of the credit. CHRISTINE ScoTT, CONG. RES. SERV., THE WORK OPPORTUNITY
+TAX CREDIT (WOTC) 6 (2013), https://fas.org/sgp/crs/misc/RL30089.pdf.
+96 26 U.S.C. § 51(d)(1) (2012).
+9 Id. § 51(a).
+98 Id. § 5 1(i)(3)(A).
+9 Id. § 51(b)(3).
+100 This figure is based on the author's calculation of 40% of $6,000 in wages.
+1038 [Vol. 120
+14
+West Virginia Law Review, Vol. 120, Iss. 3 [2018], Art. 14
+https://researchrepository.wvu.edu/wvlr/vol120/iss3/14
+Legal Strategies for Economic Empowerment
+was amended in 1996 to abolish eligibility for disability benefits on the grounds
+of substance use disorder."o' The amended law also prohibits disability benefits
+where "alcoholism or drug addiction [is] a contributing factor material" to the
+disability determination.10 2 The individual claiming benefits bears the burden of
+demonstrating that substance use is not a material factor in the disability-i.e.,
+that the disability would persist absent substance use.1 03 Disentangling the
+symptoms of substance use and a comorbid mental or physical disability is a
+monumentally difficult task, particularly for claimants without access to counsel
+or substantial resources.1 0 4 As a result, even otherwise eligible individuals may
+be denied disability benefits-and with them, WOTC eligibility-due to their
+substance use disorder.
+Second, the requirements for vocational rehabilitation ("VR") referrals
+create a significant barrier to WOTC eligibility. To be eligible as a VR referral,
+an individual must be certified by the State employment security agency'os as (1)
+having a physical or mental disability that constitutes or results in a "substantial
+handicap to employment," and (2) having completed (or being in the process of
+completing) VR services through a state-certified agency, the Ticket to Work
+program, or the U.S. Department of Veteran Affairs.' 06 This creates a number of
+barriers. First, many people in recovery are not eligible for the Ticket to Work
+program (available to SSI/SSDI recipients) or veterans' services. Second, VR
+services may be time-consuming, inaccessible, or redundant to assistance
+provided by treatment facilities or other organizations. In order to begin VR, an
+individual must successfully apply for services, 07 wait for services to become
+available," and receive an individualized assessment and written plan for
+101 The Contract with America Advancement Act of 1996, Pub. L. No. 104-121, § 105, 110
+Stat. 847 (1996) (codified as amended at 42 U.S.C. § 423).
+102 42 U.S.C § 423(d)(2)(C) (2012).
+103 Soc. Sec. Rul. 1 3 -2 p: Evaluating Cases Involving Drug Addiction and Alcoholism (Titles
+II and XVI), 78 Fed. Reg. 11,939-01 (Feb. 20, 2013); see also Delk v. Colvin, 675 F. App'x. 281,
+284 (4th Cir. 2017); Cage v. Comm'r of Social Sec., 692 F.3d 118, 124 (2d Cir. 2012).
+104 See Soc. Sec. Rul. 13-2p, supra note 103 ("We do not know of any research that we can use
+to predict reliably that any given claimant's co-occurring mental disorder would improve, or the
+extent to which it would improve, if the claimant were to stop using drugs or alcohol."); see also
+Max Selver, Disability Benefits and Addiction: Resolving an Uncertain Burden, 91 N.Y.U. L. REV.
+954 (2016).
+1os The Act of June 6, 1933, made certain New Deal assistance contingent on States creating a
+State agency to cooperate with the federal government in delivering employment-related services
+to job seekers. 29 U.S.C. § 49c (1999).
+106 26 U.S.C § 51(d)(6) (2012).
+107 Applicants must receive an eligibility decision within 60 days. 34 C.F.R. § 361.42 (2018).
+10 Long wait lists are common. Federal law requires that States serve individuals with the
+severest disabilities first. 34 C.F.R. § 361.36(a)(3) (2018). Maryland has thousands of people on
+its waiting list and estimates that many must wait as long as 36 months for VR services. The
+Waiting List, MD. ST. DEP'T EDUC. DIvISION REHABILITATION SERVS.,
+2018] 1039
+15
+Rogal: Legal Strategies for Economic Empowerment of Persons in Recovery
+Published by The Research Repository @ WVU, 2018
+WEST VIRGINIA LAW REVIEW
+employment.1 09 As a result of these barriers, few people with disabilities have
+the WOTC credit claimed for them."'o
+Even if a person in recovery is WOTC-eligible, restrictions in the
+program may render it ineffectual. The tax credit does not apply to rehires of any
+previous employee,"' even if the employee's departure was precipitated by the
+same facts that provide the basis for WOTC eligibility (e.g., incarceration,
+disability, etc.). The rationale for this rule is likely to prevent employers from
+exploiting the WOTC by "churning" employees and repeatedly claiming tax
+credits. In regions that rely on a small number of large employers, this rule could
+render the WOTC ineffectual for many job seekers.
+There are a number. of WOTC reforms that could expand access to
+employment for people in recovery. First, individuals in recovery from substance
+use disorder should be designated as a targeted group, relieving them from the
+need to obtain state-sponsored vocational rehabilitation. Instead, eligibility
+should derive from certified completion of a treatment program for substance use
+disorder within the past year or other reasonable interval. Second, the prohibition
+on tax credits for rehires should be relaxed to allow rehiring of people whose job
+loss was caused by substance use or who have been separated from the employer
+for a prescribed period of time. This would address the concern about employer
+churning without penalizing residents of areas with little economic diversity.
+Third, the maximum credit amount should increase, at least for smaller
+employers that cannot scale their participation, to compensate for the risk and
+costs associated with hiring people in recovery.
+D. Employer Risk Reduction
+In order to encourage employment of persons in. recovery, the law must
+address employer risk management concerns. Employers may fear that a relapse
+into substance use will result in poor employee behavior (e.g., absenteeism,
+tardiness, bringing illicit substances to the workplace, etc.) or accidents,
+imposing costs on the employer and perhaps necessitating a new hire. Employers
+may also fear liability to third parties. If an employee causes harm to a third party
+while acting in the scope of employment, then the employer is vicariously liable
+to the third party.1 12 Even if the employee acted outside the authorized scope of
+http://dors.maryland.gov/consumers/Pages/waiting.aspx (last visited Feb. 15, 2018). Kentucky
+categorizes eligible individuals in five categories and currently only has the capacity to assist the
+highest-priority category. Eligibility & Order of Selection, KY. CAREER CTR.,
+https://kcc.ky.gov/Vocational-Rehabilitation/eligibility/Pages/eligibilityandOOS.aspx (last visited
+Apr. 2, 2018).
+109 34 C.F.R. § 361.45(a) (2018).
+110 SCOTT, supra note 95, at 13.
+111 26 U.S.C. 5 (i)(2) (2012).
+112 RESTATEMENT (THIRD) OF AGENCY § 2.04 (2006).
+1040 [Vol. 120
+16
+West Virginia Law Review, Vol. 120, Iss. 3 [2018], Art. 14
+https://researchrepository.wvu.edu/wvlr/vol120/iss3/14
+Legal Strategies for Economic Empowerment
+work, an employer may nevertheless be liable to the injured third party for
+negligent hiring, supervision, or retention of the employee." 3 This risk gives
+employers good cause to exercise caution in hiring.
+The Department of Labor currently administers a program to minimize
+the risk to employers of hiring persons in recovery, but its scope is limited. The
+Federal Bonding Program ("FBP") provides fidelity bonds to cover workplace
+dishonesty (i.e., theft, forgery, embezzlement, and larceny) during the first six
+months of employment of certain "at-risk" individuals," 4 including persons who
+are in recovery, who have criminal records, or who have been dishonorably
+discharged from the military."I The FBP is necessary because insurance policies
+for employee dishonesty typically exclude any employee hired or retained by the
+employer in knowledge of past dishonest acts.
+Job placement agencies (public or private) may purchase packages of
+FBP's fidelity bonds with a value of $5,000 each."' They then issue those bonds
+to employers at no charge to the employer or job seeker."' Agencies have
+discretion to issue up to five bonds per employee, for maximum coverage of
+$25,000." If six months elapse without a claim on the employee, the insurer will
+make the bond available to purchase by the employer at a regular commercial
+rate.'I The FBP is remarkably free of red tape for employers and job seekers.
+There are no forms to complete, there are no premiums or deductibles, and the
+bonds apply to any full- or part-time job in any state.1 20
+The FBP has built-in constraints on its effectiveness. First, the program
+only covers employee dishonesty and does not address the other risks and
+liabilities that an employee can generate. While employers can and do purchase
+insurance to mitigate these risks, each claim can still drive up premiums, cause
+employers to pay deductibles, and consume considerable time. Second,
+employers may worry about meeting the burden of proof in order to obtain
+payout of the FBP bond. The absence of any governing regulations may help to
+113 RESTATEMENT (THIRD) OF TORTS § 7.19 (2010).
+114 Federal Bonding Program At-a-Glance, U.S. DEP'T LABOR, http://bonds4jobs.com/wp-
+content/uploads/2017/06/At-A-Glance.pdf [hereinafter Federal Bonding] (last visited Apr. 2,
+2018).
+115 Employers and Job Seekers Brochure, U.S. DEP'T LABOR, http://bonds4jobs.com/wp-
+content/uploads/2017/06/FBP-Employers-Job-Seekers-Brochure.pdf [hereinafter Job Seekers]
+(last visited Apr. 2, 2018); Federal Bonding, supra note 114.
+116 For example, an organization can purchase a package of 100 bonds valued at $5,000 each
+for $8,400. See Fidelity BondPurchase Agreement, U.S. DEP'T LABOR, http://bonds4jobs.com/wp-
+content/uploads/2017/11/Bond-Purchase-Agreement UIG-Fillable-2.pdf (last visited Apr. 2,
+2018).
+117 Id.
+" Id
+119 Id.
+120 Job Seekers, supra note 115.
+2018] 1041
+17
+Rogal: Legal Strategies for Economic Empowerment of Persons in Recovery
+Published by The Research Repository @ WVU, 2018
+WEST VIRGINIA LAW REVIEW
+minimize red tape, but it also undercuts employer certainty about the process of
+redeeming the bond.
+In light of these limitations, the FBP should be supplemented with other
+measures to reduce employer risk. One possibility is to expand the FBP to cover
+employer costs associated with an employee's relapse. If an employee fails a
+drug test or leaves work to seek treatment, the FBP could pay out a modest sum
+to defray the costs of hiring and training a replacement. This scenario is both
+more likely and easier to prove than employee dishonesty.
+Another possibility is for states to legislatively limit employer liability
+under the common law theories of negligent hiring and retention. For example,
+plaintiffs could be barred from recovering in a negligence action against a
+business solely on the grounds that the business knowingly hired an employee in
+recovery. Alternatively, liability could be statutorily limited, either to a
+maximum dollar amount or to the amount of general liability insurance carried
+by the employer. A similar construct is used in some jurisdictions to limit the
+liability of nonprofits for the acts of their employees and volunteers.121
+E. Reducing Collateral Consequences of Crimes
+Related to Substance Use Disorder
+Finally, a legislative solution is needed to address employment barriers
+encountered by persons whose substance use disorder has resulted in law
+enforcement involvement. Commentators have urged, and some jurisdictions
+have begun to adopt, policies aimed at expanding employment opportunities to
+the formerly incarcerated or otherwise justice-involved. Recommendations
+include so-called "Ban the Box" laws, which prohibit employers from inquiring
+about criminal records in the early stages of hiring; 2 2 laws allowing more liberal
+sealing and expungement of criminal records;123 and credentialing regimes
+whereby the state can certify an ex-offender's rehabilitation.'2 4 These legal
+reforms should take into account the impact of substance use disorder on criminal
+121 See, e.g., S.C. CODE ANN. §§ 33-56-180 (2018) 15-78-120 (limiting the liability of charitable
+organizations for certain torts of their employees to $300,000 per claimant and $600,000 per
+occurrence); D.C. CODE § 29-406.90(d) (2018) (limiting the liability of charities for the conduct of
+volunteers to the applicable limits of their insurance coverage).
+122 See, e.g., Home, BAN THE Box CAMPAIGN, http://bantheboxcampaign.org/; NAT'L EMP'T
+LAW PROJECT, BAN THE Box (2012), http://www.nelp.org/content/uploads/Ban-the-Box-Fair-
+Chance-State-and-Local-Guide.pdf.
+123 See, e.g., Fruqan Mouzon, Forgive Us Our Trespasses: The Needfor Federal Expungement
+Legislation, 39 U. MEM. L. REv. 1 (2008).
+124 See, e.g., Joy Radice, Administering Justice: Removing Statutory Barriers to Reentry, 83 U.
+COLO. L. REv. 715 (2018) (recommending reforms to and replication of New York's certification
+regime). In Ohio, some convicted offenders can obtain a "certificate of qualification for
+employment," which removes certain collateral sanctions and provides employers with immunity
+for negligent hiring. OHIO REv. CODE ANN. § 2953.25 (G)(2) (West 2018).
+[Vol. 1201042
+18
+West Virginia Law Review, Vol. 120, Iss. 3 [2018], Art. 14
+https://researchrepository.wvu.edu/wvlr/vol120/iss3/14
+Legal Strategies for Economic Empowerment
+records. For example, certification and expungement opportunities could become
+available earlier for individuals whose record is directly related to their substance
+use disorder. Jurisdictions that are reluctant to adopt sweeping legislation in these
+areas should carve out narrower provisions for persons with drug offenses related
+to substance use disorder.
+V. OCCUPATIONAL LICENSING
+Occupational licensing, the regime of government-issued authorization
+to practice various professions, 125 affects access to entrepreneurship as well as
+employment opportunities. Since the 1950s, the percentage of workers required
+to have a license has skyrocketed from 5% to 25%.126 Although occupational
+licensing theoretically protects the consuming public from incompetent and unfit
+professionals, 12 7 a range of commentators have assailed it as an unnecessary and
+protectionist barrier to entry. 128 State legislatures have broad discretion to
+regulate occupations1 2 9 and licensing requirements span the spectrum of
+vocations. In addition to professions like medicine, where credentialing serves a
+clear public protection function, licenses are also required to practice low-skill,
+low-risk vocations such as makeup artists, florists, barbers, tree trimmers, and
+manicurists.130 Because these vocations require relatively little formal training,
+they could otherwise provide an accessible path to gainful employment or self-
+employment for persons with limited education or financial resources.13 1
+Typically, state or local legislation sets forth basic requirements for
+licensure and delegates the development of more specific standards to a
+125 DEP'T OF TREASURY, OCCUPATIONAL LICENSING: A FRAMEWORK FOR POLICYMAKERS 6
+(2015),
+https://obamawhitehouse.archives.gov/sites/default/files/docs/licensingreport finalnonembarg
+o.pdf.
+126 Id.
+127 Id
+128 See, e.g., MORRIS M. KLEINER, THE HAMILTON PROJECT: REFORMING OCCUPATIONAL
+LICENSING POLICIES (2015); Aaron Edlin & Rebecca Haw, Cartels by Another Name: Should
+Licensed Occupations Face Antitrust Scrutiny?, 162 U. PA. L. REv. 1093 (2014); Michelle Cottle,
+The Onerous, Arbitrary, Unaccountable World of Occupational Licensing, ATLANTIC (Aug. 13,
+2017), https://www.theatlantic.com/politics/archive/2017/08/trump-obama-occupational-
+licensing/536619/.
+129 In order to survive Constitutional scrutiny, occupational licensing requirements need only
+have a rational relation to a legitimate state interest. Williamson v. Lee Optical, 348 U.S. 483, 487-
+88 (1955) (upholding a law designed to favor certain eye care professionals over others).
+130 Paul J. Larkin, Jr., Public Choice Theory and Occupational Licensing, 39 HARv. J.L. & PUB.
+POL'Y, 209, 216-18 (2016).
+131 James C. Cooper & William E. Kovacic, U.S. Convergence with International Competition
+Norms: Antitrust Law and Public Restraints on Competition, 90 B.U. L. REv. 1555, 1567 (2010).
+2018] 1043
+19
+Rogal: Legal Strategies for Economic Empowerment of Persons in Recovery
+Published by The Research Repository @ WVU, 2018
+WEST VIRGINIA LAW REVIEW
+profession-specific licensing board. 13 2 Licensure may require educational
+credentials, prior practical experience, an examination, and/or verification of
+good character.' 33 These requirements often involve fees, disadvantaging
+individuals without financial resources.134 Additionally, many states permit the
+denial or revocation of occupational licenses based on substance use disorder.
+These rules are most common in the health professions"' but affect lower-skill
+occupations as well. For example, Tennessee law allows the denial, suspension,
+or revocation of a cosmetologist's license based on "addiction to intoxicating
+liquors or drugs."'3 6 Likewise, Ohio permits the denial, suspension, or revocation
+of a barber's license based on "habitual drunkenness or possession of or
+addiction to the use of' any illicit drug.' 37 While it is unclear how often these
+rules are invoked, they may deter people from seeking treatment or applying for
+licenses when they are in recovery.
+Title II of the ADA prohibits exclusion of persons with disabilities from
+the services, programs, and activities of a public entity,' 38 including occupational
+licensing.' Accordingly, public licensing authorities may not establish
+eligibility criteria that "screen out or tend to screen out any individual with a
+disability .. . unless such criteria can be shown to be necessary" for the licensing
+program.140 Like Title I, Title II also contains an exception for addicted
+individuals who are "currently" engaging in the use of illicit drugs.' 4 ' While no
+court has addressed the meaning of "currently" in this context, the regulatory
+guidance indicates that it should be interpreted to mean "recently enough to
+justify a reasonable belief that a person's drug use is current or that continuing
+use is a real and ongoing problem." 4 2 As noted previously, this interpretation
+operates to remove protection from persons in early recovery.
+Occupational licensing laws also frequently disqualify persons with
+criminal records, including for minor drug-related offenses. Depending on how
+132 Larkin, supra note 130, at 213.
+1 Id.
+134 Cooper & Kovacic, supra note 131, at 1567.
+135 See Legal Barriers for People in Recovery from Drug and Alcohol Addiction: Licenses and
+Credentials - Chart, NAT'L ALL. FOR MODEL STATE DRUG LAWS (2011),
+http://www.namsdl.org/1ibrary/7C3198E2-1C23-D4F9-744D6A7BO274BFCB/ (cataloguing the
+addiction-related restrictions on licensing to engage in the and counseling professions).
+136 TENN. CODE ANN. § 62-4-127(b)(3) (2018).
+137 OHIo REv. CODE ANN. § 4740.06(i)(2) (West 2018).
+138 42 U.S.C. § 12132 (2012).
+1" 28 C.F.R. § 35.130(b)(6) (2012); Clark v. Va. Bd. of Bar Exam'rs, 880 F. Supp. 430, 446
+(E.D. Va. 1995) (holding that a broad question about mental health on the application for bar
+admissions discriminated against applicants with disabilities).
+140 28 C.F.R. § 35.130(b)(8) (2012).
+141 Id. § 35.131(a)(1).
+142 28 C.F.R. pt. 35, app. B (2018).
+[Vol. 1201044
+20
+West Virginia Law Review, Vol. 120, Iss. 3 [2018], Art. 14
+https://researchrepository.wvu.edu/wvlr/vol120/iss3/14
+Legal Strategies for Economic Empowerment
+the state's laws are formulated, the license restrictions may apply regardless of
+the offense's magnitude, recentness, or relatedness to the occupation. In some
+cases, the laws may target arrests that did not result in convictions, or convictions
+that have been expunged or sealed. Because substance use disorders correlate
+positively with criminal records, many persons in recovery must contend with
+these restrictions on licensure. Failure to obtain required licenses can obstruct
+them from employment opportunities and prevent them from self-employment
+in the relevant fields.
+The National Employment Law Project ("NELP") has proposed a model
+law framework for occupational licensing with respect to criminal records. 143
+This framework draws on guidance from the Equal Employment Opportunity
+Commission ("EEOC") regarding the use of criminal records in employment
+decisions under Title VII of the Civil Rights Act. 144 NELP recommends 10
+features of fair licensing laws, including (1) the absence of any automatic,
+blanket exclusions based on criminal records; (2) limiting criminal inquiries to
+job-related convictions; (3) requiring case-by-case assessment based on the
+individual and occupation involved; (4) requiring consideration of rehabilitation
+and mitigating circumstances; (5) requiring the licensing body to provide the
+applicant with notice of the background check and an opportunity to respond;
+and (6) prohibiting the licensing agency from performing criminal record
+inquiries until they have determined other facets of the applicant's eligibility.145
+The last recommendation is designed to lower the risk that the licensing
+authorities will discard an otherwise qualified applicant due to bias. 14 6
+Where licensing serves a legitimate public safety interest,1 47 the NELP
+recommendations offer a reasonable framework to balance consumer protection
+with the societal and individual interest in offender rehabilitation. However,
+143 See generally MICHELLE NATIVIDAD RODRIGUEZ & BETH AVERY, NAT'L EMP'T LAW
+PROJECT, UNLICENSED & UNTAPPED: REMOVING BARRIERS TO STATE OCCUPATIONAL LICENSES FOR
+PEOPLE WITH RECORDS (2016), http://www.nelp.org/content/uploads/Unlicensed-Untapped-
+Removing-Barriers-State-Occupational-Licenses.pdf [hereinafter NELP] (last visited Apr. 2,
+2018).
+144 See EEOC, ENFORCEMENT GUIDANCE, CONSIDERATION OF ARREST AND CONVICTION
+RECORDS IN EMPLOYMENT DECISIONS UNDER TITLE VII OF THE CIVIL RIGHTS ACT OF 1964 (2010),
+https://www.eeoc.gov/laws/guidance/arrestconviction.cfm. Use of criminal records in a way that
+treats individuals differently based on their race, national origin, or other protected characteristic
+(e.g., treating white applicants with criminal records more favorably than black applicants with
+similar records) violates Title VII, as does use of criminal records in a way that disproportionately
+screens out Title VII protected groups. Id.
+145 NELP, supra note 143, at 21-24.
+146 Id. at 25-26.
+147 It is the position of this essay that many professional licensing requirements serve little
+public purpose and should be abolished. Examining precisely which requirements merit
+preservation is beyond the scope of this essay. Licensing requirements that remain in place should
+integrate the three elements described here.
+2018]1 1045
+21
+Rogal: Legal Strategies for Economic Empowerment of Persons in Recovery
+Published by The Research Repository @ WVU, 2018
+WEST VIRGINIA LAW REVIEW
+licensing law reforms should incorporate additional consideration of persons in
+recovery from substance use disorder. First, license exclusion of persons with
+substance use disorder should only operate when the disorder has impacted, or is
+likely to impact, the person's performance in a way thatjeopardizes public health
+or safety. Second, upon certified completion of a supervised treatment program
+and/or the passage of a reasonable period of time, individuals who have lost their
+license should be entitled to a rebuttable presumption of fitness to carry out their
+professions. Third, substance use disorder should be legislatively deemed a
+mitigating factor with respect to offenses directly related to that disorder (e.g.,
+possession of an illicit drug to which the person is addicted).
+The exclusion of individuals from certain occupations based on their
+history of substance use disorder or related cri

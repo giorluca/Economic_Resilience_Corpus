@@ -1,0 +1,552 @@
+Analysing the Economic Resilience of D8 Countries by Using AHP and Topsis Approach
+
+Journal of Economics and Sustainable Development                                                                                                                        www.iiste.org 
+ISSN 2222-1700 (Paper) ISSN 2222-2855 (Online)  
+Vol.12, No.21, 2021 
+ 
+1 
+Analysing the Economic Resilience of D8 Countries by Using AHP 
+and Topsis Approach 
+ 
+Haider Abbas* 
+Department of Economics, Ahlul Bayt International University- Tehran 
+Next to Tehran Qom’s ETC, Khalij Fars Freeway, Tehran, Iran 
+ 
+The research is financed by Ahlul Bayt International University, Tehran, Iran. 
+Abstract 
+Resilience is defined in different ways by different disciplines and different authors, but in general, resilience may 
+be defined as the ability of a system and its component parts to anticipate, absorb, accommodate, or recover the 
+effects of a hazardous event in a timely and efficient manner.  The notion of ‘resilience’ has recently risen to 
+prominence in several disciplines, and has also entered policy discourse.  This paper determines the economic 
+resilience of D-8 countries. AHP and TOPSIS approach have been used to evaluate the ranking of D-8 countries. 
+The weight of different indicators has been derived by expert choice software. The results of the study show that 
+Egypt tops the ranking among D-8 countries, followed by Iran, Nigeria, Pakistan, while Malaysia and Indonesia 
+being at no 7 and 8 respectively due to macroeconomic indicators and the selected determinants of the economic 
+resilience. Policymakers can play an active role in sustaining resilient economies by addressing resources and 
+efforts in the right policy areas without waiting for crises. The paper also presents a tentative approach aimed at 
+developing an index of economic resilience covering four aspects namely macroeconomic stability, 
+microeconomic market efficiency, governance and social development. 
+Keywords: Economic resilience, , D-8 countries, AHP-TOPSIS 
+DOI: 10.7176/JESD/12-21-01 
+Publication date: November 30th 2021 
+ 
+1.Introduction of Economic Resilience 
+The notion of resilience has been used for a long time in the physical sciences, engineering, ecological sciences 
+and psychology, but in the last few decades, it attracted the attention of regional economists and geographers 
+(Martin 2012:P 2). More resilient countries are likely to less period of consequence and recover quicker then less 
+resilient countries. Hence, different losses arise during the recession and positive change outcome helpful in order 
+to direct engineering resilience (Paolo Di Caro: P3).  Most of the dictionaries define the resilience term as the 
+ability to recover quickly from shock, but in economic literature this has been used in three senses, i.e., shock 
+counteraction (ability to recover quickly), shock absorption (the ability of an economy to withstand against shock) 
+and the third is termed as the ability of an economy to avoid shocks (Briguglio, 2006:P 7). Hence, Economic 
+resilience is a term that was coined by the economists after the great economic depression of 2008. Since then, 
+numerous determinants have been used by different economists to calculate the resistance of any economy against 
+these shocks. However, among them, the determinants used by Briguglio are broadly appreciated. In the 
+contemporary global economic situation, countries are subjected to a wide variety of economic shocks, including, 
+financial crises, foreign debt crises, commodity price fluctuations and natural disasters. They may increase the risk 
+and uncertainty of the households. Investors, customers and governments. In the case of such vulnerabilities, 
+economy should be resilient to adverse shocks, because they could derail the sustainable growth and developments 
+of the country. That’s why theses shocks are the main concern of the policy makers to identify the crucial factors 
+of the country's resilience to adverse shocks. They may be defined the capacity and potential of the country to cope 
+with such shocks and probability to reduce these vulnerabilities (Rohn, 2015:P 5). 
+The D-8 Organization for Economic Cooperation, also known as Developing-8, is an organization for 
+development co-operation among the following countries: Bangladesh, Egypt, Nigeria, Indonesia, Iran, Malaysia, 
+Pakistan, and Turkey. The objectives of D-8 Organization for Economic Cooperation are to improve member 
+states' position in the global economy, diversify and create new opportunities in trade relations, enhance 
+participation in decision-making at international level, and improve standards of living. D-8 is a global 
+arrangement rather than a regional one, as the composition of its members reflects. Organization for Economic 
+Cooperation (D-8) is a forum with no adverse impact on bilateral and multilateral commitments of the member 
+countries, emanating from their membership to other international or regional organizations. 
+The combined population of the eight countries is about 1 billion or 60% of all Muslims, or close to 13% of 
+the world's population and covering an area of 7.6 million square kilometers, 5% of world land area. In 2006, trade 
+between the D-8 member states stood at $35 billion, and it was around $68 billion in 2010. Transactions between 
+the 8 developing countries account for 3.3 percent of world trade. 
+As stated by the D-8 Facts and Figures Publication: "The objectives of D-8 are to improve developing 
+countries' positions in the world economy, diversify and create new opportunities in trade relations, enhance 
+Journal of Economics and Sustainable Development                                                                                                                        www.iiste.org 
+ISSN 2222-1700 (Paper) ISSN 2222-2855 (Online)  
+Vol.12, No.21, 2021 
+ 
+2 
+participation in decision-making at the international level, and provide better standards of living." 
+This research shall be studying the Economic Resilience of these countries on the basis of determinants of 
+Economic Resilience. 
+Economic resilience is new buzz word in the economic literature that is attracting the economists. Because 
+world is objectively being observed to adverse shocks, uncertainties and vulnerabilities. In this line, Briguglio 
+worked about vulnerabilities of the economies who are mainly more vulnerable to adverse shocks. He developed 
+the new framework and suggested that, how could we mitigate to exogenous shocks. That study and his work is 
+broadly appreciated by the world leaders. 
+This study shall make use of the key determinants of economic resilience in the context of D8 countries. For 
+the assessment of the economic resilience and ranking AHP-TOPSIS shall be deployed. This study shall help 
+policy makers and government authorities of D8 countries to focuses some vulnerable points of the economy such 
+as external debt, imports, investment in social sectors, diversification of exports etc. that are sensitive to external 
+shocks, helping them to become more resilient. 
+ 
+Discussion 
+Background of the Study 
+After the Economic Recession of 2008 economists started focusing on how could risk of vulnerabilities be 
+minimized against the undesired disturbances. They coined up a new term known as Economic Resilience which 
+measured the countries’ vulnerability to economic shocks. The FM global resilience index, defines the resilience 
+as the combination of the vulnerability of a country to supply chain disturbance and the efficiency of the country 
+to recover from such hurdles. The index explains twelve key components of resilience, including political risk, 
+natural hazard risk quality, productivity, control of corruption, oil intensity, quality of infrastructure, urbanization 
+rate and planning to risk management. These components are marginalized into three broad factors like, economic, 
+risk quality and supply chain. In this method index is constructed and combined for 130 countries and territories. 
+In 2016 Switzerland ranked first among the countries due to its efficient infrastructure, prime location, and quality 
+for suppliers, economic productivity and resilience to oil shocks. 
+The world economic forum global risk report explored the qualitative and quantitate indicators to access the 
+resilience of the national economy to adverse global shocks. It had been observed by main systems (economic, 
+environmental, governance, infrastructure and society) of the economy by the five crucial component robustness, 
+redundancy, resourcefulness, response and recovery.  The smaller states of the world are considered highly 
+vulnerable to having a high GDP per capita due to highly dependent on openness of international trade, strategic 
+imports and concentration on exports to lack of their domestic market efficiency (Briguglio, 2009). 
+Briguglio (2004), divided the countries in four major scenarios termed as “best case”, “self-made” ‘prodigal 
+son” and worst case. The countries nominated as self-made are those which refer to the highest degree and inherent 
+economic vulnerability, but due to adoption of suitable polices resist the shocks. The countries have self-made 
+ability to build the economic resilience to exogenous shocks. The prodigal son countries those have a low degree 
+of inherent vulnerability like a son who is born in the rich family. The worst countries scenarios lead to a high 
+degree of inherent economic vulnerability, but adoption of economic resilience enable them to minimize the effects 
+of shocks. Brguglio (2008), for the construction of resilience index has defined the four major areas, which were 
+further divided into sub-indicators. Macroeconomic stability, microeconomic market efficiency, good governance 
+and social development are essential components of the economic resilience. These components have ability to 
+absorb the effects of adverse shocks. Microeconomics market efficiency depends on the economic freedom and 
+choices of the consumer for construction index, he used the economic freedom world index, which has published 
+by the Fraser institute yearly to define the ranking of countries for economic freedom, it also has been constructed 
+by its sub-indicators like the size of government, sound money, system of property rights and freedom of 
+international trade.  
+Aqeli et al. (2016) conducted studies to determine Iran's position among 21 countries (ECO members, Persian 
+Gulf countries and Western neighbors and Russia) using the nine dimensions of resistance economics and 
+corresponding international indicators. As a result, Iran is ranked 11th among the 21 selected countries with an 
+average weight of 33.3.  
+Rajabian et al. (2017) conducted a study to calculate the resilience of Iran's economy during the period 1397-
+1395 using Burman et al.'s indicators. The results of this study have found that the resilience of Iran's economy in 
+2001 was the highest and in 2009 was the lowest, and after 1392, the trend has increased relatively. 
+Sadegh Bakhtiari, Farzam Sajjadieh, (2018) defined Economic resilience as the capacity of an economy to 
+resist shocks, to withstand the effects of a shock and to avoid the shocks altogether. The paper tries to follow the 
+UNDP procedure in presenting Human Development Index. Thus, the same procedure will be followed to provide 
+an Economic Resilience Index (ERI) They used data for 12 developing countries (Iran, Albania, Algeria, 
+Azerbaijan, Kazakhstan, Malaysia, Tunisia, Egypt, Indonesia, Kyrgyzstan, Oman and Jordan) from the period 
+2005 to 2014. The countries were ranked based on the average of calculated ERI. The first rank was Kazakhstan, 
+Journal of Economics and Sustainable Development                                                                                                                        www.iiste.org 
+ISSN 2222-1700 (Paper) ISSN 2222-2855 (Online)  
+Vol.12, No.21, 2021 
+ 
+3 
+and the last one was Algeria; Iran was at the 8th place. In case of Iran, the paper argued that during this period, 
+Iran confronted with several major economic and political sanctions from various international players, such as 
+the United States, European Union and other unilateral sanctions in many cases even beyond the UN security 
+council resolutions; those have serious effects on all aspects of Iran’s economy. 
+ Samani (2018), investigated his research project on” the impact of political stability on economic resilience” 
+by vaulting that terrorism is the main factor that affects the political stability of the country from very recent years. 
+His well-thought-out political stability is a more crucial factor of economic resilience that directly affects economic 
+resilience. Hence, he divided the countries into developing and developed country group with data panel data 
+spanning from 1996-2014 by using a simple regression model for panel data. He has also compared the important 
+two factors, political stability and economic resilience in the capitalistic system and the Islamic economic system. 
+The findings of the research conclude that political stability, control of corruption, political openness, rent to 
+natural resources and economic openness has a positive, substantial association to the economic resilience of 
+selected countries within a selected time period, while social openness has not significant affiliation with economic 
+resilience. Granger causality test also confirmed that political stability, control of corruption, economic openness, 
+and social openness are important factors of economic resilience, however, political openness has not eloquent 
+causality to economic resilience which suggested by the result of this study. This study, attempts to find the 
+economic resilience index among D-8 countries. It shall make use of the AHP -TOPSIS approach and the countries 
+thereupon shall be ranked on the basis of the determinants of the economic resilience. 
+ 
+Research Methodology 
+The main topic of this research is to study of the performance of resistance economy in D-8 countries in the year 
+2017. The combined population of the eight countries is about 1 billion or 60% of all Muslims, or close to 13% of 
+the world's population and covering an area of 7.6 million square kilometers, 5% of world land area. In 2006, trade 
+between the D-8 member states stood at $35 billion, and it was around $68 billion in 2010. Transactions between 
+the 8 developing countries account for 3.3 percent of world trade. On the ranking of Annual inward and outward 
+flows of Foreign direct investment for the year 2017, Indonesia ranked on the top with 32.78%, followed by Turkey 
+(18.29%), Malaysia (14.9%), Egypt (11.8%), Iran (8%), Nigeria (5.58%) and Pakistan (5.15%). Bangladesh ranked 
+last with 3.5% of the total annual inflow and outflow of foreign direct investment among the D-8 countries. 
+(UNCTAD)  
+This research has been done in a library-documentary method based on analytical descriptive method. For 
+calculating the economic resilience index of D-8 countries, five different determinants have been accessed. These 
+are; Macroeconomic stability, macroeconomic market efficiency, social development, good governance and export 
+independence. These shall be calculated by proxy variables. For calculating of macroeconomic stability, the 
+country's fiscal deficit ratio to GDP, misery index, external debt ratio to GDP, government size and government 
+expenditures have been used. Data of from Fraser Institute has been used as a proxy for determining 
+macroeconomic market efficiency. To calculate social development, HDI indicators have been used. To calculate 
+exports independence, exports ratio to GDP, export concentration index and exports diversification index have 
+been used. To calculate good governance indicator from WGI have been used that are; voice and accountability, 
+rule of law, government effectiveness, regulatory, control of corruption and legal system and property rights. 
+The data for above mentioned determinants in this research is taken from the WDI, WGI and HDI indicators 
+as well as World Economic Freedom Report from websites of World Bank, OECD and UNCDTED. 
+In the next step, mentioned components are weighed using the AHP method and then the TOPSIS method. 
+The countries are then ranked on the basis of the outcome.  
+ 
+Analytic Hierarchy Approach: (AHP)  
+This approach involves a series of steps that are listed below: - 
+Step 1: The first step is to define the qualitative and quantitative criteria and sub-criteria, develop a hierarchical 
+structure with an aim at the top level, criteria at the second level and alternatives at the third level.   
+Step 2: Relative importance of different attributes/criteria, using a questionnaire, are assigned as underlined by 
+specific economists keeping in mind the aim. The Saaty’s comparison scale is used, as shown in Table I. Equations 
+from 1 to 9 are derived from Saaty’s AHP calculation. 
+                                           
+Journal of Economics and Sustainable Development                                                                                                                        www.iiste.org 
+ISSN 2222-1700 (Paper) ISSN 2222-2855 (Online)  
+Vol.12, No.21, 2021 
+ 
+4 
+Where n is the criteria count, and Cji = 1/Cij, where i and j is 1 for n. 
+Table 1: Comparison, Value Scale 
+ 
+Step 3: In the third step we create the normalized pairwise matrix ‘X’ by dividing each element in the matrix by 
+sum total of its column: 
+ 
+Where, i and j is 1 for n 
+  
+We can use this X matrix shown above to get the vector weights matrix W as:- 
+  
+where we get weight matrix 
+ 
+Where, i and j is 1 for n 
+Step 4: In the fourth step we multiply each column of the pairwise comparison matrix with its corresponding 
+weight. The new matrix is obtained as: 
+ 
+ 
+Step 5: In the fifth step we divide the sum of rows with the corresponding weight 
+Journal of Economics and Sustainable Development                                                                                                                        www.iiste.org 
+ISSN 2222-1700 (Paper) ISSN 2222-2855 (Online)  
+Vol.12, No.21, 2021 
+ 
+5 
+ 
+ 
+Step 6: The consistency index is calculated using the following formula 
+ 
+Step 7: In this step we calculate a Consistency Ratio (CR). Here, we try to find-out how consistent the judgments 
+have been relative to large samples of purely random judgments. If CR is lower than 0.1 or equal to 0.1, the 
+calculations of the criteria are consistent otherwise the judgments are unreliable. The consistency ratio is calculated 
+as CR= CI/RI, where RI is a random index as given in table II. 
+Table II: Random Index Value Scale 
+ 
+In this research, the inconsistency ratio is automatically generated by using the expert choice, i.e., 0.06 which is 
+less than 0.1. Thus, the weights given in Table III, can be used for TOPSIS calculations. 
+Step 8:  
+ 
+Where m represents the number of the selected countries which is 8 in our case, and n is the criteria counts which 
+is 11 in our specified model. 
+ 
+TOPSIS Approach 
+The Topsis method was first introduced by Huang Yun in 1981, and is one of the best multi criteria decision 
+making methods. In the mentioned method, the m option is evaluated by n index (Fallahi et al., 2017, p. 106). 
+Based on this method, the selection of the option is done in such a way that the answer has the least distance with 
+the positive ideal and the least distance with the negative ideal (Archaeological and Martial, 2014, p. 67). Based 
+on this method, the selection of the option is done in such a way that it has the least distance with the positive 
+answer and the least distance with the negative ideal (Archaeological and Martial, 2014, p. 67). 
+We shall use the TOPSIS approach to determine the final ranking of countries. It involves the following steps 
+Step 9: To perform TOPSIS calculations, first we normalize the matrix Aij. Then a new matrix is obtained by the 
+following formula: 
+ 
+Where m represents number of countries. The normalized matrix is shown in appendix table III 
+Step 10: In this step, we multiply each entry with its corresponding weight to get new matrix which is a weighted 
+normalized matrix Kij, as shown in table IV. 
+Journal of Economics and Sustainable Development                                                                                                                        www.iiste.org 
+ISSN 2222-1700 (Paper) ISSN 2222-2855 (Online)  
+Vol.12, No.21, 2021 
+ 
+6 
+ 
+Where m is the number of countries and n is the criteria count. Also, i and j is 1 to n 
+Step 11: In this step the positive ideal solution can be found at:  
+ 
+While, negative ideal solution found at: 
+ 
+Where i 1 to m that is number selected countries and j 1 to n that is criteria count. In this step, we find ideal best 
+and ideal worst solution. It is pertinent to note here, the minimum value of misery index, external debt to GDP and 
+tax burden represents the best ideal solution because, normally, lower value of external debt and misery index 
+favor country’s macroeconomic stability. Same is the case in tax burden. The ideal best and worst value is shown 
+in table V.  
+Step 12: In this step we calculate the Euclidean distance from the ideal best and the ideal worst values using the 
+following formula: 
+              
+Where i is 1 to m that is the number of selected countries while j is 1 to n which is criteria count 
+Step 13: In this step we shall calculate the final score using:  
+ 
+Where i 1 to m which is the number of selected countries. In addition, countries with higher performance score 
+would be ranked higher. In our model Egypt ranked first with Iran taking second place and Indonesia ranked last 
+as shown in the figure I below. 
+Figure I 
+Ranking of countries. Source: AHP and TOPSIS Approach 
+ 
+0
+.5
+0
+5
+6
+0
+6
+7
+2
+2
+0
+.4
+8
+7
+2
+5
+2
+0
+6
+9
+0
+.4
+5
+0
+1
+6
+2
+1
+3
+4
+0
+.4
+0
+6
+4
+9
+0
+8
+3
+0
+.3
+9
+5
+5
+2
+3
+7
+3
+9
+0
+.3
+8
+2
+3
+2
+7
+6
+2
+3
+0
+.3
+7
+4
+4
+1
+7
+6
+2
+9
+0
+.3
+5
+7
+0
+2
+7
+0
+1
+5
+E G Y P T I RAN N IGER I A PAK I S TAN BANGLADE SH TURKE Y MALAY S I A INDONE S I A
+١ ٢ ٣ ۴ ۵ ۶ ٧ ٨
+RANKING OF COUNTRIES
+Journal of Economics and Sustainable Development                                                                                                                        www.iiste.org 
+ISSN 2222-1700 (Paper) ISSN 2222-2855 (Online)  
+Vol.12, No.21, 2021 
+ 
+7 
+Conclusion  
+The study shows that Egypt tops the ranking among D-8 countries followed by Iran, Nigeria, Pakistan and so on. 
+While Turkey, Malaysia and Indonesia are at the bottom 6, 7, and 8 respectively. Egypt scores 0.5056, Iran 0.4872, 
+Nigeria 0.4501, Pakistan 0.4068, Bangladesh 0.3955, turkey 0.3823, Malaysia 0.3744 and Indonesia scores lowest 
+0.3570 through AHP and TOPSIS approach. 
+The most weighted indicators were HDI, Misery Index and fiscal deficit % of GDP due their importance in 
+the context of economic resilience. Egypt and Iran were amongst the countries having high HDI and Misery 
+Indexes, resulting in their top ranking. It can be concluded from their scores that they are not dependent on the 
+economy of the world. They are economic resilient. Any shock in the external world may not have much impact 
+on their economies. Malaysia and Indonesia despite having a better HDI than other countries did not have a good 
+fiscal deficit percentage and Misery Index. Hence, they ranked low on the scores and were found out to be less 
+resilient. We can conclude that Malaysia and Indonesia are good developing countries but their economy is very 
+much dependent on the external world. Turkey being located in between Asia and Europe is very much dependent 
+on the world economy and as the stats show, since it has very low export concentration is ranked pretty low. 
+Pakistan and Bangladesh having low HDI but their higher export diversification earned them fourth and fifth place. 
+Nigeria is ahead of them on third place because it has a better HDI. 
+In the year 2017, due to low global commodity prices a range of supply side measures and tight stance 
+monetary policy that resulted in a sharp decline in CPI from an average 9% in 2011-13 to around 4% during 2017-
+18. The account deficit was narrowed from a high 4.8% of GDP in 2012-13 with an average around 1.3% of GDP 
+during 2013-14 and 2016-17. 
+Iranian economy although having severe sanctions imposed by USA showed the good situation in that year 
+upon the considerations of the selected determinants. Mainly fiscal deficit has reduced to around 1.3 percent in 
+that year. The country has been in a better position among D-8 countries due to good social development, less 
+poverty indexes, large size of exports and low external debt ratio to GDP comparisons. They Iranian economy due 
+to the sanctions imposed by US has therefore been successful in developing a resilient economy that is dependent 
+on itself and not on the rest of the world and therefore is not volatile to external shocks. 
+ 
+Appendixes 
+Appendix A: Normalized Matrix 
+Countries 
+Fiscal 
+difficit % of 
+GDP 
+Misery Index 
+External 
+debt % of 
+GDP 
+Government 
+size 
+Government 
+Expenditure 
+Regulation HDI 
+Export % of 
+GDP 
+Export 
+concentration 
+index 
+Export 
+diversification 
+index 
+WGI 
+Iran 0.043153005 0.393371985 0.971453314 0.274025438 0.446304699 0.298226898 0.482056129 0.21509264 0.464557185 0.37460951 0.190756813 
+Pakistan 0.076181652 0.129413856 0.071992358 0.35231842 0.374682261 0.338700549 0.271704364 0.64971183 0.199511779 0.398638883 0.245198105 
+Bangaldesh 0.052124288 0.1605937 0.172901647 0.409030645 0.199262451 0.355209538 0.296537558 0.3567997 0.384344815 0.4658658 0.242279464 
+Egypt 0.990361476 0.671954075 0.061024111 0.243912752 0.335399312 0.254557959 0.338900067 0.33915338 0.13461174 0.302122392 0.25250484 
+Turkey 0.042075899 0.391165793 0.036790331 0.33123954 0.481447504 0.321126464 0.391974933 0.21655458 0.075459515 0.228110396 0.403446281 
+Nigeria 0.048099149 0.401374975 0.10938284 0.431113281 0.146337379 0.412724725 0.259531229 0.4073077 0.722097234 0.449591026 0.207964643 
+Malaysia 0.050406488 0.129677935 0.030541841 0.323209491 0.404769614 0.461719144 0.390514157 0.07659132 0.182360337 0.230289988 0.599291942 
+Indonesia 0.046654645 0.142369258 0.056795239 0.417060694 0.301964118 0.344558577 0.34279547 0.26573856 0.134783415 0.291969091 0.464610233 
+ 
+Appendix B: Weighted Matrix 
+Fiscal 
+difficit % 
+of GDP 
+Misery 
+Index 
+External 
+debt % 
+of GDP 
+Government 
+size 
+Government 
+Expenditure 
+Regulation HDI 
+Export % 
+of GDP 
+Export 
+concentration 
+index 
+Export 
+diversification 
+index 
+WGI 
+0.10           
+ 0.11          
+  0.086         
+   0.085        
+    0.064       
+     0.078      
+      0.13     
+       0.089    
+        0.098   
+         0.085  
+          0.075 
+  
+  
+Journal of Economics and Sustainable Development                                                                                                                        www.iiste.org 
+ISSN 2222-1700 (Paper) ISSN 2222-2855 (Online)  
+Vol.12, No.21, 2021 
+ 
+8 
+Appendix C: Normalized Weighted Matrix 
+Countries 
+Fiscal 
+difficit % of 
+GDP 
+Misery Index 
+External 
+debt % of 
+GDP 
+Government 
+size 
+Government 
+Expenditure 
+Regulation HDI 
+Export % of 
+GDP 
+Export 
+concentration 
+index 
+Export 
+diversification 
+index 
+WGI 
+Iran 0.004315301 0.043270918 0.083544985 0.023292162 0.028563501 0.023261698 0.062667297 0.019143245 0.045526604 0.031841808 0.014306761 
+Pakistan 0.007618165 0.014235524 0.006191343 0.029947066 0.023979665 0.026418643 0.035321567 0.057824353 0.019552154 0.033884305 0.018389858 
+Bangaldesh 0.005212429 0.017665307 0.014869542 0.034767605 0.012752797 0.027706344 0.038549883 0.031755173 0.037665792 0.039598593 0.01817096 
+Egypt 0.099036148 0.073914948 0.005248074 0.020732584 0.021465556 0.019855521 0.044057009 0.030184651 0.01319195 0.025680403 0.018937863 
+Turkey 0.00420759 0.043028237 0.003163968 0.028155361 0.03081264 0.025047864 0.050956741 0.019273358 0.007395032 0.019389384 0.030258471 
+Nigeria 0.004809915 0.044151247 0.009406924 0.036644629 0.009365592 0.032192529 0.03373906 0.036250385 0.070765529 0.038215237 0.015597348 
+Malaysia 0.005040649 0.014264573 0.002626598 0.027472807 0.025905255 0.036014093 0.05076684 0.006816627 0.017871313 0.019574649 0.044946896 
+Indonesia 0.004665464 0.015660618 0.004884391 0.035450159 0.019325704 0.026875569 0.044563411 0.023650732 0.013208775 0.024817373 0.034845767 
+ 
+V+ 0.099036148 0.0739 0.083544985 0.036645 0.03081264 0.036014093 0.062667297 0.057824 0.070765529 0.039598593 0.044946896 
+V- 0.00420759 0.0142 0.002626598 0.020733 0.009365592 0.019855521 0.03373906 0.006817 0.007395032 0.019389384 0.014306761 
+ 
+Appendix D: Euclidean Distance Performance Score 
+Countries D+ D- A Ranking 
+Egypt 0.413079 0.422448 0.505607 1 
+Iran 0.422038 0.401053 0.487252 2 
+Nigeria 0.447276 0.366193 0.450162 3 
+Pakistan 0.466928 0.319796 0.406491 4 
+Bangladesh 0.458015 0.299691 0.395524 5 
+Turkey 0.469707 0.29074 0.382328 6 
+Malaysia 0.478144 0.286174 0.374418 7 
+Indonesia 0.473625 0.262992 0.357027 8 
+ 
+Acknowledgement 
+At the very outset I would like to Thank God for providing me the capability to work. Secondly, I would like to 
+thank my parents for providing me all the necessary support. I would also like to thank all my seniors and friends 
+who helped in the completion of this article. I would also like to thank my teachers for all the knowledge provided 
+to me by them. I would also like to thank my mentor Mr. Gaffari Fard for providing me the assistance in the 
+completion of this article. Last but not the least I would like to thank my university for giving me the platform to 
+showcase my talents and abilities. 
+ 
+References: 
+1. Martin, Ron. (2012). “Regional Economic Resilience, Hysteresis and Recessionary Shocks”. Journal of 
+Economic Geography. 12. 1-32. 10.1093/jeg/lbr01 
+2. Bakhtiari, S. & Sajjadieh, F (2018) “Theoretical and Empirical Analysis of Economic Resilience Index”.  
+Iranian Journal of Economic Studies, 7(1) 2018, 41-53 
+3. Briguglio, L; Cordina, G; Forrugia, N. & Vella, S (2008) “Economic vulnerability and Resilience: Concepts 
+and Measurement”; Oxford Development studies, vol.37 Issue. 3. 
+4.  Briguglio, Lino & Cordina, Gordon & Bugeja, Stephanie & Farrugia, Nadia. (2006). Conceptualizing and 
+measuring economic resilience. 
+5. Hermans, M & Oliver, R (2017) “Economic resilience: The usefulness of early warning indicators in OECD 
+countries”; OECD Journal: Economic Studies, vol. 2016, issue1.  
+6. Rajabian, MA & Sabahi (ed.) (2017) “Strategies to increase the resilience of  economy by emphasizing the 
+future of Iran economy”, Quarterly journal of Islamic economic studies N- 89 
+7. Fard, MG & Hussain, M. (2019) “Evaluating the Economic Resilience of SAARC Countries By using AHP- 
+TOPSIS Approach”; Quarterly social & religious research journal, vol. 2, No, 44.  
+8. Briguglio, L & Cordina, G (2008) Economic Vulnerability and Resilience concepts and measurements 
+research paper no, 2008/55, United Nations University, UNU-WIDER  
+9. Briguglio, L & Eliawonsay (2004), Economic Vulnerability and Resilience of Small States Island and Small 
+Journal of Economics and Sustainable Development                                                                                                                        www.iiste.org 
+ISSN 2222-1700 (Paper) ISSN 2222-2855 (Online)  
+Vol.12, No.21, 2021 
+ 
+9 
+Institute and Common Wealth Secretariat.  
+10. Briguglio.L (2009) Prepared for the Conference "small states and state", Tallin, Estonia.  
+11. Sanchez, C; Oliver, R (2015), “Economic resilience:what role for policies:OECD” Economics Department 
+Working paper no;1251,OECD ,Publishing Paris.  
+12. Economic Freedom/ fraserinstitute.org of the World, 2018. Annual Report.  
+13. Reza, F (2018). “Resilience to shocks of the Iranian insurance sector”. Unpublished Master Thesis, Allama 
+Tabatabi University Tehran, E.C.O College of insurance department of Actuarial Sciences  
+14. FM Global,( 2018).Resilience Index Methodology (pentland ANALYTICS) 
+15.  Oxford Metrica,( 2016)," The 2016 FM Global Resilience Index”, Annual Report.  
+16. Samani, HA (2018). “The impact of political stability on economic resilience.” Unpublished Master Thesis, 
+Yazid University Social Sciences Department  
+17. Paolo, DC & Fratesi, U (2018) “Regional determinants of economic resilience.” Ann Reg Sci (2018) 60:235–
+240 
+ 

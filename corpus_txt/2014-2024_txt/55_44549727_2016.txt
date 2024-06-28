@@ -1,0 +1,1248 @@
+Integrating Recovery within a Resilience Framework: Empirical Insights and Policy Implications from Regional Australia
+
+www.ssoar.info
+Integrating Recovery within a Resilience
+Framework: Empirical Insights and Policy
+Implications from Regional Australia
+Drennan, Lex; McGowan, Jim; Tiernan, Anne
+Veröffentlichungsversion / Published Version
+Zeitschriftenartikel / journal article
+Empfohlene Zitierung / Suggested Citation:
+Drennan, L., McGowan, J., & Tiernan, A. (2016). Integrating Recovery within a Resilience Framework:
+Empirical Insights and Policy Implications from Regional Australia. Politics and Governance, 4(4), 74-86. https://
+doi.org/10.17645/pag.v4i4.741
+Nutzungsbedingungen:
+Dieser Text wird unter einer CC BY Lizenz (Namensnennung) zur
+Verfügung gestellt. Nähere Auskünfte zu den CC-Lizenzen finden
+Sie hier:
+https://creativecommons.org/licenses/by/4.0/deed.de
+Terms of use:
+This document is made available under a CC BY Licence
+(Attribution). For more Information see:
+https://creativecommons.org/licenses/by/4.0
+Politics and Governance (ISSN: 2183–2463)
+2016, Volume 4, Issue 4, Pages 74–86
+DOI: 10.17645/pag.v4i4.741
+Article
+Integrating Recovery within a Resilience Framework: Empirical Insights
+and Policy Implications from Regional Australia
+Lex Drennan, Jim McGowan and Anne Tiernan *
+Policy Innovation Hub, Griffith University, South Brisbane, 4101, Australia; E-Mails: l.drennan@griffith.edu.au (L.D.),
+james.mcgowan@griffith.edu.au (J.M.), a.tiernan@griffith.edu.au (A.T.)
+* Corresponding author
+Submitted: 31 August 2016 | Accepted: 23 October 2016 | Published: 28 December 2016
+Abstract
+Within Australia’s federal system, responsibility for preventing, preparing for, responding to and recovering from natu-
+ral disasters is shared between the three tiers of government. Intergovernmental policy and funding arrangements are
+premised on shared responsibility and aim to foster individual, business and community resilience. These arrangements
+underpin Australia’s international reputation for effectiveness in its management of natural disasters. The capacity of the
+diverse networks that comprise the disaster management system to coordinate and deliver in the preparedness and re-
+sponse phases of a disaster, and to provide relief in the immediate aftermath, has been developed over time and tested
+and refined through the experience of frequent, severe disaster events over recent decades. Less well developed is the
+system’s ability to support economic recovery in disaster-affected communities over the longer term. This paper presents
+case studies of regional communities affected by two of Australia’s most expensive and deadly natural disasters—the
+2009 Victorian bushfires and the cyclones and floods that struck the state of Queensland in 2010–2011. It highlights sig-
+nificant gaps in policy and funding arrangements to support recovery and offers lessons for aligning recovery within a
+resilience framework.
+Keywords
+disaster governance; disaster recovery; economic recovery; resilience policy
+Issue
+This article is part of the issue “Disaster Policies and Governance: Promoting Community Resilience”, edited by Naim Ka-
+pucu (University of Central Florida, USA) and Abdul-Akeem Sadiq (Indiana University–Purdue University Indianapolis, USA).
+© 2016 by the authors; licensee Cogitatio (Lisbon, Portugal). This article is licensed under a Creative Commons Attribu-
+tion 4.0 International License (CC BY).
+1. Introduction
+Natural disasters are inherent to Australia’s climate, ge-
+ography and environment. Disaster events span the spec-
+trum of hazards from bushfire, cyclone and earthquake
+to flood, heatwave and storm surge. Since 2009, natu-
+ral disasters have wrought damage and destruction to
+life, infrastructure, private property and the natural envi-
+ronment across the states and territories. The estimated
+total economic costs of natural disasters was calculated
+to have been AUD$9 billion (USD$6.9 billion) in 2015.1
+Some reports predict this may increase to as much as
+AUD$33 billion (USD $25.5 billion) per year by 2050 as
+the impacts of climate change increase (Deloitte Access
+Economics, 2016, p. 2). Australia follows the compre-
+hensive approach to disaster management, which com-
+prises the phases of prevention2, preparation, response
+and recovery (the PPRR framework) and addresses all
+hazards. Within Australia’s federal system, responsibil-
+ity for preventing, preparing for, responding to and re-
+covering from natural disasters is shared between the
+three tiers of government. Intergovernmental policy and
+funding arrangements are premised on shared respon-
+sibility and, since 2001, have aimed to foster individual,
+1 Currency conversions to USD are calculated at the prevailing exchange rate for the period in question.
+2 By ‘prevention’ we mean ‘mitigation’ as it is the more common technical term used around the world.
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 74
+business and community resilience. Less well developed,
+however, is the system’s ability to support economic re-
+covery in disaster-affected communities and to embed
+resilience over the longer term (see, for example, Mc-
+Gowan, 2014; McGowan & Tiernan, 2014).
+This article responds to calls for more holistic ap-
+proaches to disasters and in particular, economic recov-
+ery. It draws on the findings of a major study of the expe-
+riences of economic recovery practices in regional com-
+munities affected by two of Australia’s most expensive
+and deadly natural disasters—the 2009 Victorian bush-
+fires and the cyclones and floods that struck the state of
+Queensland in 2010–2011 (Regional Australia Institute
+[RAI], 2013). Our case studies highlight significant gaps
+in policy and funding arrangements to support recovery.
+We identified a disconnect between the experience and
+lessons learned from disaster recovery and prevention
+and preparedness. Indeed, we found that actions and
+decisions of policy-makers taken in the immediate after-
+math of a disaster had the unintended consequence of
+undermining individual and community resilience over
+the longer term.
+Since resilience remains the core policy intent, we
+offer lessons for how Australia’s disaster governance
+arrangements, and those of other countries, might be
+amended to embrace ‘adaptive resiliency’—‘the ability
+to adapt through the redevelopment of the community
+in ways that reflect the community’s values and goals,
+and its evolving understanding of the external forceswith
+which it must contend’ (Kapucu, Hawkins, & Rivera, 2013,
+p. 357). We conclude that the ‘structural’ or ‘engineer-
+ing approach’ to resilience has become predominant in
+Australia’s disaster governance, leading to a primary fo-
+cus on reconstruction during the recovery phase post-
+disaster. Our case studies demonstrate the imperative for
+a greater focus on ‘non structural’ resilience, in particular
+the ‘community capital’ that can be brought to bear, to
+develop adaptive capacity and adaptive resilience.
+In the context of this thematic issue, which is fo-
+cused on promoting community resilience through dis-
+aster policies and governance, this article offers empiri-
+cal support for the ‘adaptive resiliency framework’ pro-
+posed by Kapucu et al. (2013, p. 356). A key element of
+their framework is ‘integrating learning and adaptation
+into the traditional phases of disaster management’.
+2. Disaster Recovery: An Overview of Policy Issues in
+Australian Arrangements
+Government funded disaster relief in Australia operates
+within the framework of the Natural Disaster Relief and
+Recovery Arrangements (NDRRA) (Attorney-Generals De-
+partment, 2012). The NDRRA framework establishes cost
+sharing arrangements between the State and Federal
+Governments as well as specifying eligible expenditure
+activities. Since 2007 the NDRRA has included provision
+to redevelop eligible public infrastructure to a higher,
+more resilient standard. Known as the principle of ‘bet-
+terment’, this provision provided—at least in theory—
+the link between recovery and mitigation against fu-
+ture disasters (McGowan, 2014). Its adoption was in-
+tended to align with the goal of improving community
+resilience, formalized in the National Strategy for Disas-
+ter Resilience 2011 (NSDR).
+Despite numerous disasters requiring reconstruction
+and spiralling expenditures under NDRRA (see Produc-
+tivity Commission, 2014), only limited use has been
+made of the betterment provision. Until 2012 when the
+Queensland Government instituted a AUD$40 million
+(USD$40.9 million) fund that was matched by the Fed-
+eral Government, the only successful application had
+been for a community pool betterment program in re-
+gional NSW (Productivity Commission, 2014). This re-
+mains an area of significant policy contention between
+the Commonwealth and State governments. Extraordi-
+nary increases in NDRRA expenditure—approximately
+AUD$12 billion (USD$10.7 million) from 2009–2013 can
+be contrasted with investments in mitigation under the
+Natural Disaster Resilience Program (NDRP) that totalled
+AUD$100 million (USD$89 million) over the same period
+(McGowan & Tiernan, 2014, p. 8).
+In 2013 then Commonwealth Treasurer, Joe Hockey,
+tasked the Productivity Commission with responsibility
+for conducting a comprehensive review, including of cost-
+sharing principles and the apparent ‘weighting’ of Com-
+monwealth funding towards recovery. The Commission
+was asked to ‘take into account the priority of effective
+mitigation to reduce the impact of disasters on commu-
+nities’ (Productivity Commission, 2014, p. iv). At the time
+of writing, the Commonwealth government has acknowl-
+edged receipt of the report, but has not made a formal
+policy response to its recommendations.
+Whilst these challenges, and the original impetus
+for the research project, arose in the context of Aus-
+tralian disaster management policy, they are not unique
+to Australia. A series of reports has identified the grow-
+ing costs of disaster recovery and reconstruction around
+the world, all calling for an increased emphasis on build-
+ing resilience to minimise the costs, both human and fi-
+nancial, of disasters and subsequent recovery. The re-
+search presented in this paper was conducted within
+the context of disaster resilience frameworks that are
+broadly applicable to all communities, with one impor-
+tant caveat that has implications for generalizability. That
+is, that it was conducted in Australia—a broadly stable,
+advanced democracy characterized by sound principles
+of governance and accountability. Thus, questions of
+state stability are not considered in our discussion of re-
+silient communities.
+3. Literature Review
+3.1. Resilience Frameworks
+In recent years, the concept of resilience has gained
+currency in disaster management policy. Originating in
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 75
+ecology and psychology, resilience is envisaged by some
+scholars as both an outcome and the process by which
+actors, ranging from individuals, to families to communi-
+ties, positively adapt to changing environments (Norris,
+Stevens, Pfefferbaum, Wyche, & Pfefferbaum, 2008). Re-
+silience is an important concept across fields as diverse
+as health planning, engineering and ecology, to eco-
+nomic development and social science (see Rose, 2009).
+Other definitions understand resilience as a system char-
+acteristic. For Holling (1973, p. 14), resilience is a ‘mea-
+sure of the persistence of systems and their ability to ab-
+sorb change and disturbance and still maintain the same
+relationships between populations or state variables’. In
+various parts of the literature, the changes and distur-
+bances to a system are called stressors, which Norris et
+al. (2008, p. 131) define as ‘aversive circumstances that
+threaten the well-being or functioning of the individual,
+organization, neighbourhood, community, or society’.
+Numerous resiliencemodels showadisaster-impacted
+community experiencing a period of interruption followed
+by a progressive return to an equilibrium point (Cutter,
+2009; Norris et al., 2008; Zhou, Wang, Wan, & Jia, 2010).
+Positive adaptation in the face of a disaster shock incor-
+porates individuals rapidly recovering their wellbeing post-
+disaster, as well as communities returning to a high, or
+higher, level of functioning. In achieving a high level of
+adapted functioning post-disaster, communities are able
+to develop greater resources to mitigate the impact of fu-
+ture disasters (Berkes & Ross, 2012; Zhou et al., 2010).
+The more recent concept of ‘adaptive resilience’ is
+concerned with a ‘community’s behaviour after the dis-
+aster’, and how to best support ‘community-level activi-
+ties [that] focus on returning social, economic, and envi-
+ronmental conditions to their previous state’ (Kapucu et
+al., 2013, p. 356). This approach seeks to integrate under-
+standings of resilience, and practices for its promotion,
+from a number of different fields. Inter-disciplinary per-
+spectives are needed to support ‘adaptive resilience’, be-
+cause, as Tierney (2013, p. xiv) notes, it is present in all as-
+pects of the system’s way of dealing with hazard events:
+“Resilience is a key element in all phases of what
+is traditionally framed as the ‘hazards cycle’: miti-
+gation, preparedness, response, and recovery. Prior
+to disaster, anticipatory resilience consists of activ-
+ities that enable communities to assess risks, form
+communities of interest, exercise foresight, and en-
+act mitigation and preparedness measures to man-
+age risks. When disasters strike, responsive resilience
+makes it possible for social and organisational enti-
+ties to mobilise resources through emergent interper-
+sonal and inter-organisational networks, to carry out
+plans, and to improvise and exercise creativity in in-
+stances where plans fall short. After disaster, adaptive
+resilience enables social units to reassess their circum-
+stances, learn from their disaster experiences, and ad-
+just their strategies in light of the ‘new normal’ ush-
+ered in by disaster.”
+The most comprehensive description of adaptive re-
+silience is provided by Kapucu et al. (2013) (see Figure 1).
+The community, or social units, are key to the
+adaptive resilience framework. In these processes, the
+‘community participates fully in the recovery process
+and…has the capacity, skills and knowledge to make its
+participation meaningful’ (Coles & Buckle, 2004, p. 6).
+Adaptive governance processes become crucial. Indeed,
+Shaw (2013, p. 220) notes ‘it is increasingly observed and
+agreed that a sustainable [disaster risk reduction] activ-
+ity is only possible when there is a strong involvement
+and commitment from the local institutions’.
+3.2. Issues in Economic Recovery for Regional and Rural
+Communities
+Extensive research in the United States points to a strong
+inter-relationship between business recovery and popu-
+lation return post-disaster (Dahlhamer & Tierney, 1998;
+Vigdor, 2008; Webb, Tierney, & Dahlhamer, 2002; Xiao
+& Van Zandt, 2012; Zhang, Lindell, & Prater, 2009). Keep-
+ing residents in the local region, and assisting those dis-
+placed to return, is critical to business recovery. As Xiao
+and Van Zandt (2012) identified, the return of businesses
+to an area acts as a pull factor to the return of local res-
+idents. The problem of population displacement and re-
+turn and its link to business return post-disaster is a vari-
+ant of the collective action dilemma in which every indi-
+vidual’s choice is influenced by the choices of other indi-
+viduals (Storr & Haeffele-Balch, 2012). From the perspec-
+tive of displaced residents, a key factor in the decision to
+return to a disaster-affected region is the extent to which
+businesses commit to rebuild and re-open. Research sug-
+gests that this relationship is more heavily weighted to-
+wards businesses reopening, meaning that business re-
+opening will pull residents back into a disaster affected
+region (Xiao & Van Zandt, 2012).
+The boom of local economic activity driven by re-
+construction is frequently a mirage that masks a longer-
+term decrease in population and broader business per-
+formance issues (see Hayashi, 2012; Vigdor, 2008). An-
+other aspect of the ‘reconstruction mirage’ faced in re-
+covering communities is the focus on building ‘things’
+to demonstrate commitment and action (Handmer &
+Hillman, 2004; Rietveld, Simms, & Sparrow, 2001). This
+theory, where economic development is presumed to
+flow from possessing or building things, is most fre-
+quently seen in practice in developing countries (Hand-
+mer & Dovers, 2007; Jacobs, 2000). The focus on build-
+ing ‘things’ tends to drive a significant influx of construc-
+tionworkers to the affected region (Vigdor, 2008). The re-
+construction boom often distorts measures of a region’s
+economic performance and obscures the long-term chal-
+lenges faced in achieving sustained economic recovery
+(Hayashi, 2012; Vigdor, 2008). Hayashi (2012, p. 190)
+noted this trend in relation to the 1995 Kobe earthquake
+recovery, observing Kobe’s ‘economy slid into a long de-
+cline, except for the short period during which recon-
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 76
+Capital
+Vulnerability
+Stressor
+Avoidance
+Disaster
+Losses
+Adapve
+Capacity**
+Bounce Back
+(reconstruct)
+(Engineering
+Resilience)
+Adapt
+(redevelop)
+(Adapve
+Resilience)
+Recovery
+Response
+Community
+Capital*
+Non-proﬁt
+Private Support
+Federal, State, Local,
+Police & Support
+Community
+Migaon &
+Preparedness
+Hazard
+Exposure
+HAZARD
+EVENT
+* Elements of Community Capital:
+• Social capital eg. Local organisaons,
+• networks etc
+• Human capital eg. Knowledge
+• Economic capital
+• Natural capital eg. wetaInds
+** Adapve Capacity — Ability to
+engage in adapve management and
+learning through an adapve
+governance process.
+Ecological
+Mediators
+Stressor
+Resistance
+Figure 1. Adaptive resiliency framework. Source: Kapucu et al. (2013, p. 356).
+struction spending provided a temporary boost’. NewOr-
+leans demonstrated the same pattern, with the construc-
+tion sector being the only industry sector that did not
+suffer employment losses after Hurricane Katrina (Vig-
+dor, 2008).
+4. Methodology
+4.1. Approach
+This research was conducted through a case study ap-
+proach. We used techniques drawn from the broad
+toolkit of interpretive policy analysis (Bevir & Rhodes,
+2015; Rhodes, 2011). The method focuses on beliefs and
+practices; it is concerned with the meaning ascribed to
+experiences by those involved and seeks to recover their
+stories. A case study approach is useful when focusing on
+contemporary events as it enables an up-close interpre-
+tation of events through the interviews with people di-
+rectly involved in those events. How disaster participants
+construct themeaning of eventsmatters as this construc-
+tion of a community’s shared understanding of a disas-
+ter influences its resilience in future events (Alkon, 2004).
+As Alkon (2004, p. 147) notes ‘Stories matter. Place mat-
+ters. And stories affect place’. The importance of narra-
+tive and storytelling arises as the construction of mean-
+ing is an inherently subjective activity (Alkon, 2004; Riess-
+man, 2008). The case study approach was therefore se-
+lected as it allowed researchers to ask explanatory ‘how’
+and ‘why’ questions (Yin, 2009, p. 4).
+The case studies were developed through a struc-
+tured process of consultation and engagement to iden-
+tify appropriate interviewees. In each of the case study
+locations, the research team first met with represen-
+tatives of the local Council and the Chamber of Com-
+merce to seek support for the project and identify inter-
+viewees. The research team also met with members of
+Community Associations and, in Cardwell, with the CEO
+of the Girringun Aboriginal Corporation. Researchers vis-
+ited each of the case study locations to conduct inten-
+sive fieldwork, involving semi-structured, qualitative in-
+terviews.
+4.2. Case Study Locations
+The case study locations were selected as they had all
+suffered significant impacts in the various natural disas-
+ters. Eachwas formally declared a State of Disaster under
+the relevant policy frameworks. Further, due to the ex-
+tensive damages arising from the events, major recovery
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 77
+efforts were undertaken at local and state government
+levels through specially constituted reconstruction bod-
+ies. This formalised approach ensured that extensive doc-
+umentary evidence of the process of recovery was pro-
+duced and retained by relevant government agencies.
+The article presents the data from three regional cen-
+tres impacted by natural disasters:
+Marysville and Triangle, Victoria, Australia—‘Black
+Saturday’ bushfires on 7 February 2009;
+Emerald, Queensland, Australia—Southern and cen-
+tral Queensland floods in 2010–2011;
+Cardwell, Queensland, Australia—Tropical cyclone
+Yasi, 2011.
+The research team developed socio-economic profiles
+of each community pre and post disaster (see Table 1).
+These provided a baseline for comparison, and also high-
+lighted the range of businesses present in each commu-
+nity. We sought interviews with a broadly representative
+sample of community and business leaders from across
+the spectrum of industries. In Cardwell, researchers con-
+ducted 18 interviews with representatives of industry,
+business owners, the local Chamber of Commerce, com-
+munity development association, the Mayor and Coun-
+cil representatives. In Emerald, the research team con-
+ducted 18 interviews and a further 22 interviews were
+conducted in Marysville (total n = 58). Each interview
+lasted approximately an hour and follow up focus groups
+were conducted in each location, over a two to three
+hour period, to discuss the preliminary findings.
+4.3. Data Analysis
+To ensure the case study was rigorous, a comprehen-
+sive review of available data and literature was under-
+taken to provide context to the interview outputs and
+establish a baseline for analysis (Yin, 2009). In addition
+to the socio-economic profiles for each case study loca-
+tion noted above, desktop research included reviewing
+post disaster reports generated by key local groups such
+as the local Council, Chambers of Commerce and recon-
+struction authorities. This background research also in-
+volved requesting the local Councils to complete a com-
+prehensive survey on the impacts of the disaster on the
+local area and local approaches to recovery.
+The qualitative data collected through interviews
+were analysed using thematic analysis. The interviews
+were recorded, transcribed and reviewed by the project
+team. The thematic analysis was undertaken through
+an emergent inductive approach that sought to identify
+and draw out themes from the data (Lofland, Snow, An-
+derson, & Lofland, 2006). An iterative process of cod-
+ing was undertaken, seeking first to identify key issues,
+shared and divergent narratives; and second to review
+and clarify the emerging analytic themes (Lofland et
+al., 2006). Different members of the research team re-
+viewed and clarified the thematic analysis as part of an
+iterative process. Themes were then analysed in light
+of the existing models of community resilience and re-
+covery (Cutter et al., 2008; Norris et al., 2008). Focus
+groups were subsequently conducted with key commu-
+nity leaders to reflect on the findings, ‘ground truth’ the
+data and identify additional information not elicited dur-
+ing the interviews.
+5. Case Studies of Economic Recovery in Regional
+Australia
+5.1. Marysville Case Study—Black Saturday Bushfires,
+7 February 2009
+The Marysville Triangle consists of the small communi-
+ties ofMarysville, Buxton, Narbethong and Taggety in the
+Shire of Murrindindi, about 100 km (62miles) north-east
+ofMelbourne. The area’s economy is based on its natural
+environment. In addition to tourism, the main industries
+are agriculture, aquaculture, timber and sawmilling. The
+Black Saturday bushfires were a series of individual bush-
+fires that burnt across Victoria on Saturday 7 February
+2009. The fires resulted in Australia’s highest ever loss of
+life from a bushfire, with 173 fatalities. 414 people were
+injured, 2,133 homes were destroyed, 78 townships af-
+fected, over 4,500 km2 (2,796 miles2) burned, leaving
+7,500 people homeless.
+Marysville and the surrounding areas suffered the
+greatest losses, with 39 people killed (35 Marysville,
+4 Narbethong). Of the 452 homes that existed in Marys-
+Table 1. Attributes of case study communities.* Source: Australian Bureau of Statistics ([ABS] 2006, 2011).
+Marysville Emerald Cardwell
+2006 2011 2006 2011 2006 2011
+Population 517 223 10,998 12,895 1,252 1,176
+Median Age 46 52 28 29 47 52
+Median Income per Week $974 $880 $1,805 $2,477 $855 $1,004
+Unemployment 5.5% 11.9% 1.9% 2.4% 4.7% 5.5%
+* Data obtained are Urban Centres and Localities (UCLs) which are an aggregate of Statistical Area 1s (SA1s). They describe populations
+over 200 people. Urban Centres are areas with a core population greater than 1,000 people. Localities are areas with a population over
+200 people and a core urban population less than 1,000 people. Median income is displayed in AUD$.
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 78
+ville prior to the fires, only 34 remained habitable. Fire
+damage forced the closure of key tourist attractions in-
+cluding Lake Mountain. Almost all the shops and cafés
+and restaurantswere lost. Essential services inMarysville
+including the police station, the post office, community
+centre, medical centre, retirement village and the pri-
+mary school were destroyed.
+5.1.1. Economic Impact
+The total value of tourism to the Marysville economy
+was estimated at AUD$33 million (USD$35 million) per
+year of which ‘visitors’ to the area contributed about
+AUD$28 million (USD$30 million) per year (Boston Con-
+sulting Group [BCG], 2009, p. 18). With accommodation
+and tourism the major industry in the Marysville area,
+only 200 beds of an estimated 1500 remained available.
+The large majority of Marysville and Triangle’s busi-
+nesses are ‘micro’ businesses with revenues of less than
+AUD$200k (USD$214,000) per annum. Their economic
+recovery has been difficult. For example, the general
+store did not open for nearly 10 months after the fires.
+A year on, the Marysville region still did not have a ser-
+vice station operating to supply petrol to local residents.
+The immediate damage caused by the fires resulted
+in extensive displacement of the location population. Of
+the 90% of the population who lost their homes, over
+50% have not returned to the region. In addition to
+the reduction in population since the Black Saturday
+fires, the age profile has changed dramatically. In 2006,
+Marysville’s age profile showed 36% aged 55 years and
+over compared to 24% for Australia. By 2011, nearly 47%
+were aged 55 years and older. The median age in 2006
+of 46 years had increased to 52 in 2011. The data reflects
+the loss of business and employment opportunities and
+the need for younger workers to move away in search
+of employment.
+The unemployment rate increased dramatically from
+5.5% in 2006 to 11.9% in 2011. Only 90 people indicated
+in the 2011 Census that they were employed and nearly
+half of these were working part-time or casually. Median
+weekly rental increased from $135 in 2006 to $350 in
+2011 as a result of severe shortages in rental accommo-
+dation caused by the Black Saturday fires. In 2006 there
+were 65 rental accommodation units. There were only
+nine in 2011.
+5.2. Emerald Case Study—2010–2011 Flooding
+Emerald is the major centre within the Central Highlands
+Regional Council, approximately 300 km (186miles) west
+of the regional city of Rockhampton. Emerald’s econ-
+omy is based on mining and agriculture. Emerald was
+flooded twice in December 2010. On 3 December, Emer-
+ald was isolated when the flooding peaked at 10.95 me-
+tres (35.92 feet) at the Vince Lester Bridge. The second
+flooding peaked on 31 December at 16.05 metres (52.66
+feet), surpassing the 1950 record of 15.7 metres (49.44
+feet). Again Emerald was isolated; this time for 11 days.
+The town itself was cut in half for seven days.
+In Emerald, it was estimated that 1060 residences
+had water over the floor. 2,500 people were evacuated
+from their homes with more than 400 staying in one of
+four evacuation centres at the height of the flooding. It
+was also estimated that over 100 (90%) buildings in the
+industrial area and approximately 30% of commercial of-
+fices were impacted by flood waters.
+5.2.1. Economic Impact
+The impacts of the flood were largely felt by small and
+medium businesses in Emerald Township and the sur-
+rounding region. 341 businesses of a total of 386 or 80%
+of Emerald’s businesses were impacted. In the regional
+council area, 88% of businesses affectedwere in Emerald
+itself (Central Highlands Regional Council, 2011). Accord-
+ing to the Economic Impact report, the total estimated
+cost of direct damages to businesses (excluding mining)
+across the Central Highlands as a result of the flood-
+ing was AUD$313.6 million (USD$336.1 million) (Central
+Highlands Regional Council, 2011).
+45.5% of businesses that were forced to close re-
+opened within a week, while a further 19.7% opened
+again within two weeks. The average length of time to
+reopening was 25.2 days.
+In the agricultural sector there was major damage
+to irrigation infrastructure, fencing, plant and equipment
+and crops and livestock with 35 primary producers in
+the Emerald service area reporting significant damage.
+The Economic Impact report assessed that the aver-
+age cost of repairing infrastructure, equipment and/or
+replacing stock losses per property as a result of the
+2010–2011 flooding was approximately AUD$306,992
+(USD$329,034).
+Access to the mine sites from Emerald was cut for an
+extended period, and as production was haltedmine site
+operators declared ‘Force Majeure’ to mitigate claims
+from customers. However, despite this being a more se-
+rious flood than 2008, coal mining representatives who
+were interviewed agreed that the lessons learnt enabled
+them to be back in production within eight days, com-
+pared with 11–14 days in 2008.
+5.3. Cardwell Case Study—Tropical Cyclone Yasi 2011
+Cardwell is a small coastal community of about 1,200peo-
+ple, located within the Cassowary Coast Regional Coun-
+cil area of north Queensland. Cardwell’s major industries
+are agriculture (bananas and sugar) and tourism. There
+is a significant indigenous population in the town. A Cat-
+egory 5 Tropical Cyclone, Yasi made landfall near Mission
+Beach just north of Cardwell in the early morning of 2
+February 2011. Tropical Cyclone Yasi was accompanied
+by gale force winds with gusts recorded of over 250km/h
+(155 miles/h). Heavy rain and strong winds were accom-
+panied by a 5 metre (16 foot) storm surge at Cardwell.
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 79
+The combined action of the heavy rains, gale force
+winds and the storm surge resulted in approximately 75%
+of the buildings in the town suffering damage. The storm
+surge was a major contributor to the destruction, partic-
+ularly at Port Hinchinbrook, on the foreshore and build-
+ings and facilities along and on the eastern side of the
+main highway.
+The town was isolated as fallen trees and debris
+blocked the road and cut off both sides of the highway, pre-
+venting the return of residents for four to five days. Power,
+telecommunications and water were all compromised.
+5.3.1. Economic Impact
+Following Tropical Cyclone Yasi, Cardwell’s estimated res-
+ident population declined slightly from 1,252 in 2006 to
+1,176 in 2011. Furthermore, its median age increased
+from 47 years to 52 years between 2006 and 2011. It
+has a much older age profile than the rest of the coun-
+try, with 44.4% being aged 55 years and older compared
+to the national population age profile of 25.6% aged 55
+years and older. This aging population is also reflected in
+the industry data with 12.4% working in the ‘health care
+and social assistance’ sector (up from 9.0% in 2006).
+Tropical Cyclone Yasi made these challenges all the
+more difficult. All businesses in the town were impacted,
+many for more than 12 months. Some still had not re-
+covered 26 months after the event. The loss of cash flow
+from sales was exacerbated by the costs of the clean-up,
+repairs and rebuilding. Limited supplies reduced ability
+to provide services in the immediate aftermath.
+The tourist industry was devastated with consequent
+‘flow-on’ effects to the tourism-related businesses. The
+regional value of tourism was valued at AUD$104million
+(USD$111 million) per annum. The Census data shows
+that in the category of Food and Accommodation the
+workforce has dropped from 12.3% in 2006 to 9.3% in
+2011. The post-disaster reconstruction activity changed
+the employment profile. According to the 2011 Census,
+13.5% of people are working in the Construction sector,
+up from 8.8% in 2006.
+Local farming and aquaculture suffered immediate
+and ongoing damage from Tropical Cyclone Yasi, due to
+extensive crop loss, damage and destruction of mature
+trees and farm infrastructure. The loss of the season’s
+crop, combined with extensive repair expenses had neg-
+ative impacts across this sector.
+6. Case Study Findings
+In this section we present empirical findings from a study
+of economic recovery from natural disasters in regional
+communities commissioned by the Regional Australia In-
+stitute (RAI, 2013). The findings discussed in this section
+distil key themes that emerged across the case studies.
+6.1. Draw Card Business Provide an Important ‘Pull’
+Factor
+Oneof the key themes to emerge fromall three case stud-
+ies was that current government recovery policy did not
+understand or address the complexity of economic recov-
+ery. As one Marysville resident succinctly observed, ‘The
+businesses had been forgotten about and not really con-
+centrated on in relation to the recovery’.
+Marysville struggled with the circular challenge that
+without businesses, tourists will not come and people
+will not invest in businesses without a market to justify
+the return. Business owners experienced a ‘grace’ period
+of support but knew thiswould be short-lived; ‘Yeah look,
+it’s probably been crunch time the last six months be-
+cause...you can only feed on so many years of sympathy.
+You’ve actually got to put up a product’.
+The Marysville case study indicated that certain busi-
+nesses were key ‘drawcards’ for tourists to the town and
+they played an important role in spurring economic re-
+covery; ‘You need to work out and highlight who are
+your champion businesses...because you need to sup-
+port those businesses’. The absence of those drawcard
+businesses caused significantwider impacts than just the
+immediate fire damage; ‘A lot of the attractions that
+were up here then (after the fires) didn’t bring guests up,
+tourists up to the area. So it was just the sum of all those
+had a huge effect’. Marysville residents noted that the
+artist café and local patisserie shop were attractions that
+tourists specifically cited as reasons for visiting; ‘I remem-
+ber bed and breakfast people coming and asking me—
+are you staying? Because if you’re not staying, there’s
+nothing left here and you know that we need something
+straight away’ (Marysville business owner). Cardwell res-
+idents similarly emphasised the ‘drawcard’ nature of lo-
+cal environmental attractions, ‘Because of the damage
+to Port Hinchinbrook and to the wharf and to the island,
+with the complete destruction of the resort on the island,
+the whole tourism industry was severely affected’.
+The ‘drawcards’ in Marysville and Cardwell formed a
+fundamental aspect of those regions’ identity and eco-
+nomic rationale. Their loss had significant impact at a psy-
+chological as well as functional level as it came to symbol-
+ize the broader disaster impact on the region. In contrast
+Emerald, which had a diversified economy and key indus-
+tries largely unaffected by the disaster, was well placed
+to recover rapidly from the flood’s impacts.
+The inter-relationship between business reopening
+and resident decisions to return to a disaster-affected
+area has been well researched internationally. However,
+in the absence of a viable market, businesses are less
+inclined to re-establish themselves after a disaster. Pro-
+moting the rapid recovery of housing, alongwith keeping
+residents in the local area during the rebuilding process
+is central to facilitating business recovery.
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 80
+6.2. Population Displacement and the Adaptation
+Paradox
+One of the critical impacts of disasters on a local econ-
+omy is the destruction of housing. An immediate flow-on
+effect is population displacement in the affected region.
+As the experience ofMarysville clearly demonstrates, the
+longer residents are displaced the less likely they are to
+return. Of the 90% of residents who lost their housing,
+over 50% have not rebuilt in the region (ABS, 2011; BCG,
+2009). It was argued by many remaining residents that
+had it not been for the temporary village that was estab-
+lished post-disaster, the population exodus would have
+been greater.
+In the aftermath of Tropical Cyclone Yasi, a signifi-
+cant proportion of the local population decided not to re-
+turn to Cardwell. This decision was influenced by factors
+such as damage to residences, loss of employment and
+perceptions about Cardwell’s prospects. As one resident
+noted, ‘A lot of the young families left because there was
+no work’. Similar concerns were expressed in Emerald,
+with a local real estate agent noting, ‘because of the pub-
+licity of the fact that the whole of Emerald was flooded,
+therefore nobody wanted to buy in Emerald’.
+A critical issue highlighted was the negative impact
+of this population loss on the community and economy
+of Cardwell. As the population declined so too did the
+business opportunities, leading to further job losses and
+further population loss as job seekers move elsewhere.
+One Cardwell resident summed up the issues as follows;
+‘Well there is a decrease in houses. Leads to a decrease
+in population and a decrease in jobs…leads to a decrease
+in population. That means a decrease in teachers for
+the school. Just everything decreases, a total decrease
+in the town’.
+A related dilemma is the role of property investors
+and ‘part time residents’ in rural areas. Many ‘part-time
+residents’ and investors may deem rebuilding a ‘bad
+bet’ after catastrophic natural disasters. The absence of
+rental housing stock places significant pressure on a local
+economy, particularly in light of a reconstruction boom.
+By way of example, ‘part-time residents’ provided nearly
+10% of Marysville’s income. In Cardwell, Emerald and
+Marysville, the loss of rental housing stock saw rents
+spike through the reconstruction boom.
+Due to the extensive reconstruction required in Card-
+well, the reconstruction phase saw a significant influx
+of construction workers. This was further augmented
+by the large infrastructure development projects under-
+way in the surrounding region. One Cardwell resident ob-
+served that, ‘They needed accommodation and with all
+the rebuilding done and the highway work, there’s an
+influx of workers, that put the rents up very high’. The
+combination of damaged housing supply and a surge in
+demand saw rental prices spike. This resulted inmarginal
+populations, such as those who had lost their jobs due to
+local business interruption, being forced out of the rental
+market. ‘I think we’re suffering with the extra workforce
+because you’ve got a phenomenon then. They come in,
+they put their price on, and in that price, they put phe-
+nomenal rents. A lot of our local people that’s been here
+all the time are struggling to find somewhere to rent
+that’s affordable.’ (Cardwell Resident). Consequently, the
+reconstruction process served to exacerbate the popula-
+tion displacement problems experienced in Cardwell.
+6.3. The Reconstruction ‘Mirage’
+In the aftermath of a major disaster, the reconstruction
+stage of recovery generally drives a significant influx of
+construction workers to an affected region. The experi-
+ence in Cardwell highlighted the change in the regional
+employment profile during this stage. The reconstruc-
+tion boom often distorts measures of a region’s eco-
+nomic performance and obscures the long-term chal-
+lenges faced in achieving sustained economic recov-
+ery. The reconstruction boom can also have the unin-
+tended consequence of furthering population displace-
+ment, highlighted by this observation from a Cardwell
+resident; ‘I don’t knowwhat Cardwell’s going to do when
+this work’s finished. There’ll be a lot of empty houses,
+I think’.
+In Marysville and Cardwell, the reconstruction boom
+drove demand for housing in a market with reduced
+stock causes rental prices spike, serving to push out lo-
+cal residents in marginal financial circumstances and key
+workers (see also Yates, Randolph, & Holloway, 2006).
+Those most at risk are residents whose employment or
+employment opportunities have been compromised by
+interruptions to business operations. The boom of activ-
+ity driven by reconstruction is frequently a mirage that
+masks a longer-term decrease in population and broader
+business performance issues. The data from the case
+study locations supports this observation; reconstruc-
+tion activity does not equate to overall economic recov-
+ery (see Table 1 above). Residents in Emerald were highly
+critical of the outsourcing of repair work to non-local
+businesses, noting:
+“It’s an absolute slap on the face for the community
+that has rallied to try and save the community....It
+stood out. Everybody saw it. Especially when you’ve
+got a community that has got all those people, qual-
+ified people, sitting here, who dealt with it [previous
+flooding] back in 2008, know exactly what has to be
+done, and has the resources and has the absolute
+need to have a job, needs an income in this commu-
+nity and they go out of town to get someone else
+in here.”
+Although Queensland and Victorian government recov-
+ery plans identified long-term outcomes, the experience
+of residents in affected communities is of a short-term
+focus on reconstruction. Respondents in the three case
+study areas expressed deep fears about what would hap-
+pen after the reconstruction boom ended. Residents in
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 81
+disaster affected areas were acutely aware of the recon-
+struction mirage, directly linked to the masking effect of
+the reconstruction boom. The dispersion of authority for
+managing recovery due to the short remit of previous re-
+covery agencies adds to their sense of short-term focus.
+Another aspect of the ‘reconstruction mirage’ faced
+by Marysville was the Government’s commitment to
+building ‘things’ to demonstrate action on restoring the
+town. As one resident noted, ‘I think it’s seen a bit cyni-
+cally by a lot of people at themoment because there’s all
+this fantastic infrastructure and there’s no-one to use it’.
+The highway reconstruction in Cardwell was a simi-
+larly hot-button issue for residents. ‘The highway was re-
+opened, of course, pretty quickly, but it’s not been recon-
+structed to appropriate standards.’ Residents criticised
+the speed to rebuildwithout giving serious consideration
+to ‘betterment’ of the asset through improvements such
+as laying a new route and improving the carrying capacity
+of the road.
+There is a difficult balance to strike between gov-
+ernment taking action to break the negative conse-
+quences of population displacement and investing in
+‘things’ that exacerbate the reconstruction boom yet fail
+to support long-term community adaptation. The hotly
+debated new community centre in Marysville embod-
+ies this problem; many residents feel it is unnecessary
+and under-utilised asset. An excessive focus on building
+‘things’ appears to have resulted in over-expenditure on
+infrastructure that does not serve the community’s long-
+term needs, as it is not integrated with longer-term eco-
+nomic recovery strategies. Early commitment to rebuild-
+ing ‘things’—under political pressure to be seen to be do-
+ing something—also tends to lock-in pre-existing vulner-
+abilities; opportunities to fundamentally redesign the fu-
+ture of a disaster-affected region may be missed.
+7. Aligning Recovery within a Resilience Framework
+The contracting adaptation spiral (Figure 2), depicts the
+process bywhich a business adapts to a shrinking popula-
+tion and, in so doing, exacerbates the problem. Beneath
+the surface issue of population loss lies a marked change
+in the demographic composition of the remaining pop-
+ulation. As economic opportunities decrease, working-
+age residents leave the region, meaning that the remain-
+ing population becomes older, generally with lower dis-
+posable incomes, thereby simultaneously decreasing the
+economic productivity and increasing the vulnerability of
+the region. Marysville and Cardwell both exhibited this
+cycle. Emerald, with a diversified economic base and a
+strong mining sector, was able to rebound and grow.
+The contracting business and population spiral is a
+logical system response to a major shock and represents
+adaptation. It exposes the bias inherent in how the term
+‘adaptation’ is deployed in disaster policy. Adaptation is
+often positively connoted—implying there will be popu-
+lation growth, improvement in GDP and general improve-
+ment in the viability of a given region. At a whole-of-
+system level, by reducing exposure to disasters and the
+population broadly leaving an unproductive/unsuitable
+area to seek opportunities elsewhere, the reduction in
+population size and GDP of the region also represents
+adaptation. It does not, however, represent ‘recovery’
+through a short-term policy lens.
+Researchers in the field of disaster management ar-
+gue that there has been toomuch emphasis on response
+and too little investigation of the economic impacts of
+disaster and disaster recovery (see, for example, Kapucu
+& Liou, 2014, p. 2). As noted above, the potential for
+more holistic approaches to resilience to be embedded
+as a key element at all phases of the ‘hazards cycle’ or
+PPRR framework (see Tierney, 2013) has been identified
+as an important direction for future research.
+This insight, and calls formore integrated approaches
+that link disaster management and development, are
+supported empirically in the Australian context. Our case
+studies show economic recovery is largely overlooked
+compared to other recovery streams. In Marysville, for
+example, governments collectively spent AUD$135 mil-
+lion (USD$145 million) on infrastructure and other com-
+munity recovery activities. In contrast AUD$2.77 million
+(USD$2.23 million) was provided in direct grants to busi-
+nesses through the NDRRA. This trend was repeated in
+the other case study communities. Despite the emphasis
+in official plans and documents on the inter-relationship
+of all the strands of recovery, there was disproportion-
+ate emphasis on the engineering resilience approach
+of physical reconstruction. Opportunities for redevelop-
+ment that might have reflected community values and
+priorities for future development were not grasped be-
+cause there had been no pre-event planning to engage
+the community in contemplating alternative futures—an
+adaptive resilience approach.
+The Negave Adaptaon Spiral
+Disaster impact
+Populaon leaves
+Reduced cash ﬂow
+Cut back staﬀ &
+staﬀ hours
+Populaon leaves
+Business leaves
+Reduced market size
+Reduced employment
+opportunies
+Figure 2. The Contracting Adaptation Spiral.
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 82
+Communities with high levels of social capital are bet-
+ter placed to overcome problems of collective decision-
+making and support economic recovery (Chamlee-
+Wright & Storr, 2010; Norris et al., 2008). The inter-
+connectedness of a community with high social capital
+enables greater information sharing that will therefore
+provide individuals with more information of other peo-
+ple’s intentions from which they can shape their own
+decision-making (Chamlee-Wright & Storr, 2010; Storr
+& Haeffele-Balch, 2012). Kapucu et al. (2013, p. 357)
+describe this ‘community capital’ as embracing the ele-
+ments of social capital, human capital, economic capital
+and natural capital. They argue:
+“Where a community chooses an adaptive rather
+than an engineering resilience approach, disaster re-
+silience is considered a function of the community’s
+adaptive capacity. This capacity helps the commu-
+nity engage in adaptive management and continuous
+learning through an adaptive governance process. In
+this framework, there is a reciprocal relationship be-
+tween adaptive capacity and community capital.
+Adaptive learning enhances community capital and
+helps develop local capacity. This in turn influences
+disaster resilience through mitigation and prepared-
+ness that enables a more effective response to and
+recovery from disasters.”
+In Australia, the NDRRA’s focus on reconstruction, the
+very limited uptake of the betterment provision, and
+the lack of integration between the phases of the
+PPRR framework, means that current arrangements do
+not support—arguably they inhibit—longer-term adap-
+tation. In the absence of strategic planning that might
+support adaptive resilience, the primary focus in the
+wake of a severe disaster event becomes reconstruction
+and the need to restore critical infrastructure such as
+power, telecommunications (including internet access,
+electronic banking and electronic funds transfer), along
+with rail and road networks. The ‘policy window’ that the
+‘focusing event’ of a disaster presents for change (King-
+don, 2013) cannot be seized in the absence of broad,
+clearly articulated and integrated community and eco-
+nomic development plans. This requires greater engage-
+ment of local communitymembers in planning processes
+that canvas the range of risks and hazards that it faces.
+Kapucu and Liou (2014) highlight institutional mem-
+ory of previous disaster events as a capacity-building
+resource that supports self-organisation and thus in-
+creased resilience.
+Given the ‘pull’ factor exerted on community recov-
+ery decision-making by economic recovery, current pol-
+icy settings’ failure to support economic recovery has
+significant long-term implications. Research into post-
+disaster psychological/emotional recovery at the indi-
+vidual and community level has highlighted the impor-
+tance of economic functions to broad community recov-
+ery (Norris et al., 2008). Narrow economic bases with
+high levels of income inequality are correlated to poor in-
+dividual and community recovery (Adger, 2000; Norris et
+al., 2008). A community’s resilience, and its correspond-
+ing ability to adapt post-disaster, is underpinned by its
+economic base (Norris et al., 2008; Vigdor, 2008).
+The distinctions drawn between community recov-
+ery and economic recovery, and the seeming lack of fo-
+cus on economic recovery, miss the vitally important—
+indeed, the reciprocal link—between the two areas.
+Community recovery will not occur without economic
+recovery. In the absence of an adapted and function-
+ing economy, a disaster-impacted region will remain in
+a state of post-disaster dysfunction (Norris et al., 2008).
+8. Conclusion: Towards Adaptive Resilience
+The increasing frequency and cost of disaster events
+is among the strongest arguments for policy-makers to
+embrace an adaptive over an engineering resilience ap-
+proach that is primarily focused on reconstruction. Dis-
+aster events are likely to increase in the future not only
+because of climate change, but also because of socio-
+economic developments such as increased density of
+settlements, particularly cities, population increase and
+the increased numbers of settlements in coastal areas
+(Latham, McCourt, & Larkin, 2010).
+Beyond the financial considerations, there is a strong
+link between risk reduction strategies and the develop-
+ment of community resilience (Council of Australian Gov-
+ernments, 2011). Australia’s NSDR notes that risk reduc-
+tion strategies include ensuring infrastructure and public
+assets are able to withstand the range of risks and haz-
+ards identified in a community’s risk and hazard profile.
+Despite good intentions and because of the focus on
+relief and reconstruction activities, potentially positive
+outcomes from the recovery experience often are not
+realized. Recovery needs to be an adaptive process be-
+tween the experiences of disaster-affected communities,
+their evolving vision for their future, and their ability to
+translate this vision into reality. Greater attention to com-
+munity planning processes in the anticipatory, or preven-
+tion and preparedness phases would provide a shared
+basis for decision-making in the aftermath of a disaster.
+A community-led renewal planning process that rec-
+ognizes the specific local and regional context, along
+with significant support from government agencies, non-
+government organizations and industry experts, is likely
+to be more effective than the current recovery process
+in supporting adaptive resilience, both in terms of out-
+comes and costs to governments. An integrated national
+policy and funding framework needs to incentivise proac-
+tive investment and planning at the community level
+for anticipatory resilience, and incorporate development
+across all other phases of the PPRR framework.
+The lesson from major disasters in Australia is that
+the laudable aspirations of theNSDR need to bematched
+by actions to achieve its strategic intent. A resilient Aus-
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 83
+tralia requires policy and funding frameworks that are
+consistent with the objective of promoting greater in-
+dividual and community resilience. Current policy and
+funding frameworks reinforce the traditional emphasis
+on response and recovery. We have argued instead for
+a focus on adaptive resilience. This implies greater in-
+vestment in mitigation and adaptation strategies—to
+non-structural (that is human-centred) resilience plan-
+ning, not the predominant engineering resilience ap-
+proach. Our Australian case studies lend empirical sup-
+port to integrated frameworks that seek to build adap-
+tive resiliency.
+Acknowledgements
+The authors thank Dr. Tracey Arklay and other Griffith
+University researchers who contributed to the case stud-
+ies that formed the basis of the FromDisaster to Renewal:
+The Centrality of Business Recovery to Community Re-
+silience report for the Regional Australia Institute, avail-
+able at http://www.regionalaustralia.org.au/wp-content
+/uploads/2013/08/From-Disaster-to-Renewal.pdf.
+We acknowledge funding support and input from
+Jack Archer, CEO of the Regional Australia Institute.
+Conflict of Interests
+The authors declare no conflict of interests.
+References
+Adger, N. (2000). Social and ecological resilience: Are
+they related? Progress in Human Geography, 24(3),
+347–364.
+Alkon, A. H. (2004). Place, stories, and consequences:
+Heritage narratives and the control of erosion on
+Lake County, California, vineyards. Organization and
+Environment, 17(2), 145–169.
+Attorney-Generals Department. (2012). Natural disaster
+relief and recovery arrangements determination,
+2012. Retrieved from http://www.disasterassist.gov.
+au/Documents/Natural-Disaster-Relief-and-Recovery
+-Arrangements/NDRRA-Determination-2012-v-2.pdf
+Australian Bureau of Statistics. (2006). Community
+profiles. Retrieved from http://www.abs.gov.au/web
+sitedbs/censushome.nsf/home/communityprofiles?
+opendocument&navpos=230
+Australian Bureau of Statistics. (2011). Community
+profiles. Retrieved from http://www.abs.gov.au/web
+sitedbs/censushome.nsf/home/communityprofiles?
+opendocument&navpos=230
+Berkes, F., & Ross, H. (2012). Community resilience: To-
+ward an integrated approach. Society & Natural Re-
+sources, 26(1), 5–20.
+Bevir, M., & Rhodes, R. A. W. (2015). Interpretive politi-
+cal science: Mapping the field. In M. Bevir & R. A. W.
+Rhodes (Eds.), Routledge handbook of interpretive po-
+litical science (pp. 3–27). Abingdon, Oxon: Routledge.
+Boston Consulting Group. (2009).Marysville and triangle
+economic recovery strategy: Final Recommendations.
+Central Highlands Regional Council. (2011). Annual re-
+port 2010–2011. Retrieved from http://www.central
+highlands.qld.gov.au/wp-content/uploads/2015/12/
+2010-11-CHRC-Annual-Report-Final.pdf
+Chamlee-Wright, E., & Storr, V. H. (2010). Expectations
+of government’s response to disaster. Public Choice,
+144(1/2), 253–274.
+Coles, E., & Buckle, P. (2004). Developing community re-
+silience as a foundation for effective disaster recov-
+ery. Australian Journal of Emergency Management,
+19(4), 6–15.
+Council of Australian Governments. (2011). National
+strategy for disaster resilience: Building the resilience
+of our Nation to disasters. Retrieved from https://
+www.coag.gov.au/node/81
+Cutter, S. L. (2009). A roadmap to resilience. Environment,
+51, 3–4.
+Cutter, S. L., Barnes, L., Berry, M., Burton, C., Evans, E.,
+Tate, E., & Webb, J. (2008). A place-based model for
+understanding community resilience to natural disas-
+ters. Global Environmental Change, 18(4), 598–606.
+Dahlhamer, J. M., & Tierney, K. J. (1998). Rebounding
+from disruptive events: Business recovery following
+the Northridge earthquake. Sociological Spectrum,
+18(2), 121–141.
+Deloitte Access Economics. (2016). The economic cost of
+the social impact of natural disasters. Retrieved from
+http://australianbusinessroundtable.com.au/our-pa
+pers/social-costs-report
+Handmer, J., & Dovers, S. (2007). The handbook of disas-
+ter and emergency policies and institutions. London:
+Earthscan.
+Handmer, J., & Hillman, M. (2004). Economic and finan-
+cial recovery from disaster. The Australian Journal of
+Emergency Management, 19, 44–50.
+Hayashi, T. (2012). Japan’s post-disaster economic recon-
+struction: FromKobe to Tohoku.Asian Economic Jour-
+nal, 26(3), 189–210.
+Holling, C. S. (1973). Resilience and stability of ecological
+systems. Annual Review of Ecology and Systematics,
+4, 1–23.
+Jacobs, J. (2000). The nature of economies. New York, NY:
+The Modern Library.
+Kapucu, N., Hawkins, C. V., & Rivera, F. I. (2013). Emerg-
+ing research in disaster resiliency and sustainability:
+Implications for policy and practice. In N. Kapucu, C.
+V. Hawkins, & F. I. Rivera (Eds), Disaster resiliency: In-
+terdisciplinary perspectives (pp. 355–358). New York,
+London: Routledge.
+Kapucu, N., & Liou, K. T. (2014). Disaster and develop-
+ment. Cham: Springer International.
+Kingdon, J. W. (2013). Agendas, alternatives and public
+policies. Harlow, UK: Pearson.
+Latham, C., McCourt, P., & Larkin, C. (2010). Natural
+disasters in Australia: Issues of funding and insur-
+ance. Paper presented at the 17th General Insurance
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 84
+Seminar, The Institute of Actuaries of Australia,
+Gold Coast, Australia. Retrieved from http://www.
+actuaries.asn.au/library/events/GIS/2010/NaturalDi
+sastersInAustralia-Paper.pdf
+Lofland, J., Snow, D., Anderson, L., & Lofland, L. (2006). An-
+alyzing social settings: A guide to qualitative observa-
+tion and analysis. Belmont, CA: Thomson Wadsworth.
+McGowan, J. (2014). Promoting resilience: A contempo-
+rary and integrated policy and funding framework
+for disastermanagement. Australian Journal of Emer-
+gency Management, 29(2), 8–10.
+McGowan J., & Tiernan, A. (2014). Natural disaster find-
+ing arrangements: Submission to the public inquiry
+by the productivity commission. Retrieved from
+http://www.pc.gov.au/inquiries/completed/disaster-
+funding/submissions/submissions-test2/submission-
+counter/subdr123-disaster-funding.pdf
+Norris, F. H., Stevens, S. P., Pfefferbaum, B., Wyche, K. F.,
+& Pfefferbaum, R. L. (2008). Community resilience as
+a metaphor, theory, set of capabilities, and strategy
+for disaster readiness. American Journal of Commu-
+nity Psychology, 41(1/2), 127–150.
+Productivity Commission. (2014). Terms of reference;
+Natural disaster funding. Retrieved fromhttp://www.
+pc.gov.au/projects/inquiry/disaster-funding/terms-
+of-reference
+Regional Australia Institute. (2013). From disaster to re-
+newal; The centrality of business recovery to commu-
+nity resilience. Retrieved from http://www.regional
+australia.org.au/wp-content/uploads/2013/08/From
+-Disaster-to-Renewal.pdf
+Rhodes, R. A. W. (2011). Everyday life in British govern-
+ment. Oxford: Oxford University Press.
+Riessman, C. K. (2008).Narrativemethods for the human
+sciences. Los Angeles, CA: SAGE Publications.
+Rietveld, K., Simms, A., & Sparrow, J. (2001). The ecology
+of disaster recovery. World Disasters Report 2001.
+Retrieved from: http://www.recoveryplatform.org/
+assets/publication/9%20sept/world%20disaster%20
+report%20on%20recovery.pdf
+Rose, A. (2009). Economic resilience to disasters: CARRI
+research report 8. Prepared for the Community and
+Regional Resilience Institute. Retrieved from http://
+www.resilientus.org/wp-content/uploads/2013/03/
+Research_Report_8_Rose_1258138606.pdf
+Shaw, R. (2013). Incorporating resilience of rural commu-
+nities for proactive risk reduction in Shikoku, Japan.
+In N. Kapucu, C. V. Hawkins, & F. I. Rivera (Eds.), Disas-
+ter resiliency: Interdisciplinary perspectives (pp. 207–
+226). New York, NY: Routledge.
+Storr, V. H., & Haeffele-Balch, S. (2012). Post-disaster
+community recovery in heterogeneous, loosely con-
+nected communities. Review of Social Economy,
+70(3), 295–314.
+Tierney, K. (2013). Foreword. In N. Kapucu, C. V. Hawkins,
+& F. I. Rivera (Eds.), Disaster resiliency: Interdis-
+ciplinary perspectives (pp. xiii–xvi). New York, NY:
+Routledge.
+Vigdor, J. (2008). The economic aftermath of Hurricane
+Katrina. The Journal of Economic Perspectives, 22(4),
+135–154.
+Webb. G. R., Tierney, K. J., & Dahlhamer, J. M. (2002). Pre-
+dicting long-term business recovery from disaster: A
+comparison of the Loma Prieta earthquake and Hur-
+ricane Andrew. Environmental Hazards, 4(2), 45–58.
+Xiao, Y., & Van Zandt, S. (2012). Building community re-
+siliency: Spatial links between household and busi-
+ness post-disaster return. Urban Studies, 49(11),
+2523–2542.
+Yates, J., Randolph, B., & Holloway, D. (2006). Housing
+affordability, occupation and location in Australian
+cities and regions: Prepared for the Australian
+Housing and Urban Research Institute (AHURI). Re-
+trieved from http://www.be.unsw.edu.au/sites/de
+fault/files/upload/research/centres/cf/publications/
+ahuriprojectreports/housingaffordability_fin.pdf
+Yin, R. K. (2009). Case study research: Design and meth-
+ods (4th ed.). Thousand Oaks, CA: Sage Publications.
+Zhang, Y., Lindell, M. K., & Prater, C. S. (2009). Vulnera-
+bility of community businesses to environmental dis-
+asters. Disasters, 33(1), 38–57.
+Zhou, H., Wang, J. A., Wan, J., & Jia, H. (2010). Resilience
+to natural hazards: A geographic perspective.Natural
+Hazards, 53(1), 21–41.
+About the Authors
+Lex Drennan completed her Master’s by research into disaster resilience and recovery at Griffith Uni-
+versity. Upon graduating she commenced work with Australia’s largest insurer, where she regularly
+applies her research to help communities and businesses respond to and adapt following disasters.
+She continues to research in the field of disaster resilience as an Adjunct Research Fellow with Griffith
+University.
+Jim McGowan is an Adjunct Professor with the School of Government and International Relations,
+Griffith University. Adjunct Professor McGowan has a history of achievement in a variety of challeng-
+ing leadership roles in the Queensland public sector. He was the Director-General of the Departments
+of Community Safety, Emergency Services and Justice and Attorney-Generals. Corporate governance,
+organisational design and reform, performance and service delivery improvement, and the important
+of relationships were his focus in these leadership roles.
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 85
+Professor Anne Tiernan is the Director of the Policy Innovation Hub at Griffith University. A political
+scientist, with earlier careers in government in the Commonwealth and Queensland, and in teaching
+and consultancy, Anne is respected for her independent, professional and research-informed analysis
+and commentary on national politics, public administration and public policy. Her scholarly interests
+include: Australian politics and governance, policy advice, executive studies, policy capacity, federal-
+ism and intergovernmental coordination. She has written extensively on the political–administrative
+interface, caretaker conventions, governmental transitions and the work of policy advising.
+Politics and Governance, 2016, Volume 4, Issue 4, Pages 74–86 86

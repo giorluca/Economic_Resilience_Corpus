@@ -1,0 +1,1039 @@
+Regional resilience during the Great Irish Famine, 1845-1852: the role of common tenancy in spatial inequalities of food security (MUSSI Working Paper Series no.6)
+
+MUSSI Working Paper Series
+No – 6  December 2018
+Regional resilience during the Great Irish Famine, 
+1845-1852: the role of common tenancy in spatial 
+inequalities of food security
+Eoin Flaherty, Department of Sociology, Maynooth 
+University 
+1 
+ 
+Regional resilience during the Great Irish Famine, 1845-1852: the 
+role of common tenancy in spatial inequalities of food security 
+ 
+Eoin Flaherty, Department of Sociology, Maynooth University 
+ 
+This paper deals with two principal questions, drawing closely on the experience of 
+Ireland. First, it addresses a deficit in our knowledge of resource governance 
+institutions and land tenure systems as moderators of the impact of famine. We have 
+known for some time of the extent and distribution of common tenancy systems in 
+districts of 19th-century Ireland and across wider Europe, but little has been written 
+about their role in determining levels of ecological risk exposure. Knowing that both 
+distress and common tenancy were higher in marginal, impoverished Irish districts, 
+this is an omission of some concern. Second, although current thinking on common-
+pool resource governance suggests such systems were potentially robust to ecological 
+stress, why did this not translate into greater resilience in the Irish case? The paper 
+argues that to make sense of this contradiction, we must consider both the local 
+behaviour of ecological stressors, and the wider context of Irish colonialism. Using 
+local clustering analysis and geographically weighted regression, it shows how the 
+impact of key stressors varied geographically. It concludes by suggesting that narratives 
+and analyses of the role of common-pool resource governance in conferring ecological 
+resilience must be tempered with a fuller appreciation of geopolitical context. 
+ 
+Keywords: Ireland, nineteenth century, famine, commons, resilience 
+ 
+INTRODUCTION 
+ 
+Why does the Irish Famine of 1845-1852 continue to capture popular and academic imagination? 
+Its status as the ‘last great subsistence crisis in the Western world’ begs questions of how such an 
+event could occur in a colony of affluent industrial Britain. It also defies usual markers of recovery, 
+as its population never recovered from an estimated excess mortality of 981,000 (Boyle and Ó 
+Gráda 1986, 555), or 10-18% loss of total population due to combined mortality, and emigration. 
+Whilst its sesquicentenary (1995) saw the release of a new wave of writing delving deeper into its 
+proximate causes (Kinealy 2006), these questions are far from resolved. The respective role of the 
+British State, its intentionality, the Malthusian nature of the event, and the role of landlordism 
+remain open questions (Delaney 2012; Flaherty 2014; Ó Gráda and Kelly 2015). Similar questions 
+on the role of colonial context come into play later in the 20th century in instances such as the 
+Bengal Famine of 1943, where occupational restructuring under colonial rule set a disastrous 
+context for the catastrophe which followed (Sen 1981). There is also recognition of the modest 
+role Ireland may play in helping us to understand subsistence and ecological crises of modern 
+times, such as Fraser’s work on resilience to climate change (Fraser 2006, 2007). Meanwhile, the 
+literature on common pool resource systems, or ‘the commons’ has grown, albeit independently, 
+of work on the Irish famine. This work emphasises the potential role of common-pool systems in 
+conferring ecological robustness, and resilience to shock events, and the relative merits of socially 
+embedded vs market-based solutions to ecosystem management (Janssen, Anderies, and Ostrom 
+2007; Ostrom 1990; Ostrom et al. 2009).  
+ 
+There is good reason for bringing these two bodies of work together. First, renewed attention has 
+been given to the extent of common-pool resource governance in Ireland during the mid-19th 
+century has recently emerged (Anderson 2010; Flaherty 2013, 2014; Slater and Flaherty 2009). 
+Given its potential coincidence with an ecological catastrophe of global significance, it provides 
+an ideal testing ground for theories linking institutional resilience with ecological outcomes. 
+2 
+ 
+Second, the pan-European significance of common-pool and non-capitalistic agrarian systems 
+(Anderson 2010) suggests that Ireland still has much to teach us about processes and mechanisms 
+of social change, given the complex coexistence of feudal, primitive-communal, and putative 
+capitalistic modes of production throughout this time. Finally, by bringing previously unexploited 
+data to bear on the subject, we may clarify more pointedly the potential role common-pool systems 
+may have played in determining regional distress rates during the Irish famine, thus enhancing our 
+understanding of its causal factors. This paper provides such a test.  
+ 
+PROPERTY, LAND GOVERNANCE, AND MODELS OF FAMINE DISTRESS 
+ 
+Since the publication of Amartya Sen’s (1981a) seminal work on the causation of famines, 
+subsequent research has emphasised general factors underpinning instances of famine, coupled 
+with a wider concern with issues of global food and resource security, and ecological sustainability. 
+This is reflected in the current lexicon of human ecology, where concepts such as sustainability, 
+resilience, and adaptive capacity dominate. Whilst these concepts are useful, there is a risk that - as 
+with the concept of sustainability in recent decades – they lapse into metanarrative, in a manner 
+which obscures their origins as useful ‘middle range’ methodological devices. Sen’s entitlements 
+model remains one of the most cited in the famine studies literature. According to Sen, lapses in 
+resource security giving rise to famine ultimately come about through a confluence of ‘entitlement 
+collapses’, where opportunities for food acquisition through subsistence growing (direct 
+entitlements), purchase (indirect entitlements), and public welfare (transfer entitlements) 
+simultaneously collapse. The immediate benefit of this model was its ability to easily transcend 
+Malthusian arguments focusing on population as a prime mover, shifting attention instead to 
+national contexts and political infrastructures underpinning the distribution of food. Although the 
+model has come in for subsequent criticism, such as Devereux’s charge of methodological 
+individualism, and his lack of attention to non-market famine vectors (2001), it has remained 
+markedly resilient. Central to its appeal amongst sociologists is its ability to undercut explanations 
+which focus on food supply alone, toward those which emphasise socially-embedded resource 
+systems. In this respect, one crucial deficiency identified by Devereux (2001) is that of the role of 
+different institutionalised forms of resource governance in determining different levels of resource 
+security. Whilst a methodological individualist approach might be blinded to such overarching 
+institutional forms, evidence on their significance as moderators of resource security is substantial 
+(Anderies, Janssen, and Ostrom 2004; Costanza et al 2001; Flaherty 2014; Futemma et al 2002; 
+Janssen et al 2007; Ostrom 1990; Ostrom et al 2009).  
+ 
+Compounding the steady drift of social scientists away from substantive analyses of resource 
+inequality, is an unhelpful methodological divide. Whilst debate continues amongst proponents of 
+complexity regarding the validity of the linear model (Byrne and Callaghan 2013), geographers 
+have been developing statistical models to better capture spatial heterogeneity, and more accurately 
+model spatially-varying processes. The potential for mutual benefit here is obvious. As narratives 
+of resource security move further from ‘global’ accounts of macro-level drivers, the growing 
+capacity of statistical techniques to corroborate these more nuanced mechanisms offers a welcome 
+pairing. Such is the objective of this paper. Ireland remains a concerning case in famine studies. It 
+continues to violate one of the standard benchmarks of post-famine recovery with a population 
+level below that of 1841, and remains an area of active debate and research as new datasets and 
+source documents are exploited (Delaney 2012; Flaherty 2013, 2014; Kinealy 2001; Ó Grada and 
+Kelly 2015). As we continue to uncover more about the extent of non-capitalistic modes of 
+resource governance in pre-famine Ireland and beyond (Anderson 2010; Krader 1975), its ability 
+to speak not only to the famine studies, but also to the growing literature on the commons is 
+substantial. Finally, the quality of data available for this period allows us to explore new statistical 
+techniques for the detection and modelling of spatial heterogeneity, in a manner not adequately 
+3 
+ 
+accounted for in existing quantitative models of famine impact. Before examining these specific 
+issues further, the following sections clarify the conceptual foundations of this analysis. 
+ 
+THINKING GEOGRAPHICALLY: RESILIENCE, LOCAL DEPENDNCIES, AND 
+TOBLER’S LAW 
+ 
+A resurgence of interest in Waldo Tobler’s first law of geography, culminating in the publication of a 
+discussion symposium in the Annals of the Association of American Geographers in 2004, saw renewed 
+theoretical attention offered to a long-standing staple of human geography (Goodchild 2004; 
+Miller 2004; Sui 2004; Tobler 2004). Tobler’s law, claiming ‘...everything is related to everything 
+else, but near things are more related than distant things’ (Tobler 1970), may be interpreted in a 
+number of ways. As a theory of spatially-varying relationships, it offers a basic defining principle 
+for explanation in human geography: proximity and distance matter to the character of socio-
+spatial relationships. As a diagnostic criterion, it formalises the phenomenon of spatial 
+autocorrelation into a simple methodological principle, where the first law becomes a condition to 
+be modelled in quantitative geographical analysis. In the Annals debate, attempts were made to 
+extend the law beyond its narrowly-defined use within spatial modelling, as a means of making 
+sense of mechanisms of local dependency, rather than a descriptor of spatial autocorrelation alone. 
+It was here suggested that the literature on complex adaptive systems could serve such a facilitating 
+role (Miller 2004). 
+ 
+It is worth exploring this possibility further, considering the substantial volume of work in the 
+fields of resilience and complexity which has emerged since the Annals discussion. The challenge 
+however, is in reconciling the apparently simplistic idea of ‘proximity’ as a sufficient explanation 
+of spatial relationships, with a body of theory which appreciates the complex nature of local spatial 
+interactions. The wider social/ecological complexity literature may here be useful. This literature 
+draws attention to the ways in which apparently simple local interactions can generate complex 
+macro-geographies and emergent patterns, which transcend the properties of the units from which 
+they are generated (Byrne 1998, 2005; Sawyer 2005). This does not imply that macro-complexity 
+can be comprehended simply by studying the properties of constituent units as per the classic 
+systemic paradigm (Skyttner 2005). Instead, it calls for careful attention to how we conceptualise 
+systems themselves, and more importantly for this study, how we theorise the mechanisms which 
+connect local behaviour to macro-structures and meso-institutions. This is as much the work of 
+theory, as measurement and modelling, and is a staple concern of the resilience and complexity 
+approaches. 
+ 
+At its core, complexity offers a means of conceptualising societies and social systems as multilevel 
+entities embedded in specific ecological-geographical contexts, rather than viewing them as 
+disparate assemblages of social institutions alone (manifest in the collections of variables which we 
+typically, and necessarily, adopt as substitutes for more detailed information on system 
+composition). As an epistemology of social-ecological systems, it offers a powerful account both 
+of the actions of agents which give rise to wider social structures, and the emergent macro-
+properties which constitute our measurements as quantitative analysts. Complexity theory thus 
+offers new opportunities to bring social theory back into dialogue with systems-based human 
+ecology, from which it has long sought to distance itself. The general epistemology of complexity 
+is complemented by the resilience approach, which views resource security not as a product of 
+destabilising variables such as population growth alone, but because of patterns of cumulative risk 
+exposure specific to the nature of local ecosystems. This approach works from the unique 
+characteristics of food production systems themselves, to explain the causes of food and resource 
+insecurity in specific contexts. (Berkes, Colding and Folke 2003; Cumming et al 2005; Fraser 2007; 
+vanApelDoon et al 2011). Fraser (2006) for example, has suggested that measuring a system’s 
+4 
+ 
+degree of species diversity, biomass volume, and connectivity, offers a means of operationalising 
+resilience as a measure of robustness to ecological stress. 
+ 
+Together, these perspectives can serve as a means of reinvigorating both the first law, and the 
+application of theory to the analysis of spatially varying relationships. By broadening the role of 
+theory beyond that of law-like statements, to an appreciation of the generative mechanisms 
+operating at local levels which give rise to spatial homogeneity and heterogeneity, the practice of 
+geographical modelling can be brought closer into dialogue with wider theory in both human 
+geography and human ecology. If we adopt as our basic principle the assumption that our units of 
+analysis, at any given spatial scale, are complex open systems, comprised of emergent social, 
+cultural, economic and ecological properties and levels, in a state of mutual interconnection (Capra 
+2005; Cillers 2001; Harvey and Reed 2004), our task is to interpret our models in terms of the 
+interactions of these various dimensions. This can be accomplished by thinking through 
+mechanisms of local dependency, in a manner which incorporates aspects of culture, economy, 
+and ecology, and the ways in which they conspire to create unique geographies of local interaction 
+which may then be detected through more formal means. In short, whilst not rejecting the 
+presence of stable patterns and structures, we must remain sensitive to local context, and the 
+underlying complexity of interacting agents and social structures, which give rise to geographical 
+patterns. We can begin to articulate and operationalise this task more clearly by focusing on the 
+specific properties and dynamics of common-pool resource systems, and the extent to which they 
+may mediate local patterns of ecological risk exposure.  
+ 
+COMMON-POOL RESOURCE SYSTEMS AS MODERATORS OF ECOLOGICAL 
+RISK 
+ 
+As the resilience approach is one inherently geared toward understanding the spatially-varying 
+nature of social-ecological systems, forming a sufficient overview of the general properties of the 
+system in question is vital. In the conceptual language of resilience, this involves delineating the 
+system’s identity, and using this information as a means of inferring the adaptive capacity of the 
+systems institutions, or its ability to respond to disturbances in its environment. This resilience is 
+a function of the institutional robustness of a system (i.e. the integrity of its governance institutions, 
+its modes of resource management, demography, and economy) and contextual constraints placed 
+upon the system (i.e. local ecology, climate, land ownership, state administration), which will tend 
+to vary over space. Resilience may thus be provisionally defined as ‘...the capacity of a system to 
+absorb disturbance and reorganize while undergoing change so as to still retain essentially the same 
+function, structure, identity, and feedbacks’ (Walker 2004 cited in Grimm and Calabrese 2011: 8). 
+It is an invaluable heuristic for addressing shortcomings in structuralist systems theory, which has 
+tended to search for general mechanisms giving rise to society-wide equilibrium, rather than case-
+specific conditions of systemic reproduction and sustainability. In methodological terms, classical 
+systems theory is rooted in an implicit discarding of the spatial heterogeneity assumption, through 
+its insistence on cross-sectional modelling. Here we invoke the concept of resilience as a means of 
+reconciling the general properties of common pool resource systems, with specific mechanisms of 
+local dependency. 
+ 
+There is much evidence suggesting that social-ecological systems with institutions that are adaptive 
+to economic, political and ecological variability, experience heighted resilience to ecological stress 
+through greater institutional robustness (Janssen, Anderies and Ostrom 2007; Wall 2014). This 
+robustness is often explained as a function of cumulative experience internalised in institutions, 
+whereby variations in local ecological conditions become adapted to within and between 
+generations. Previous studies such as Ostrom (1990) have often observed ‘...that small-scale 
+governance regimes that incorporate local knowledge, have clear rules that are enforced, and rely 
+5 
+ 
+on high levels of trust frequently perform well’ (Janssen, Anderies and Ostrom 2007, 308). 
+Resource pooling is often a viable option for non-capitalist agricultural systems, in the absence of 
+stocks of capital amongst individuals, and as a means of bringing new tracts of land into cultivation. 
+Common-pool systems are especially appropriate when land productivity is low, yield reliability is 
+low, capital investment is absent, and where large territories are involved (Ostrom 1990, 63). 
+Viability within common-pool agrarian systems was often kept in check by consensus-based 
+mechanisms, such as the scattering of an individual’s holdings in land strips of varying quality, 
+restrictions on numbers of livestock in proportion to an individual’s arable holdings, and periodic 
+rotation of individual plots amongst commune members which discouraged resource and labour 
+hoarding on specific portions of common lands. 
+ 
+According to Smith (2000), such common property regimes as exemplified by openfield agrarian 
+systems, resolve several ecological difficulties engendered by the ‘problem’ of collective action, 
+which has so occupied rational actor-oriented human ecology (Ostrom 1990). Within English, 
+Swedish and German openfield systems of the seventeenth and eighteenth centuries, similar 
+practices of strip dispersal as those later observed in Ireland prevailed, according to which each 
+individuals’ holdings (themselves merely usufruct) were scattered in a series of intermixed strips 
+throughout the joint lands of the village. Such a system was interpreted by Seebohm as bound with 
+requirements of grazing, whereby the size of each temporary holding was determined by the 
+number of oxen contributed by each tenant to the village or manorial plough team (Goransson 
+1961, 83). Although some have been quick to idealise such arrangements as an archaic form of 
+altruistic communality, others have pointed out that such scattering and redistribution functioned 
+to permit combined tillage and grazing - otherwise impossible individually, owing to land and 
+labour requirements - by maximising the grazing area available to the community after harvesting 
+(Janssen et al 2007). These mechanisms of subdivision and plot scattering thus imposed collective 
+ecological sanctions on excessive individual exploitation 
+ 
+Common-pool resource governance systems in Ireland 
+ 
+We suggested above that the rundale system in particular, and common pool resource systems 
+generally, constitute a specific set of social-ecological properties and relations apart from those of 
+pre-modern feudal and capitalist society. On the basis of comparative data, there is little doubt 
+that common tenancy was widely distributed across many districts of mid-19th century Ireland, and 
+even where it was a minority phenomenon, its presence marked it apart as a distinct mode of 
+tenure and governance (McCabe 1991; McCourt 1955). The unique nature of common tenancy is 
+well established in both documentary and statistical record. Early administrators were acutely 
+aware of the residual influence of Gaelic legal code in local landholding practices, and as such, one 
+of the first acts of Lord-Lieutenant Chichester in 1605 following the accession of James I, was to 
+outlaw the practice of partible inheritance known as ‘gavelkind’. The highly localised, and 
+community-based nature of Irish landholding and kinship was also remarked upon by Sir. John 
+Davies in Of the Lawes of Ireland (c.1610), where he noted that lands were often distributed amongst 
+local septs headed by deputed chiefs, with lands periodically redistributed between sept members 
+(Davies 1610 cited in Kelly, 1997: 430).  
+ 
+One school of thought which locates the origins of common tenancy in the pre-Gaelic era, suggests 
+that such practices may have subsequently congealed over centuries into stable local identities 
+giving rise to the geographical divisions of townlands, which remain in use to this day. Despite 
+attempts by local landowners to subvert the system, by the 19th century, survey figures from the 
+appendices of the Devon Commission (1845) show that 59%, 58%, and 29% of the lands of Counties 
+Kerry, Mayo, and Clare respectively, were held in common or joint tenancy at the time of 
+recording. Variance between unions within counties was more pronounced still, with 83% of the 
+6 
+ 
+union of Westport (Co. Mayo), 71% of the union of Scariff (Co. Clare), and 50% of the union of 
+Kenmare (Co. Kerry) recorded as held in common. Local patterns thus appear to be of primary 
+importance, and the omission of such from cross-sectional models presents a concerning degree 
+of potential confounding. The specific characteristics of these areas were also quite distinct from 
+those of wider Irish society at the time. As the following table shows (table 1), there were sharp 
+qualitative differences in the composition of these common-pool systems along key dimensions. 
+ 
+ 
+Table 1. Composition of common-pool resource systems 
+Dimension Common-pool system Individualised system 
+Tenure Joint or partnership Individual 
+Property transmission Partible inheritance Primogeniture 
+Settlement morphology Nucleated Dispersed 
+Field system Openfield (infield-outfield) system with communal share allocation 
+Enclosed fields, stable boundary 
+demarcation 
+Local governance Governance by communal council / headman Solitary decision making 
+Legal reckoning Customary law, usufruct entitlement Civil / common law, private property 
+Village structure Absence of services (public house or church) 
+Growth of township to include 
+services 
+Demography High fertility, high subdivision Restricted subdivision, high migration, impartible inheritance 
+ 
+Whilst the presence of the above conditions is well noted in the wider literature on the Irish 
+rundale, the productive activities of these areas, and in turn their potential resilience to ecological 
+risk, was filtered through the wider country-wide context of colonialism. The non-capitalistic 
+nature of the Irish rental system (to which all tenures were beholden under colonialism), is 
+corroborated by the absence of a supply-and-demand price-setting mechanism for Irish rents. Irish 
+rent was instead determined by the number of intermediary sub-tenancies, as landlords often sub-
+let their properties extensively to middlemen and land agents. Thus, whilst Ireland’s level of 
+outward trade in agricultural produce lent it the appearance of a putatively capitalistic society, the 
+social relations of production remained rooted in a feudal rental regime with highly variable 
+patterns and extents of direct local control. This system was interspersed with extensive tracts of 
+common-pool resource governance where lands were held and administered in common, a 
+situation which remained in some districts into the early 20th century. Because of the overarching 
+feudal rental system, all common-pool regions operated under the auspices of a joint leasehold 
+system geared as much toward rent production, as to subsistence. Rundale thus remained a highly 
+constrained system, according to the specific nature of local colonial land administration. Our 
+methodological task is thus to identify regional measures which best capture these degrees of 
+constraint, and to formulate an appropriate modelling strategy. 
+ 
+ 
+7 
+ 
+DATA AND METHOD 
+ 
+Although some attempt was made to quantify regional patterns of risk exposure in the context of 
+severe famine previously, (Flaherty 2014), this analysis relied on data measured at county level 
+(N=32), thus limiting the scope for multivariate modelling. The following analysis draws on a set 
+of aggregate data measuring a range of physical, social, economic, and agricultural conditions at 
+Poor Law Union level (N=130), which allows for the specification of more complex models than 
+previously possible. Owing to the importance of both the extent of common tenancy, and ration uptake 
+(measured originally at union level), this level of analysis is most appropriate for maximising the 
+availability of additional variables. The data are sourced from a range of publicly available reports 
+and statistical abstracts compiled between 1841 and 1849. Summary statistics for all variables are 
+provided below in table 2, and all sources are cited in the data appendix below (Appendix 1). This 
+analysis draws on the decennial population census, and annual agricultural censes, Commission of 
+Inquiry into the Occupation of Land in Ireland (Devon Commission), and the Reports of the 
+Select Committee on Poor Laws. All relevant calculations are noted, and any applied 
+transformations are noted in the figure titles and regression tables.  
+ 
+ 
+Table 2. Summary statistics  
+Variable Mean SD Min Max Moran’s I 
+Ration uptake (standardised rate of relief 
+ration uptake, 1847) 0 1 -1.44 3.85 .685*** 
+Population density (individuals per acre, 
+1841) .49 .45 .14 4.02 .191*** 
+Poor law valuation (£pounds per acre) .87 1.43 .02 12.82 .298*** 
+Consolidation of holdings (% change in 
+proportion of farms over thirty acres, 1848-
+1849) 
+3.06 7.28 -17.06 38 .185*** 
+Uncultivated land (% total cropland 
+uncultivated, 1847) 71.44 12.29 40.72 97.08 .442*** 
+Corn yield (% change in corn yield 
+[kilograms per acre], 1847-1849) -8.09 19.10 -45.39 75.64 .123*** 
+Total crop area (percentage change in total 
+crop area, 1847-1849) 1.54 2.27 -3.95 6.74 .182*** 
+Flax cultivation (% area under flax, 1847) 1.14 2.03 0 9.52 .628*** 
+Common tenancy (% lands held in 
+common or joint tenancy) 8.00 15.25 0 83.88 .224*** 
+*p<.05; **p<.01; ***p<.001 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+Table 3. Inter-item correlations 
+ 
+R
+at
+io
+n 
+Po
+pu
+la
+tio
+n 
+Va
+lu
+at
+io
+n 
+Co
+ns
+ol
+id
+at
+io
+n 
+U
+nc
+ul
+tiv
+at
+ed
+ 
+Co
+rn
+ 
+Cr
+op
+ 
+Fl
+ax
+ 
+Population -.184*        
+Valuation -.200* .962***       
+Consolidation .226** -.227* -.237**      
+Uncultivated .515*** -.331*** -.309*** .085     
+Corn -.175* -.130 -.137 -.181* .109    
+Crop -.227** .112 .058 -.194* -.062 .006   
+Flax -.340*** -.044 -.100 -.158 -.161 .082 .248**  
+Common 
+(log) .290*** .023 -.021 .161 .266*** -.069 -.038 .100 
+*p<.05; **p<.01; ***p<.001 
+ 
+The dependent variable is the rate of relief ration uptake, following the approach used by Kinealy 
+(2006) in her appendix indicating areas suffering high levels of distress. Following initial discussion 
+concerning the establishment of a system of rate-based poor relief in pre-famine Ireland, the famine 
+relief activities of the Select Committee on Poor Laws were recorded in a series of reports presented to 
+parliament in 1847. An important set of statistical tables in these reports tabulates the extent of 
+mitigating activities undertaken by the relief commissioners in July of this year. Owing to increases 
+in the import of foodstuffs throughout this time, a reduction in domestic food prices enabled the 
+commissioners to subsidise outdoor relief in the form of rations (either gratuitously, or at reduced 
+cost according to individual means), with characteristically liberal warnings of market interference, 
+and the necessity of countering tendencies toward idleness. These issued rations consisted of 
+1&1/4lb of bread (or 1lb biscuit or meal), or 1 quart of soup thickened with a portion of meal 
+along with ¼ ration of bread (Second Report of the Relief Commissioners... 1847). The first table 
+of records concerning the issue of rations appears in the Second Report of the Relief 
+Commissioners, and distinguishes between rations issued gratuitously to the registered destitute, 
+and those sold to individuals of limited means at reduced cost (ibid). Statistics employed in the 
+forthcoming analysis are limited to those concerning the issue of gratuitous rations, which in a 
+majority of unions significantly outnumber those sold at subsidised rates. The data are drawn from 
+six successive reports of May 8th, June 5th, July 3rd, July 31st, August 28th and September 11th, 1847. 
+The largest number of rations issued on a single date across all reporting periods was selected for 
+inclusion. The rate of ration uptake per head of population was first calculated, before z-score 
+standardisation.  
+ 
+Our key independent variable is the extent of common tenancy, sourced from the statistical tables 
+of the Devon Commission (1845), which records in Appendix 94 the ‘Area of Union in Statute 
+Acres’, and ‘Total Number of Acres Held in Common or Joint Tenancy’, permitting calculation of 
+a comparable rate. Figures at union level exhibit greater variation than those reported at county 
+level in previous studies such (Almquist, 1977), and when aggregated to county level, such variation 
+is lost owing to significant differences in the extent of recorded communal tenure within individual 
+counties. For example, despite 50% of the lands of the union of Kenmare, Co, Kerry being noted 
+as held in common, the union of Caherciveen – also falling within Co. Kerry - shows none. McCabe 
+9 
+ 
+(1991) suggests that joint tenancy may have been under-enumerated however, owing to the reliance 
+of union clerks on union rate books. As such, any potential errors in the compilation of figures are 
+likely to affect absolute levels within unions, rather than the variance, which is of primary concern. 
+When corroborated with other estimates of the extent of common tenancy such as McCourt’s 
+clachán distribution map compiled from first edition six-inch ordnance survey maps (1971: 138-
+139), we can be confident that these figures are representative of between-union variation in rates 
+of common tenancy. Further details on other variables used in this analysis are available in appendix 
+one. 
+ 
+Our analysis proceeds in two distinct stages. First, preliminary descriptors of the clustering 
+behaviour of spatial attributes are investigated using Moran’s I and Getis-Ord Gi*. The challenge 
+in these initial phases is of squaring the proscriptions of Tobler’s law with the data-generating 
+process giving rise to observed clustering effects. Here we draw on the theoretical insights of 
+resilience and complexity theory to articulate these connections more clearly. This involves 
+thinking carefully about the substantive mechanisms underpinning local dependencies across the 
+range of included predictors. Moran’s I measures the slope of a bivariate plot of a given variable 
+against its spatial lag calculated from as the mean of both a unit, and its set of defined neighbours. 
+Neighbours are here defined by ‘Queen’ contiguity, which includes the unit, and all proximate 
+units in direct contact with any portion of its boundary. Accordingly, a positive slope indicates 
+close correspondence between the variable and its spatial lag (i.e. its neighbours). In specification, 
+Moran’s I is an extension to the standard product-moment correlation, with the addition of a 
+spatial weights matrix capturing dependencies between contiguous regions (Brunsdon and Comber 
+2015, 230). Variables are centred prior to plotting and calculation.  
+ 
+Getis-Ord Gi* compares the local mean of a feature and its defined neighbours against the global 
+mean, producing a plot identifying statistically significant instances of ‘high-high’ and ‘low-low’ 
+clusters. This approach identifies areas which represent a significant departure from the global 
+norm, and are useful for gaining a visual appreciation of local clustering behaviour. As with the 
+Moran diagnostics, we use contiguity definitions of neighbouring rather than fixed bandwidths. 
+Together, both Moran’s I and Getis-Ord Gi* permit closer investigation of the local and global 
+behaviour of particular variables. Second, having explored the presence of geographical clustering 
+effects, we present a geographically weighted multivariate regression model (GWR) of factors 
+contributing to local distress rates. In this specification, independent variables become functions 
+of both a location and its attribute, thus permitting variation in parameters over space (Brunsdon 
+and Comber, 2015, p. 291). The standard regression model maintains fixed parameter estimates 
+across the entire set of data. Adding a location represented by coordinates allows coefficients, 
+intercepts, and diagnostics to vary as a function of different weighting methods – typically distance-
+based bandwidths/moving windows, or contiguity functions. In effect, this method estimates an 
+iterative series of restricted models utilising cases falling within a given bandwidth, thus 
+constructing a distribution of values from the standard regression output.  
+ 
+Parameters are estimated through ordinary least squares, and both fixed and adaptive bandwidths 
+based on Akaike’s Information Criterion (AIC) are provided. For comparison, these models are 
+compared to cross-sectional OLS with cluster-robust standard errors. Interpretation of models is 
+aided by the provision of mapped model output, allowing visual assessment of local parameter 
+behaviour. This section argues that cross-sectional analyses which discard the potential for spatial 
+autocorrelation introduce a critical source of potential error into their conclusions – substantive 
+and theoretical. Consequently, by examining this local variation we come closer to understanding 
+how this complex mix of contextual factors conspired to produce uneven rates of distress across 
+the island throughout this time. We interpret these results in context of resilience theory’s emphasis 
+10 
+ 
+on local adaptive capacity as a central property mediating the geography of ecological risk 
+exposure. 
+ 
+UNDERSTANDING THE LOCAL GEOGRAPHY OF FAMINE 
+ 
+To what extent do these variables show local clustering? Are there regional disparities in the 
+distribution of values, and if so, how can we account for this? The classic rendering of Tobler’s 
+law suggests proximity plays a key role in the patterning of social-geographical relations. Proximity 
+alone is insufficient to account for observed autocorrelation however; this must be supported with 
+a valid narrative of the mechanisms generating this effect. In terms of theorising, critical realism 
+approaches this through a process of ‘retroduction’ or rational abstraction. This neither precedes, 
+nor derives from the act of measurement, but is enacted as its complement. Its basic premise is 
+that we must abstract from the concrete-empirical phenomenon itself, to identify the mechanisms 
+through which its causal properties are activated (Roberts 2006: 70). Whilst the detection of 
+associations through measurement constitutes an extensive form of inquiry, this process is 
+intensive, insofar as it requires us to think conceptually about how a phenomenon comes to behave 
+as it does (Roberts 2006: 73-74). The result is a combination of theory and method which 
+transcends the typically positivistic primacy of measurement, and this is a guiding principle of the 
+coming discussion.  
+ 
+From table 3, we see that our outcome variable shows moderate correlation with other predictors. 
+These are intuitively signed, with higher valuation, crop yield, productive area, and flax growth 
+associated with reduced ration uptake. The negative sign of population density is likely detecting 
+the effect of urban concentration in areas such as Dublin, Cork, Waterford, and Belfast. As such, 
+this is likely detecting the comparative affluence of certain areas particularly within Dublin. It is 
+difficult to detect the impact of population density in Western districts however. Although we may 
+hypothesise that it was substantial, it is more likely to have taken the form of high-density 
+settlement pockets, within otherwise sparse and spacious regions. The presence of large tracts of 
+grazing land, which in turn impacted on the ability of common-pool systems to expand under 
+population pressure, is also likely to have diminished the sensitivity of this measure to smaller, 
+more localised high-density settlement. Similarly, settlement consolidation, the presence of 
+uncultivated land and the extent of common tenancy are associated with higher rates of ration 
+uptake. 
+ 
+Turning to the autocorrelation figures (Moran’s I) in table 2, we find substantive, and statistically 
+significant degrees of spatial autocorrelation across all variables (see also figure 3 and 4). Ration 
+uptake records a score of .685, the largest of all variables. This is easily accounted for visually as 
+can be seen in figure 1 showing strong concentration in Western regions. Common tenancy also 
+exhibits a modest degree of spatial autocorrelation, which is likely diminished by the presence of 
+isolated pockets of common tenancy in the southeast and southwest as shown in figure 2. Those 
+of the southwest – South Kilkenny in particular – represent a different form of commune to that 
+described by the typical criteria of common-pool governance described above. These areas are 
+mostly devolved manorial villages of the three-field system, which acquired their nucleated 
+morphology during Norman occupation, but without accompanying communal institutions 
+(Burtchaell 1988). Inspection of the spatial lag plots of these variables (figures 1 and 2) reveals 
+more, with evident linearity in the lag of ration uptake, but a less certain trend in common tenancy. 
+Finally, Getis-Ord Gi* plots for both variables reveal significant hotspots departing from the 
+global average, and clustering along the Western seaboard - particularly in Western counties Mayo, 
+Clare, and Kerry. Together, these indices provide strong corroboration of the importance of local 
+dependency in the behaviour of variables, with clear patterns emerging between East-West, and 
+11 
+ 
+North-South. In all instances, Western regions associated with the ‘small-farm’ archetype (Whelan 
+2000) display especially strong clustering behaviour. 
+ 
+ 
+ 
+ 
+Figure 1. Ration Uptake 
+ 
+ 
+12 
+ 
+ 
+ 
+Figure 2. Lands held in Joint or Common Tenancy 
+ 
+ 
+ 
+ 
+ 
+Figure 3. Spatial lag plot, ration uptake 
+ 
+13 
+ 
+ 
+ 
+Figure 4. Spatial lag plot, common tenancy 
+ 
+ 
+ 
+Figure 5. Getis-Ord Gi*, Ration uptake 
+ 
+ 
+14 
+ 
+ 
+Figure 6. Getis-Ord Gi*, Common tenancy 
+ 
+Mechanisms of local dependency 
+ 
+How can we account for this clustering beyond surface measurement? How did these patterns 
+arise, and how might they be reinforced by the institutional structures of common-pool 
+governance? Mindful of the restrictions on inference to lower-order units inherent in any 
+ecological analysis, we can nonetheless begin to detail several mechanisms (also summarised below 
+in table 4). Poor law valuation is a measure closely linked to potential land productivity and 
+profitability. As such, it is closely linked to a range of factors such as predominant regional 
+economic activities, the positions of unions within regional archetypes (whether tillage, pastoral, 
+or quasi-subsistence), and local geology (Collins 2008). Thus, we find a characteristic East-West 
+bias in the distribution of valuation, with a concentration of low valuation in Western peripheries. 
+The mechanisms underpinning this include a predominance of low capital-intensity in Western 
+small-farm production (characteristic of labour-intensive common-pool systems), an underlying 
+geology which confers a characteristically shallow, heavily-leached soil bed (Evans 1979), and 
+higher extents of land subdivision which diminished the introduction of plant and capital to the 
+labour process. The geography of valuation may indeed be underpinned by more thoroughgoing 
+historical processes. The hypothesised post-17th century westerly migration of a dispossessed 
+peasantry in the wake of the Cromwellian plantation for example, which may have created an 
+immediate need for labour pooling to break in new lands for cultivation (Braa 1997).  
+ 
+The process of consolidation of holdings displays a more intuitive regional signature. In the post-
+Napoleonic period, grain and stock price fluctuation dictated much of the character of regional 
+restructuring, as landlords sought to move away from high density tillage production, toward land-
+intensive grazing in response to rising stock and wool prices. Local styles of land administration 
+also played a role; hence we find contradictory mass evictions on the Nixon estates of Donegal, 
+the Mahon estates of Roscommon, and the Walsh estates of Mayo, yet investment, improvement, 
+15 
+ 
+and resettlement on the Hill estates of Donegal (Mac Aoidh 1990; Yager 1996). The post-
+Napoleonic years marked a watershed in this respect, insofar as the key channels of profitability 
+for landlords shifted from increasing the supply of tenantry engaged in tillage, toward clearing 
+estates to make way for capital-intensive grazing. Approximately 37,286 evictions were carried out 
+between 1846-1849, marking a key stressor on the capacity of common-pool districts to maintain 
+their essential structures (Orser 2006). The result was a spatially uneven pattern of redistribution, 
+with varying degrees of direct local intervention by landowners. 
+ 
+Our four measures of productive activity, uncultivated land, corn yield, total crop area and flax production 
+map well onto the processes described for valuation and consolidation, and constitute a key factor 
+in local resilience and adaptive capacity. The availability of wasteland was a key factor facilitating 
+the expansion of the Irish common-pool rundale system. On peripheral lands, the systems’ 
+tendency toward demographic expansion through subdivision, facilitated by the encroachment of 
+communes onto new marginal lands was an essential factor of its resilience. This was an 
+unfortunate precondition of the Great Famine, as the prolific potato allowed smallholders to settle 
+comparatively smaller plots of land, thus enhancing the concentration of biomass, and lowering 
+species diversity in the pre-famine years (Fraser 2006). Considering Ireland’s rate of population 
+growth in early 19th century Ireland, which rose 72% from 4,753,000 in 1821, to 8,175,124 in 1841, 
+the capacity of individual settlements to incorporate new members whilst retaining its delicate 
+balance of tillage and grazing, was essential – wasteland played a crucial role in this regard. Villages 
+often grew exponentially, with noted instances of unchecked settlements evolving from a handful 
+of homesteads to over thirty within a single generation (Aalen, Whelan and Stout 1997). In the 
+absence of external constraints, expansion was often limited primarily by local geography and 
+geology, but under colonialism, the calculus of international markets played a dominant role in the 
+annexation of neighbouring lands by landlords for capital-intensive activities. The result was a 
+heightened strain on communes who were now forced to accommodate new members by further 
+subdividing their existing space, or by colonising parts of their grazing ground for tillage, thus 
+upsetting the balance of pasture and tillage central to the systems’ identity.  
+ 
+Corn yield and total crop area both capture changes in production from 1847-1849, the peak years of 
+hardship. Although both exhibit low degrees of spatial autocorrelation, they constitute key 
+components of regional resilience. These measures are arguably preferable approximations of 
+resilience, as they deal with longitudinal change, sourced as they are from the annual agricultural 
+censes which began in 1847. It is telling in this regard, that both corn yield and crop area are 
+negatively correlated with consolidation and ration uptake (table 3). These measures capture 
+seasonal yield consistency during the peak famine months, and declines in cultivated space, 
+potentially linked to lower labour input and forced land enclosures. Corn yield is of interest as, 
+despite the depiction of Western regions as wholly potato-dependent, grains featured prominently 
+in the production process owing to the necessity of rent payments – sales of grain typically meeting 
+these obligations. Thus, whilst potatoes were largely consumed, or their surplus used as stock 
+fodder, grains were essential to avoid falling into arrears and losing tenure. The net effect of 
+physical restrictions on the capacity of rundale to expand, coupled with continuing rent obligations 
+despite the hardship of the peak famine years, meant surrendering an ever-greater proportion of 
+tillage area to non-subsistence crops. This particularly affected peripheral areas, especially 
+common-pool regions, which depended on a delicate balance of tillage and stock for their viability. 
+As such, we find a concentric diminishing of yield from East to West, consistent with the 
+predominance of intensive tillage along the Southern to North-Eastern Anglo-Norman tillage 
+crescent. The pattern is less pronounced for changes in crop area, consistent with its low degree 
+of spatial autocorrelation, although large pockets are to be found toward West-Connaught, and 
+south-westerly toward Limerick and Kerry. 
+ 
+16 
+ 
+Our outcome, and key predictor (ration uptake and common tenancy) display clearer spatial patterning, 
+visually and diagnostically. Whilst evidence of autocorrelation for common tenancy is low owing 
+to the haphazard intermixing of high-low density areas, it correlates positively with ration uptake. 
+Figures 5 and 6 show results from the Getis-Ord procedure, which reveals clear concetrations of 
+hotspots in Western counties. Consistent with evidence governing the distribution of flax 
+production in the North, we also find concentrations of lower ration uptake in Northern unions. 
+The mechanisms underpinning this characteristic geography are rooted in the factors of 
+production and productivity outlined above, as well as historical circumstance, and public policy 
+(Delaney 2012). Our range of contextual variables describes well the conditions which facilitated 
+higher densities of rundale – marginal lands of low productivity, regions with high volumes of 
+direct producers subsisting on a narrow range of root crops (chiefly the potato), a characteristic 
+dependence on an openfield system with customary subdivision, and a demographic boom from 
+the early-mid 19th century. With the removal of barriers to early family formation, fertility soared 
+amongst smallholder. Common-pool systems facilitated this through internal subdivision of 
+commune lands, facilitated by the prolific nature of the potato. Such was the pace of 
+fragmentation, that by 1841, 45% of all holdings in Ireland were under five acres, with higher 
+regional rates such as 64% recorded in Connaught (Connell 1950: 284).  
+ 
+The concept of panarchy from the resilience literature connects these factors well to the decline 
+of adaptive capacity at settlement level, and their vulnerability to ecological stress. According to 
+Fraser’s formulation, a tri-axial model of connectivity, biomass volume, and species diversity 
+provides a quick index of an ecosystem’s resilience. As connectivity (settlement fragmentation) 
+heightens, coupled with a reduction in species diversity (monoculture), and an increase in biomass, 
+the magnitude of disturbance required to induce systemic collapse becomes ever smaller. Such 
+were the circumstances in Ireland on the eve of the famine, however models to date have note 
+taken adequate account of the uneven geography of resilience. As our diagnostics show, these 
+factors were both locally correlated, and spatially distributed, such that a general model cannot be 
+applied universally to the entire territory. Institutional structures – particularly the unique dynamics 
+of Irish common-pool governance played a crucial role in the construction of this geography, 
+mediating the impact of the specific antagonist - in the Irish case, the blight strain which decimated 
+crops over multiple seasons. Consequently, explanation is not to be found in the character of 
+colonialism, nor single stressors such as population alone, but rather in their interactions, and 
+spatial distribution. Our final piece of analysis thus examines the impact of common tenancy, 
+controlling for these contextual factors.   
+ 
+ 
+17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4. Mechanisms of local dependency 
+Variable                    Mechanism 
+Population density 
+Classic mechanism of rundale expansion: high fertility, partible inheritance, endogenous 
+expansion, and clachan morphology engendered high density settlement. Density also 
+played a role in the spread of communicable disease. Our data are detecting higher urban 
+densities. 
+Poor law 
+valuation 
+Valuation linked closely to productivity and productive capacity of land, and in turn, the 
+profitability of particular activities corresponds with wider economic circumstances such 
+as the relative prices of produce (i.e. grain vs wool vs stock). 
+Consolidation of 
+holdings 
+Strong regional differences in estate reconfiguration post-Napoleonic war, moderated by 
+price of produce, extent of direct control over estates and labour within settlements. 
+Uncultivated land 
+Availability of wasteland a key contextual variable in the growth of rundale both through 
+outward reclamation from within, and new settlement colonisation. Elevation is also 
+important, as such settlements tended to thrive on higher, marginal lands. 
+Crop yield 
+Strong patterning of production and yield according to ‘regional archetypes’, with 
+particularly strong output in certain specialised areas (i.e. the Anglo-Norman Southern-
+Eastern tillage tract). Yield consistency reflects regional ecological and economic resilience. 
+Flax production 
+Regional clustering of linen production in the Ulster linen triangle, in certain districts of 
+West Mayo, with proximity to linen markets, household divisions of labour, and availability 
+of labour a key factor. Linen production reflects a diversity of income streams beyond sole 
+dependence on single crops, and is a key factor in settlements resilience to external stress. 
+Common holding 
+Settlements constituting rundale identity (table 1, ‘common pool system’) thrived in 
+marginal land-poor districts, at higher altitudes, and under favourable grain prices where 
+landlords encouraged tillage.  
+Ration uptake 
+Together, these factors conspired to lower resilience to distress amongst common-pool, 
+and land-poor regions. With the balance of openfield production disrupted, continuing 
+rent obligations, restrictions on expansion, monoculture of dietary potato dependence, 
+low species diversity, disease in turn thrived.  
+18 
+ 
+A GEOGRAPHICALLY WEIGHTED MODEL OF FAMINE DISTRESS 
+ 
+ 
+Table 5. Regression Output (OLS and Geographically Weighted)  
+ OLS (cluster-robust errors) GWR  (Fixed Bandwidth) 
+GWR  
+(Adaptive 
+Bandwidth) 
+Common (log) .544*** .284** - .290* (.073) 
+.300* 
+(.059) 
+Population - 1.54*** 1.508** 1.323* (.536) 
+1.472** 
+(.409) 
+Valuation - -.541*** -.510*** -.477** (.140) 
+-.511** 
+(.109) 
+Consolidation - .004 .006 .007 (.009) 
+.008 
+(.008) 
+Uncultivated - .035*** .031*** .030*** (.009) 
+.031*** 
+(.010) 
+Corn yield - -.010*** -.009 -.011** (.003) 
+-.011** 
+(.002) 
+Crop area - -.064** -.069*** -.040 (.032) 
+-.041 
+(.037) 
+Flax cultivation - -.150*** -.148*** -.096* (.076) 
+-.091* 
+(.068) 
+Common 
+(Group 1) - - reference - - 
+Common 
+(Group 2) - - -.109 - - 
+Common 
+(Group 3) - - -.153 - - 
+Common 
+(Group 4) - - .694** - - 
+Constant -.312*** -2.743*** -2.369*** -2.448*** (.540) 
+-4.235*** 
+(.608) 
+F (1, 128) 21.95*** 
+(8, 121) 
+13.25*** 
+(10, 119) 
+11.49*** (8, 121) 41.894 (8, 121) 44.482 
+Adj R2 .1397 .4318 .5115 .605 .593 
+AIC 360.476 304.1097 296.793 268.379 270.519 
+Mean VIF - 4.90 4.31 - - 
+Neighbours - - - - 117 
+Bandwidth - - - 149 km - 
+N 130 130 130 130 130 
+*p<.05; **p<.01; ***p<.001 
+In the GWR column, coefficient standard deviations are in parentheses. 
+ 
+ 
+19 
+ 
+Table 5 displays parallel results from a set of cross-sectional, and geographically weighted models, 
+and visual diagnostics (residual plots and R2) are provided in figures 7-10. Across all cross-sectional 
+specifications, coefficients are signed intuitively according to the mechanisms detailed above. 
+Common holding displays strong positive association with ration uptake, recording one of the 
+strongest effect sizes aside from population density. Population density is signed positive in all 
+specifications, and strongest of all predictors, however it must be interpreted with caution. While 
+the impact of population density is intuitive in terms of the mechanisms outlined above – 
+particularly in high-density common pool regions -  the variable is itself only weakly correlated 
+with common holding (table 3). As such, the positive effect of population is likely due to high-
+density urban regions into which numbers of destitute flooded during the peak famine years. 
+Rather than marking a departure however, urban areas were themselves sites of vast inequality (in 
+the case of Dublin) and high mortality, especially in high-density tenement districts.  
+ 
+Additional stressors of ration uptake include consolidation (of small magnitude), and uncultivated 
+lands. In line with our discussion of the role of productivity above, consistency of yield and 
+productive area are both associated with lower ration uptake. Corn yield is particularly interesting, 
+as although recorded potato acreages were provided through the agricultural censes, the 
+widespread destruction of crops makes systemic comparison of true yield estimates impossible, 
+whilst turnips are of too small a count to substitute. As corn production is widely distributed across 
+the island, the capacity of regions to maintain output - itself dependent not only on ecological 
+circumstance but also institutional robustness – is a useful resilience indicator. Flax cultivation 
+captures not only the comparative resilience of Northern Ulster, but of the importance of 
+economic diversification. According to Sen’s classic entitlements model, the collapse of indirect 
+entitlements constitutes one of three key sustenance channels in a healthy economy. One avenue 
+toward widening indirect entitlement channels at settlement level is economic diversification, and 
+our results suggest that the diversity of income streams offered by cottage industries engaged in 
+flax production and ‘putting-out’, played a key role in enhancing their resilience to ecological stress.   
+ 
+Model three, from the first set of cross-sectional specifications is of particular interest, as it 
+decomposes common tenancy into four discrete categorical groupings. This is desirable, as the 
+variable is negatively skewed, with a cluster of high-value cases toward the right tail of the 
+distribution. Categorisation was performed through k-means clustering, with an input condition 
+of four, yielding a set of comparator groups for which group 4 displayed the highest group mean. 
+Group four is here associated strongly and positively with heightened ration uptake, suggesting 
+the bulk of the global positive effect was borne by regions of high common tenancy, as other 
+groupings show negative values relative to the reference. Whilst this is somewhat to be expected, 
+its magnitude is striking, further suggesting that the neglect of common tenancy to date has led to 
+oversight of a key dynamic in rural social structure. 
+ 
+Both geographically weighted models offer some improvement on the overall explanatory power 
+of the included variables, with the fixed and adaptive specifications improving the R2 substantially. 
+While this is also due in part to the inclusion of additional parameters in the GWR specification, 
+the AIC also records a reduction, and this figure is itself adjusted for the complexity of the model, 
+suggesting the GWR is the preferred specification. Whilst the fixed bandwidth performs marginally 
+better diagnostically, the adaptive is a more intuitive fit with the research problem, as it adjusts the 
+number of neighbours according to our chosen contiguity criteria. It is likely that the moderating 
+effect of common tenure on distress manifested in a variety of ways. Firstly, although our 
+theoretical informants suggest heightened resilience effects associated with greater extents of 
+common holding, this depends on the flexibility of members to respond to environmental 
+feedback. Clearly this was severely hampered in the immediate famine period by extensive 
+enclosures, both in response to financial distress amongst landowners, and falling grain prices 
+20 
+ 
+which incentivised consolidation, and the clearing of smallholders. Secondly, excess mortality 
+during this period was not attributable to direct starvation alone. Communicable diseases, 
+particularly cholera, dysentery, and typhus, played the largest role in fatalities (Clarkson and 
+Crawford 2001), and it is likely that the high-density settlement associated with rundale, including 
+communal living with livestock and multiple generations in a single household, contributed to the 
+rapid spread of disease amongst an already immune-compromised population. These factors also 
+played a significant role in previous disease outbreaks such as the smallpox epidemic of 1739. 
+Examining the distribution of local R2 in both fixed and adaptive specifications (figures 7 and 8) 
+shows substantial regional variation in explanatory ability across regions – particularly the north 
+and west, although this may be a function of the large bandwidths excluding influential cases.  
+ 
+ 
+Figure 7. Local R2 (adaptive) 
+ 
+21 
+ 
+ 
+Figure 8. Local R2 (fixed) 
+ 
+ 
+ 
+ 
+Figure 9. Standardised residuals (adaptive) 
+ 
+ 
+22 
+ 
+ 
+Figure 10. Standardised residuals (fixed) 
+ 
+ 
+ 
+ 
+ 
+CONCLUSION 
+ 
+The complexity of these factors and their close interconnectedness confronts a common 
+perception surrounding the causes of the Irish famine – and indeed other instances of food 
+scarcity. To fully appreciate the impact of famine, we must factor not only its regional impact, but 
+the moderating role of resource governance systems in generating this uneven distribution. These 
+results map well onto Ostrom’s emphasis on the role of institutional adaptive capacity, and in turn, 
+confront several common charges levelled against other meso-level models such as Sen’s 
+entitlements model. First, by investigating more fully the structures and institutions which 
+characterised the settlements in question, we are better able to account for the complex channels 
+through which environmental stressors translated into inequalities of outcome. The preceding 
+models verify not only the significance of local modes of governance as predictors of distress rates, 
+but their uneven impact across the Island. This question of spatial variance has been largely absent 
+from much quantitative work on the impact of famine. Second, in addressing Devereux’s (2001) 
+criticism of the methodological individualism of work in famine studies, we might argue that a 
+more reasonable approach is to turn to ecological models such as this, to more fully tease out the 
+role of contextual effects. Finally, these results demonstrate the need for sociologists to pay greater 
+attention to geographical variability in their analyses. Rather than ‘controlling out’ spatial 
+heterogeneity through regional fixed effects, or treating them as confounding factors to be adjusted 
+through standard errors, instead we should use the descriptive abilities of spatial diagnostics, and 
+the analytical capabilities of weighted modelling, to enhance our understanding of the behaviour 
+of meso-level social structures and institutions.  
+ 
+ 
+ 
+23 
+ 
+References 
+ 
+Aalen, F. H. A., Whelan, K., & Stout, M. (1997). Atlas of the Irish Rural Landscape. Cork: Cork 
+University Press. 
+ 
+Almquist, E. L. (1977). Mayo and Beyond: Land, Domestic Industry and Rural Transformation in the Irish 
+West. (Doctoral dissertation). Retrieved from Boston University. 
+ 
+Anderies, J. M., Janssen, M. A., & Ostrom, E. (2004). A Framework to Analyze the Robustness of 
+Social-ecological Systems from an Institutional Perspective. Ecology and Society, 9(1), 18-35. 
+ 
+Anderson, K. (2010). Marx at the Margins: On Nationalism, Ethnicity and Non-western Societies. Chicago: 
+University of Chicago Press. 
+ 
+Berkes, F., Colding, J., & Folke, C. (Eds.). (2003). Navigating Social-Ecological Systems: Building Resilience 
+for Complexity and Change. Cambridge: Cambridge University Press.  
+ 
+Boyle, P. P., & Ó Gráda, C. (1986). Fertility trends, excess mortality, and the Great Irish Famine. 
+Demography, 23(4), 543-562. 
+ 
+Braa, D. M. (1997). The Great Potato Famine and the Transformation of Irish Peasant Society. 
+Science and Society, 61(2), 193-215. 
+ 
+Brunsdon, C., & Comber, L. (2015). An Introduction to R for Spatial Analysis and Mapping. London: 
+Sage. 
+ 
+Burtchaell, J. (1988). The South Kilkenny Farm Villages. In W. J. Smyth and K. Whelan (Eds.), 
+Common Ground, Essays on the Historical Geography of Ireland (pp. 110-123). Cork: Cork University 
+Press. 
+ 
+Byrne, D. (1998). Complexity Theory and the Social Sciences. London: Routledge. 
+ 
+Byrne, D. (2005). Complexity, Configurations and Cases. Theory, Culture and Society, 22(1), 95-111. 
+ 
+Byrne, D., & Callaghan, G. (2013). Complexity Theory and the Social Sciences: The State of the Art. 
+London: Routledge.  
+ 
+Capra, F. (2005). Complexity and Life. Theory, Culture and Society, 22(1), 33-44. 
+ 
+Census of Ireland. (1841). Report of the Commissioners Appointed to Take the Census of Ireland, for the Year 
+1841. 1843 [504] xxiv 
+ 
+Cillers, P. (2001). Boundaries, Hierarchies and Networks in Complex Systems. International Journal 
+of Innovation Management, 5(2), 135-147. 
+ 
+Clarkson, L.A., & Crawford, M. E. (2001). Feast and Famine: Food and Nutrition in Ireland 1500-1920. 
+Oxford University Press. 
+ 
+Collins, J. F. (2008). Quickening the Earth: Soil Minding and Mending in Ireland. Dublin: UCD Press. 
+ 
+24 
+ 
+Connell, K. H. (1950). Land and Population in Ireland, 1780-1845. The Economic History Review, 2 
+(3), 278-289. 
+ 
+Costanza, R., Low, B., Ostrom, E., & Wilson, J. (Eds.). (2001). Institutions, Ecosystems and 
+Sustainability. London: Lewis Publishers. 
+ 
+Cumming, G. S., & Collier, J. (2005). Change and Identity in Complex Systems. Ecology and Society, 
+10(1), 29-32. 
+ 
+Delaney, E. (2012). The Curse of Reason: The Great Irish Famine. Gill and Macmillan.  
+ 
+Devereux, S. (2001). Sen’s entitlement approach: critiques and counter-critiques. Oxford Development 
+Studies, 29(3), 245-263.  
+ 
+Devon Commission. Appendix to minutes of evidence taken before Her Majesty’s Commissioners of Inquiry 
+into the state of the law and practice in respect to the occupation of land in Ireland. Part IV. 1845 [672] [673] 
+xxii. 
+ 
+Evans, E. E. (1979). Irish Folk Ways. London: Routledge. 
+ 
+Flaherty, E. (2013). Modes of production, metabolism, and resilience: toward a framework for the analysis of 
+complex social-ecological systems. (Doctoral Dissertation). Maynooth University. 
+ 
+Flaherty, E. (2014). Assessing the distribution of social-ecological resilience and risk: Ireland as a 
+case study of the uneven impact of famine. Ecological Complexity, 19, 35-45. 
+ 
+Fraser, E. (2006). Food system vulnerability: Using past famines to help understand how food 
+systems may adapt to climate change. Ecological Complexity, 3(1), 328-335. 
+ 
+FraserD. (2007). Travelling in antique lands: using past famines to develop an 
+adaptability/resilience framework to identify food systems vulnerable to climate change. Climatic 
+Change, 83, 495-514. 
+ 
+Futemma, C., De Castro, F., Silva-Forsberg, M. C., & Ostrom, E. (2002). The Emergence and 
+Outcomes of Collective Action: An Institutional and Ecosystem Approach. Society and Natural 
+Resources, 15, 503-522. 
+ 
+Goodchild, M. F. (2004). The Validity and Usefulness of Laws in Geographic Information Science 
+and Geography. Annals of the American Association of Geographers, 94(2), 300-303 
+ 
+Goransson, S. (1961). Regular Open-Field Pattern in England and Scandinavian solskifte. 
+Geografiska Annaler, 43(1/2), 80-104.  
+ 
+Grimm, V., & Calabrese, J. M. (2011). What is Resilience? A Short Introduction. In G. Deffuant 
+and N. Gilbert (Eds.), Viability and Resilience of Complex Systems: Concepts, Methods an

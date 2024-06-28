@@ -1,0 +1,868 @@
+Socio-economic practices of resilience: portuguese national report
+
+  
+     WP4 – Socio-Economic 
+Practices of Resilience  
+Portuguese National Report 
+ 
+ 
+Authors 
+Luís Capucha (coordinator) 
+Alexandre Calado 
+Pedro Estêvão 
+ 
+August 2015 
+ 
+ 
+ Contents 
+1. Introdução ............................................................................................................................. 1 
+2. Country specific literature review on socio-economic practices of coping with hardship or 
+resilience ....................................................................................................................................... 2 
+3. Socio-economic characteristics of participants..................................................................... 3 
+4. Narratives and dynamics of hardship .................................................................................... 5 
+4.1. Narratives of hardship: how households explain hardship ........................................... 5 
+4.2. Impact of the 2008 crisis and related policy changes ................................................... 7 
+4.3. Other dynamics of hardship .......................................................................................... 7 
+4.4. Factors that are external and internal to the households in the emergence and/or 
+persistence of hardship ............................................................................................................. 8 
+5. Practices of coping with hardship ....................................................................................... 10 
+5.1. Income generation, protection and stabilization ........................................................ 10 
+5.2. Practices to manage/reduce cost of living .................................................................. 12 
+5.3. The role of assets and resources ................................................................................. 14 
+6. Effects and consequences of resilience .............................................................................. 17 
+6.1. Degrees of hardship and different forms of resilience ............................................... 17 
+6.2. How do resilience/coping strategies of households vary/differ according to their 
+socio-economic characteristics? ............................................................................................. 18 
+6.3. Costs and benefits of resilience .................................................................................. 18 
+7. Analysis of household resilience practices and limitations of resilience analysis ............... 21 
+7.1. Socio economic characteristics ....................................................................................... 21 
+7.2. Labour market developments and its implications for resilience. .............................. 22 
+7.3. Welfare state and its implications for resilience ......................................................... 24 
+7.4. Third sector and social economy and its implications for resilience .......................... 25 
+8. Conclusions ......................................................................................................................... 26 
+Bibliography ................................................................................................................................ 28 
+ 
+ 
+ 
+1 
+ 
+1. Introdução 
+ 
+The current report presents the results of the analysis of the interviews taken by the 
+Portuguese team within the RESCuE project. The objective of this report is double. On the one 
+hand, we aim at providing a description of the main resilience practices. We take here 
+resilience in a broad sense as responses shocks in families lives either caused by the crisis or 
+happening in their context. On the other hand, we aim to provide an analysis of the resources 
+and societal processes that are called into play in these practices as well as a tentative 
+assessment of their effects in families’ lifes in the short, medium and long term. 
+Aside from this introduction, the report is divided into six further chapters. Chapter 2 recovers 
+an overview of the scarce research on resilience in Portugal. Chapter 3 presents a brief 
+presentation of the sampling methods followed by our team, the procedures we engaged to 
+contact the participants and, finally, two summary table with basic socio-economic 
+characterization of the participants.  
+Chapter 4 will be dedicated to present the critical moments in interviewees lives that led them 
+to poverty at some point, as well as the main traits of their experiences of hardship. This is 
+often important to understand the origins and timeframe of resilience practices. In chapter 5, 
+we turn to presenting the resilience practices we actually identified as well as the main 
+resources that are mobilized in them. In turn, chapter 6 looks into the consequences of said 
+practices in families’ and individual family members’ lives. Finally, chapter 7 will present a 
+short discussion of how social structuring processes (such as class, gender or migrations) shape 
+resilience practices and how the characteristics of the labour market and of the welfare state 
+foster or hinder them. 
+We opted to make some slight adjustments to the general framework proposed by the 
+coordination of the work package. The need for this adjustments emerged as we were writing 
+the report and pertain to situations in which we felt: (a) that a particular heading was more 
+coherent with what we were developing in another chapter – in which case; (b) there was an 
+overlap between what different headings aimed at doing – in which case; or (c) important 
+information for understanding the workings of resilience practices did not fit into the existing 
+structure. Thus, the following adjustments were made: 
+ Heading 4.2 (“Impact of the 2008 crisis and related policy changes on household 
+hardship”) was diluted in chapter 7. For this effect, we added a heading on chapter to 
+deal with the welfare state, as access social transfers and public services turned out to 
+be too crucial resources for resilience practices but also intertwined with the workings 
+of the labour market. We also added a small heading on social economy and the third 
+sector.  
+ Heading 6.2 (“how do resilience/coping strategies of households vary/differ according 
+to their socioeconomic characteristics”) will point directly to heading 7.1 (“socio-
+economic characteristics”), as the content of both overlapped and the later chapter 
+dealt precisely with the role of social structuring processes and major institutional 
+complexes in the shaping of resilience practices. 
+We are hopeful that this changes will make for a better document and thus facilitate the 
+production of the international report. 
+2 
+ 
+2. Country specific literature review on socio-economic 
+practices of coping with hardship or resilience 
+ 
+The existing scientific work on human resilience in Portugal is far from abundant and has been 
+mostly restricted to psychology and health sciences. These disciplines have nevertheless 
+focussed on a reasonably wide range of subjects such as family resilience in the case of disease 
+(Peixoto & Martins, 2012), career orientation of adults (Meireles & Xavier, 2010), military 
+personnel behaviour in international peacekeeping missions (Morais, 2009) or risk behaviours 
+among children and teenagers (Simões, et al., 2010). The approaches followed closely the 
+medical notion of resilience as a process of coping and adaptation and are grounded on 
+quantitative methods and statistical analysis. 
+Social sciences, on their hand, have largely ignored the notion of resilience up to now, with 
+only a handful of exceptions. Within Portuguese sociology, only the subfield of sociology of 
+education, where the perspective of resilience set forward by the OECD in the context of the 
+Programme for International Student Assessment (PISA) has been the major influence, has had 
+any significant work on resilience. Resilience is here viewed as the condition of students “who 
+succeed despite adversity”  (OECD, 2011). This is very much a quantitative approach: on the 
+context of PISA, these students are identified through comparison between standardised PISA 
+tests and indicators of their socio-economic status. Despite the “heroic” overtones of this 
+approach to resilience, it should be stressed that key to the OECD is between the approach to 
+characteristics of schools and school systems.  Following this line, detailed analysis of PISA 
+results of Portuguese Students have begun to be undertaken by Portuguese researchers 
+(Carvalho, et al., 2014).  
+The only other social science where resilience is human geography, where some Portuguese 
+researchers are trying to promote an agenda of research on “resilient territories” in order to 
+study long-term transformations and emphasize the role locally grounded structures and 
+factors that foster creativity and social innovation (Freitas & Estevens, 2012). This current, 
+however, still lacks any significant empirical works. 
+  
+3 
+ 
+3. Socio-economic characteristics of participants 
+ 
+The Portuguese team adopted a mixed sampling strategy for its fieldwork. We started by 
+devising a theoretically-driven sample, creating quotas for subjects based on socioeconomic 
+groups  that have been identified as more vulnerable to poverty by the scientific literature in 
+Portugal.  
+Two subsamples, each comprising 12 cases, were devised to account for the geographical and 
+socioeconomic characteristics of the two cases.  Tables 1 and 2 present both the generic main 
+profile and, in most cases, further specifications to account for the maximum amount of 
+diversity within the sample. A lot of the profiles are common to both subsamples. These 
+include pensioners, unemployed and industrial and services workers. In the case of 
+unemployed, we wanted to ensure diversity regarding educational resources. We chose to 
+single out the case of the poor Portuguese Gypsy, given on the one hand, the persistent higher 
+rates of poverty and lower schooling levels among this group and, on the other, the still 
+persistent discrimination - in accessing the labour market - of which they are still target.  
+A further category was put forward to allow some flexibility on the selection of families for 
+interviews: that of “multiproblematic families”. This is a broad term applied to families which 
+are simultaneously exposed to different factors of poverty – such as monoparentality, low 
+qualifications or precarious insertion in the labour market. We opted also for having families 
+with different situations regarding the RSI (the Portuguese Minimum Guarantee Income 
+measure). Given both the importance of this measure in poverty fighting and the strong 
+reduction on the RSI coverage brought by austerity measures in Portugal1, this option aimed at 
+allowing the observation of contrasting effects of welfare policies in resilience processes. 
+Nevertheless, measures were taken to include specific profiles that are more relevant in each 
+of the local contexts. In the case of Gótica, two types of “farmer” profiles were included, a 
+labourer and a small landowner. This was due the importance of agricultural activities in the 
+municipality and also to – particularly in the case of the small landowner – the need to ensure 
+at least one observation point on the role of land resources on resilience processes. The 
+presence of public servants – or, at least, people working for public institutions even if with 
+other types of contract – also needed to be safeguarded, given the importance of the public 
+sector as an employer in the municipality.  In the case of Lugarão, the option of including 
+immigrants was obvious, given their importance in the population and the projects’ goal of 
+analysing the relation between migration and resilience processes. 
+The initial construction of the sample relied heavily on the experts input. These were asked to 
+fill in a document listing families of which they had knowledge and which might be interested 
+in participating. This allowed for the identification of a significant portion of the sample and 
+also facilitated first contact. In the case of Gótica, it was also necessary to resort to further 
+contacts with civil parish presidents2 and also from participants themselves for completion of 
+the samples. In the case of Lugarão, it was necessary to extend the sample because a high 
+                                                          
+1
+ Despite the deepening of the crisis between 2010 and 2013 – with negative GDP growth rates 
+registered in 2011, 2012 and 2013-  the number of beneficiaries of the RSI in Portugal fell by 31,7% in 
+this period. This apparent contradiction is explained by the setting of tighter rules for accessing this 
+transfer in the context of austerity policies.  
+2
+ Civil parishes are subdivisions of municipalities and are the smallest administrative units in Portugal. 
+Each civil parish has an elected president. 
+4 
+ 
+number of participants refused to take part in the photographic interviews phase. The 
+following two tables present a basic characterization of the participants from the two areas. 
+Table 1 - Participants in Gótica 
+# Name Sex Age Education Occupation Nationality 
+1 Teresa & 
+José 
+F&M 48 (T), 
+50 (J) 
+Secondary (T), 
+Basic (J) 
+Assistant at nursery home (T), 
+unemployed (business owner)(J) 
+Portuguese 
+2 Pilar & 
+Armando 
+F&M 36 (P), 
+38 (A) 
+Basic (P), 
+Secondary (A) 
+Assistant at nursery home (P), 
+unemployed (travelling 
+salesman) 
+Portuguese 
+(Gypsy) 
+3 Fátima F 45 Basic Library clerk Portuguese 
+4 Teresa F 43 Secondary Municipal clerk Portuguese 
+5 Cristina F 34 Basic Masseuse Portuguese 
+6 Marta F 37 Basic Factory worker Portuguese 
+7 Carla F 43 Secondary Taxi driver Portuguese 
+8 Noélia F 42 Basic Assistant at nursery home Portuguese 
+9 Nascimento M 73 Secondary Retired (industrial draughtsman 
+& business owner) 
+Portuguese 
+10 Luís M 49 Basic Café owner Portuguese 
+11 Maria F 72 Basic Retired (cook) Portuguese 
+ 
+Table 2 - Participants in Lugarão 
+# Name Sex Age Education Occupation Nationality 
+13 Malam M 66 None Unemployed (Construction worker) 
+Guinean 
+(Bissau) 
+14 Julian M 39 Basic Unemployed (Construction worker) Romanian 
+15 Eliane F 31 Basic Unemployed (Waitress) Brazilian 
+16 Baluta F 24 Basic* Cleaning worker 
+Guinean 
+(Bissau) 
+17 Cláudia F 39 Tertiary** Unemployed (estate agent & cook) Portuguese 
+18 Ausenda F 36 Basic Unemployed (supermarket cashier) Cape Verdean 
+19 Navnital M 65 Basic Retired (former business onwer) Indian 
+20 Dimar M 25 Basic Unemployed (construction worker) 
+Guinean 
+(Bissau) 
+21 Madalena F 55 Basic Cleaning worker Cape Verdean 
+22 Marieta F 39 Basic Cook/Cleaning worker Cape Verdean 
+23 Lourença F 41 Basic Restaurant owner São Tomean 
+24 Pedro M 37 Basic Waste collector Angolan 
+25 Aurora F 53 Basic Unemployed (hairdresser) Portuguese 
+26 Geraldo M 62 Basic Unemployed (construction worker) Cape Verdean 
+* Baluta was taking a vocational course at the time of the interview 
+* Cláudia concluded her higher education course in between the two interviews. 
+ 
+  
+5 
+ 
+4. Narratives and dynamics of hardship 
+ 
+4.1. Narratives of hardship: how households explain hardship 
+ 
+Our interviewees’ accounts of their own experiences of poverty can be said to relate to three 
+major dimensions: restriction; dependence; and mental suffering. Restriction refers to activities 
+that one cannot engage at present due to lack of resources. The more immediate one is the 
+need to restrict one’s diet. C. referred how fresh fruit had to become secondary in order to 
+guarantee the main course to the other four family members. J. mentioned stopped buying 
+wine or beer.  
+Another kind of restriction is no longer being able to engage in generosity gestures towards 
+family members and particularly children. Pilar & Armando expressed sorrow for never being 
+able to buy a sweet or a small toy for their small children when going shopping. This kind of 
+restriction can also take the form cherishing exceptional moments in this regard. Teresa 
+showed us photos of her adolescent son swimming with friends in a holiday trip organized by 
+the school, emphasizing that it was the only time during his adolescence that she was able to 
+afford it. 
+Restrictions also affected spatial mobility. Thus, we had interviewees who could no longer 
+afford to leave the town or the village where they live on vacation or even for small leisure 
+time. Noélia mentions no longer being able to afford a week at the beach in the summer as she 
+did when her and she had a better job in a furniture factory. Teresa & José, who had a more 
+steep downward trajectory in income terms, stopped making weekend trips and vacations that 
+they were able to make – including a motorbike tour in Brazil. 
+Another effect that can be classified under the restriction heading is the retraction from 
+contact with others. In our sample, retraction from contact took three different forms. The 
+first form is retract from involvement in associations and civic life. Malam, an immigrant from 
+Guinea-Bissau, claims that he has stopped going to events of an association of immigrants 
+from his region that is located in Lisbon, for no longer being able to afford public 
+transportation. The second is restriction from contacts with friends. Nascimento, who moved 
+back to his native village after retiring, stopped going back to Lisbon to see friends because of 
+the costs of the trip.  But retraction can also be felt towards one’s own family. J. stopped 
+having family celebrations for Christmas and Easter – partially because his relatives emigrated 
+elsewhere in Europe and partly because they felt they could no longer afford a proper 
+reception.  
+The sense of dependence from the family is another dimension of interviewees accounts of 
+their situation. This is the case of younger interviewees, who live with their family and are 
+unable to settle on his own because of lack of a job and regular income.  
+The reverse feeling of seeing oneself as the main responsible for providing care and income for 
+one’s family - is also present. This is very much the case of women who are tasked with caring 
+for elder family members. Cláudia is the sole carer for her mother, who lives alone and has 
+been diagnosed with Alzheimer’s, something that she feels at the same time as her moral 
+obligation and retribution for her mother’s affection - but also as something that puts a further 
+strain in C.’s physically debilitated condition. Likewise, Noélia prioritizes the need to taking 
+6 
+ 
+care of her mother, who suffered a stroke, even if that means eschewing job opportunities 
+away from the village.  
+Another related experience is the strain of being at the supporting end of family solidarity 
+networks. Thus, Malam reported that her family in Guinea-Bissau expect him to provide for 
+needed goods – particularly medicines – something that forces him to recur to gift networks 
+and thus further indebting him with friends. In turn, Nascimento, had to shelter her young 
+adult grandchildren after his older son’s divorce and decision to emigrate to Brazil as well as 
+financially supporting him and also his younger son that had   - something that, coupled with 
+pension cuts, has put a strong drain on his savings and severely disrupted his ability to lead a 
+comfortable life after retirement. 
+Finally, mental suffering refers to experiences of stress and fear and depression. Ausenda 
+claimed that she often has trouble sleeping at night just thinking how she will put food on the 
+table in the following day. Cláudia recalled how often she felt unable to get out of bed on the 
+immediate months following her and her husband’s dismissal, being inclusively medicated for 
+depression.   
+We also probed for the interviewees’ aspirations and how they envisioned their own future 
+and that of their families. Five main themes emerged from the interviews in this regard.  
+The first theme was having a career or at least some form of job stability. This theme was 
+present in the interviews where the subject had precarious job or no job at all. It assumed two 
+major variations. The first variation is the getting job as a strong wish but without immediately 
+foreseen how to get one. When asked what she would be more important for her in the near 
+future, Ausenda told us that if she, her husband and her son could get a job in the nearby 
+future, it would be good enough for her. In the same vein, Julian expressed his conviction that 
+he was bounded to that find a job, as “things could not continue to be bad for ever”. The 
+second variation was that of unemployment as a temporary setback. On the first interview, 
+Cláudia affirmed vehemently her belief that she would find work as soon as she finished the 
+higher education course she was taking – stating that two of her teachers had already hinted 
+at offering her a job in that situation.  
+The second theme is owning a house. This is characteristic of the interviewees who live in 
+either rented flats or in social (council) housing. Eliane, a Brazilian immigrant who lives on a 
+shared flat, told us that her greatest dream would be having her own house - either in Portugal 
+or in Brazil – where she could bring in her children and her mother to live with her. Likewise, 
+Teresa, who is a tenant, described her greatest dream as being to own a house. She had even 
+identified a potential target that and that was being put up for sale by a bank, and calculated 
+that her mortgage payments would be similar to the amount she was currently paying as a 
+rent.  However had her application for credit turned down because she could not present the 
+guarantor required by the bank.  
+The third theme is emigration. Teresa &José, who are locked into long family dispute regarding 
+what he claims to be his rightful share of the family’s small business, would provide him with 
+capital for emigrating to Southern Brazil and opening a restaurant. Luís, a former emigrant for 
+30 years in Belgium who invested all his savings in a small café in his native village, showed 
+himself as disillusioned with his option of returning and repeatedly claimed that his only 
+chance was once again moving abroad. Baluta, a young woman from Guinea-Bissau, is 
+contemplating immigration to England upon finishing the vocational course – although she had 
+yet to make concrete plans. And between the first and second interviews, Cláudia’s husband 
+7 
+ 
+decided to emigrate to England, following an invitation by a cousin who was working in a meat 
+processing plant and assured he could get a job there for him. Cláudia was now enthusiastic 
+with the prospect of following her husband and confident she would find a job also. She also 
+cherished the prospect of her young son becoming proficient in both Portuguese and English, 
+and also of providing her younger daughter with the chance to study in a British University. 
+A fourth theme that emerged from the interviews was that of returning home. This is came 
+from one of the interviews to immigrants, although it took the form of an outburst of 
+frustration rather than as a concrete option that was being seriously weighed. Malam, an elder 
+immigrant also from Guinea-Bissau saw it as the only way, stating “if things didn’t improve 
+soon, it would be better to return to his country. Nevertheless, we were surprised the second 
+interview had to be anticipated because, on the follow-up contact, he told us that was actually 
+going back to Guinea-Bissau to take care of his wife that had fallen ill. 
+One final theme emerged from the interviews: the inability itself of projecting the future due 
+to the extremely precarious living conditions. Pedro is an exemplary case in this regard. He 
+went through an ascending trajectory in which he moved from construction to a typography 
+and in which he was even engaging in training in industrial engineering and even 
+contemplating applying for a higher education course. However, he was pulled into a situation 
+of long-term unemployment with the crisis. He now feels as devoting all his energies to 
+strategies of short-term survival and thus feels incapable of projecting his long term future. 
+ 
+4.2. Impact of the 2008 crisis and related policy changes 
+ 
+This subject is developed on chapter 7. 
+ 
+4.3. Other dynamics of hardship 
+ 
+Regarding relation to poverty, the biographical trajectories of the interviewees in our sample 
+can be classified into three groups: long-term poverty; change in poverty way of life; and fall 
+into poverty. Long-term poverty is a term we applied to the cases in which the interviewee and 
+his family had long lived in poverty conditions, at least preceding the crisis. This was the case in 
+our sample of: Pilar & Armando; Baluta; Dimar; Madalena.; Marieta; & Geraldo.   
+Fall into poverty is a term we applied to trajectories in which were pushed in to poverty by 
+events either: (a) directly connected to the crisis such as job loss, degradation of working 
+conditions or the closing of one’s own business or (b) personal turning points, such as an 
+illness, the death of a family member or a divorce. In our sample, this was the case of Teresa 
+&José; Nascimento.;Natvnital. Maria; Aurora.; Luís; Carla; Fátima; and Noélia. 
+Finally, we have changes in poverty ways of life, which is but understood here as 
+reconfiguration both of objective conditions and lifestyles in the aftermath of the crisis, 
+leading to a different experience of poverty. In our sample, this is the case of Julian; Marta; 
+Malam; Lourença; Eliane; and Ausenda. We will discuss both the pivotal points in the lives of 
+the interviews and their effects on their relation to poverty in the following subchapter. 
+8 
+ 
+ 
+4.4. Factors that are external and internal to the households in the 
+emergence and/or persistence of hardship 
+ 
+In our analysis, we considered two distinct (though interconnected) dimensions regarding the 
+emergence and persistence of hardship. The first is a classification of the pivotal moments in 
+the biographical trajectories of the interviewees as they emerged from their accounts. The 
+second is a preliminary attempt to discuss what we termed factors of hardship, that is, wider 
+phenomena whose configurations interlink with the individuals life trajectories that 
+contributed to either intensified or attenuate hardship. These factors will be discussed at 
+length in chapter 7, so we shall concentrate here on the pivotal moments. 
+The pivotal moments are strongly associated with risks pertaining to income generation, 
+personal health and lifecycle, many of which have overlapped and been exacerbated in a 
+context of economic crisis, reconfiguration of power relations in the labour world and austerity 
+in social policies.   
+The first of such risks is that of unemployment. The loss of one’s job, whether through personal 
+dismissal/non-renewal of contract or to the closure of one’s workplace is a key moment in 
+propelling interviewees into a situation of poverty. Thus Cláudia relates being “thrown into the 
+doldrums almost overnight” when both she, who worked as a cook in a canteen and her 
+husband, who worked as a security guard in a private security firm, lost their jobs in the same 
+month in 2013. Likewise, Noélia identifies the key downturn moment in her life – both because 
+of the loss of income but also of the relationships with co-workers built there - the closure of 
+the furniture factory in 2010, where she had worked for 24 years. 
+Also similar in impact is the closure of one’s own business. This is the case of Teresa & José, 
+whose business of event organization closed in 2008 (due to increasing costs, dwindling 
+demand and a conflict with a business partner) and whose subsequent ventures (a children 
+theme park in the premises of their former business and later the investment in a loader 
+backhoe for sanitation works and forest cleaning) all failed, leaving both unemployed since 
+2012. 
+Also relevant in this context are health risks, and particular work accidents and occupational 
+diseases. Cláudia suffered a work accident three days before the end of her fixed-term 
+contract and as she was moving to work another firm with a better contract. Amid increasing 
+pain, she was diagnosed two days later with a disc herniation which forced her have surgery 
+and a long recovery. This left her on a lull: she was not able to claim insurance – as the firm did 
+not recognize the accident to take place during the contract – or sick leave from Social Security 
+– as by law, work accidents are to be covered by the mandatory insurance payed by the firms. 
+Due to her illness, she also lost the contract she was starting, leaving her unemployed since. 
+The case of Ausenda is also characteristic of these risks. She contracted a tendinitis while 
+working as a supermarket cashier also leading to a later dismissal at the end of the fixed term 
+contract. This left her unable to get a full-time job since then. 
+Another pivotal moment - and one whose consequences are strongly gender-biased – is 
+divorce or separation. Aside from the psychological strain, separations make up for a 
+significant drop in income which is aggravated in the cases when one part – usually the woman 
+9 
+ 
+– is awarded the custody of children and the other part either refuses or is unable to pay child 
+support. This was the case of Fátima, who left her second husband in 2007, taking her two 
+children with her. This meant renting a new flat and supporting expenses exclusively on her 
+own, as her ex-husband emigrated to France and never paid any child support. The separation 
+of Teresa had a similar effect. She left her second husband in 2008, taking her son with her. As 
+she was earning minimum wage, she opted to move into her mother’s house in another town 
+– which but also implied a 50-km ride by car everyday to work and back.  
+Ageing is another relevant risk. Thus, Nascimento envisioned moving with his wife from Lisbon 
+to his native village in the early 2000s as a way to mitigate the drop in income upon 
+retirement. However, he is now in a position where he has little margin - apart from drawing 
+on the savings on which he had counted - to deal with the unforeseen need of having to 
+provide financial support for both his sons as well as housing his grandchildren.  
+Finally, there is the case of immigrants, whose pivotal moment is the arrival in Portugal itself at 
+a time of crisis. In this was the case of Malam. Malam had first emigrated to Portugal back in 
+the early 1990s and then returned to Guinea-Bissau in 2007. Based on his pre-crisis 
+experience, he decided to return to Portugal in 2010, only to find himself unable to in a 
+construction sector that had been. It was also the case of Baluta, whose family arrival in 
+Portugal coincided with the beginning of the crisis, which meant that her parents had 
+difficulties in finding jobs – with her mother going as far as engaging in seasonal working in 
+farms in Spain - and resulted his father later returning to Guinea. 
+ 
+  
+10 
+ 
+5. Practices of coping with hardship 
+ 
+5.1. Income generation, protection and stabilization 
+Coping practices that act on income generated and/or available aim to establish ways to 
+protect and stabilize household income in order to preserve the lifestyle and consumption 
+patterns. These are activated by implementing new forms of generating income or replacing 
+lost income with family, community or public support mechanisms, whether formal or 
+informal, for short or long term. 
+Paid work represents the main source of income for families. In most cases, is full time and 
+with a fixed-term contract. We found only two cases where it was mentioned permanent 
+contracts - Teresa and Fatima - and also only a few cases of work without a contract, 
+associated with low-skilled odd jobs. Examples of this are the cases of Malam, who 
+occasionally works informally in construction in small tasks, and Eliane, that while she was 
+unemployed worked as a cleaner, also on an informal basis. There are not many situations of 
+multiple jobs from one household member. Instead we found many situations in which various 
+members of the household contribute to the overall income. The existence of unpaid labor is 
+also residual, usually taking the form of volunteering for future remuneration and the 
+respective formal integration in that specific job. For example, Pedro helped out in a café as a 
+cook trying to make it a paid job, while Marieta’s son works as a volunteer in the fire-fighting 
+department, aiming to be a professional in the future. 
+Another characteristic of coping practices that stands out is the importance of paid work to 
+support the household budget. Although we find in all households unemployed members, in 
+most of them there is at least one member working full time, providing the revenue base for 
+the household. The case of Cláudia is paradigmatic of this situation. Both she and her husband 
+are unemployed, yet both daughters are integrated professionally. The younger one works full-
+time, with a contract, in a clothing store; while the eldest does manicures and pedicures on an 
+informal basis. Similarly, Aurora, also unemployed, is dependent on social transfers and the 
+income provided by her son, who is working with a full-time contract, to make ends meet. Only 
+in cases of isolated persons we find people living essentially of odd jobs and social transfers, 
+such as Julian, Pedro and Geraldo. 
+It is also important to highlight the tendency of general devaluation of the employment status. 
+We can assist to a general trend of depreciation of the employment status from the previous 
+professional career or the last employment. Cláudia went from being a real estate agent to 
+being a cook, Teresa was a small business owner and now works as an attendant at a nursing 
+home, while Carla went from ophthalmology technician to work on commission as a cabbie. 
+Also, situations where people work on skilled jobs are residual. 
+ 
+We identified two cases of self-employment, both with singular characteristics. Luis, a former 
+Portuguese emigrant, decided to return. Having some money saved, set up his small business - 
+a local café. Not emerging as a coping strategy, the business suffers from the effects of the 
+crisis. Today Luis needs to support his family and the business represents a source of 
+vulnerability and limitation to the activation of other strategies, such as re-emigrate. Lourença 
+and her family, on the contrary, saw in the opening of a restaurant a way to create jobs and 
+livelihood for the family. They were in a critical situation. The investment in the business itself 
+11 
+ 
+comes in a context where both household adult members were unemployed. Now, even 
+tough, it barely makes ends meet it provides work for the adult members and meals for 
+everyone in the family. However, investment conditions for opening the restaurant are quite 
+singular, in that they were obtained through redundancy payments mandated by the court, in 
+the context of labor disputes with former employers. 
+Social transfers play a decisive role as safety nets (in some cases the only) in the case of loss of 
+all or significant sources of income. Almost all families interviewed are framed by some kind of 
+support income provided by the Welfare State. The most common types are: minimum 
+guaranteed income, children allowances, unemployment benefit, pensions and social housing. 
+Given the changes in eligibility conditions for social support, to be awarded these allowances 
+means that the households in question have strong vulnerabilities. Pensions have a particular 
+role, since in some cases they represent the key contribution of the Welfare State as an 
+income source, being the basis for family’s redistribution networks. 
+We also found more active strategies. Maria and her husband, both elder, take care of Maria’s 
+mother (aged 90), thus joining her pension to the family’s budget, allowing them to strengthen 
+the sources of income. Teresa and Fátima are interesting cases of support mechanisms 
+provided by Welfare State in extreme situations. In both cases the ex-husbands do not pay 
+alimony intended for their children, forcing both women to turn to the social security 
+replacement allowance for child maintenance. 
+ 
+Informal economy is also an important coping strategy, which can be distinguished between 
+the support provided by family networks and friends and the support of local institutional 
+network. Support of family and friends is reflected primarily through the distribution of goods 
+or through the assumption of certain roles in family organization. In Carla’s case, her parents 
+began to assume a more prominent role in the education of their granddaughter, taking on 
+school costs and other immediate needs, as well as taking care of her during the day. This help 
+allows Carla to hold broader work schedules, which she needs being a cabby working on 
+commission. Carla also dines daily with parents and receives from them grocery shopping. 
+Despite being employed full-time, this support is critical to meet their immediate needs. 
+Cláudia also receives support from her mother and in-laws to pay the playground of her son, 
+and also receives vegetables and fruit weekly from the in-laws’ garden, as a form to cut down 
+costs on food budget. 
+Similarly, the institutional network mainly takes the form of food support. We found multiple 
+cases of families being helped by food banks. It’s not a situation limited only to cases of 
+absolute poverty. In the majority of cases, access to the food bank runs via guaranteed 
+minimum income. Benefiting on the knowledge that social assistants gain the reality of 
+families, they signal and approach families in order to be awarded such help. There are also 
+situations such as Marta’s, which food support began as a request from school for her children 
+to eat lunch during holydays at school, but in the meantime has become a systematic weekly 
+help directed to the household. 
+We also found some cases of money handouts. However they occur mainly among the 
+immigrant communities and has a residual weight in the overall strategies. Pedro and Baluta 
+refer to participate in an informal network of gifts of small amounts of money, which are 
+distributed in emergency situations by those who have some disposable income. People who 
+12 
+ 
+give and receive change over time, according to their status of income and their immediate 
+needs, involving at some point everyone in the community. 
+Investment in skills development also has little expression in the strategies identified on the 
+analysis. Actually, only Cláudia refers betting on higher education as a coping strategy; with 
+expectations after graduation to solve her unemployment situation. The ability to implement 
+this strategy is closely associated with having received a scholarship to support her financially, 
+and the fact that both her daughter provide help to fulfill the family’s budget. Pedro also has 
+invested years ago in vocational training, at the secondary level, as an industrial technician 
+while being unemployed. Despite having enjoyed the training, which he concluded 
+successfully, and the will he manifests to invest in higher education on industrial engineering, 
+the stagnation of the labor market and the urgent need for income made him suspend 
+indefinitely his project. 
+ 
+ 
+5.2. Practices to manage/reduce cost of living 
+Coping practices focused on lifestyles and consumption patterns aim to act on living conditions 
+of the household, by the development strategies for reducing consumption and the cost of 
+living. In a framework of a general reduction in household incomes and rising cost of living, as 
+well as the strengthening of employment opportunities (formal and informal), households by 
+changing their lifestyles promote strategies that allow them to meet their immediate needs. 
+Changes in consumption patterns play a dominant role in this type of coping strategies, 
+covering virtually all aggregates interviewed. Indeed, cases where consumption patterns have 
+not suffered major changes are those household aggregates already with consumption 
+patterns quite meager, as the cases of Pilar and Armando, Baluta and Navnital. 
+To promote such strategies, families have made changes in terms of nutrition. On the one 
+hand, due to the weight that food consumption represents in the family budget; on the other 
+hand, because it is an area that allows changing both the quantity and the quality of 
+consumption. Cases like Marieta’s and Madalena’s reach point to the scarcity of resources held 
+by those households, limited to cuts at the grocery store to produce any significant cuts in 
+their household budget. Similarly, Lourença’s family diet is determined by left over from the 
+restaurant, where they eat their main meals. 
+This trend is backed by the development of a strategic approach to the grocery supply. We 
+have identified various households, as the cases of Aurora or Marta, referring the careful study 
+of advertising leafleats, concentrating shopping around promotion events or discount days, 
+and shifting to low cost or white brand products. This strategic approach is often followed by 
+reducing consumption. Malam refers to have reduced consumption of food, Nascimento has 
+little food produced outside the household, while Noélia reduced the amount of food 
+purchased at local grocery stores, starting to buy all the groceries at the supermarket. Even the 
+timing for grocery supply is a matter of strategic action. Teresa restricted herself to only going 
+to the grocery store once a week, carefully listing the products that she needs. Pedro, in turn, 
+planned his supermarket around the day he received is monthly wager from work. The first 
+priority is paying the house; the second is to buy meat and main needs for the month.. After 
+these, Pedro made the other payments, mostly bills, and used the rest of it to a second trip to 
+the supermarket (during the whole month) to buy the other complementary goods. 
+13 
+ 
+With respect to the remaining consumption forms, the margin of action of households is 
+reduced. Cláudia and Teresa refer cuts in communications and internet access; Marta, 
+Nascimento  and Navnital refer cuts on eating out and other leisure activities; Teresa and José, 
+Noélia and Navnital report having failed to do any type of vacation. Nascimento says that he’s 
+no longer able to come from Gótica to Lisbon to meet friends for failing to meet the costs of 
+the trip. In turn, Teresa changed her weekly schedule so as to go to bed early during winter in 
+order to save money on the use of heaters. Marieta and Cristina consider clothing as a non-
+essential product, in order to cut expenses. 
+Household production/work for own consumption has little expression in the selected cases. In 
+the cases identified, where we found home production, it plays a key role in the patterns of 
+consumption, particularly in what relates to food consumption. In Gótica, Mary and 
+Nascimento use the land around their property to grow vegetables and fruit, while the latter 
+case also has chickens and rabbits. Geraldo’s case also stands out, since occurs in an urban 
+context. Following a similar strategy, takes advantage of the surrounding land to his shed, to 
+cultivate a wide variety of vegetables and fruit. The difference is that while in the former cases 
+the land is private property of each household, in the case of Geraldo he uses public land to 
+cultivate. Despite the high investment in home production by each household, in no case 
+allows turn this practice into a form of revenue, by selling goods to the public or a cooperative. 
+Geraldo also has the most creative practice of free use of public goods. Geraldo takes 
+advantage of vacant public land around his shed, sharing this practice with its neighbors. It’s a 
+very commonplace practice all over Lugarão and the wide Metropolitan Area of Lisbon. While 
+the council does not assign other use to the land, he continues to use to grow vegetable 
+gardens, sharing with his neighbors tools and cultivated goods. 
+Other practices identified of free access to resources and assets are more conventional. A good 
+portion of households uses food banks or other forms of food aid, provided by third sector’s 
+local institution. It has a significant weight in Lugarão, which is indicative of the levels of 
+poverty, but also of the presence and intervention of the institutional network. Public 
+resources are also mentioned, mainly job centers and health centers. Geraldo, Pedro, Dimar 
+and Cristina participated in training programs promoted by job centres for the professional 
+reintegration. With the exception of Cristina’s case, in any other case these formations 
+contributed to finding a job, functioning only as a way of obtaining income. Dimar refers to 
+these training programs as entertain to unemployed, since there’s no expectation to anyone 
+involved that they will contribute remotely to getting a job. Geraldo, with physical limitations 
+from his long carrer in construction, did a gardening training. He would like to be called for a 
+job as a gardener, but he’s aware that the age and the health problems (he can’t really bend 
+down) do not anticipate great potential for this to come to pass.  
+Health centers are also widely mentioned by respondents, constituting a particularly 
+interesting finding of the fieldwork. We found several cases of people with psychological 
+and/or psychiatric counseling due to depressions – as are the cases of Marta, Madalena, 
+Cláudia, Aurora and Teresa. These situations tend to manifest more in women. They are 
+associated with consumption deprivation – they are the ones that eat last and less, that 
+postpone health consultation, to portion the medicines – and the burden of managing family’s 
+budget, trying to find ways to make the money last, causing extreme stress. We also identified 
+situations of continued medical care due to accident or physical stress related to work, in most 
+cases manual and unqualified, as in the cases of Geraldo, Lourença, Cláudia and Ausenda. The 
+use of health centers also reveals the way the public health system has the ability to reach and 
+14 
+ 
+monitor of the poorest and most vulnerable segments of society. Doctors and nurses have a 
+more comprehensive approach than the specific treatments, but also signaling problems and 
+providing psychological counseling. 
+ 
+Practices relating to shared resources are activated in very specific situations. The most 
+common form is house sharing. Eliane, Malam, Dimar and Pedro share housing with others. 
+Only Dimar is sharing with a family member, his cousin. In the other cases the housemates 
+were found based through informal contacts made in the neighborhood or through fellow 
+immigrants. Ausenda is part of a network to exchange baby clothes and toys, while Geraldo 
+shares gardening supplies and construction tools with its neighbors. None of these two last 
+practices represents much weight in each household’s income level. 
+Lastly, the reorganization of the household unit is a practice with some expression and 
+significant weight. We distinguish two types of situations: (1) marriage or living together and 
+(2) the reorganization of family roles. 
+Marta and Carlos decided to live together and form family following an unexpected pregnancy. 
+Marta lived in the city of Lugarão with her daughter, having a casual relationship with Carlos. 
+Pregnancy changed circumstances and, unable to sustain one more child, she moved back to 
+her home village, to live with Carlos, his two daughters and his grandmother, in the latter’s 
+house. Lourença, in turn, decided to marry her partner. Fernanda already shared her house 
+with Lourença and her five children for a while. They couldn’t afford a house of their own. 
+When they decided to open the restaurant together they decided to move towards marriage, 
+giving them more gains in taxes and allowing them to share and transfer property. 
+In Carla’s case, who lives with her young daughter, the worsening of living conditions dictated 
+a drastic change in lifestyle. After returning to Lugarão, after living several years in northern 
+Portugal with her former companion and father of her children, she found many difficulties to 
+find a steady job. So she decided to take a cabbie’s license, since she already drove taxis before 
+as an odd job to help the former companion. Being paid on commission per trip, she has to 
+work the maximum amount of hours allowable. This amount of working hours was supported 
+by her parents, that also live in Lugarão, that started to have a much more presence in their 
+granddaughter’s life, being responsible for taking her to and from school, giving her meals and 
+taking care of her. Carla also started to to have dinner with her parents on a daily basis, when 
+she goes to pick her daughter. To the financial support provided by her parents there is also a 
+reconfiguration of the roles of the various family members, significantly changing their 
+lifestyles. 
+ 
+ 
+5.3. The role of assets and resources 
+The analysis of coping practices in terms of resources generated and/or activated by 
+households highlight two tendencies among the selected cases. On the one hand, the majority 
+of households do not have significant resources and assets that can be used in their resilience 
+strategies (either directly or indirectly); on the other hand, families who still have some 
+significant resources and assets are exhausting them to meet immediate needs. 
+15 
+ 
+We are able to distinguish four types of resources used in the coping strategies of households: 
+(1) property; (2) access and mobility resources; (3) support networks and (4) the body and 
+skills. 
+he lack of assets and property is one of the most salient findings from the interview analysis. 
+The majority of families do not own any significant asset, which is particularly pronounced in 
+Lugarão. In the cases where the families own assets, it’s usually housing and a car. Only 
+Nascimento and Teresa and José own some small portions of land. Both these households 
+were pulled into poverty by the crisis and its effects. On the contrary, immigrants – both 
+newcomers and established – do not hold much assets. 
+This reality finds correspondence with household’s strategies. With the exception of 
+Nascimento, there are no any cases identified of rental practices. In terms of sales of resources 
+and assets, the cases identified point to the sale of everyday and not replaced goods - the car 
+or home furniture. In only one case jewelry was mentioned. We are not facing scenarios where 
+people are selling goods that in excess or that they don’t need, we are facing situations where 
+families are selling what they still have left with market value. 
+With regard to access and mobility resources there is the tendency of most families, despite 
+the extreme difficulties, to emphasize the need to ensure mobility and access to information 
+through mobile communications and the Internet. Marieta even says that after the child's 
+needs, buying the public transportation pass is her highest priority, while Pedro referred that 
+the increases in public transport fees greatly limits his mobility. This investment takes, 
+however, a strategic and necessary character. 
+Employment application opportunities in Portugal are mostly disseminated through mobile 
+and social networks. Likewise, in many cases, application platforms only exist digitally. On the 
+other hand, an important aspect for obtaining the majority of jobs is having a driving license 
+and ability to move around. Similarly, the discount campaigns and terms of discount points in 
+supermarkets essentially work via mobile phone and/or the internet - for example, in Portugal 
+there is a widespread of replacing of old loyalty cards from stores to downloaded apps to 
+mobile phones, even among fast food companies or general supply stores. 
+Accordingly, to have no capacity to invest in communications (including mobile) and in mobility 
+means to be excluded from opportunities to generate resources and capabilities to reduce the 
+cost of living. The burden of investment in this type of resources falls entirely on families, not 
+having any form of support or many alternatives.  
+Networks and support structures are an essential resource for the survival of families. Against 
+a backdrop of lack of own resources, and insufficient income earned by paid work, families are 
+heavily dependent on resources that they can obtain from the support they can access. These 
+formal and informal networks are not used to bring more comfort to families or to allow 
+making medium and long term investments or plans, but are used to satisfy immediate 
+expenses and needs. 
+Social transfers, albeit in smaller amount and with less favorable eligibility conditions, continue 
+to pose the most significant and stable form of family’s support. Also noteworthy is the role of 
+community institutions, as they play an important role in signaling cases of social emergency, 
+in referring families to existing social services and, particularly, in providing food and clothing 
+aid. It also stands out the informal networks of gifts in money between migrants. Not being 
+16 
+ 
+particularly significant in terms of income generation, it contributes to the community's social 
+cohesion and offers help when others solutions are already exhausted.  
+At the family level, family networks are heavily used, particularly in families of Portuguese 
+nationality. Like we can see in the cases of Carla or Luis, the way these resources are used is 
+contingent on the immediate need of family members and has more effectiveness in 
+households where someone in the extended family has the ability to help the remaining 
+elements of the family. 
+The last type of resources refers to the body and the skills and capabilities of individuals. This 
+feature refers to two types of strategies. On the one hand, in terms of income protection 
+strategies, individuals reveal explore all the skills or abilities they have to work. Pedro taking 
+advantage of being a good cook accepted temporarily working for free in a café, trying to get 
+employed there; Mary and her husband started to work on the backyard land as a hobby, and 
+nowadays use it to produce vegetable gardens and raise a few animals. On the other hand, the 
+body carries the weight caused by deprivation resulting from the resilience practices. Reducing 
+consumption patterns, in most cases, it is at the expense of health and physical well-being of 
+household members, particularly among women. 
+ 
+17 
+ 
+6. Effects and consequences of resilience 
+ 
+6.1. Degrees of hardship and different forms of resilience 
+The analysis of data collected during the fieldwork distinguished a set of narratives of 
+hardship, allowing developing a typological organization of the relationship of households with 
+poverty. The objective was trying to understand how the economic and financial crisis, and the 
+austerity packages that followed, affected the trajectories of households regarding their 
+socioeconomic status. Thus, the data suggests three types of trajectory: (1) long term poverty; 
+(2) change in poverty ways of life; and (3) fall into poverty (new poor). 
+Among the families living in a situation of long term poverty we included the cases of 
+Madalena, Marieta, Dimar, Baluta, Ausenda, Geraldo and Pilar and Armando. In the second 
+typo, of chaning in poverty ways of life, we included the cases of Julian, Marta, Malam, Pedro, 
+Lourença and Eliane. Finally, in the case of families that have fallen into poverty we consider 
+the cases of José and Teresa, Nascimento, Cláudia, Navnital, Maria, Aurora, Luis, Carla, Noélia, 
+Teresa and Fátima. 
+With regard to the results of resilience processes we also organized the interviewed 
+households according to the suggested typology. Thus, we distribute families as follows: 
+ Survival: Malam, Noélia, Pilar e Armando, Teresa e José, Baluta, Ausenda, Julian, 
+Dimar, Geraldo, Cristina, Marieta e Madalena. 
+ Coping, managing or getting by: Aurora, Lourença, Marta, Carla, Navnital, Maria, Luís, 
+Teresa e Nascimento.  
+ Transforming one’s life: Cláudia. 
+Cross-analysis of these typologies does not indicate a consistent pattern of relationship 
+between the relation to poverty and the results of resilience processes. The only trend that is 
+suggested by the trajectories is that coping strategies only reinforced the previous status of 
+households, not being found any significant cases in which families have come to live in a more 
+comfortable situation. 
+The analysis of resilience processes reflects rather the tendency of families to mobilize all their 
+assets and resources available to find solutions to current situations of hardship. Its noticeable 
+how families that have fallen recently into poverty, which still hold some assets, can still 
+manage their situation and get by. The longer they are in this situation the more vulnerable 
+and at risk they get. Families without assets mostly fell in a situation of absolute survival, with 
+no means to even establish medium-term strategies. The case of Cláudia is unique. Living in a 
+situation of extreme difficulty, the aggregate’s strategy consisted in Cláudia’s obtaining a high 
+education degree, aiming at getting a more favorable job prospects and better conditions for 
+the family. It should be remembered, however, that this family owned some assets previously 
+and was recently pulled into poverty by the crisis. 
+What the analysis shows is that the form resilience processes take is not so directly related to 
+the degree of hardship experienced, but is more aligned with the resources that families can 
+mobilize and opportunities available, particularly on employment. Only by analyzing the 
+economic, cultural and social capitals of households we can identify and characterize clusters 
+according to their resilience strategies. In a scenario in which households are mobilizing all 
+18 
+ 
+resources owned and accessible, the degree of hardship is more a predictor of the outcome of 
+resilience processes, in that they tend to reproduce the condition of social class of families. 
+ 
+6.2. How do resilience/coping strategies of households vary/differ 
+according to their socio-economic characteristics? 
+ 
+This subject is dealt with in chapter 7. 
+ 
+6.3. Costs and benefits of resilience 
+The analysis of the effects and consequences of resilience processes points to the existence of 
+interconnected processes of transfer of costs and risk. As a general trend, households are 
+changing their possibility for action in the medium and long term to cope with immediate 
+needs. In the same way, they are replacing strategic action, in function of plans that they 
+made, by a reactive action in order to find a solution to the following problem. Resilience 
+processes, at least in the analyzed cases, proved to be strongly conditioned by external 
+structural constraints. 
+In terms of mental and physical health, we can identify three major trends. Firstly, reducing 
+the level of consumption is a cross-practice among most of households interviewed, mostly in 
+food supply, having been signaled several situations of sub and malnutrition. We also 
+identified several situations of strong psychological stress related to contexts of extreme 
+vulnerability, particularly among women. For these the psychological stress is associated with 
+the fact that they are the main providers of income for the household and also responsible for 
+managing the budget and ensuring sustainability of family. Also they sacrifice first in eating 
+and medical assistance, in order to protect the children and elder. We identified several cases 
+of diagnosed depression. Lastly, most households have to deal with situations of physical 
+fragility, which stems from long trajectories of poverty. The fact that the majority of 
+respondents (mainly in Lugarão) have a long history of unskilled manual jobs, and in many 
+cases with questionable working conditions, to which should be added questionable patterns 
+of nutrition, contributes largely to the high level of health risk among this population. 
+In terms of work-life balance the evidence point to a tendency of extreme vulnerability in the 
+working conditions. Individuals have little space to maneuver or even negotiate working 
+conditions, subjecting themselves to long working hours and unstable schedules. The high 
+rates of unemployment and the worsening of working conditions (increase in taxes, lower 
+wagers, increase in working hours and more vulnerability to dismissal) constitute a strong 
+constraint in the ability of households to balance the relation between income needs and 
+family life. In the same way, the imbalance between work and life has a particular incidence 
+among women, since they are both main providers of income and responsible for the 
+management of the household. Most households need to use informal support networks 
+(neighborhood, family) to be able to watch and take care of their children.  
+The reduction on consumption patterns, especially of food supply, also affected children, both 
+in terms of quality and sufficiency of nutrition. Schools play an important role in this matter, by 
+signaling situations of deprivation. However, children constitute a top priority in all families’ 
+strategies. Nutrition, the satisfaction of basic needs and the engagement in education are top 
+19 
+ 
+priorities to families. Education is seen as the best chance to break away from poverty 
+trajectories. There are no indications ESL trends, although the high unemployment doesn't 
+create a favorable environment to leave school. Although there is a tendency to protect 
+children in difficulties narratives, they are involved in household coping strategies. Young 
+adults as soon as they find a job and start to work, their income becomes a contribution to the 
+overall family’s budget, while among younger children, they have responsibilities in household 
+chores, mainly watching and caring for younger siblings. 
+In terms of social relations, there’s an accentuated tendency for isolation and less participation 
+in public space. Families don’t have means to move around and to participate in activities 
+outside of their home. Also, coping processes consume temporally and psychologically 
+individuals. We identified several situations where people reveal unavailability for any leisure 
+activity, being so consumed in work and household needs, and even embarrassment for not 
+being able to satisfy the smallest daily leisure consumptions, like going to the movies, eating 
+out or drinking with friends. Even among the younger respondents, the trend is closing 
+relations and replacing the traditional local life (at cafés, restaurants, bars, leisure associations) 
+to each other's homes.  
+On the opposite, relations of immediate vicinity are being reinforced through their practical 
+component. The majority of families in their weekly management need occasional assistance 
+from neighbors, especially in taking care of children, which is associated with the imbalance of 
+work-life. This proximity also takes the form of shared home goods and occasional favors.  
+Community life is in a deep depression. This refers both to the urban and rural contexts. Small 
+neighborhood businesses are closing at a high rate, people are less and less involved in local 
+associations and activities, even the relation with religious institutions, like the church, are 
+more random. The streets have less movement, which is a function of the time consumed by 
+work, but the main factor involves the consumption incapacity. This trend affects many jobs, 
+since the transference of local service businesses to shopping malls does not translate in job 
+opportunities to dismissed workers. Aurora had a long career as a hairdresser. But being 53 
+years old, she can’t get hired in a shopping mall hairdresser. The same trend can be found in 
+clothing stores, for instance.  
+In terms of long term living standards, families are depleting the assets they have, whether 
+financial or any kind of property held, exhausting most of their resources to be able to resist 
+any shock which are encountered in the future. This tendency is in the basis an accentuated 
+increase in the vulnerability of families. Families are also experiencing the devaluation of their 
+professional and social status. When they return to join the labor market after periods of 
+unemployment, they do it usually in less qualified jobs, with poorer working conditions. Also, 
+most jobs available require few qualifications and are extremely precarious, not constituting a 
+form of social enhancement. These trends are closely related to inability for most households 
+to establish medium and long term plans or goals. 
+The conditions for the social reproduction of the poorest segments of society are being 
+strengthened, not being visible best future prospects for young adults of the families 
+interviewed. Families, although valuing education, are unable to support the attendance of 
+higher education of the children. For their part, young adults, as soon as they finish secondary 
+education (or get stuck at school), take any job opportunit

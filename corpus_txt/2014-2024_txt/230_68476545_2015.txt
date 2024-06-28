@@ -1,0 +1,1237 @@
+Large American Banks and Economic Recovery: A Look at 2009 and 2014
+
+University at Albany, State University of New York
+Scholars Archive
+Accounting Honors College
+5-2015
+Large American Banks and Economic Recovery: A
+Look at 2009 and 2014
+Robert Bonilla
+University at Albany, State University of New York
+Follow this and additional works at: https://scholarsarchive.library.albany.edu/
+honorscollege_accounting
+Part of the Accounting Commons
+This Honors Thesis is brought to you for free and open access by the Honors College at Scholars Archive. It has been accepted for inclusion in
+Accounting by an authorized administrator of Scholars Archive. For more information, please contact scholarsarchive@albany.edu.
+Recommended Citation
+Bonilla, Robert, "Large American Banks and Economic Recovery: A Look at 2009 and 2014" (2015). Accounting. 13.
+https://scholarsarchive.library.albany.edu/honorscollege_accounting/13
+ 
+ 
+ 
+ 
+ 
+Large American Banks and Economic Recovery: 
+A look at 2009 and 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+An honors thesis presented to the 
+Department of Accounting, 
+University at Albany, State University Of New York 
+in partial fulfillment of the requirements 
+for graduation with Honors in Accounting 
+and 
+ graduation from The Honors College. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Robert Bonilla 
+ 
+Research Advisor: Raymond Van Ness, Ph.D. 
+Second Reader: Mark Hughes, CPA, MST 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 2015 
+2 
+ 
+Abstract 
+ 
+I analyzed the financial performance and stock performance of the largest four banks in the 
+United States after the banking crisis of 2008. By using 2009, the year that recovery for the 
+financial sector began, as a benchmark, I could determine the level of success each of the four 
+banks reached in 2014 in relation to themselves and to one another. Using simple, but effective 
+ratios and equations I could compare the efficiency with which upper management in each 
+company has made use of asset, debt, and equity accounts. My results support the fact that larger 
+accounts do not necessarily project more efficient outcomes. There appears to be more than a 
+quantitative aspect involved in company performance and efficiency on the financial statement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+Acknowledgements 
+ 
+Completion of my undergraduate thesis would not be possible without the help of many people 
+who have touched my life. I want to thank my thesis advisor, Dr. Van Ness for his continued 
+support throughout my senior year. He accepted the role as my thesis advisor and has always 
+made himself available whenever I needed him. Thanks to Dr. Jeffrey Haugaard for allowing me 
+the opportunity to write this thesis. Even as I doubted my ability to stay in the Honors College, 
+he worked with me one on one to create a plan of action for my continued success. Melissa, 
+Jessica, and Carlene, my loving sisters, always pushed me to be the best that I can be and to 
+strive for perfection as they gave words of encouragement throughout my undergraduate career. 
+And my final thank you is to my mother and father, Nancy and Robert; they have been my 
+biggest support. I could not imagine what my undergraduate career would be without all of your 
+help and advice. You two have been my inspiration and I complete this thesis knowing that you 
+are proud of my accomplishments. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+Table of Contents 
+ Abstract……………………………………………………………………………………2 
+Acknowledgements………………………………………………………………………..3 
+Introduction…..……………………………………………………………………………5 
+Methodology……………...…….…..……………………………………….………...5 
+Overview of the Financial Crisis……….………………………………………...……6 
+Suggested Solutions to the Problem……………………………………...……..………8 
+Bank Performance Measurements…….…………......…………………………………...10 
+Working Capital…...…………………………………………………………………10 
+Current Ratio…………………………………………………………………………11 
+Return on Equity…………..…………………………………………………………11 
+Return on Assets……………………………………………………………………..12 
+Price-Earnings Ratio………………………………………………..………………..13 
+Dividend Yield Ratio……………………………………..………………………….13 
+Quantitative Analysis……………………………………………………………………. .14 
+JPMorgan Chase & Co……………………………………………………………….14 
+Bank of America Corporation……………………………………………………….. .16 
+Citigroup Inc.…...……………………………………………………………………1 8 
+Wells Fargo & Company……………………………………………………………..19 
+Further Research……………………………………………………………………………21 
+Conclusion………………………………………………………………………………...22 
+Appendix…………………………………………………………………………………24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+1. Introduction 
+1.1 Methodology 
+ Banks are central to the success and flow of the American economy. They come in many 
+types and sizes and serve special functions in order to keep the economy afloat. Banks are 
+responsible for storing the liquid wealth that people accumulate and for loaning money to 
+citizens, businesses, and the government in order to fund projects (American Banking 
+Association). The various sizes of banks allow them to deal loans of different amounts. A small 
+bank operating in a single town or city may not be able to offer loans as large as an 
+internationally operating bank such as J.P. Morgan Chase & Co. can offer.   
+ I selected to research the performance of banks because of how central they are to the 
+economy’s performance as a whole. A positive correlation between economic performance and 
+bank performance may open doors to research that could help explain how banks can positively 
+stimulate the economy, or in what ways the economy positively or negatively affects bank 
+growth. My emphasis is J.P. Morgan Chase & Co., Bank of America Corporation, Citigroup Inc., 
+and Wells Fargo & Company. These four banks have the largest asset totals, each reaching over 
+$1.6 trillion in the year 2014; the next highest bank in America has assets less than $500 billion. 
+The significance in these banks lies in their size and capability to engage in certain transactions 
+that normal banks could not. This allows me to analyze the performance of a large portion of 
+assets in the banking industry by conducting research on four companies. 
+ In this paper, I measure the banks’ financial performances after the financial sector 
+collapse of 2008 using a quantitative analysis based on the companies' ability to manage key 
+performance aspects of their balance sheets and income statements. Through the implementation 
+of equations and ratios, I can use the 2009 financial performances as a benchmark for the 2014 
+6 
+ 
+performance of each bank. By comparing the two years, I gain insight as to how each bank was 
+able to recover from the collapse of the banking industry. 
+ I analyzed the key performance aspects from Section 2 in order to determine the degree 
+of success that each bank experienced as the American economy slowly recovered from 2009 to 
+2014. In Section 3, I discuss my findings and explain patterns within each bank’s balance sheets 
+and income statements. In their balance sheets most banks in the United States do not 
+differentiate between current and long-term assets, although the method I use to measure 
+performance uses current assets in some areas. I separate current assets from long-term assets 
+using a model created by Dr. Raymond VanNess, which he uses in his capstone course at the 
+University at Albany, BMGT 481W. The appendices provide graphical representations of my 
+analysis and comparisons of the firms. 
+ 
+1.2 Overview of the Financial Crisis 
+ The year 2008 saw hardships for the United States and eventually made global impact as 
+financial markets over the world saw a downward economic spiral. Recession devastated the 
+market in the United States, with the Dow Jones Industrial Average dropping a steep 33.8% on 
+the year. Large American economic hits included: 
+1. The investment banking industry; 
+2. The largest insurance company (AIG); 
+3. Two government enterprises (Fannie Mae and Freddie Mac) chartered to facilitate 
+mortgage lending; 
+4. The biggest mortgage lender (Countrywide Financial Corp); 
+5. The largest savings and loan (Washington Mutual); and 
+6. Two of the largest commercial banks (Lehman Brothers and Merrill Lynch). 
+7 
+ 
+These hits directly damaged the financial sector, but their effects were felt in numerous 
+industries which relied on loan-giving institutions in order to maintain cash flows and perform 
+daily business operations (Havemann).  
+ The housing crisis helped fuel the collapse of the banking and financial services 
+industries in 2007 and 2008 because customers could not afford loans big enough to buy and 
+sustain payments on houses. The ratio of individuals’ mortgage debt to income peaked in the 4th 
+quarter of 2007, which corresponds to the Great Recession (Gelain, Lansing, and Natvik). The 
+prices of houses increased, inflation took effect, and people were not earning money at the same 
+rate as inflation was taking place. Furthermore, when the interest rates that banks and lending 
+institutions must charge on loans largely outgrows the interest rates they pay to members of the 
+bank, fewer people can afford to take out loans, because they are not earning enough to pay the 
+loan interest. In many cases, people were accepted for loans at low rates in the early years, but 
+those rates grew out of control in later years, when they hit double-digit figures (Havemann). 
+The inability of mortgage owners to pay off these debts led to a build-up of penalties to 
+institutions that could not collect payments because debtors had no money. Banks rely largely on 
+these loan payments as a means of earning income. The lack of loan interest income hurts the 
+financial sector and significantly decreases profits that banks and other money-loaning 
+companies earn. As a result of the slumping housing market, banks across the nation missed out 
+on asset and equity increases, which initiated the Great Recession of the modern era. 
+ A combination of “predatory loans,” “predatory borrowers,” and problems with 
+government regulation has been blamed for the housing bubble (Havemann). Loan institutions 
+knowingly offered predatory loans to inexperienced mortgage buyers who were not able to pay. 
+These buyers were enticed by low initial rates that grew to unmanageable percentages over the 
+8 
+ 
+course of years. Lenders were willing to offer these loans because mortgage insurance companies 
+protected them from defaults. However, these companies were not capable of maintaining the 
+number of defaults when the housing bubble popped. 
+ The number of unqualified people searching for home mortgage loans was very high in 
+the years before the housing bubble burst. With income that could not support consistent 
+payments toward a mortgage, people searched for other means of paying a mortgage, such as 
+taking out loans. These predatory borrowers accepted loan terms they could not pay, in order to 
+live in houses they could not afford. Those in favor of stricter government regulation on financial 
+instruments argued that companies giving predatory loans were the problem. They argued that 
+the government should have strict rules to stop lending institutions from taking advantage of loan 
+seekers who would not be able to afford these loans. People in favor of government deregulation 
+believed that predatory borrowers were the main cause of the financial crisis. Issues existed 
+when people who had insufficient income searched for loans, even though they could not afford 
+to purchase a house. 
+ 
+1.3 Suggested Solutions to the Problem 
+ Banks in the United States are making attempts to return to a state of normalcy through 
+the sale of short-term loans to one another. After the financial collapse, banks grew increasingly 
+skeptical and refused to deal loans out to each other for fear of payment failure or bankruptcy 
+(Lynch). As soon as 2010, banks returned to numbers of loans made from bank to bank that were 
+reminiscent of 2000-2007, before the crisis began. Although loans to other banks are returning to 
+normal, banks are making safer decisions about private loans to individuals seeking mortgages. 
+9 
+ 
+ In recent years, banks have changed their policies regarding excess capital, from loaning 
+it out blindly to storing it at the Fed (Lynch). Earnings are returning to normal and banks could 
+be using the money to make more loans and increase revenue, but many banks are choosing to 
+maintain safe lending options. Increases in lending to large and medium- sized clients and small 
+businesses are taking place, but there is still excess cash. A large problem that led to the 2008 
+banking crisis was granting mortgages to people who had little income, no jobs, and nothing to 
+exchange. Banks are making the healthy decision to steer away from lending money to these 
+types of people and are storing the excess cash with the Fed.  
+ Particularly large banks in the United States, such as J.P. Morgan Chase, Bank of 
+America, Citigroup, and Wells Fargo, have made an increasing presence in foreign markets. The 
+result of such actions increases the availability of profits outside of the U.S., while lowering the 
+risk of loss of value in the long term through foreign investments.  
+ “Financial markets in the United States are the largest and most liquid in the world. In 
+2012, finance and insurance represented 7.9% (or 1.24 trillion) of U.S. gross domestic product” 
+(SelectUSA). Financial services aid the United States by helping to finance its exports of 
+manufactured and agricultural goods. Projections show that, by 2018, the potential exists for an 
+increase in employment of 12% in the securities subsector of financial services alone. By the end 
+of 2012, 818,000 new people were employed in the subsector. Furthermore, in 2012, at least 132 
+of Fortune Magazine’s Global 500 chose to establish their headquarters in the United States to 
+take advantage of the “creative, competitive, and comprehensive financial services sector” 
+(SelectUSA). This fact shows the availability of opportunities that banks across America have to 
+work with other companies who have succeeded on a global scale. 
+ 
+10 
+ 
+2 Bank Performance Measurements 
+ The measurements I made represent different forms of financial management of the 
+balance sheet and income statement. The four types of management I measured are cash, equity, 
+asset, and share value. Each represents the company’s ability to make efficient use of the 
+respective account balance or value. 
+ The ratios and equations I used can also be broken down into one of three categories. 
+Liquidity ratios indicate the company’s ability to pay its financial obligations when they are due. 
+Profitability ratios give an indication as to how much profit a company can make with the 
+available resources. Capital-market ratios “indicate a company’s ability to win the stock market 
+(Ledgers Canada).  
+ 
+2.1 Working Capital 
+ Working capital is a cash management ratio which measures liquidity.  It is a 
+measurement of the theoretical assets available to management after all current liabilities are 
+covered. After paying all of its short-term obligations by using short-term asset accounts, the 
+amount that would be left over is considered working capital: 
+Working Capital = Current Assets – Current Liabilities. 
+  In order to compute working capital, current liabilities must be subtracted from current 
+assets on the balance sheet. Current assets is a measurement of the total assets under a 
+company’s control which can be easily converted into cash or another liquid form in less than 
+one year. Current liabilities are obligations of a company that are due to be paid to another 
+company, person, or organization in less than one year. 
+ 
+11 
+ 
+2.2 Current Ratio 
+ The current ratio is another cash management ratio measuring liquidity. It represents a 
+firm’s ability to pay bills as they are currently falling due and is often considered a dependable 
+assessment as to the company’s risk of insolvency. Also referred to as bankruptcy risk, 
+insolvency risk is the risk associated with a company’s ability to pay the debts that it may owe in 
+both short-term and long-term periods (Harvey): 
+Current Ratio = Current Assets ÷ Current Liabilities. 
+Assuming a firm continues to see a trend of increasing assets and/or decreasing liabilities, then 
+the current ratio should see increases in the future. 
+ 
+2.3 Return on Equity 
+ Return on equity is an equity management ratio for the profitability of a company. This 
+measurement represents the rate of earnings for each dollar of owner investment and how 
+efficiently money is spent. Return on equity can be improved by cutting spending and increasing 
+sales: 
+Return on equity = (Net Income ÷ Sales) x (Sales ÷ Total Assets) x (Total Assets ÷ Equity). 
+ Return on equity is comprised of three different subsections which get multiplied 
+together. The first is Net Profit Margin: 
+Net Profit Margin = Net Income ÷ Sales. 
+Net profit margin is computed using the income statement by dividing the net income of a 
+company by its sales. It gives financial statement readers an indication of a business’s 
+profitability by showing the percent of sales that become net income in the income statement. 
+The second portion of return on equity is asset turnover: 
+12 
+ 
+Asset Turnover = Sales ÷ Total Assets. 
+Asset turnover takes the sales in a year and divides them by the total assets in the company’s 
+books at the end of the year. This ratio looks at figures in both the income statement and balance 
+sheet to demonstrate the effectiveness of management’s use of assets in creating a profit for the 
+company. The previous two quantities are multiplied together, and then by the equity multiplier, 
+in order to calculate return on equity: 
+Equity Multiplier = Total Assets ÷ Book Value of Equity. 
+The equity multiplier measures the amount of a business’s asset total that is financed by the 
+shareholders of the company (“Equity Multiplier”). A lower ratio indicates that the investors are 
+more in control of the assets and is more favorable, while a higher ratio shows that the 
+company’s management may have needed to borrow more money, giving control of assets to 
+creditors. 
+ The components which comprise the three sections of return on equity are net income, 
+sales, total assets, and equity. Net income and sales are both income statement items. Sales is 
+income generated through the selling of inventory or performance of services. Net income is the 
+total profit after removing expenses and taxes. Total assets and equity are both balance sheet 
+accounts. Assets are economic resources owned by a company that are expected to be used to 
+generate income of some sort. Equity is the difference between assets and liabilities and 
+represents the amount of owner related interest. 
+ 
+2.4 Return on Assets 
+ Return on assets is an asset management ratio. Similar to return on equity, this ratio 
+measures profitability: 
+13 
+ 
+Return on Assets = Net Income ÷ Total Assets. 
+Return on assets is generated by dividing net income on the income by total assets. It quantifies 
+asset productivity or asset utilization, highlighting the profit gained for each dollar invested into 
+the business. Companies can create a better return on assets by improving the amount of net 
+income received per dollar in total assets. If a business makes use of its assets to productively 
+generate income or reduces its expenses during the year, it can create a better ratio for its return 
+on assets. 
+ 
+2.5 Price-Earnings Ratio 
+ The price-earnings (PE) ratio is a share value management figure which measures capital-
+market information. Analysts and investors use it to confidently quantify whether a share price is 
+reasonable (Ledgers Canada): 
+Price-Earnings Ratio = Stock Price Per Share ÷ Earnings Per Share 
+ The price-earnings ratio is determined by dividing each share’s stock price by the 
+earnings generated per share. The stock price of a publicly-traded company can be researched for 
+any given day by finding a stock quote on a website such as Yahoo Finance, an application, or a 
+widget. Earnings per share is an income statement item which is produced after determining net 
+income, by dividing net income by the number of common shares outstanding. 
+ 
+2.6 Dividend Yield Ratio 
+ Similar to the price-earnings ratio, the dividend yield ratio is a capital-market ratio which 
+tells us about share value management. This equation shows the return to stockholders that is 
+being provided by each share: 
+14 
+ 
+Dividend Yield Ratio = Dividends Per Share ÷ Stock Price Per Share 
+ Dividend yield ratio is computed by dividing the amount of dividends paid to 
+stockholders by the cost of each share. Stockholders who receive larger dividends have more 
+incentive to invest in a company’s shares, especially if the company is performing well and it 
+appears that the stock price will continue to increase. Dividend yield ratio, and thus incentive to 
+purchase a stock, can be increased by increasing the amount of dividends paid to shareholders for 
+each share. The board of directors would be more inclined to increase dividend amounts if a 
+company is increasing profit while selling shares at a constant rate. 
+ 
+3 Quantitative Analysis 
+3.1 J.P. Morgan Chase & Co. 
+ Headquartered in Manhattan in New York City, New York, J.P Morgan’s first 
+predecessor was first opened in 1799 (www.jpmorganchase.com). Today, the company operates 
+in more than 60 countries with 260,000 employees worldwide. The board of directors, 
+responsible for declaring dividends, consists of eleven members from different backgrounds. In 
+J.P. Morgan Chase & Co.’s Board of Directors, many members come from Bank One 
+Corporation because of a merger between J.P. Morgan and Bank One in 2004. 
+Table 1: J.P. Morgan Chase & Co. Accounts and Equations 
+J.P. Morgan 
+Chase & Co. 
+Stock 
+Price 
+Revenue* Expenses* 
+Net 
+Income/(Loss)* 
+Working 
+Capital* 
+2009 $41.67 $115,632.00 $67,550.00 $11,728.00 $244,965.00 
+2014 $62.58 $102,102.00 $69,171.00 $21,762.00 $334,543.00 
+Value 
+increase/decrease 
+$20.91 $(13,530.00) $1,621.00 $10,034.00 $89,578.00 
+Percentage 
+increase/decrease 
+50.18% -11.70% 2.40% 85.56% 36.57% 
+*Revenue, Expenses, Net Income/(Loss), and Working Capital 
+values are written in millions of dollars 
+15 
+ 
+Table 2: J.P. Morgan Chase & Co. Valuation Ratios 
+J.P. Morgan 
+Chase & Co. 
+Current 
+Ratio 
+ROA ROE PE Ratio 
+Dividend 
+Yield Ratio 
+2009 1.1531 0.5772% 7.093% 18.44 0.4800% 
+2014 1.1621 0.8457% 9.378% 11.72 2.2480% 
+Value 
+increase/decrease 
+0.0090 0.269% 2.285% -6.72 1.7680% 
+Percentage 
+increase/decrease 
+0.78% 46.52% 32.21% -36.44% 368.33% 
+ 
+ Table 1 and Table 2 are used to compare the performance measures of J.P. Morgan Chase 
+& Co. from 2009 and 2014. A look at the stock prices shows that the company is headed in a 
+positive direction, up 50.18% in 5 years. An interesting pattern exists in the income statement 
+with revenues, expenses, and net income. Revenues decreased while expenses increased, but J.P. 
+Morgan still experienced a substantial increase in its net income. This trend is possible because 
+of gains and losses on the income statement which are not considered to be revenues or losses; 
+these include gains and losses on the sale of long-term assets, lawsuits, and extraordinary gains 
+and losses, among others. J.P. Morgan also saw its working capital rise a sizeable amount, 
+allowing financial statement users to see a large availability of current assets, given full payment 
+of current liabilities. 
+ The current ratio shows slight improvement in liquidity, although it does not show a very 
+significant change. Growth in return on assets and return on equity portray efficient use of the 
+two balance sheet sections. Assets and equity remained relatively constant between 2009 and 
+2014, but the surge in net income increased the two ratios and gave evidence to J.P. Morgan’s 
+efficiency in using assets and equity. A decline in the price-earnings ratio is a positive sign for 
+investors. Even though the price of J.P. Morgan stock increased by more than $20 per share, the 
+rate at which its earnings increased on each share was greater. Investors feel more confident in a 
+16 
+ 
+stock’s potential to increase when a company’s earnings grow faster than its stock price. 
+Dividend yield ratio for J.P. Morgan experienced a 368% increase, more than any other large 
+company by far. Investors who see a large increase in dividend yield know that they will receive 
+a larger dividend in proportion to the growth or decline in stock price. From 2009 to 2014, the 
+dividend paid to investors grew more than three times as much as the stock price. 
+ 
+3.2 Bank of America Corporation 
+ Although Bank of America’s (BAC’s) roots began in Boston in 1784, headquarters are 
+currently located in Charlotte, North Carolina (www.bankofamerica.com). There are now 
+290,000 employees across 40 countries in its more than 200 years of existence. Bank of America 
+has 13 members of the board. 
+Table 3: Bank of America Corporation Accounts and Equations 
+ 
+Bank of America 
+Corporation 
+Stock 
+Price 
+Revenue* Expenses* 
+Net 
+Income/(loss)* 
+Working 
+Capital* 
+2009 $15.06 $150,450.00 $97,520.00 $6,276.00 $219,374.00 
+2014 $17.89 $95,818.00 $86,051.00 $4,833.00 $181,862.00 
+Value 
+increase/(decrease) 
+$2.83 $(54,632.00) $(11,469.00) $(1,443.00) $(37,512.00) 
+Percentage 
+increase/(decrease) 
+18.79% -36.31% -11.76% -22.99% -17.10% 
+*Revenue, Expenses, Net Income/(Loss), and Working Capital 
+values are written in millions of dollars 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+Table 4: Bank of America Corporation Valuation Ratios 
+Bank of America 
+Corporation 
+Current 
+Ratio 
+ROA ROE PE Ratio 
+Dividend 
+Yield Ratio 
+2009 1.1412 0.2823% 2.712% -51.93 0.2656% 
+2014 1.1124 0.2297% 1.985% 49.69 0.6708% 
+Value 
+increase/(decrease) 
+(0.0288) -0.053% -0.727% 101.62 0.4052% 
+Percentage 
+increase/(decrease) 
+-2.52% -18.63% -26.79% 195.69% 152.56% 
+ 
+ Table 3 and Table 4 compare Bank of America’s performance from 2009 to 2014. BAC 
+stock had the smallest percentage increase of all the large banks in the United States. While the 
+increase was miniscule, the positive direction is still a sign of improvement since economic 
+recovery began. Bank of America saw a decline in revenue, expenses, and working capital. It 
+was also the only company of the largest four to experience a decrease in net income when 
+comparing 2009 and 2014.  
+ A decrease in the current ratio tells financial statement users that Bank of America has 
+fewer liquid assets left after paying current debts, but a ratio greater than 1.0 is still a good sign 
+of liquidity. Return on assets and return on equity both declined from 2009 to 2014, indicating 
+that Bank of America was not as efficient with assets and equity in 2014 as it was in 2009. Bank 
+of America’s PE ratio was negative in 2009 because of negative earnings per share. While an 
+increase in this ratio is typically a negative sign for investors, the transition from negative to 
+positive is a signal of forward progress. More positive light exists in the dividend yield ratio, as 
+the board of directors feels more confident increasing the dividend paid to investors. This is 
+evidence of the board’s belief that Bank of America is headed in a positive direction, moving 
+forward. 
+ 
+18 
+ 
+3.3 Citigroup Inc. 
+ Similar to J.P. Morgan, Citigroup Inc. is headquartered in New York City, New York 
+(www.citigroup.com). After more than 200 years of operation since Citigroup’s opening in 1812, 
+the company operates in more than 160 countries. The Board of Directors is composed of 12 
+members. 
+Table 5: Citigroup Inc. Accounts and Equations 
+ 
+Citigroup Inc. 
+Stock 
+Price 
+Revenue* Expenses* 
+Net 
+Income/(loss)* 
+Working 
+Capital* 
+2009 $32.97 $108,006.00 $75,543.00 $(1,606.00) $395,484.00 
+2014 $54.11 $90,572.00 $68,741.00 $7,313.00 $367,699.00 
+Value 
+increase/(decrease) 
+$21.14 $(17,434.00) $(6,802.00) $8,919.00 $(27,785.00) 
+Percentage 
+increase/(decrease) 
+64.12% -16.14% -9.00% 555.35% -7.03% 
+*Revenue, Expenses, Net Income/(Loss), and Working Capital 
+values are written in millions of dollars 
+ 
+Table 6: Citigroup Inc. Valuation Ratios 
+Citigroup Inc. 
+Current 
+Ratio 
+ROA ROE PE Ratio 
+Dividend 
+Yield Ratio 
+2009 1.3145 -0.0865% -1.036% -41.21 - 
+2014 1.2781 0.3969% 3.447% 24.48 - 
+Value 
+increase/(decrease) 
+-0.0364 0.483% 4.484% 65.69 - 
+Percentage 
+increase/(decrease) 
+-2.77% 558.84% 432.65% 159.40% - 
+ 
+ Table 5 and Table 6 represent the mix of growth and decline Citigroup experienced in its 
+performance from 2009 to 2014. Stock price saw a large increase of 64.12%, increasing investor 
+profit by about $21 per share. Citigroup was the only one of the four to have a net loss in 2009, 
+which hurt many of its ratios for that year. In a similar trend to Bank of America, Citigroup had 
+decreases in both revenue and expenses from 2009 to 2014, but saw an increase in net income of 
+19 
+ 
+almost $9 billion. While working capital also saw a slight decrease, this figure is insignificant 
+considering Citigroup’s working capital is still greater than the other three large banks. 
+ A decrease in the current ratio is irrelevant for Citigroup because a current ratio of 1.2781 
+is a good statistic since it is greater than 1.0. As the only company of the four in my paper to 
+experience a net loss in 2009, Citigroup had negative return on assets and return on equity. In 
+2014, upper-level management completely turned around the productivity of assets and equity to 
+create positive ratios. Like Bank of America, Citigroup had negative earnings per share in 2009, 
+which meant a negative price-earnings ratio. In 2014, the company had positive earnings per 
+share, thus creating a positive PE ratio. Citigroup does not pay dividends to its shareholders so 
+the dividend yield ratio is nonexistent. 
+ 
+3.4 Wells Fargo & Company 
+ Headquartered in San Francisco, California, Wells Fargo & Company was created in that 
+same city with the purpose of serving the growing West in 1852 (www.wellsfargo.com). After 
+more than 150 years, Wells Fargo has expanded to serve over 35 countries with about 265,000 
+employees. Consisting of 16 members, Wells Fargo’s board of directors is particularly large 
+when compared to the other large banks in the United States. 
+Table 7: Wells Fargo & Company Accounts and Equations 
+Wells Fargo & 
+Company 
+Stock 
+Price 
+Revenue* Expenses* 
+Net 
+Income/(loss)* 
+Working 
+Capital* 
+2009 $26.99 $98,636.00 $58,970.00 $12,275.00 $161,369.00 
+2014 $55.67 $88,372.00 $53,062.00 $23,057.00 $221,720.00 
+Value 
+increase/(decrease) 
+$28.68 $(10,264.00) $(5,908.00) $10,782.00 $60,351.00 
+Percentage 
+increase/(decrease) 
+106.26% -10.41% -10.02% 87.84% 37.40% 
+*Revenue, Expenses, Net Income/(Loss), and Working Capital 
+values are written in millions of dollars 
+20 
+ 
+Table 8: Wells Fargo & Company Valuation Ratios 
+Wells Fargo & 
+Company 
+Current 
+Ratio 
+ROA ROE PE Ratio Dividend 
+Yield Ratio 
+2009 1.1744 0.0987% 10.734% 16.16 1.8155% 
+2014 1.1682 1.3666% 20.162% 13.35 2.4250% 
+Value 
+increase/(decrease) 
+-0.0062 1.268% 9.429% -2.81 0.6095% 
+Percentage 
+increase/(decrease) 
+-0.53% 1284.60% 87.84% -17.39% 33.57% 
+ 
+ Table 7 and Table 8 display the performance measures associated with Wells Fargo from 
+2009 and 2014. Company stock price increased over 106% as Wells Fargo prospered on the New 
+York Stock Exchange (NYSE). Similar to Bank of America and Citigroup, Wells Fargo saw 
+revenues and expenses decline, which could indicate a decrease in activity. An 87.84% increase 
+in net income is a positive sign that Wells Fargo is making good transactions and can see 
+continued growth if the company continues doing business with the same clients. Increased 
+working capital gives management more room to use excess assets to create more value for the 
+company. 
+ Wells Fargo shows another decrease in the current ratio, but is still performing well in the 
+category. It may be a good idea for management to be careful with this ratio because a year with 
+an unexpected sharp decline in current assets or increase in current liabilities could bring the 
+current ratio very close to 1.0. Return on assets and return on equity are strong aspects of Wells 
+Fargo’s business performance. In 2014, Wells Fargo has made the most efficient use of its assets 
+and equity out of the four largest banks in the United States. An impressive 1284.6% increase in 
+return on assets from 2009 to 2014 is the most significant increase that any of these banks has 
+experienced. Furthermore, a decline in the price earnings ratio helps investors feel confident 
+about the stock because even with a 106% increase in stock price, the earning for each share sold 
+21 
+ 
+has increased by a greater percentage. Dividends to shareholders are also increasing at a rate that 
+is greater than the increase in stock price, according to the dividend yield ratio comparison from 
+2009 to 2014. 
+ 
+4 Further Research 
+ It is important to note that my research does not intend to analyze each year between 
+2009 and 2014, but rather to determine if there was an overall increase or decrease in key 
+performance areas for each large bank. Additional information lies in the years between 2009 
+and 2014. This information would be beneficial to see if there were years of great performance 
+or years of lag and what may have caused these differences in performance. National or 
+international news may play a role in American banking performance and further research 
+between 2009 and 2014 may uncover that forces outside of the United States could have a strong 
+pull on banking performance. 
+ After the banking collapse in 2008, the banking industry saw much hardship in the 
+closure of 511 banks between 2009 and 2015 (FDIC). Most of the banks included on this list are 
+much smaller banks that were either absorbed by larger institutions or permanently removed. 
+Research can continue in the direction of considering the performances of medium and small 
+sized banking firms during the recovery period, to determine if there is any relationship between 
+the size of a bank and its ability to recover after the crisis. It would also be interesting to 
+calculate the performance of financial institutions which absorbed the firms that were forced to 
+close. 
+  
+22 
+ 
+5 Conclusion  
+ Many banking professionals could argue that the banking industry is the most liquid 
+industry and that measurements of liquidity are irrelevant because of the availability of liquid 
+assets. They should be careful to put an equal emphasis on liquidity in order to have cash 
+available in the case of a financial crisis or extraordinary circumstance. In 2009, Citigroup 
+experienced difficult times with a net loss even after being bailed out by the government. Bank 
+of America was forced to settle a lawsuit in 2014, which hurt the company’s liquid assets and 
+turned what should have been increased ratios sour. 
+ The experiences of a diverse Board of Directors can add to the quality of performance 
+and decisions of a company. In each board of directors, members come from a wide array of 
+industries with degrees from numerous majors and concentrations. These different points of view 
+combine to help the decision-making process become more efficient. 
+ Economic recovery has had a generally positive effect on the large banks in the financial 
+sector of the United States. The only outlier is Bank of America, which experienced declines in 
+multiple areas, but also saw some increases. The decline can probably be attributed, in part, to 
+the $16.65 billion penalty that Bank of America was required to pay in order to resolve 
+allegations that it sold bad mortgage-backed securities leading up to the financial crisis. It was 
+“the largest civil settlement ever between a single firm and the U.S. government” (McCoy and 
+Johnson). If the $16.65 billion penalty is put into assets and the accounts are readjusted so the 
+loss from the lawsuit did not exist, then Bank of America would have had a much better year in 
+2014. Rather than experiencing decreases in most of its ratios and equations from 2009 to 2014, 
+Bank of America would have seen increases in net income, current ratio, return on assets, and 
+return on equity. The exclusion of this penalty for Bank of America shows that through 
+23 
+ 
+economic recovery, the four largest banks in the United States in 2014 have outperformed their 
+initial year of recovery in 2009. 
+ 
+  
+  
+ 
+  
+24 
+ 
+6 Appendix 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+$41.67 
+$62.58 
+$15.06 
+$17.89 
+$32.97 
+$54.11 
+$26.99 
+$55.67 
+ $-
+ $10.00
+ $20.00
+ $30.00
+ $40.00
+ $50.00
+ $60.00
+ $70.00
+Stock Price
+JPM 2009
+JPM 2014
+BAC 2009
+BAC 2014
+C 2009
+C 2014
+WFC 2009
+WFC 2014
+25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+$11,728.00 
+$21,762.00 
+$6,276.00 
+$4,833.00 
+$(1,606.00)
+$7,313.00 
+$12,275.00 
+$23,057.00 
+ $(5,000.00)
+ $-
+ $5,000.00
+ $10,000.00
+ $15,000.00
+ $20,000.00
+ $25,000.00
+Net Income
+JPM 2009
+JPM 2014
+BAC 2009
+BAC 2014
+C 2009
+C 2014
+WFC 2009
+WFC 2014
+26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+$244,965.00 
+$334,543.00 
+$219,374.00 
+$181,862.00 
+$395,484.00 
+$367,699.00 
+$161,369.00 
+$221,720.00 
+ $-
+ $50,000.00
+ $100,000.00
+ $150,000.00
+ $200,000.00
+ $250,000.00
+ $300,000.00
+ $350,000.00
+ $400,000.00
+ $450,000.00
+Working Capital
+JPM 2009
+JPM 2014
+BAC 2009
+BAC 2014
+C 2009
+C 2014
+WFC 2009
+WFC 2014
+27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.1531
+1.1621
+1.1412 
+1.1124 
+1.3145
+1.2781
+1.1744 1.1682
+1
+1.05
+1.1
+1.15
+1.2
+1.25
+1.3
+1.35
+Current Ratio
+JPM 2009
+JPM 2014
+BAC 2009
+BAC 2014
+C 2009
+C 2014
+WFC 2009
+WFC 2014
+28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.5772%
+0.8457%
+0.2823%
+0.2297%
+-0.0865%
+0.3969%
+0.0987%
+1.3666%
+-0.2000%
+0.0000%
+0.2000%
+0.4000%
+0.6000%
+0.8000%
+1.0000%
+1.2000%
+1.4000%
+1.6000%
+Return on Assets
+JPM 2009
+JPM 2014
+BAC 2009
+BAC 2014
+C 2009
+C 2014
+WFC 2009
+WFC 2014
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.093%
+9.378%
+2.712%
+1.985%
+-1.036%
+3.447%
+10.734%
+20.162%
+-5.000%
+0.000%
+5.000%
+10.000%
+15.000%
+20.000%
+25.000%
+Return on Equity
+JPM 2009
+JPM 2014
+BAC 2009
+BAC 2014
+C 2009
+C 2014
+WFC 2009
+WFC 2014
+30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18.44
+11.72
+-51.93
+49.69
+-41.21
+24.48
+16.16
+13.35
+-60
+-40
+-20
+0
+20
+40
+60
+Price-Earnings Ratio
+JPM 2009
+JPM 2014
+BAC 2009
+BAC 2014
+C 2009
+C 2014
+WFC 2009
+WFC 2014
+31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.4800%
+2.2480%
+0.2656%
+0.6708%
+1.8155%
+2.4250%
+0.0000%
+0.5000%
+1.0000%
+1.5000%
+2.0000%
+2.5000%
+3.0000%
+**Citigroup does not pay dividends to its owners**
+Dividend Yield
+JPM 2009
+JPM 2014
+BAC 2009
+BAC 2014
+WFC 2009
+WFC 2014
+32 
+ 
+Works Cited 
+ 
+ 
+American Banking Association. “Banking Backgrounder.” Banking Backgrounder. Web. 1 May 
+2015. <http://www.aba.com/Press/Pages/banking_background.aspx>. 
+ 
+“Progress Informed by the Past, and Inspired by the Future.” Citi. 2015. Web. 11 May 2015. 
+<http://www.citigroup.com/citi/>.  
+ 
+“Bank of America — Banking, Credit Cards, Mortgages and Investing.” Bank of America — 
+Banking, Credit Cards, Mortgages and Investing. 2015. Web. 8 May 2015. 
+<https://www.bankofamerica.com/>.  
+ 
+“Equity Multiplier.” My Accounting Course. 1 Jan. 2014. Web. 3 May 2015. 
+<http://www.myaccountingcourse.com/financial-ratios/equity-multiplier> 
+ 
+“Federal Deposit Insurance Corporation.” FDIC: Failed Bank List. Web. 1 May 2015. 
+<https://www.fdic.gov/bank/individual/failed/banklist.html>. 
+ 
+“Financial Information - SEC Filings.” Citi | Investor Relations. Web. 1 May 2015. 
+<http://www.citigroup.com/citi/investor/sec.htm>. 
+ 
+Gelain, Paolo, Kevin J. Lansing, and Gisle J. Natvik. “Explaining the Boom-Bust Cycle in the 
+U.S. Housing Market: A Reverse-Engineering Approach.” 1 Jan. 2015. Web. 1 May 
+2015. <http://www.frbsf.org/economic-research/publications/working-papers/wp2015-
+02.pdf>. 
+ 
+Harvey, Campbell R. “Definition of "Insolvency Risk” - NASDAQ Financial Glossary." 
+NASDAQ.com. 2011. Web. 1 May 2015. 
+<http://www.nasdaq.com/investing/glossary/i/insolvency-risk>. 
+ 
+Havemann, Joel. “The Financial Crisis of 2008: Year In Review 2008 | Global Financial Crisis.” 
+Encyclopedia Britannica Online. Encyclopedia Britannica. Web. 1 May 2015. 
+<http://www.britannica.com/EBchecked/topic/1484264/The-Financial-Crisis-of-2008-
+Year-In-Review-2008>. 
+ 
+Ledgers Canada. “Financial Ratios and Bank Financing.” Web. 1 May 2015. 
+<http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCUQ
+FjAB&url=http://www.ledgers.com/guides/Financial%20Ratios.pdf&ei=_g9DVe26OIa0
+ggSE9YDoAQ&usg=AFQjCNE1dvaxXw2EM80wGRSqI20jwbqbRQ&sig2=-
+rH7K_5MOXaqCqZJxp-Vag&bvm=bv.92189499,d.eXY>. 
+ 
+ 
+ 
+ 
+33 
+ 
+Lynch, David J. “Banks Bounce Back, but Can They Handle next Crisis? - USATODAY.com.” 
+Banks Bounce Back, but Can They Handle next Crisis? - USATODAY.com. 14 Sept. 
+2010. Web. 1 May 2015. 
+<http://usatoday30.usatoday.com/money/industries/banking/2010-09-15-
+banks15_CV_N.htm>. 
+ 
+McCoy, Kevin, and Kevin Johnson. "Bank of America Pays Record $16.65B Penalty." USA 
+Today. Gannett, 21 Aug. 2014. Web. 8 May 2015. 
+<http://www.usatoday.com/story/money/business/2014/08/21/bank-of-america-
+settlement-announced/14379775/>. 
+ 
+“SEC and Other Regulatory Filings.” - Investor Relations. Web. 1 May 2015. 
+<https://www.wellsfargo.com/about/investor-relations/filings/>. 
+ 
+“SEC Filings.” Bank of America: Investor Relations. Web. 1 May 2015. 
+<http://investor.bankofamerica.com/phoenix.zhtml?c=71595&p=irol-
+sec#fbid=lGPOJe8vhc8>. 
+ 
+“"SEC Filings.” SEC Filings. Web. 1 May 2015. 
+<http://investor.shareholder.com/jpmorganchase/sec.cfm?doctype=Annual>. 
+ 
+“SelectUSA.” The Financial Services Industry in the United States. Web. 
+<http://selectusa.commerce.gov/industry-snapshots/financial-services-industry-united-
+states>. 
+ 
+“Welcome to JPMorganChase & Co.” Home. 2015. Web. 1 May 2015. 
+<http://www.jpmorganchase.com/>. 
+ 
+“Wells Fargo Personal.” Wells Fargo. 2015. Web. 8 May 2015. <https://www.wellsfargo.com/>.  
+ 
+“Yahoo Finance - Business Finance, Stock Market, Quotes, News.” Yahoo Finance. Web. 1 May 
+2015. <http://finance.yahoo.com/>. 
+ 

@@ -1,0 +1,1363 @@
+Techno-Economic Potential of Enhanced Coal Recovery through Middlings Liberation and Re-Processing
+
+University of Kentucky 
+UKnowledge 
+Theses and Dissertations--Mining Engineering Mining Engineering 
+2016 
+Techno-Economic Potential of Enhanced Coal Recovery through 
+Middlings Liberation and Re-Processing 
+Shivani 
+University of Kentucky, shivani.sharma2106@gmail.com 
+Digital Object Identifier: http://dx.doi.org/10.13023/ETD.2016.205 
+Right click to open a feedback form in a new tab to let us know how this document benefits you. 
+Recommended Citation 
+Shivani, "Techno-Economic Potential of Enhanced Coal Recovery through Middlings Liberation and Re-
+Processing" (2016). Theses and Dissertations--Mining Engineering. 29. 
+https://uknowledge.uky.edu/mng_etds/29 
+This Master's Thesis is brought to you for free and open access by the Mining Engineering at UKnowledge. It has 
+been accepted for inclusion in Theses and Dissertations--Mining Engineering by an authorized administrator of 
+UKnowledge. For more information, please contact UKnowledge@lsv.uky.edu. 
+STUDENT AGREEMENT: 
+I represent that my thesis or dissertation and abstract are my original work. Proper attribution 
+has been given to all outside sources. I understand that I am solely responsible for obtaining 
+any needed copyright permissions. I have obtained needed written permission statement(s) 
+from the owner(s) of each third-party copyrighted matter to be included in my work, allowing 
+electronic distribution (if such use is not permitted by the fair use doctrine) which will be 
+submitted to UKnowledge as Additional File. 
+I hereby grant to The University of Kentucky and its agents the irrevocable, non-exclusive, and 
+royalty-free license to archive and make accessible my work in whole or in part in all forms of 
+media, now or hereafter known. I agree that the document mentioned above may be made 
+available immediately for worldwide access unless an embargo applies. 
+I retain all other ownership rights to the copyright of my work. I also retain the right to use in 
+future works (such as articles or books) all or part of my work. I understand that I am free to 
+register the copyright to my work. 
+REVIEW, APPROVAL AND ACCEPTANCE 
+The document mentioned above has been reviewed and accepted by the student’s advisor, on 
+behalf of the advisory committee, and by the Director of Graduate Studies (DGS), on behalf of 
+the program; we verify that this is the final, approved version of the student’s thesis including all 
+changes required by the advisory committee. The undersigned agree to abide by the statements 
+above. 
+Shivani, Student 
+Dr. Rick Honaker, Major Professor 
+Dr. Braden Lusk, Director of Graduate Studies 
+ 
+ 
+ 
+ 
+TECHNO-ECONOMIC POTENTIAL OF ENHANCED 
+COAL RECOVERY THROUGH MIDDLINGS 
+LIBERATION AND RE-PROCESSING 
+ 
+ 
+ 
+THESIS 
+ 
+ 
+ 
+A thesis submitted in partial fulfillment of the 
+requirements for the degree of Master of Science in  
+Mining Engineering in the College of Engineering  
+at the University of Kentucky 
+ 
+By 
+Shivani  
+Lexington, Kentucky 
+ 
+Director: Dr. Rick Honaker 
+Professor of Mining Engineering 
+Lexington, Kentucky 
+ 
+ 
+ 
+ 
+May 2016 
+Copyright © Shivani 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ABSTRACT OF THESIS 
+ 
+ 
+TECHNO-ECONOMIC POTENTIAL OF ENHANCED COAL 
+RECOVERY THROUGH MIDDLINGS LIBERATION AND RE-
+PROCESSING 
+  
+The typical preparation plant producing coal for the utility market targets a relative 
+separation density in the plant of around 1.60 whereas plants generating metallurgical coal 
+use relative cut point density values approaching 1.50. In some cases, achieving the 
+specified coal quality requires operating at lower cut point values, which results in a 
+significant loss of valuable coal. In these situations, a middlings stream can be produced 
+using a secondary separator or a three-product unit, which would allow crushing of the 
+middlings for liberation purposes and re-introduction into the plant feed. In this manner, 
+higher quality coal can be produced while maximizing plant yield.  
+A detailed laboratory analysis was conducted to study the liberation characteristics 
+resulting from the crushing of middlings at different top sizes. The experimental data were 
+later used as input for modeling and simulation of plant flowsheet in LIMN. Simulations 
+were run for several regrinding cases. The results of the current study investigating the 
+economic benefits of middlings liberation and re-treatment are presented and discussed in 
+this thesis. Improvement up to 6% in plant yield with 16-21% reduction in ash and 14-18% 
+sulfur reductions can be achieved by crushing the +1/2 inch middlings to a ½-inch top size.  
+KEYWORDS: Middlings, cut point, three-product separator, liberation, LIMN, Modeling 
+and simulation. 
+ 
+Shivani  
+Student’s Signature 
+ 
+  April 18th, 2016   
+            Date  
+          
+ 
+ 
+ 
+ 
+ 
+TECHNO-ECONOMIC POTENTIAL OF ENHANCED COAL 
+RECOVERY THROUGH MIDDLINGS LIBERATION AND RE-
+PROCESSING 
+ 
+ 
+By 
+ 
+Shivani 
+ 
+ 
+  
+ 
+ 
+                   Dr. Rick Honaker 
+                  Director of Thesis 
+ 
+Dr. Braden Lusk  
+       Director of Graduate Studies 
+   
+     April 18th, 2016 
+                                  (Date) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEDICATION 
+ 
+This thesis is dedicated to my mother and father. 
+I have been extremely fortunate to have been brought up by them, who 
+instilled in me the desire to continue my education. Without their help and 
+support this research would not have been possible.
+iii 
+ 
+ACKNOWLEDGEMENTS 
+ 
+I would like to express my deepest gratitude to all those who provided insight and expertise 
+that greatly assisted this research.  
+I am thankful to Dr. Rick Honaker who gave me the opportunity to join his research group 
+at the Department of Mining Engineering, University of Kentucky.  I am extremely grateful 
+to Dr. Honaker who has been a great advisor and mentor. His guidance helped me at all the 
+stages of the project and writing of this thesis. He consistently allowed this research to be 
+my own work, but steered me in the right direction whenever I needed it. 
+I would like to thank Dr. B.K. Parekh and Dr. John Groppo for being part of my Thesis 
+Committee. 
+I am thankful to Edward Thompson who gave access to the laboratory and research 
+facilities. Without his invaluable help in the laboratory it would not be possible to conduct 
+this research. 
+I am thankful to GT Global for having funded the research. I would like to extend my 
+sincere thanks to the Alliance Resource Partner, LP for facilitating us to conduct a test at 
+Dotiki plant. I am also grateful to the Dotiki plant management for having us tour their 
+plant and for all their efforts in ensuring successful samples collection.  
+I would like to express my sincere gratitude to my fellow graduate students especially 
+Abhijit Bhagavatula without whom conducting the various test programs and laboratory 
+analysis for this project would have been impossible. Further thanks to the whole Mining 
+engineering department for creating a wonderful atmosphere, which made my stay at the 
+department truly memorable. 
+Finally, I would like to thank my family for all their support and encouragement. 
+ 
+ 
+ 
+iv 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+TABLE OF CONTENTS ................................................................................................... iv 
+LIST OF TABLES ............................................................................................................. vi 
+LIST OF FIGURES ......................................................................................................... viii 
+1 Introduction ................................................................................................................. 1 
+1.1 Background ............................................................................................................... 1 
+1.2 Problem Statement .................................................................................................... 4 
+1.3 Scope of Work ........................................................................................................... 4 
+1.4 Organization of the Thesis ........................................................................................ 6 
+2 Literature Review ........................................................................................................ 7 
+2.1 Middlings .................................................................................................................. 7 
+2.2 Middlings Liberation Characteristics ........................................................................ 9 
+2.3 Previous Attempts at Ash and Sulfur Reduction ....................................................... 9 
+2.4 Previous Attempts at Middlings Liberation ............................................................ 10 
+2.5 Problem Being Addressed ....................................................................................... 12 
+2.6 Three Product DMC to Capture Middlings ............................................................. 12 
+3 Case: Dotiki Processing Plant.................................................................................... 14 
+4 Experimental Work.................................................................................................... 16 
+4.1 Experimental Methods and Equipment ................................................................... 16 
+4.2 Comminution using Hammer mill ........................................................................... 22 
+4.3 Liberation from Middlings ...................................................................................... 25 
+4.4 Experimental Results............................................................................................... 31 
+5 LIMN Modeling and Simulation ............................................................................... 45 
+5.1 Process of LIMN Modeling and Simulation ........................................................... 45 
+5.2 Base Case of Dotiki Coal Preparation Plant Validation Using LIMN .................... 51 
+5.3 Proposed Flowsheet of Dotiki Coal Preparation Plant ............................................ 54 
+5.4 Regrinding Cases for Simulation ............................................................................ 56 
+6 Technical and Economic Analysis ............................................................................ 59 
+7 Conclusions ............................................................................................................... 61 
+Appendix ........................................................................................................................... 63 
+v 
+ 
+A. Crushing of +1 inch middlings to various top sizes ............................................... 63 
+B. Crushing of 1 x ½ inch middlings to various top sizes .......................................... 69 
+C. Crushing of ½ x ¼ inch middlings to various top sizes ......................................... 73 
+Bibliography ..................................................................................................................... 75 
+VITA ................................................................................................................................. 78 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vi 
+ 
+LIST OF TABLES 
+ 
+Table 2-1 Washability data for 1 x 1/2 inch (coarse) Illinois No. 6 coal used in study. ..... 7 
+Table 2-2 Washability data for 6 x 1 mm (fine) Illinois No. 6 coal used in study. ............ 8 
+Table 3-1 Typical Monthly Plant Performance. ............................................................... 15 
+Table 4-1 Plant performance on the day of sample collection. ......................................... 17 
+Table 4-2 Particle size analysis data of middlings before crushing. ................................. 19 
+Table 4-3 Float and sink analysis data of middlings of + 1-inch size fraction. ................ 20 
+Table 4-4 Float and sink analysis data of middlings of 1 x 1/2-inch size fraction. .......... 21 
+Table 4-5 Float and sink analysis data of uncrushed middlings of 1/2 x 1/4-inch size 
+fraction. ...................................................................................................................... 21 
+Table 4-6 Particle size analysis data of +1inch middlings particles after crushing to top 
+size 1 inch. ................................................................................................................. 25 
+Table 4-7 Particle size analysis data of +1inch middlings particles after crushing to top 
+size ½ inch. ................................................................................................................ 26 
+Table 4-8 Particle size analysis data of +1inch middlings particles after crushing to top 
+size 1/4 inch. .............................................................................................................. 27 
+Table 4-9 Particle size analysis data of +1inch middlings particles after crushing to top 
+size 1/8inch. ............................................................................................................... 27 
+Table 4-10 Particle size analysis data of 1 x 1/2 inch middlings particles after crushing to 
+top size 1/2 inch. ........................................................................................................ 28 
+Table 4-11 Particle size analysis data of 1 x 1/2 inch middlings particles after crushing to 
+top size 1/4inch. ......................................................................................................... 29 
+Table 4-12 Particle size analysis data of 1 x 1/2 inch middlings particles after crushing to 
+top size 1/8inch. ......................................................................................................... 29 
+Table 4-13 Particle size analysis data of 1/2 x 1/4 inch middlings particles after crushing 
+to top size 1inch. ........................................................................................................ 30 
+Table 4-14 Particle size analysis data of 1/2 x 1/4 inch middlings particles after crushing 
+to top size 1/8 inch. .................................................................................................... 30 
+Table 4-15 Float and sink analysis data of + 1-inch middlings crushed to top size 1 inch.
+ ................................................................................................................................... 31 
+vii 
+ 
+Table 4-16 Float and sink analysis data of + 1-inch middlings crushed to top size 1/2 
+inch. ........................................................................................................................... 32 
+Table 4-17 Float and sink analysis data of + 1-inch middlings crushed to top size 1/4 
+inch. ........................................................................................................................... 33 
+Table 4-18 Float and sink analysis data of + 1-inch middlings crushed to top size 1/8 
+inch. ........................................................................................................................... 33 
+Table 4-19 Float and sink analysis data of 1 x 1/2 inch middlings crushed to top size 1/2 
+inch. ........................................................................................................................... 36 
+Table 4-20 Float and sink analysis data of 1 x 1/2 inch middlings crushed to top size 1/4 
+inch. ........................................................................................................................... 37 
+Table 4-21 Float and sink analysis data of 1 x 1/2 inch middlings crushed to top size 1/8 
+inch. ........................................................................................................................... 38 
+Table 4-22 Float and sink analysis data of 1/2 x 1/4 inch middlings crushed to top size 
+1/4 inch. ..................................................................................................................... 41 
+Table 4-23 Float and sink analysis data of 1/2 x 1/4 inch middlings crushed to top size 
+1/8 inch. ..................................................................................................................... 42 
+Table 5-2 Plant performance as obtained from LIMN simulation. ................................... 53 
+Table 5-3 Typical monthly average plant performance. ................................................... 53 
+Table 6-1 Comparison of performance of base case and proposed flowsheet of Dotiki 
+Plant. .......................................................................................................................... 59 
+Table 6-2 Operational and economic parameters considered for calculations. ................ 60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+viii 
+ 
+LIST OF FIGURES 
+ 
+Figure 1-1: Coal Basins of the United States (1994 Encyclopedia Britannia, Inc.) ........... 3 
+Figure 1-2: Alliance Resource Partners' active mines. (Source: SNL, MSHA, Alliance 
+Resource & Howard Well) .......................................................................................... 3 
+Figure 1-3: Dotiki preparation Plant located in Western Kentucky ................................... 5 
+Figure 2-1: GTC Three Product DMC .............................................................................. 13 
+Figure 3-1: The Dotiki preparation plant flowsheet. Source- Dr. Gerald Luttrell ............ 14 
+Figure 4-1: Sample collection from clean coal product of Dense Medium Cyclone ........ 17 
+Figure 4-2: Holmes model 401XL Hammer Mill Coal Crusher (courtesy of Preiser 
+Scientific)................................................................................................................... 23 
+Figure 4-3: Detailed flow chart of middlings crushing ..................................................... 24 
+Figure 4-4: Cumulative mass yield – ash curves for various regrinding sizes of +1 inch 
+middlings ................................................................................................................... 34 
+Figure 4-5: Cumulative mass yield - sulfur curves for various regrinding sizes of +1 inch 
+middlings ................................................................................................................... 35 
+Figure 4-6: Cumulative mass yield – ash curves for various regrinding sizes of 1 x 1/2 
+inch middlings ........................................................................................................... 39 
+Figure 4-7: Cumulative mass yield – sulfur curves for various regrinding sizes of 1 x 1/2 
+inch middlings ........................................................................................................... 40 
+Figure 4-8: Cumulative mass yield – ash curves for various regrinding sizes of 1/2  x 1/4 
+inch middlings ........................................................................................................... 43 
+Figure 4-9: Cumulative mass yield – sulfur curves for various regrinding sizes of 1/2 x 
+1/4 inch middlings ..................................................................................................... 44 
+Figure 5-1: Model for Coal DMC based on JKMRC and DSM models .......................... 48 
+Figure 5-2: DM separator model used for spiral ............................................................... 49 
+Figure 5-3: DM separator model used for flotation column ............................................. 50 
+Figure 5-4: Base case flowsheet of Dotiki plant drawn in LIMN ..................................... 51 
+Figure 5-5: Proposed flowsheet of Dotiki plant drawn in LIMN ..................................... 54 
+Figure 5-6: Plant yield – cut densities plots for various regrinding sizes ......................... 56 
+Figure 5-7: Product ash – cut densities plots for various regrinding sizes ....................... 57 
+ix 
+ 
+Figure 5-8: Product sulfur - cut densities plot for various regrinding sizes ...................... 58 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+1  Introduction 
+1.1 Background 
+The typical coal preparation plants of United States use relative cut point density values 
+approaching 1.60. However, the Illinois Basin coal plants are often required to operate at 
+lower density cut points below a 1.5 relative density value to provide clean coal with low 
+sulfur content. For a two product separator, a low density separation often results in a 
+substantial loss of valuable coal. Introducing a three-product separator would allow the 
+capture of such middlings which could be further retreated to ensure maximum recovery 
+of valuable coal.  
+Coal Deposits 
+The coal-bearing regions of the U.S. are divided into three main areas: Appalachia Basin, 
+Illinois Basin and Powder River Basin. Powder River Basin has the biggest reserves in the 
+U.S. followed by the Illinois Basin.  Figure 1.1 shows the major coal basins of the U.S. 
+This research project was performed using coal from the Dotiki Mining Complex operated 
+by Alliance Resource Partner, LP located in Western Kentucky which extracts coal from 
+the Kentucky No. 13 seam in the Illinois Basin.  The Illinois Basin extends over an area of 
+approximately 53,000 sq. miles in East Central United States.  It encompasses a large 
+portion of Illinois and extends up to Southwestern Indiana and Western Kentucky. This 
+basin is one of the oldest coal producing regions in the U.S. dating back to early 1800s. 
+The Illinois basin has an estimated reserve of 50 billion tons of recoverable coal, making 
+it the second largest basin in the country only behind the massive Powder River Basin, 
+which has nearly 115 billion tons of coal. The coal found in Illinois Basin is medium and 
+high volatile Bituminous coal reserves of Pennsylvanian age rocks. The coal reserve is 
+characterized by its high sulfur content and has inherent moisture in the range of 7-9%.  
+The occurrence of ash is irregular and unpredictable for large areas of the individual coal 
+seams. The ash content of Illinois coals lies in the range of 6%- 14%. The average ash 
+content of Illinois coals is about 10%, with variations in the order of 2 to 3%. The heat 
+content of Illinois coals ranges from about 11,000 Btu/lb. on moisture, mineral-matter-free 
+basis in the northwestern part of the basin to about 15,000 Btu/lb. in the southeastern part. 
+2 
+ 
+The average heat content of coal ranges from 10,000 -12,500 Btu/lb.  The high heat content 
+of the coal is often offset by the loss in value due to the high-sulfur content. 
+High Sulfur Content 
+As per the EPA’s emissions control standard, Illinois Basin coal is classified as a high 
+sulfur coal. Total sulfur content of Illinois coals ranges from as low as 0.5% to more than 
+8%. Sulfur content of the coal depends on the type of overburden. Most of the coals that 
+have marine shales and carbonates, as overburden tend to have higher sulfur content, 
+greater than 2.5 percent. Whereas, the coals having non marine gray shales as the roof rocks 
+contain less than 2.5 percent sulfur. The presence of marine shales and limestones in the 
+overburden rocks accounts for the high sulfur content of the Illinois Basin coals. 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+Figure 1-1: Coal Basins of the United States (1994 Encyclopedia Britannia, Inc.) 
+ 
+ 
+Figure 1-2: Alliance Resource Partners' active mines. (Source: SNL, MSHA, Alliance 
+Resource & Howard Well) 
+4 
+ 
+1.2 Problem Statement 
+As opposed to the regular trends of cutting at 1.6 medium density, the Illinois basin plants 
+have to cut at 1.5 medium density to cut down the high sulfur content of the coal. This low 
+density separation negatively affects their yield and result in significant loss of valuable 
+coal.  
+With the growing EPA’s regulations, it becomes necessary to reduce the sulfur content of 
+the coal. The reduction of high sulfur percentages in coal is a difficult problem. The sulfur 
+content of the Illinois Basin coals is mostly in the form of pyritic and organic sulfur. 
+Organic sulfur is part of the coal structure and uniformly distributed throughout the coal. 
+It is practically not possible to remove the organic sulfur by physical cleaning processes. 
+Whereas, pyritic sulfur occurs as discrete particles within the coal structure and can be 
+removed by physical cleaning if properly liberated. The extent of reduction of pyritic sulfur 
+is a function of particle size reduction. Sometimes the pyritic sulfur may be intricately 
+mixed within the coal matrix. Such coal will require crushing up to fine sizes to liberate 
+the pyritic sulfur. The coal-sulfur distribution in the coal matrix can be so interwoven that 
+the coal is essentially required to be crushed to small sizes for affecting liberation of coal 
+and sulfur particles. It is well known that the fine coal beneficiation processes are generally 
+less efficient than the coarse beneficiation processes. In addition, the handling and 
+transportation of finer products become difficult and expensive. Thus, it is imperative to 
+find an optimum top size for crushing the coal, which would liberate the sulfur and 
+simultaneously maximizes the recovery of clean coal in beneficiation processes. 
+1.3 Scope of Work 
+To conduct the study, the Dotiki plant operated by Alliance coal was selected. Alliance 
+coal facilitated to conduct a test at Dotiki plant by setting the medium density at 1.35. 
+Samples around the entire plant were collected. The coarse reject sample was sent to SGS 
+Minerals laboratory to achieve a cut at 1.8 specific gravity medium. Thus, a middlings 
+fraction having specific gravity of 1.35 - 1.8 was obtained. High specific gravity (1.8 sink) 
+coal was the final reject. The middlings fraction was used for further experiment and 
+analysis.  
+5 
+ 
+ 
+Figure 1-3: Dotiki preparation Plant located in Western Kentucky 
+ 
+The major objective of this research project is to reduce the sulfur and ash content while 
+maximizing the recovery of clean coal produced from the Dotiki preparation plant. This 
+project aims at improve the product quality while positively impacting the plant yield. This 
+research aimed to evaluate the response of middlings fraction to regrinding. To achieve the 
+project goals, the following specific objectives were targeted: 
+(i) Introduction of a middlings stream using a secondary dense media cyclone or a 
+three-product unit in the Dotiki coal preparation plant. 
+(ii) Particle size analysis of the middlings produced and evaluation of the 
+washability characteristics of various middling size fractions. 
+(iii) Cushing of the middlings for liberation purposes at various top sizes using a 
+laboratory scale hammer mill. 
+(iv) Particle size analysis of the middlings after being crushed to different top sizes 
+and subsequent washability studies. 
+(v) Designing a new flowsheet with a regrinding circuit. 
+(vi) Modelling and simulation of the base case and proposed flowsheets using 
+LIMN- an Excel-hosted flowsheet processor. 
+6 
+ 
+(vii) Efficiency evaluation of the regrinding circuit and of the overall preparation 
+plant. 
+(viii) Technical and economic analysis of the proposed design. 
+ 
+1.4 Organization of the Thesis 
+The thesis is divided into six main chapters. Chapter 1 provides the background leading to 
+the research. It also discusses the purpose of the project. Chapter 2 is focused on the 
+literature review and discusses the previous attempts done in the field of regrinding and 
+sulfur reduction. Chapter 3 discusses the Dotiki preparation plant. Chapter 4 focuses on the 
+experiments done at laboratory of the Department of Mining Engineering, University of 
+Kentucky. Chapter 5 discusses the Modelling and simulation using LIMN. Chapter 6 
+discusses the technical and economic feasibility of the proposed design. Finally, chapter 7 
+summarizes the results and conclusions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+7 
+ 
+2 Literature Review  
+ 
+2.1 Middlings 
+For a typical coal washability, the intermediate specific gravity fractions have high ash and 
+sulfur content. The low-density fractions comprise the clean coal whereas high-density 
+material is reject. The intermediate density material is called middling. The coal middlings 
+have a relatively high ash content because of associated pyrites and minerals. The 
+middlings consist of large amount of unlocked material. It consists of pyrite rocks blended 
+with coal. Degree of locking of pyrites within coal matrix varies largely within the coal of 
+different regions. 
+Tables 2.1 and 2.2 show the typical washability data of Illinois No. 6 coal for a coarser (1 
+x ½ inch) fraction and a finer (6 x 1 mm) size fraction.  
+Table 2-1 Washability data for 1 x 1/2 inch (coarse) Illinois No. 6 coal used in study 
+Specific Gravity Incremental 
+Sink Float Weight% Ash% Sulfur% 
+- 1.40 37.08 8.33 3.33 
+1.40 1.45 2.26 17.20 5.33 
+1.45 1.50 2.43 20.65 6.15 
+1.50 1.55 1.28 23.14 6.39 
+1.55 1.60 1.60 28.69 6.81 
+1.60 1.65 0.75 32.96 7.31 
+1.65 1.70 1.11 38.11 7.40 
+1.70 - 53.49 82.43 5.60 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+Table 2-2 Washability data for 6 x 1 mm (fine) Illinois No. 6 coal used in study 
+Specific Gravity Incremental 
+Sink Float Weight% Ash% Sulfur% 
+- 1.40 52.64 8.22 2.87 
+1.40 1.45 0.60 17.15 3.45 
+1.45 1.50 2.74 20.82 5.09 
+1.50 1.55 1.29 24.58 5.68 
+1.55 1.60 1.55 27.58 6.72 
+1.60 1.65 0.69 32.39 6.93 
+1.65 1.70 1.85 38.50 6.46 
+1.70 - 38.64 82.73 5.88 
+ 
+These two tables indicate that, as the particle size decreases within the same Illinois No. 6 
+coal, the sulfur values decrease significantly for the intermediate specific gravity fractions, 
+while their incremental ashes remain the same. This is due to the reduction in pyritic sulfur 
+caused by liberation due to finer sizes, even without any crushing. This forms a basis that 
+crushing the middlings to a finer size would result in the liberation of sulfur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+2.2 Middlings Liberation Characteristics 
+Middlings are relatively high ash materials whose subsequent liberation is possible through 
+size reduction. However, liberation of middlings depends on type of comminution devices 
+and fragmentation mechanisms (Weining Xie, 2013). Middlings particles of size 3 x 0.5 
+mm from a dense medium cyclone were crushed using by jaw crusher and ball mill to 
+−0.5 mm to generate similar particle size distribution. The particles crushed by jaw crusher 
+showed better mineral liberation than that by the ball mill for each size fraction. For a target 
+ash of 11%, jaw crusher produced 20% higher yields.  
+ The breakage characteristics of middlings and their liberation properties depends on the 
+distribution of mineral matter within the coal. Oliver (1995) crushed middlings from a 
+dense medium separator using a swing hammer crusher. According to the investigation, 
+the original uncrushed middlings did not show any liberation with reducing particle size. 
+However, crushing improved the liberation characteristics of the middlings. It is believed 
+that the change in liberation of the crushed products as a whole is due to the difference in 
+size distributions. 
+2.3 Previous Attempts at Ash and Sulfur Reduction 
+Deurbrouck et al. (1966) did a survey of sulfur reduction in Appalachian coals resulting 
+from staged crushing. The investigations indicated that Appalachian coals showed 
+significant sulfur reductions when crushed to a top size of 14 Mesh. A feasible approach 
+for sulfur reductions could be liberation of pyritic sulfur by crushing and subsequent 
+removal by density separation. The study involved crushing of the entire sample to 1 – ½ 
+inch top size before testing. Then the samples were stage crushed through 3/8 inch and 14 
+Mesh. And in another series of tests, the samples were crushed to 3/8-inch top size only. 
+Crushing of samples to 1 – ½ and 3/8 inch did not indicate any significant sulfur reduction 
+in 1.6 S.G. float. However, the stage crushing of samples to 1- ½ inch, 3/8 inch and 14 
+Mesh exhibited substantial sulfur reductions in 1.6 S.G. float, especially when crushed 
+down to 14 Mesh top size. Moreover, significant sulfur reductions in the Upper Kittanning 
+coalbed at each successive stage of crushing were observed. On the contrary, the Lower 
+Kittanning coalbed did not show any sulfur liberations by crushing. Another finding of this 
+10 
+ 
+survey was the constant sulfur content of 1.3 S.G. float regardless of the crushing stage. 
+However, the stage crushing increased the amount of material recovered in 1.3 S.G. float. 
+Perez (1988) studied the various modes of liberation in the coal-ash-pyrite matrix. The 
+studies showed that the mode of breakage is influenced mainly by the nature of the feed, 
+type of comminution device and their modes of operation. Crushing of raw coal and 
+middlings particles with rotary breaker, jaw crusher, rolls, hammer mill and rod mill 
+indicated different modes of breakage of particles. Breakage of particles in coal occurs 
+primarily by detachment.  It is usually desirable to achieve liberation at a coarse particle 
+size. This could be achieved by taking the advantages of inherent zones of weakness 
+between minerals grains and by selecting appropriate comminution device designed to 
+accentuate fracture at the weakness zones.  
+2.4 Previous Attempts at Middlings Liberation 
+Several researchers have worked on regrinding and re-treatment of coal middlings to 
+extract maximum valuables out of the coal to increase the recovery.  
+Perez (1986) developed a simple negative exponential model to describe the liberation of 
+coal and pyrite out of various raw coals and beneficiated fractions using different crushing 
+devices. The study is based on the use of five milling devices: smooth crushing rolls, 
+hammer mill, rod mill, jaw crusher and Mikro – Sampl mill. Liberation studies were 
+conducted on raw coal and middlings. The simple exponential model developed could be 
+used to evaluate the additional coal recovery achieved by recrushing of middlings. The 
+experiments indicated better liberation with finer crusher product discharge.  
+Claasen (1980) did extensive studies on coking coals of Soutpansberg area in South Africa 
+for maximum recovery routes through middlings treatment. His work indicated that the 
+middlings crushed to 0.8 mm can liberate 2% of run-of-coal at 12% ash. However, crushing 
+the middlings down to 0.21 mm was required to liberate 3.6% of run – of – coal at 12% 
+ash.  Thus, a much finer grind was required for substantial liberation purposes. Grinding 
+middlings to finer sizes for liberation purposes generated micro-fines. The micro fines 
+produced could be recovered successfully through froth flotation. The positive response of 
+the micro fines to the froth floatation was however, disparaged by the high moisture 
+11 
+ 
+retention of micro fines. The loss of fines in the coke-making process from micro fines was 
+another major concern.  
+Tests programs have been conducted at EPRI Coal Quality Development Center, 
+Pennsylvania to crush the coal to liberate the ash and sulfur. With the increasing 
+environmental regulations, the utility market is willing to pay the premiums for lower 
+sulfur coal (Parkinson, 1985). The studies were done to compare the liberation 
+improvements resulting from crushing of all the raw coal versus middlings crushing. Raw 
+coals and middlings were subjected to five stages of crushing: 6 inch, 1 – ½ inch, 0.6 mm, 
+0.15 mm and 0.053 mm.  Interestingly, at the same energy recovery, the staged middlings 
+crushing approach resulted in 55% SO2 reduction as compared to the conventional 
+cleaning case, which gives 31% SO2 reduction from raw coal. However, crushing of all 
+the raw coal to small sizes such as 0.6 mm for liberation purposes is not economically 
+viable. The utility market cannot support the cost of such fine crushing because of extensive 
+power requirements in crushing. Further, the processes to beneficiate the finer size coals 
+are less efficient and also fine coal transportations are more difficult and expensive. 
+Therefore, crushing only middlings, instead of crushing the entire raw coal presents more 
+judicious solution to liberate sulfur and ash while improving yields.  
+The Ohio Coal testing and Development Research Facility (OCTAD), 1992, has 
+experimented on capturing of middlings and their subsequent crushing and retreatment. 
+The test aimed to remove sulfur and ash from Ohio coals. Tests were conducted on the 
+Meigs Creek Seam Coal. The studies involved different circuitry arrangement to produce 
+coarse and intermediate size fractions middlings. A total of twelve different flowsheet 
+configurations were investigated to compare the results with conventional coal preparation 
+circuits. All the twelve flowsheets used the similar cleaning circuit for +28 Mesh size 
+fraction. Twelve different circuit configurations for cleaning the fine coal (28M x 0) were 
+discussed. Different combinations of heavy media cyclone and froth flotation were 
+employed. Further, the recirculating medium densities and reagent dosages of flotation 
+were also varied. The circuitry arrangement with fine heavy media cyclone to treat 28M x 
+150M size fractions showed best performance for SO2 reductions and recovery 
+12 
+ 
+improvements. Tests conducted showed significant SO2 reductions of around 127% with a 
+decrease of 17% in energy recovery as compared to existing commercial plants.  
+2.5 Problem Being Addressed 
+The HGI of Illinois basin coal is around 50-60, which is considered as a hard coal. The 
+Illinois No. 6 coal used for this study is not a friable coal which will likely result in 
+minimizing fines production when crushing for liberation purposes.  
+2.6 Three Product DMC to Capture Middlings 
+Guohua Technology Corporation (GTC) is a commercial manufacturer of three product 
+DMC. The GTC cyclone is a gravity fed cyclone. It can be successfully applied to treat 
+coal with particle size less than 110 mm. 
+The GTC three-product cyclone consists of two vessels in series. Figure 2.1 represents a 
+schematic diagram of the GTC three product dense medium cyclone.  There is a cylindrical 
+vessel for the primary stage of separation at a relatively low density while, a conical 
+cyclone is used for secondary stage of separation at a higher density There are three 
+discharge openings for clean coal, middlings and refuse, respectively. The use of 
+cylindrical vessel for primary separation facilitates homogeneous and stable media. The 
+use a conical cyclone in secondary stage assists in an increase in the actual separation 
+density which in turn minimizes the misplacement of middlings into refuse. 
+13 
+ 
+ 
+Figure 2-1: GTC Three Product DMC 
+ As opposed to the conventional heavy media cyclones, the raw coal and heavy media are 
+fed separately into the three-product dense medium cyclone. The medium tangentially 
+enters the first stage cyclone under desired head pressure. The raw coal is fed from the top 
+under gravity. The lighter clean coal moves towards the central air core under the influence 
+of centrifugal force and discharged through the bottom of the cylindrical vessel. The heavy 
+media entering the second stage cyclone is already concentrated and thickened due to the 
+action of centrifugal force in the first stage. The secondary cyclone operates at a higher 
+separation density as compared to the primary cyclone to produce middlings and reject. 
+The GTC three product DMC offers several advantages over conventional dense medium 
+cyclone. As opposed to the conventional approach where coal-media mixture is pumped to 
+the DMC, the gravity feeding approach of the GTC cyclones significantly reduces size 
+degradation, power consumption, and mechanical wearing of the cyclone parts. Moreover, 
+the GTC cyclones are equipped with device for online adjustment of separation density of 
+the secondary stage. This can be achieved by varying the depth of the vortex finder. 
+Another advantage of the GTC cyclones is the cylindrical primary vessel which increases 
+the particle retention time thus, resulting in a cleaner product. 
+ 
+14 
+ 
+3 Case: Dotiki Processing Plant 
+ 
+Figure 3.1 shows the flow sheet of Dotiki coal preparation plant located in the Western 
+Kentucky. 
+ 
+ 
+Figure 3-1: The Dotiki preparation plant flowsheet. Source- Dr. Gerald 
+Luttrell 
+15 
+ 
+The coal samples were collected from the Dotiki coal preparation plant located in Western 
+Kentucky.  Alliance Resource Partner, LP operates the Dotiki Plant. This coal reserve falls 
+in Illinois Basin, which is characterized by high sulfur content. The Dotiki coal preparation 
+plant utilizes a standard 48-inch Krebs dense media cyclone to beneficiate the coarse coal 
+(+ 18 Mesh) and the fine beneficiation (18 x 100 Mesh) uses water only cyclone and spiral 
+circuit. While the ultra-fine coal (-100 Mesh) is treated using froth flotation. The dense 
+media cyclone is a two-product system producing clean coal and rejects. The plant uses a 
+circulating medium density of 1.5. The plant yield ranges between 46 – 50 %. The prep 
+plant is losing significant amount of valuable coal due to low separation densities. The high 
+sulfur content of the coal is another big problem. However, fine generation is not an issue 
+with the Illinois basin coal as it is a hard coal with HGI in the range of 50-60. 
+The typical monthly average plant performance of the Dotiki preparation plant is shown 
+on table 3.1. As shown in table 3.1, the average plant yield ranges between 46-50%. The 
+typical ash content of the clean coal is 10-11%. 
+Table 3-1 Typical Monthly Plant Performance 
+Cut density Plant Yield % Ash % Sulfur % 
+1.49 46.79 10.19 3.70 
+1.51 47.57 10.36 3.77 
+1.52 48.12 10.48 3.81 
+1.53 49.61 10.52 3.89 
+1.55 50.27 11.02 3.93 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+ 
+4 Experimental Work 
+ 
+4.1 Experimental Methods and Equipment 
+The experimental work has been divided into the following three sections: 
+1. Collection and characterization of middling fraction 
+2. Crushing of Middlings to different top sizes 
+3. Float and sink analysis of crushed middlings to study the liberation 
+ 4.1.1 Collection of Sample 
+Alliance plant facilitated to conduct a test at Dotiki Plant by setting the cut density at 1.35 
+for 3 hours. Samples were collected around the entire plant every 20 minutes for 3 hours. 
+Samples of feed, clean coal, coarse reject, fine reject and thickener underflow were 
+collected. DMC circuit sampling was conducted every 20 minutes over a period of 3 hours. 
+DMC samples were collected by the stop belt method.  Feed, clean coal and reject samples 
+were taken simultaneously by the stop belt method. Six barrels of coarse DMC reject was 
+collected. Incremental sampling method was used to collect the samples of thickener 
+underflow.  
+17 
+ 
+ 
+Figure 4-1: Sample collection from clean coal product of Dense Medium Cyclone 
+ 
+The Table 4.1 shows the plant performance on the day of sample collection. The above 
+table indicates that while cutting at a medium density of 1.35, the Dotiki plant produced a 
+yield of 38.44%. The ash content of the clean coal was 8.22% and sulfur content was 
+3.15%. 
+Table 4-1 Plant performance on the day of sample collection 
+ Sulfur % Ash % Btu/lb. 
+Feed 5.05 52.80 6331 
+Clean coal 3.15 8.22 13714 
+Thickener U/F 2.43 67.19 3985 
+ 
+18 
+ 
+The Dotiki plant currently has a two-product Dense Media cyclone for coarse coal 
+beneficiation. The existing DMC produces clean coal and rejects. The coarse reject coal 
+sample was sent to SGS Minerals laboratory achieve a cut at 1.8. Middlings were generated 
+by preparing a float-sink analysis of the reject material using a medium of 1.8 Specific 
+gravity. A middlings fraction having specific gravity of 1.35 x 1.8 was generated. High 
+specific gravity (1.8 sink) coal was the final reject. The middlings fraction (1.35 x 1.8 SG) 
+was used for further testing and analysis in the laboratory of the Department of Mining 
+Engineering, University of Kentucky.  
+4.1.2 Sampling of Material 
+After receiving the middlings coal samples at the laboratory, a representative sample was 
+obtained from the bulk sample using coning and quartering method. The success of any 
+experiment depends on the accuracy of sampling. Sampling is a very important procedure 
+from the very beginning of any experiment. Sampling is a technique used to obtain 
+representative samples that will show the characteristics of the bulk material and it must 
+be done with extreme precautions. The sample size obtained from the plant is often larger 
+than as required for the test procedures in the laboratory. Samples must be reduced in a 
+manner that it reproduces the properties of the original sample.  It is often difficult to obtain 
+a representative sample of raw coal at a top size of plus 75 mm. To achieve this, coning 
+and quartering method was used. It involved making conical heaps of the sample on a clean 
+floor, and then flattening it out with the help of shovel. The flattened sample was divided 
+into four zones; the two opposite quarters were discarded, while the other two quarters 
+were combined to form the reduced sample. The same process is repeated until an 
+appropriate sample size is obtained. The final sample left behind is used for further 
+analyses. 
+ 
+ 
+ 
+ 
+19 
+ 
+4.1.3 Washability Analysis of Uncrushed Middlings 
+After obtaining the sample of appropriate size, a particle size analysis was done using 
+screens of following apertures: 1 inch, ½ inch and ¼ inch. The screening was done 
+manually with hand screens. This was done to avoid the undesirable breakage of coals 
+which may occur in case of mechanical screening. Following the screening, each size 
+fraction was weighed. The weight of each size fraction was calculated as a percentage of 
+total coal samples. Table 4.2 shows the particle size distribution of middlings before 
+crushing. It is observed that nearly half of the coal falls in 1 x ½ inch size fraction. The + 
+1-inch fraction in middling is 39% while ½ x 1/4-inch fraction is nearly 13% of the total 
+coal sample. The overall average ash content of each size fraction was around 20%. 
+ 
+Table 4-2 Particle size analysis data of middlings before crushing 
+Size Weight% Ash% Sulfur% 
++1" 39.06 20.16 4.92 
+-1" + 1/2" 48.08 20.11 5.03 
+-1/2" + 1/4" 12.86 19.52 5.00 
+ 
+The washability characteristics of coal samples were evaluated by performing float and 
+sink tests. This test determines the distribution of mass in various density fractions. An 
+inorganic liquid LMT was used for preparing media of desired density. LMT liquid is 
+chemically lithium metatungstate. LMT is a heavy liquid of specific gravity 2.95. LMT is 
+preferred because it is economic, safe, affordable and thermally stable liquid. The float and 
+sink analysis was performed using the following specific gravities: 1.3, 1.4, 1.5, 1.6, 1.7, 
+and 1.8. To start with the test, each sample was first placed in 1.3 specific gravity bath. The 
+float was removed with a strainer and washed properly with hot water several times to 
+remove any traces of lithium metatungstate remaining on the surface of coal particles. The 
+cleaned samples were dewatered using filters and dried subsequently. The sink fraction 
+was washed with hot water and then transferred to subsequent higher specific gravity baths. 
+This process was continued until the particles floated and sunk in specific gravity 1.8. The 
+20 
+ 
+sample was separated into six specific gravity fractions. After the float and sink tests, 
+various float and sink fractions obtained are weighed and assayed for mineral matter 
+content. The float and sink tests were done for all three-size fractions of middlings received 
+after screening:  +1 inch, 1 x 1/2 inch and 1/2 x 1/4 inch.  
+Table 4.3 shows the washability characteristics of +1-inch size coal sample in uncrushed 
+middlings. For +1 inch uncrushed middlings, the analytical data indicates that 81% of total 
+mass has a relative density less than 1.5 and has a cumulative ash content of around 
+17.89%. The material heavier than 1.7 S.G. is very less.  
+Table 4-3 Float and sink analysis data of middlings of + 1-inch size fraction 
+  Incremental floats Cumulative floats 
+Float Wt.% Ash% Sulfur% 
+Cum  
+Wt.% 
+Cum 
+ash% 
+Cum 
+sulfur% 
+1.4 64.98 17.30 4.03 64.98 17.30 4.03 
+1.5 15.79 20.33 5.62 80.77 17.89 4.34 
+1.6 11.40 26.36 6.71 92.17 18.94 4.65 
+1.7 6.22 32.16 8.06 98.39 19.78 4.85 
+1.8 1.61 43.81 9.21 100.00 20.16 4.92 
+ 
+Table 4.4 shows the washability characteristics of 1 x 1/2-inch size fraction in uncrushed 
+middlings. For 1 x 1/2 inch uncrushed middlings, the analytical data indicates that 75% of 
+total mass has a relative density less than 1.5 and has a cumulative ash content of around 
+16.67% and 4.32% sulfur.  
+ 
+ 
+21 
+ 
+Table 4-4 Float and sink analysis data of middlings of 1 x 1/2-inch size fraction 
+  Incremental floats Cumulative floats 
+Float Wt.% Ash% Sulfur% 
+Cum  
+Wt.% 
+Cum 
+ash% 
+Cum 
+sulfur% 
+1.4 40.71 12.48 3.92 40.71 12.48 3.92 
+1.5 33.81 21.72 4.80 74.53 16.67 4.32 
+1.6 15.23 25.80 6.80 89.76 18.22 4.74 
+1.7 6.93 32.49 8.11 96.69 19.24 4.98 
+1.8 1.60 43.71 9.06 98.30 19.64 5.05 
+1.9 1.70 47.17 3.94 100.00 20.11 5.03 
+ 
+Table 4.5 shows the washability characteristics of 1/2 x 1/4-inch size fraction in uncrushed 
+middlings. For 1 x 1/2 inch uncrushed middlings, the analytical data indicates that nearly 
+69% of the total mass has a relative density less than 1.5 and has a cumulative ash content 
+of around 14.85% and 4.30% sulfur.  
+Table 4-5 Float and sink analysis data of uncrushed middlings of 1/2 x 1/4-inch size 
+fraction 
+  Incremental floats Cumulative floats 
+Float Wt.% Ash% Sulfur% 
+Cum  
+Wt.% 
+Cum 
+ash% 
+Cum 
+sulfur% 
+1.4 50.3 12.67 4.01 50.30 12.67 4.01 
+1.5 18.57 20.76 5.07 68.87 14.85 4.30 
+1.6 21.09 25.97 5.69 89.96 17.46 4.62 
+1.7 7.65 35.69 8.09 97.62 18.89 4.89 
+1.8 2.38 45.22 9.40 100.00 19.52 5.00 
+ 
+22 
+ 
+4.2 Comminution using Hammer mill 
+In this research, a laboratory scale Hammer mill crusher, Model 401XLA1-FC, 230/3/60Hz 
+was used for the crushing the middlings coal which is shown in Figure 4.2. This crusher 
+has a maximum throughput capacity of 4000 pounds per hour while using a 3/8" diameter 
+perforated screen plate; 2500 pounds per hour when using a 3/16" diameter screen. It can 
+be used for crushing 6 inch and smaller size material down to minus 4 mesh sizes. This 
+Hammer mill has a standard rotor speed of 1260 rpm. A 7.5 HP TEFC motor, of 
+specifications 230V, 3 phase, and 60 Hz, powers it. The screen plates determine the top 
+size of the crushed product. Screen plates have round-hole perforations. Screen plates with 
+perforation diameters of 1/8 inch, 1/4 inch, 1/2 inch and 1 inch are used for crushing of 
+middlings. 
+In hammer mills, comminution occurs by impact rather than compression. Material is fed 
+into the mill’s crushing chamber uniformly. Fracture in coal particles occurs by sharp 
+blows applied by the high-speed hammers, which are attached to a shaft. Particles finer 
+than the screen aperture will pass through the screen plate while coarser particles are 
+retained on the screen plate. The oversize particles will be impacted and crushed by the 
+hammers until grounded to the required particle size.  
+ 
+ 
+23 
+ 
+ 
+Figure 4-2: Holmes model 401XL Hammer Mill Coal Crusher (courtesy of Preiser 
+Scientific) 
+After the screen analysis at 1 inch, ½ inch and ¼ inch, the obtained size fractions were 
+weighed and crushed using a hammer mill at different top sizes. Figure 4.3 shows a detailed 
+sampling process done at the laboratory. Four representative samples were obtained from 
++1-inch coal middlings fraction. The first sample of +1-inch coal was crushed to a top size 
+of 1 inch in hammer mill. The other portion of +1-inch material was crushed to top size ½ 
+inch. The remaining samples were crushed to top sizes 1/4 inch and 1/8 inch. From the 1 x 
+1/2-inch coal middlings fraction obtained after screening, three representative samples 
+were obtained. The samples were subjected to crushing in a hammer mill at 1/2 inch, 1/4 
+24 
+ 
+inch and 1/8-inch top sizes, respectively. From the 1/2 x 1/4-inch coal middlings fraction 
+obtained after screening, two representative samples were obtained. The first sample was 
+crushed to a top size of ¼ inch using hammer mill. The other sample of 1/2 x 1/4-inch coal 
+was crushed to 1/8-inch top size.  
+ 
+Figure 4-3: Detailed flow chart of middlings crushing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+ 
+4.3 Liberation from Middlings 
+4.3.1 Crushing of +1 inch middlings coals to different size fractions 
++1 inch middlings coals crushed to top size 1 inch 
+After crushing the +1-inch coal sample to a top size of 1 inch in a hammer mill, a screen 
+analysis was done using screens of following apertures: 1/2 inch, 3/8 inch, 1/4 inch, 18 
+mesh and 100 mesh. The size fractions obtained from screening were weighed. The weight 
+of coal in each size fraction was calculated as a percentage of total coal. Table 4.6 shows 
+the particle size distribution of +1 inch middlings fraction after crushing to top size 1 inch. 
+It can be seen that nearly 55% of coal went down to size 1/4"+1 mm after being crushed to 
+1-inch top size. However, the amount of +1mm coal is 71.8% of total crushed material, 
+which can still be treated using a dense media cyclone in coarse coal beneficiation circuit. 
+ 
+Table 4-6 Particle size analysis data of +1inch middlings particles after crushing to top 
+size 1 inch 
+Size Weight% 
++1/2" 
+-1/2"+3/8" 
+-3/8"+1/4" 
+-1/4"+1 mm 
+-1mm+150um 
+-150um 
+0.7 
+3.1 
+13.4 
+54.6 
+25.0 
+3.2 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+ 
++1 inch middlings coals crushed to top size 1/2 inch 
+After crushing the +1-inch coal sample to a top size of 1/2 inch in a hammer mill, a screen 
+analysis was done using screens of following apertures: 3/8 inch, 1/4 inch, 18 mesh and 
+100 mesh. The size fractions obtained from screening were weighed. The weight of coal in 
+each size fraction was calculated as a percentage of total coal. Table 4.7 shows the particle 
+size distribution of +1 inch middlings fraction after crushing to top size 1/2 inch. Most of 
+the size fraction again went to size 1/4"+1 mm after crushing. The +1mm coal is 65% of 
+total crushed material, which can still be washed using a dense media cyclone in coarse 
+coal beneficiation circuit. However, the -1mm fraction increased by 7% as compared to 
+crushing to 1inch top size. 
+Table 4-7 Particle size analysis data of +1inch middlings particles after crushing to top 
+size ½ inch 
+Size Weight% 
+-1/2"+3/8" 
+-3/8"+1/4" 
+-1/4"+1 mm 
+-1mm+150um 
+-150um 
+1.1 
+5.3 
+58.5 
+32.3 
+2.7 
+ 
++1 inch middlings coals crushed to top size 1/4 inch 
+After crushing the +1-inch coal sample to a top size of 1/4 inch in a hammer mill, screening 
+was done at 18 mesh and 100 mesh. The size fractions obtained from screening were 
+weighed. The particle size distribution of +1 inch middlings fraction after crushing to top 
+size 1/4 inch is presented in Table 4.8.  Crushing generated majority of - 1mm + 100 mesh 
+coal fraction, which will be treated in fine beneficiation circuit. However, 38 % of coal is 
+still +1mm, which can be treated using DMC. 
+ 
+ 
+27 
+ 
+Table 4-8 Particle size analysis data of +1inch middlings particles after crushing to top 
+size 1/4 inch 
+Size Weight% 
+-1/4"+1 mm 
+-1mm+150um 
+-150um 
+38.6 
+56.4 
+5.0 
+ 
++1 inch middlings coals crushed to top size 1/8 inch 
+After crushing the +1-inch coal sample to a top size of 1/8 inch in a hammer mill, screening 
+was done at 18 mesh and 100 mesh. The size fractions obtained from screening were 
+weighed. The particle size distribution of +1 inch middlings fraction after crushing to top 
+size 1/4 is presented in Table 4.9.  Crushing to top size 1/8 inch generated a particle size 
+distribution similar to 1/4-inch top size. 
+ 
+Table 4-9 Particle size analysis data of +1inch middlings particles after crushing to top 
+size 1/8 inch 
+Size Weight% 
+-1/8 inch +1 mm 
+-1mm+150um 
+-150um 
+28.7 
+66.0 
+5.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+ 
+4.3.2 Crushing of 1 x 1/2 inch middlings coals to different size fractions 
+1 x 1/2 inch middlings coals crushed to top size 1/2 inch 
+After crushing the 1 x 1/2-inch coal sample to a top size of 1/2 inch in a hammer mill, a 
+screen analysis was done using screens of following apertures: 3/8 inch, 1/4 inch, 18 mesh 
+and 100 mesh. The size fractions obtained from screening were weighed. The weight of 
+coal in each size fraction was calculated as a percentage of total coal. Table 4.10 shows the 
+particle size distribution of 1 x 1/2 inch middlings fraction after crushing to top size 1/2 
+inch. The particle size distribution followed the same trend as +1inch material crushed to 
+top size 1 inch. 
+Table 4-10 Particle size analysis data of 1 x 1/2 inch middlings particles after crushing to 
+top size 1/2 inch 
+Size Weight% 
+-1/2"+3/8" 
+-3/8"+1/4" 
+-1/4"+1 mm 
+-1mm+150um 
+-150um 
+1.0 
+5.6 
+58.3 
+32.5 
+2.6 
+ 
+1 x 1/2 inch middlings coals crushed to top size 1/4 inch 
+After crushing the 1 x 1/2-inch coal sample to a top size of 1/4 inch in a hammer mill, 
+screening was done at 18 mesh and 100 mesh. The size fractions obtained from screening 
+were weighed. The particle size distribution of 1 x 1/2 inch middlings fraction after 
+crushing to top size 1/4 is presented in Table 4.11.  30% of coal is still +1mm, which can 
+be treated using DMC. 
+ 
+ 
+ 
+ 
+29 
+ 
+Table 4-11 Particle size analysis data of 1 x 1/2 inch middlings particles after crushing to 
+top size ¼ inch 
+Size Weight% 
+-1/4 inch +1 mm 
+-1mm+150um 
+-150um 
+38.0 
+56.9 
+5.1 
+ 
+1 x 1/2 inch middlings coals crushed to top size 1/8 inch 
+Table 4.12 shows the particle size distribution of 1 x 1/2 inch middlings fraction after 
+crushing to top size 1/8 inch.  The particle size distribution is similar to crushing done at 
+1/4-inch top size. 
+Table 4-12 Particle size analysis data of 1 x 1/2 inch middlings particles after crushing to 
+top size 1/8 inch 
+Size Weight% 
+-1/8 inch + 1 mm 
+-1 mm + 150 um 
+-150 um 
+30.5 
+64.0 
+5.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+ 
+4.3.2 Crushing of 1/2 x 1/4 inch middlings coals to different size fractions 
+It generated similar PSD trends as 1 x 1/2 inch coals crushed to various top sizes. 
+The particle size distribution of 1/2 x 1/4 inch middlings fraction after crushing to top size 
+1/4 inch is presented in Table 4.13.   
+Table 4-13 Particle size analysis data of 1/2 x 1/4 inch middlings particles after crushing 
+to top size 1 inch 
+Size Weight% 
+-1/4"+1 mm 
+-1mm+150um 
+-150um 
+36.0 
+58.7 
+5.3 
+ 
+The particle size distribution of 1/2 x 1/4 inch middlings fraction after crushing to top size 
+1/8 inch is presented in Table 4.14. 
+Table 4-14 Particle size analysis data of 1/2 x 1/4 inch middlings particles after crushing 
+to top size 1/8 inch 
+Size Weight% 
+-1/8"+1 mm 
+-1mm+150um 
+-150um 
+29.4 
+64.8 
+5.8 
+ 
+ 
+ 
+ 
+ 
+ 
+31 
+ 
+4.4 Experimental Results 
+Liberation studies can be done using float and sink analysis.  The washability 
+characteristics of a coal can be provided by float and sink tests using liquids of required 
+specific gravity. The washability tests were conducted to obtain seven density fractions, 
+beginning at 1.3 and increased in increments of 0.1 till specific gravity of 1.9. 
+4.4.1 Crushing of +1 inch middlings coals to different size fractions 
+Table 4.15 shows the washability characteristics of +1-inch size coal middlings sample 
+after crushed to a top size of 1 inch in a hammer mill. The analytical data indicates that 
+crushing of middlings have generated 12.4% of 1.3 floats with 6.66% ash and 2.98% sulfur. 
+In the crushed sample, nearly 71% of total mass has a relative density less than 1.5 and has 
+a cumulative ash content of around 12.51% and 3.51% sulfur. The material heavier than 
+1.9 S.G. is around 7%.  
+Table 4-15 Float and sink analysis data of + 1 inch middlings crushed to top size 1 inch 
+ Incremental floats Cumulative floats 
+Float Wt.% Ash% Sulfur% Cum 
+Wt.% 
+Cum 
+ash% 
+Cum 
+sulfur% 
+1.3 12.40 6.66 2.98 12.40 6.66 2.98 
+1.4 39.18 11.27 3.40 51.59 10.16 3.30 
+1.5 19.61 18.69 4.07 71.19 12.51 3.51 
+1.6 11.47 29.36 5.26 82.66 14.85 3.75 
+1.7 6.03 37.20 6.81 88.69 16.37 3.96 
+1.8 4.29 47.12 8.72 92.98 17.79 4.18 
+1.9 7.02 60.55 4.60 100.00 20.79 4.21 
+ 
+ 
+ 
+32 
+ 
+Table 4.16 shows the washability characteristics of +1-inch size coal middlings sample 
+after crushed to a top size of ½ inch in a hammer mill. The washability data indicates that 
+crushing of +1 inch middlings to top size ½ inch have generated 12.17% of 1.3 floats with 
+6.45% ash and 2.96% sulfur. In the crushed sample, nearly 69% of the total mass has a 
+relative density less than 1.5 and has a cumulative ash content of around 12.3% and 3.46% 
+sulfur. The material heavier than 1.9 S.G. is around 9.5%.  
+Table 4-16 Float and sink analysis data of + 1 inch middlings crushed to top size 1/2 inch 
+ Incremental floats Cumulative floats 
+Float Wt.% Ash% Sulfur% Cum 
+Wt.% 
+Cum  
+ash% 
+Cum 
+sulfur% 
+1.3 12.17 6.45 2.96 12.17 6.45 2.96 
+1.4 35.91 10.90 3.26 48.08 9.77 3.18 
+1.5 20.72 18.15 4.12 68.80 12.30 3.46 
+1.6 11.17 26.39 5.77 79.97 14.26 3.79 
+1.7 6.23 34.80 7.17 86.20 15.75 4.03 
+1.8 4.33 46.49 9.00 90.53 17.22 4.27 
+1.9 9.47 61.56 4.55 100.00 21.42 4.29 
+ 
+ 
+Table 4.17 shows the washability characteristics of +1-inch size coal middlings sample 
+after crushed to a top size of ¼ inch in a hammer mill. The washability data indicates that 
+crushing of +1 inch middlings to top size ¼ inch have generated 12.60% of 1.3 floats with 
+6.62% ash and 2.99% sulfur. In the crushed sample, nearly 69% of the total mass has a 
+relative density less than 1.5 and has a cumulative ash content of 11.7% and 3.3% sulfur. 
+The material heavier than 1.9 S.G. is around 9.5%.  
+ 
+ 
+33 
+ 
+Table 4-17 Float and sink analysis data of + 1-inch middlings crushed to top size 1/4 inch 
+ Incremental floats Cumulative floats 
+Float Wt.% Ash% Sulfur% Cum  
+Wt.% 
+Cum 
+ ash% 
+Cum 
+sulfur% 
+1.3 12.60 6.62 2.99 12.60 6.62 2.99 
+1.4 40.14 10.68 3.12 52.74 9.71 3.09 
+1.5 16.08 18.22 3.98 68.82 11.70 3.30 
+1.6 10.88 26.25 5.49 79.70 13.69 3.60 
+1.7 7.68 34.24 7.19 87.38 15.49 3.91 
+1.8 5.03 45.96 8.79 92.41 17.15 4.18 
+1.9 7.59 62.52 4.38 100.00 20.60 4.19 
+ 
+Table 4.18 shows the washability characteristics of +1-inch size coal middlings sample 
+after crushed to a top size of 1/8 inch in a hammer mill.  The analytical data indicates that 
+66% of total mass has a relative density less than 1.5 and has a cumulative ash content of 
+11.43% and 3.22% sulfur. 
+Table 4-18 Float and sink analysis data of + 1-inch middlings crushed to top size 1/8 inch 
+ Incremental floats Cumulative floats 
+Float Wt.% Ash% Sulfur% Cum 
+Wt.% 
+Cum 
+ash% 
+Cum 
+sulfur% 
+1.3 14.44 6.22 2.88 14.44 6.22 2.88 
+1.4 34.04 10.38 3.07 48.49 9.14 3.02 
+1.5 17.68 17.70 3.78 66.17 11.43 3.22 
+1.6 12.95 25.08 5.12 79.12 13.66 3.53 
+1.7 8.29 32.97 7.22 87.42 15.50 3.88 
+1.8 5.19 45.02 8.30 92.61 17.15 4.13 
+1.9 7.39 61.62 4.78 100.00 20.44 4.18 
+ 
+34 
+ 
+From these washability tables, it can be seen that by crushing to finer sizes, the amount of 
+material in 1.5 floats decreases. However, the quality of 1.5 floats improves as ash and 
+sulfur values decrease. 
+The relative cleanability of middlings after being crushed to different top sizes can be 
+assessed by plotting the cumulative float curves against ash and sulfur values for various 
+regrinding sizes. The above washability data have been used for plotting the cumulative 
+float curves. 
+Figure 4.4 shows the cumulative mass yield –ash curves for +1 inch middlings coals before 
+crushing and after being crushed to top sizes 1 inch, 1/2 inch, 1/4 inch and 1/8 inch. The 
+curves show the changes in coal cleanability characteristics resulting from crushing to 
+various sizes. From these mass yields – ash plots, it is observed that although crushing coal 
++1-inch coal to different top sizes resulted in decrease of ash percentage. However, the 
+percent reduction in ash remained fairly constant across all the sizes. 
+ 
+ 
+Figure 4-4: Cumulative mass yield – ash curves for various regrinding sizes of +1 inch 
+middlings 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0 5 10 15 20 25
+M
+a
+s
+s
+ y
+ie
+ld
+ %
+Ash%
+Mass yield - Ash Plot
++1 inch
+Crushed to 1 in
+Crushed to 1/2 in
+Crushed to 1/4 in
+Uncrushed 1in
+Crushed to 1/8 in
+35 
+ 
+Figure 4.5 shows the cumulative float– sulfur curve for +1 inch middlings coals before 
+crushing and after being crushed to top sizes 1 inch, 1/2 inch, 1/4 inch and 1/8 inch. By 
+crushing +1-inch coal to different top sizes, sulfur percentage reduced significantly as 
+compared to the uncrushed middlings. The percent reduction in sulfur increased with finer 
+crushing sizes.  
+ 
+ 
+Figure 4-5: Cumulative mass yield - sulfur curves for various regrinding sizes of +1 inch 
+middlings 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2.0 2.5 3.0 3.5 4.0 4.5 5.0
+M
+a
+s
+s
+ y
+ie
+ld
+ %
+Sulfur %
+Mass yield- Sulfur Plot
++1 inch 
+Crushed to 1in
+Crushed to 1/2 in
+Crushed to 1/4 in
+Uncrushed 1in
+Crushed to 1/8 in
+36 
+ 
+4.4.2 Crushing of 1 x 1/2 inch middlings coals to different size fractions 
+Table 4.19 shows the washability characteristics of 1 x ½ -inch size coal middlings sample 
+after crushed to a top size of ½ inch in a hammer mill. It can be seen that crushing has 
+generated nearly 12% of 1.3 floats with flow ash content. The analytical data also indicates 
+that a fairly easy density based separation can be achieved at 1.5 S.G. In the crushed 
+sample, around 66% material is lighter than 1.5 relative density with cumulative ash 
+content of 12.62% and 3.42% sulfur.  
+Table 4-19 Float and sink analysis data of 1 x 1/2 inch middlings crushed to top size 1/2 
+inch 
+ Incremental floats Cumulative floats 
+Float Wt.% A

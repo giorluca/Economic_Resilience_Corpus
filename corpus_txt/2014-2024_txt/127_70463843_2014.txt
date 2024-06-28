@@ -1,0 +1,497 @@
+Different approaches to model economic dimension of community resilience
+
+04 August 2020
+POLITECNICO DI TORINO
+Repository ISTITUZIONALE
+Different approaches to model economic dimension of community resilience / Cimellaro, G.P.; Martinelli, D.; Renschler,
+C.. - ELETTRONICO. - (2014). ((Intervento presentato al convegno 10th U.S. National Conference on Earthquake
+Engineering: Frontiers of Earthquake Engineering, NCEE 2014; tenutosi a Anchorage; United States; nel 21 July 2014
+through 25 July 2014.
+Original
+Different approaches to model economic dimension of community resilience
+Publisher:
+Published
+DOI:10.4231/D30Z70X5Z
+Terms of use:
+openAccess
+Publisher copyright
+(Article begins on next page)
+This article is made available under terms and conditions as specified in the  corresponding bibliographic description in
+the repository
+Availability:
+This version is available at: 11583/2656556 since: 2016-11-19T11:44:11Z
+Earthquake Engineering Research Institute
+ Tenth U.S. National Conference on Earthquake Engineering 
+Frontiers of Earthquake Engineering 
+July 21-25, 2014 
+Anchorage, Alaska 10NCEE 
+ 
+ 
+DIFFERENT APPROACHES TO MODEL 
+ECONOMIC DIMENSION OF COMMUNITY 
+RESILIENCE 
+ 
+G. P. Cimellaro, A. M. ASCE1, D. Martinelli, A. M. ASCE2, and C. 
+Renschler3, A. M. ASCE   
+ 
+ 
+ABSTRACT 
+ 
+Earthquakes and extreme events in general cause direct and indirect economic effects on every 
+major economic sector of a given community. These effects have grown in the last years due to 
+the increasing interdependency of the infrastructures and make the community more vulnerable 
+to natural and human-induced disruptive events. Therefore, there is need for metrics and models 
+which are able to describe economic resilience, defined as the ability of a community affected by 
+a disaster to resist at the shock and bounce back to the economy in normal operating conditions. 
+Several attempts have been made in the past to achieve a better measurement and representation 
+of the economic resilience and to find suitable metrics to help decision planning. The most 
+popular methodologies are based on Computable General Equilibrium models (CGE) and 
+Inoperability Input-Output models (IIM). In this study, we analyze these methods, showing 
+advantages and limitations. Finally, a new method is proposed to evaluate economic resilience 
+which is based on equilibrium growth models and compared with other approaches. 
+                     
+1Assistant Professor, Dept. of Structural, Building and Geotechnical Engineering, Polytechnic of Turin, C.so Duca 
+degli Abruzzi 24, 10129, Turin, IT, email: gianpaolo.cimellaro@polito.it 
+2Graduate Research Assistant, Dept. of Structural, Building and Geotechnical Engineering, Polytechnic of Turin, 
+C.so Duca degli Abruzzi 24, 10129, Turin, IT 
+3Associate Professor, Department of Geography, University at Buffalo (SUNY), Buffalo NY14261, USA  
+ 
+Cimellaro, G. P., Martinelli, D., and Renschler, C. "Different approaches to model economic dimension of 
+Community Resilience." Proceedings of the 10th US National Conference on Earthquake Engineering (10NCEE), 
+Earthquake Engineering Research Institute, Anchorage, Alaska, July 21-25, 2014.   
+ 
+Different Approaches To Model Economic Dimension Of Community 
+Resilience 
+ 
+ 
+G. P. Cimellaro, A. M. ASCE1, D. Martinelli, A. M. ASCE2, and C. Renschler, A. M. ASCE3   
+ 
+ 
+ABSTRACT 
+  Earthquakes and extreme events in general cause direct and indirect economic effects on every 
+major economic sector of a given community. These effects have grown in the last years due to the 
+increasing interdependency of the infrastructures and make the community more vulnerable to 
+natural and human-induced disruptive events. Therefore, there is need for metrics and models 
+which are able to describe economic resilience, defined as the ability of a community affected by a 
+disaster to resist at the shock and bounce back to the economy in normal operating conditions. 
+Several attempts have been made in the past to achieve a better measurement and representation of 
+the economic resilience and to find suitable metrics to help decision planning. The most popular 
+methodologies are based on Computable General Equilibrium models (CGE) and Inoperability 
+Input-Output models (IIM). In this study, we analyze these methods, showing advantages and 
+limitations. Finally, a new method is proposed to evaluate economic resilience which is based on 
+equilibrium growth models and compared with other approaches. 
+ 
+Introduction 
+ 
+Resilience, according to the current literature, is defined as the ability of systems to rebound after 
+severe disturbances, disasters, or other forms of extreme events. As suggested by the work of 
+Renschler et al. [1] seven dimensions of the resilience problem summarized within the acronym 
+PEOPLES can be identified. In his framework, the performance indices are integrated over space 
+and time in a landscape setting. Among these dimensions, the economic one is certainly one of 
+the most controversial. In fact the economic aspect has been often not taken in account in the 
+recent studies which have focused mainly in the actual applications and quantification of the 
+other dimensions [2][3][4][5]. However, the possibility to measure the economic resilience of a 
+community after a disaster is increasingly being seen as a crucial step towards disaster risk 
+reduction.  Recent studies focusing on the economic resilience measurement and decision 
+planning after natural/manmade disasters mainly use two approaches: Inoperability Input-Output 
+models (IIM) [6] and Computable General Equilibrium models (CGE) [7].  These models are 
+able to describe the behavioral response to input shortages and changing market conditions by 
+computing the overall changes in economic variables across sectors, and compare the changes 
+with the economy in normal operating conditions.  Both models share many common features of 
+the classical Leontief Input-Output Models but they differ in some properties and characteristics. 
+The IIM models have been formulated by Haimes and Jiang (2001) to analyze the 
+                     
+1Assistant Professor, Dept. of Structural, Building and Geotechnical Engineering, Polytechnic of Turin, C.so Duca 
+degli Abruzzi 24, 10129, Turin, IT, email: gianpaolo.cimellaro@polito.it 
+2Graduate Research Assistant, Dept. of Structural, Building and Geotechnical Engineering, Polytechnic of Turin, 
+C.so Duca degli Abruzzi 24, 10129, Turin, IT 
+3Associate Professor, Department of Geography, University at Buffalo (SUNY), Buffalo NY 14261, USA  
+behavior of interconnected systems and was then expanded by Santos and Haimes (2004) [8] to 
+model the demand reduction due to the terrorism threat of interconnected infrastructures.  Later 
+Lian and Haimes (2006) [9] have focused on the risk of terrorism through the dynamic IIM. 
+More recently Pant et al. (2011) [10] have focused on the interdependent impacts at multimodal 
+transportation container terminals, and offer an overview on the metrics suited to decision 
+support [11].  They also developed a specific approach (2013) [12] for the evaluation of 
+quantitative resilience metrics accounting for interdependencies among multiple infrastructures.  
+They belong to the second group of models the work by Konovalchuk [13] which 
+developed a CGE model to analyze the economic effects of the Chernobyl nuclear disaster. 
+Boisvert et al. [14] depicted the macroeconomic costs of the foot-and-mouth disease in the 
+United States. Rose and Liao (2005) described a CGE methodology able to consider one of the 
+few advantages of I-O over CGE that is the clear distinction between direct and indirect impacts. 
+However, as stated in the work of Benjamin H. Mitra-Kahn [15] the CGE models can be a very 
+useful policy tool, only for understanding static fixed output models, because they are not built 
+for dynamic analyses. Resilience is a static but also a dynamic process, as affirmed, for example, 
+by Rutter [16] in the Social field, by Stokols[17] in the Ecological field and by Rose[19] in the 
+Economic field.  Based on the considerations above, a new methodology for measuring 
+economic resilience based on the Structural Dynamic Growth model described by Li [18] is 
+presented and adapted to evaluate the economic resilience index, using the procedure described 
+by Cimellaro et al. [20][21] where the restoration curves are the activity/output curves provided 
+by the model.   
+The paper describes and compares the three approaches to evaluate economic resilience 
+showing the advantages and limitations within the resilience framework.   
+ 
+The Common Origin of IIM and CGE models 
+ 
+Wassily Leontief [22] developed in 1966 the Input-Output model, a quantitative 
+economic model that was capable of describing the interdependencies between systems of a 
+national economy or different regional economies. However, extended approaches have been 
+formulated, starting from I-O Model, in order to address the estimation and planning of 
+economic resilience. The most popular are IIM and CGE. While the first one is more suitable for 
+decision planning, the other is advantageous in the evaluation of economic resilience. 
+ 
+The Inoperability Input-Output Model (IIM) 
+ 
+The assumptions on which the IIM is based are the same of the classical I-O model. 
+Therefore, it is an equilibrium, time-invariant, deterministic and linear representation subjected 
+to all limitations of classical Leontief’s formulation. The IIM formulation derive from the 
+metrics of Inoperability q given in Eq. (2), a vector where each component represents the ratio of 
+production loss with respect to the usual production level of the industry and that well applies to 
+represent resilience metrics, and demand perturbation d* given in Eq. (3), a vector expressed in 
+terms of normalized degraded final demand. Using the symbolism of PEOPLES we can defined 
+the metrics as follows: 
+ 
+ࢗ ൌ ൣࢊ࢏ࢇࢍ൫ࡽ෡൯൧ି૚ሺࡽ෡ െ ࡽ෩ሻ                                                                                               (2) 
+ࢊ∗ ൌ ൣࢊ࢏ࢇࢍ൫ࡽ෡൯൧ି૚ሺࢊ෡ െ ࢊ෩ሻ                                                                                              (3) 
+ 
+where ࡽ෡  and ࢊ෡ are the equilibrium functionality and demand levels respectively while ࡽ෩  
+and ࢊ෩  are the respective disrupted equilibrium levels. Combining ࢗ and ࢊ∗ Santos and Haimes 
+obtained the IIM formulation in Eq. (4), that maintains a form similar to the Leontief I-O model, 
+and that shows how Inoperability is driven by perturbations in demand. 
+ 
+ࢗ ൌ ࡭∗ࢗ ൅ ࢊ∗ → ࢗ ൌ ሾࡵ െ ࡭∗ሿି૚	ࢊ∗                                                                                (4) 
+ 
+ where ࡭∗represents the normalized interdependency matrix that indicates the degree of 
+coupling of the industry sectors. However, since resilience needs a dynamic formulation, a 
+dynamic extension of the IIM (DIIM) developed by Lian and Haimes (2006) is considered. It is a 
+first-order differential equation that incorporates a rate constant into the static IIM structure, and 
+whose analytical equation is given in Eq. (5). 
+ 
+ࢗሺ࢚ሻ ൌ ࢋିࡷሺࡵି࡭∗ሻ࢚ࢗሺ૙ሻ ൅ ׬ ࢋିࡷሺࡵି࡭∗ሻሺ࢚ିࢠሻࡷࢊ∗ሺࢠሻࢊࢠ࢚૙                                                      (5)  
+where ࡷ is the rate term, a matrix with elements that represent the speed at which sectors 
+attain particular responses to disruptions in outputs or change in demands. 
+Pant et al. (2013) made distinction between metrics able to describe static or dynamic 
+economic resilience. However, in their definition the static resilience value corresponds to the 
+avoided initial loss of functionality as shown in Fig. 1. The static resilience index although very 
+useful it is not able to consider the recovery phase in its formulation therefore the focus has 
+shifted toward the dynamic definition of economic resilience.   
+ 
+  
+Figure 1.  Comparison between static and dynamic resilience 
+ 
+The dynamic dimension of economic resilience can be evaluated using DIIM models. A 
+decision space can be generated by varying the values of three resilience metrics that represent 
+the matrix ࡷ and reflect investment options. These metrics are given in Eq. (6), Eq. (7), and Eq. 
+(8) and are respectively: (i) the time averaged level of operability ܯ௜ which represents the overall level of functionality maintained by a system, (ii) the maximum loss of sector functionality ݍ௜௠, and (iii) the recovery time ߬௜ which represents the time that the system implies to return to pre-disruption levels of functionality. 
+ 
+0
+0.2
+0.4
+0.6
+0.8
+1
+Fun
+cti
+on
+alit
+y Q
+Time [t]
+Dynamic Resilience
+Functionality
+Static Resilience
+Maximum initial
+loss of functionality
+Actual initial loss of
+functionality
+ܯ௜ ൌ 1 െ ଵ் ׬ ݍ௜ሺݐሻ݀ݐ
+்
+଴ ↔ ࡹ ൌ 1 െ ଵ் ׬ ࢗሺݐሻ݀ݐ
+்
+଴                                                               (6) 
+ݍ௜௠ ൌ max௧ஹ଴ ሾݍ௜ሺݐሻሿ ↔ ࢗ௠ ൌ max௧ஹ଴ ሾࢗሺݐሻሿ                                                                  (7) 
+߬௜ ൌ ൛ݐ: ݐ ൐ 0, หݍ௜ሺݐሻ െ ݍ௘௜ሺݐሻห ൑ ߝ ≪ 1ൟ                                                                        (8)  
+The division of the matrix ࡷ into the above metrics allow us to consider the 
+multidimensional aspect of dynamic economic resilience, and in particular the trade-off that 
+exists between the recovery time and the maximum loss of functionality, as shown in Fig. 2 
+where both lines represent the behave of the sector having no initial perturbation. The metrics are 
+put in relation each other in Eq. (9) under specific assumptions [12]Considering that ࣎௜ is function of ߙ௜ a parameter which is a measure of interdependency [23] and introducing another constant ߬௜ߙ௜ ൌ ܮ௜, the final dynamic decision space among ܨ௜, 	ݍ௜௠ and ߬௜ is obtained in Eq. (10) after some mathematical manipulations. 
+ 
+ ࡹ ൌ ૚ െ ૚୘ ൣ૚ െ ܍ି۹ሾ۷ିۯ
+∗ሿ࣎൧ሾ۹ሺ۷ െ ۯ∗ሻሿି૚ܙܕ                                                                  (9) 
+ܯ௜ ൌ 1 െ ଵ௅೔் ሾ1 െ e
+ି௅೔ሿ߬௜ݍ௜௠                                                                               (10)  
+ 
+                     Figure 2. Trade-off between time to recovery and maximum inoperability (adapted from 
+Pant et al. [2013]) 
+The equations generate a decision space through contour curves that can be used to 
+estimate the system performance. Below is described how the method can be used as decision 
+support tool.  Considering that ܮ௜ is a measure of the amount of recovery and denoting with ݎ௜ ∈ሾ0,1ሿ the fraction of recovery from the observed maximum impact, ܮ௜	can be reformulated in Eq. (11).  
+ 
+ܮ௜ ൌ ln ൬ ௤
+೘೔
+ሺଵି௥೔ሻ௤೘೔
+൰                                                                                                           (11) 
+ 
+Fig. 3 identifies the decision space of a representative economy where there are only two 
+sectors. The contour curves are equal for both sectors obtained by assuming ݎ௜ ൌ 0.95 in order to address the time when the system recovers the 95% of the experienced loss.  
+0
+0.2
+0.4
+0.6
+0.8
+1
+0 10 20 30
+Fun
+cti
+on
+alit
+y Q
+Time [t]
+K2
+K1
+0.3 0.45
+0.15 0.1
+A*
+1 0
+0 1
+K1
+0.4 0
+0 0.4
+K2
+q(0)
+0
+0.5
+ Figure 3       (a)Contour curves of decision space for dynamic economic resilience 
+        (b)Relationship between time to recovery and recovery rate 
+ 
+Starting from the pair (ܯ௜, ݍ௠௜ሻ that indicates the desired level of overall operability during recovery, the recovery time is evaluated from Fig. 3a. Combining ߙ௜ and ߬௜ߙ௜ ൌ ܮ௜, we can graphically represent in Fig. 3b the relationship between the recovery rate and the recovery 
+in Eq. (12). Entering in Fig. 3b with the evaluated recovery time, the recovery rate can be 
+estimated and can be identified the sectors that need to more investments to maintain a similar 
+level of functionality compared to the others 
+ 
+݇௜௜ ൌ ௅೔ఛ೔ቀଵି∑ ఈ∗೔ೕ೙ೕసభ ቁ                  (12) 
+ 
+Computable General Equilibrium Models 
+ 
+CGE (i) are (usually) based on a system of non-linear equations and are more suitable to 
+represent international and interregional competition with respect to I-O. On the other hand, they 
+have a thin empirical base so often modelers are forced to make heroic assumptions regarding, 
+production structure, and household behavior. The CGE set of equations adopted for the analysis 
+of economic resilience must satisfy specific conditions as: market clearance of commodity, 
+market clearance of factor, zero-profit and income balance. In particular, the algebraic 
+framework can be derived distinguishing between consumers (households) and industry sectors 
+(producers).  The problem of households is to maximize their utilities subject to the constraints 
+of their incomes, while the problem of industries is to maximize the profit subject to the 
+constraint of the production technology. These problems are solved by using the Lagrangian 
+equations for the household’s utility and for the producer’s profit, that are shown respectively in 
+Eq. (13), and Eq. (14) for a Cobb-Douglas economy. 
+ 
+ࣦ஼ ൌ ݌௎ܷ െ ∑ ݌௜ܿ௜ே௜ୀଵ ൅ ߣ஼൫ܷ െ ܣ஼ ∐ ܿ௜ఈ೔ே௜ୀଵ ൯           (13) 
+௝ࣦ௉ ൌ ݌௝ݕ௝ െ ∑ ݌௜ݔ௜௝ே௜ୀଵ െ ∑ ݓ௙ߥ௙௝ி௙ୀଵ ൅ ߣ௝௉ ቀݕ௝ െ ܣ௝ ∏ ݔ௜௝
+ఉ೔ೕே௜ୀଵ ∏ ߥ௙௜
+ఊ೑೔ி௙ୀଵ ቁ       (14) 
+ 
+where: N and F are the types of commodities and primary factors respectively; U is an 
+utility good generated by consumption; ݌௎, ݌௜, ݌௝, and ݓ௙ are respectively the prices of the utility 
+good, the intermediate goods, the outputs, and the primary factors, AC and Aj are scaling 
+parameters; ݔ௜௝ and ߥ௙௝ are respectively the amount of intermediate good i and the amount of 
+primary factor f for the jth firm; ܿ௜ and ݕ௝ are the consumption of the commodity i and the output 
+of the jth firm; ߙ௜ are the shares of each good in expenditure on consumption while ߚ௜௝ and ߛ௙௜ 
+are the shares of each input in the cost of production. 
+From Eq. (13) and Eq. (14), Wing [24] demonstrated how we can infer (i) the 
+representative consumer’s demand function for the consumption of the ith commodity, (ii) the 
+producer j’s demands for intermediate inputs of commodities, and (iii) the producer j’s demands 
+for primary factor inputs. These demands are bound together by the economic assumptions of 
+market clearance, zero-profit and income balance listed above, that once properly substituted 
+yields two excess demand vectors that define the divergence ΔC between supply and demand in 
+the market for each commodity and the divergence ΔF between supply and demand in the market 
+for each primary factor, one excess profit vector Δπ and one excess income vector Δm. The 
+absolute values of both of these sets of differences are minimized to zero to reach the general 
+equilibrium. 
+To address economic resilience estimation CGE models need to be calibrated considering 
+data representing a benchmark economy. These data are usually taken from the SAM matrices 
+[26] that are related to the mentioned I-O matrices. The most acknowledged methodology to 
+compute regional economic resiliency to earthquakes or manmade disasters with CGE is the one 
+introduced by Rose & Liao (2005), an approach able to consider one of the few advantages of I-
+O over CGE, that is the clear distinction between direct and indirect impacts. 
+The approach uses a multilayered CES (constant elasticity of substitution) production 
+function for each sector. The initial values of the elasticities of substitution that represent how is 
+easy is to substitute one input for the other are based on a careful synthesis of the literature. Each 
+sectoral production function is extracted and the elasticities of substitutions are recalibrated with 
+a numerical solution in order to match losses found by empirical estimate. Thereafter the 
+recalibrated sectoral production functions are reinsert into the CGE model, the input supply is 
+reduced to a level consistent with empirical estimates the total regional losses computed. Finally, 
+subtracting direct losses from total losses the indirect losses are defined.  The outcome is a 
+measure of resilience through two indices called DRER and TRER (Direct/Total Regional 
+Economic Resilience), given in Eq. (15), and Eq. (16). 
+ 
+ܦܴܧܴ ൌ %୼஽ொ೘ି%୼஽ொ%୼஽ொ೘               (15) 
+ܴܶܧܴ ൌ %୼்ொ೘ି%୼்ொ%୼்ொ೘               (16) 
+ 
+ where %Δܦܳ௠ and %Δܶܳ௠ are the maximum percent change in direct and total output, 
+while %Δܦܳ and %Δܶܳare the estimated percent change in direct and total output. 
+ 
+The Structural Dynamic Growth Model 
+ 
+Li (2010) developed the structural growth model from the classical growth framework. 
+Even if it was conceived as a growth model, it can also be well used to compute general 
+equilibrium. The model represents the production processes in the economy through two 
+matrices: the input and the output coefficient matrices. For example, for the economy described 
+in Eq. (17) the two matrices are given in Eq. (18), and Eq. (19). 
+ 
+൜ 280	quarters	wheat ൅ 12	tons	iron → 575	quarters	wheat120	quarters	wheat	 ൅ 	8	tons	iron		 → 20																tons	iron	       (17) 
+ 
+࡭ ൌ ൤56/115 612/575 2/5൨              (18)  
+࡮ ൌ ࡵ                (19) 
+ 
+where the ith column in matrix ࡭ represents the standard input bundle of agent i. In the 
+classical economic growth framework, the equilibrium price vectors and equilibrium output 
+vectors are the left and right P-F eigenvectors of A. The Structural Dynamic Growth model tries 
+to integrate the market mechanism into the classical growth model by embedding an exchange 
+process in it which is represented by an exchange vector, in order to reach equilibrium. 
+ 
+Exchange Process 
+ 
+The exchange process considers the economy as a discrete-time dynamic system and supposes 
+economic activities such as price adjustment, exchange and production occur in turn in each 
+period.  With reference to the previous economic system, S in Eq. (20) denote the (n x m) 
+supply matrix, and s in Eq. (21) denote the supply vector in the initial period. 
+ 
+ࡿ ൌ ቂ575 00 20ቃ   ࢙ ൌ ቂ
+575
+20 ቃ             (20)  	           
+Let z denote the vector consisting of purchase amounts of m agents, and z is called the 
+purchase vector or exchange vector (of standard input bundles), Az is called the sales vector of 
+goods.  It’s possible to derive Eq. (21) where ŝ represent the diagonal matrix with the vector s as 
+the main diagonal and u the n-dimensional sales rate vector indicating the sales rates of n goods. 
+ 
+ܝ ≡ ŝି૚ۯܢ               (21) 
+ 
+Under the given price vector p, the purchase and sales values of m agents are ࢖′࡭ẑ and 
+࢖′ûࡿ respectively. We suppose that the value of each agent purchases must be equal the value it 
+sells, as in CGE income balance, so Eq. (22) is obtained.  
+ 
+࢖′࡭ẑ ൌ ࢖′ûࡿ ≡ ࢖ᇱŝି૚࡭ࢠ෣ ࡿ               (22) 
+ 
+When Eq. (23) holds and S’A is indecomposable it’s there exists a unique normalized exchange 
+vector, and the unique maximal exchange vector can be found by following steps, which stands 
+for the outcome of the exchange process: 
+ 
+Step 1. Compute the matrix ࢖ᇱŝି૚࡭ࢠ෣ ࡿ; 
+Step 2. Find the normalized right P-F eigenvector of Z, denoted by x; 
+Step 3. Find the minimal component of ࡭ܠି૚෣࢙, denoted by ξ; 
+Step 4. Compute the exchange vector ࢠ ൌ ξ࢙. 
+ 
+So, it is assumed that the state of the economic system at a period t is represented by the 
+variables p(t)=price vector; S(t) = supply matrix; u(t)=sales rate vector; z(t)=exchange vector and 
+production intensity vector; Y(t)=Output matrix.  The market mechanism is embedded 
+considering that in period t+1 the economy runs as in Eq. (23) until the time where the system 
+reaches the equilibrium. 
+ 
+- ࢖ሺݐ ൅ 1ሻ 	ൌ 	ܲሺ࢖ሺݐሻ, ࢛ሺݐሻሻ   
+- ࡿሺݐ ൅ 1ሻ 	ൌ 	࡮ࢠሺݐሻ෢ ൅ ܳሺࢋ െ ࢛ሺݐሻ෣ ࡿሺݐሻሻ           (23) 
+- ሺ࢛ሺݐ ൅ 1ሻ, ࢠሺݐ ൅ 1ሻሻ ൌ ܼሺ࡭, ࢖ሺݐ ൅ 1ሻ, ࡿሺݐ ൅ 1ሻሻ		
+   
+ where P represents price adjustment process, Q is the inventory depreciation function and 
+stands for the depreciation process of inventories and Z is the exchange function depicted above. 
+ 
+Application of Structural Growth Model Models to Evaluate Economic Resilience  
+ 
+Starting from the I-O matrices representative of the economy in normal operating 
+condition, a shock is applied to simulate to earthquakes or other disasters, modifying the 
+exchange vector, which is the driver of the equilibrium process.  
+ Figure 4. Restoration curves of the different economic sectors 
+ 
+After the application of the shock, from the restoration curves of the system obtained in Fig. 4, 
+the values of the economic resilience of the system can be quantified using the estimation 
+procedure explained by Cimellaro et al. [22] that describes resilience as “the normalized shaded 
+area underneath the function describing the functionality of a system”.  The model is also useful 
+because it incorporates a series of parameter that controls the converging speed in case of 
+availability of after-disruption data. Table 1 represent the comparison between the results 
+obtained using the static and dynamic resilience analysis with IIM with the results obtained using 
+SGM for the same representative economy under two different scenarios: great demand 
+disruption in manufacturing (A) and great demand disruption in transportation (B). 
+ 
+SGM  IIM 
+A  B  A  B 
+Resilience transportation 0.96  0.87  0.99 0.87 
+Resilience manufacturing 0.97  0.90  0.94 0.92 
+ 
+Table 1. Outcomes of the IIM and SGM resilience approaches under two scenarios 
+ 
+ The outcomes of the two methods are similar, and underline the necessity to protect the 
+transportation sector respect to the manufacturing one, because of the lower resiliency value of 
+the scenarios B. However, the SGM is able to identify a non-dimensional measure that captures 
+the dynamic dimension of the resilience. On the other hand, the IIM can be used to well-address 
+the comparison between different strategies as described above in its dynamic decision space, but 
+it doesn’t give as output a non-dimensional value for the economic resilience. 
+ 
+Conclusion 
+ 
+This paper summarizes and compares the methods adopted in modeling economic 
+resilience. Two different approaches for the evaluation of the economic resilience have been 
+described: the Inoperability Input-Output Model, and the CGE model. A new promising model, 
+called the Structural Growth Model has been proposed to be used to evaluate the economic 
+resilience index.  Critical comparison among the models is presented and applied to a specific 
+case study to highlight differences, advantages and limitations of all approaches. 
+ 
+Acknowledgments  
+ 
+The research leading to these results has also received funding from the European 
+Community’s Seventh Framework Programme - Marie Curie International Reintegration 
+Actions-FP7/2007-2013 under the Grant Agreement n° PIRG06-GA-2009-256316 of the project 
+ICRED - Integrated European Disaster Community Resilience 
+ 
+References 
+ 
+[1] Renschler C, Frazier A, Arendt L, Cimellaro GP, Reinhorn AM, Bruneau M. Framework for Defining and 
+Measuring Resilience at the Community Scale: The PEOPLES Resilience Framework. MCEER Technical 
+Report MCEER-10-006 (2010). University at Buffalo, The State University of New York, Buffalo, New York. 
+[2] Cimellaro GP, Villa O, De Stefano A. Serviceability of Natural Gas Distribution Networks after Earthquakes. 
+Journal of Earthquake and Tsunami (2013); 7(2): 22. 
+[3] Cimellaro GP, Tinebra A, Renschler C, Fragiadakis M. Resilience-based design of an urban water distribution 
+system. Journal of Structural Engineering ASCE (2013); in review.  
+[4] Miles SB, Chang SE. Urban Disaster Recovery: A Framework and Simulation Mode. Technical Report 
+MCEER-03-0005 (2003). Buffalo, NY; Multidisciplinary Center for Earthquake Engineering Research, 
+University at Buffalo, The State University of New York, Buffalo, New York. 
+[5] Davidson R, Çagnan. Z. Restoration Modeling of Lifeline Systems. Research Progress and Accomplishments 
+2003-2004 (2004). Multidisciplinary Center for Earthquake Engineering Research, Buffalo, New York. 
+[6] Haimes Y, Jiang P. Leontief-Based Model of Risk in Complex Interconnected Infrastructures. Journal of 
+Infrastructures Systems (2001); 7(1):1–12. 
+[7] Rose A, Liao S. Modeling Resilience to Disasters: Computable General Equilibrium Analysis of a Water 
+Service Disruption. Journal of Regional Science (2005); 45(1):75-112. 
+[8] Santos JR, Haimes YY.  Modeling the demand reduction input-output (I-O) inoperability due to terrorism of 
+interconnected infrastructures. Risk Analysis (2004); 24:1437–1451. 
+[9] Lian C, Haimes  YY. Managing the risk of terrorism to interdependent infrastructure systems through the 
+dynamic inoperability input–output model. Systems Engineering (2006); 9:241–258. 
+[10] Pant R, Barker K, Grant FH, Landers TL. Interdependent impacts of inoperability at multimodal transportation 
+container terminals. Transportation Research Part E: Logistics and Transportation (2011); 47(5):722–37. 
+[11] Pant R, Barker K. Building dynamic resilience estimation metrics for interdependent infrastructures. In 
+Proceedings of the European safety and reliability conference (2013); Helsinki, Finland.  
+[12] Pant R, et al. Static and dynamic metrics of economic resilience for interdependent infrastructure and industry 
+sectors. Reliability Engineering and System Safety (2013). 
+[13] Konovalchuk V. A Computable General Equilibrium Analysis of the Economic Effects of the Chernobyl 
+Nuclear Disaster. The Graduate School College of Agricultural Sciences (2006). The Pennsylvania State 
+University. 
+[14] Boisvert RN, Kay D, Turvey CG. Macroeconomic costs to large scale disruptions of food production: The case 
+of foot- and-mouth disease in the United States. Economic Modelling (2012); 29(5):1921-1930. 
+[15] Mitra-Kahn BH. Debunking the myths of computable general equilibrium models. SCEPA Working Paper 1 
+(2008); 1–93. 
+[16] Rutter M. Resilience as a dynamic concept. Dev Psychopathol (2012); 24(2):335-44. 
+[17] Stokols D, Lejano R, Hipp  J. Enhancing the resilience of human-environment systems: a social ecological 
+perspective. Ecology & Society (2013); 18(1):7. 
+[18] Rose A. Economic Resilience to Disasters. Community and Regional Resilience Institute Report No 8 (2009). 
+Oak Ridge, TN. 
+[19] Li W. A Structural Growth Model and its Applications to Sraffa’s System. 18th International Input-Output 
+Conference (2010). Sydney. 
+[20] Cimellaro GP, Reinhorn AM, Bruneau M. Framework for analytical quantification of disaster resilience. 
+Engineering Structures (2010); 32(11): 3639–3649. 
+[21] Cimellaro GP, Reinhorn Andrei M, Bruneau M. Seismic resilience of a hospital system. Structure and 
+Infrastructure Engineering (2010); 6(1-2): 127-144. 
+[22] Leontief W. Input-output economics (1966), New York, Oxford University Press. 
+[23] Oliva G, Panzieri S, Setola R. Agent-based input–output interdependency model. International Journal of 
+Critical Infrastructure Protection (2010); 3(2):76–82. 
+[24] Wing IS. Computable general equilibrium models and their use in economy-wide policy analysis. Technical 
+Note, Joint Program on the Science and Policy of Global Change (2004). MIT. 
+[25] Relnert KA, Roland-Holst DW. Social accounting matrices. Applied methods for trade policy analysis: A 
+handbook (1997), 94. 
+[26] Shoven JB. Applying general equilibrium. Cambridge university press (1992).  

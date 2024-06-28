@@ -1,0 +1,1947 @@
+CEO greed, corporate social responsibility, and organizational resilience to systemic shocks
+
+  
+ 
+ 
+Tilburg University
+CEO greed, corporate social responsibility, and organizational resilience to systemic
+shocks
+Sajko, Miha; Boone, Christophe; Buyl, Tine
+Published in:
+Journal of Management
+DOI:
+10.1177/0149206320902528
+Publication date:
+2021
+Document Version
+Publisher's PDF, also known as Version of record
+Link to publication in Tilburg University Research Portal
+Citation for published version (APA):
+Sajko, M., Boone, C., & Buyl, T. (2021). CEO greed, corporate social responsibility, and organizational resilience
+to systemic shocks. Journal of Management, 47(4), 957-992. https://doi.org/10.1177/0149206320902528
+General rights
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright owners
+and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights.
+            • Users may download and print one copy of any publication from the public portal for the purpose of private study or research.
+            • You may not further distribute the material or use it for any profit-making activity or commercial gain
+            • You may freely distribute the URL identifying the publication in the public portal
+Take down policy
+If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately
+and investigate your claim.
+Download date: 13. Jan. 2022
+https://doi.org/10.1177/0149206320902528
+Journal of Management
+Vol. 47 No. 4, April 2021 957 –992
+DOI: 10.1177/01492 63 09 252
+© The Author(s) 2020
+Article reuse guidelines:
+sagepub.com/journals-permissions 
+957
+CEO Greed, Corporate Social Responsibility, and 
+Organizational Resilience to Systemic Shocks
+Miha Sajko
+Christophe Boone
+University of Antwerp
+Tine Buyl
+Tilburg University
+In this study, we explore how top executives affect the well-being of multiple stakeholders and 
+long-run organizational outcomes. In the context of the 2008 global financial crisis (GFC), we 
+examine how CEO greed impacts firms’ stance toward corporate social responsibility (CSR) 
+prior to the onset of the GFC and how this, in turn, shapes firms’ fate during and after the GFC. 
+We argue that CEO greed will be negatively associated with CSR, because in their unbridled 
+pursuit of personal wealth, greedy CEOs are more likely to exhibit myopic behaviors and 
+neglect investment in CSR. We also adopt a person-pay interactionist logic to theorize that the 
+willingness of greedy executives to invest in CSR will be especially sensitive to different types of 
+pay instruments. Next, we build on recent findings from research on CSR that suggest that stake-
+holder engagement is a defining feature of resilient organizations. We expect that, due to low 
+CSR investment, firms led by greedy CEOs will experience greater losses in the short run and 
+will take longer time to recover from the 2008 GFC. For a sample of 301 CEOs of public U.S. 
+organizations, we analyzed the stock prices and found general support for our hypotheses.
+Keywords: corporate social responsibility; top management teams/upper echelon; executive 
+compensation; event history analysis; research methods; panel and repeated-
+measure designs
+Acknowledgments: We wish to thank Gerard Hodgkinson (Action Editor) and the anonymous reviewers for their 
+insightful and constructive feedback. We gratefully acknowledge financial support from the Research Foundation - 
+Flanders (FWO-Vlaanderen) through research grant G03174N.
+Supplemental material for this article is available with the manuscript on the JOM website.
+Corresponding author: Tine Buyl, Department of Organization Studies, Tilburg University, PO Box 90153,  
+5000 LE Tilburg, the Netherlands. 
+E-mail: t.p.l.buyl@tilburguniversity.edu
+902528 JOMXXX10.1177/0149206320902528Journal of ManagementSajko et al. / CEO Greed, CSR, and Resilience
+research-article2020
+958  Journal of Management / April 2021
+Reflecting on the devastating consequences of the 2008 global financial crisis (GFC) in 
+his address to General Motors employees, President Obama (2009) condemned the corporate 
+“attitude that’s prevailed in Washington and Wall Street . . . for far too long; an attitude that 
+valued wealth over work and selfishness over sacrifice and greed over responsibility.” 
+Echoing this sentiment, both scholars and the media have suggested that the unbridled self-
+ishness of top executives may be detrimental to the livelihood of organizations and to the 
+welfare of broader society (Haynes, Hitt, & Campbell, 2015; Haynes, Josefy, & Hitt, 2015; 
+Wang & Murnighan, 2011). Greed, defined as “the pursuit of excessive or extraordinary 
+material wealth” (Haynes, Campbell, & Hitt, 2017: 556), is an individual-level motive char-
+acterized by an extreme form of self-interested behavior and a low concern for the well-being 
+of others (Haynes, Josefy, et al., 2015).1 Despite the existence of widespread agreement on 
+the destructive consequences of executives’ greed, however, there is surprisingly little empir-
+ical evidence to corroborate these concerns. Although management scholars have recently 
+taken some initial steps to explore the influence of CEO greed on organizational outcomes 
+and documented its negative impact on shareholder returns (Haynes et al., 2017), systematic 
+evidence of how executives’ greedy behavior affects multiple stakeholders and long-run 
+organizational outcomes is still lacking.
+We address this issue. We explore how CEO greed shapes firms’ stances toward corporate 
+social responsibility (CSR) and how this, in turn, affects firms’ resilience to systemic shocks, 
+of which the 2008 GFC was a prime example. CSR is an umbrella term for firms’ actions that 
+yield benefits for multiple stakeholders beyond legal requirements (McWilliams & Siegel, 
+2001). Because executives are directly involved in formulating CSR strategies (Waldman, 
+Siegel, & Javidan, 2006), a burgeoning stream of research that builds on the upper-echelons 
+(UE) perspective (Hambrick & Mason, 1984) suggests that the immense variance in CSR 
+reflects the heterogeneity in corporate leaders’ motives (Chin, Hambrick, & Treviño, 2013; 
+Petrenko, Aime, Ridge, & Hill, 2016; Wowak, Mannor, Arrfelt, & McNamara, 2016).
+Relying on the UE perspective, we argue that CEOs’ greed will be reflected in their firms’ 
+diminished level of engagement with stakeholders. Stakeholder engagement, as expressed 
+through CSR, is a long-term-oriented strategic investment with limited immediate payoffs 
+(Kang, 2016). Because greedy CEOs excessively focus on maximizing short-term profitabil-
+ity (Haynes, Josefy, et al., 2015), we assume that they will be more likely to neglect stake-
+holders’ needs. Moreover, because executive behavior is shaped not only by intrinsic but also 
+by extrinsic motives (Wowak, Gomez-Mejia, & Steinbach, 2017), we also theorize that the 
+relationship between CEO greed and CSR will be contingent on the type of executive pay 
+arrangements that are in effect (Wowak & Hambrick, 2010). Scholars have relied on agency 
+theory (Eisenhardt, 1989) to argue that monetary incentives are a powerful tool for channel-
+ing CEOs’ focus toward stakeholders’ needs (Deckop, Merriman, & Gupta, 2006; Flammer, 
+Hong, & Minor, 2019; McGuire, Dow, & Argheyd, 2003). As the insatiable acquisition of 
+wealth is a hallmark of greed (Wang & Murnighan, 2011), we suggest that the willingness of 
+greedy CEOs to invest in CSR will be especially sensitive to different types of pay instru-
+ments, such as bonuses and restricted stocks.
+To examine the long-run consequences, we investigate whether firms with greedy CEOs and 
+reduced investments in CSR are also less resilient to environmental disturbances. Organizational 
+resilience is the latent “ability of organizations to anticipate, avoid, and adjust to shocks in their 
+environment” (Ortiz-de-Mandojana & Bansal, 2016: 1615). We build on recent findings from 
+research on CSR that suggest that stakeholder engagement is a defining feature of resilient 
+Sajko et al. / CEO Greed, CSR, and Resilience  959
+organizations (DesJardine, Bansal, & Yang, 2019; Flammer & Ioannou, 2018; Ortiz-de-
+Mandojana & Bansal, 2016). Investment in CSR contributes to organizational resilience in two 
+ways: First, it builds stability by creating interdependencies and strengthening relationships 
+between the firm and its stakeholders, thereby fostering firms’ capacity to absorb exogenous 
+shocks; second, it gives rise to greater flexibility, because firms with broad stakeholder engage-
+ment gain access to diverse and distinctive points of view, thereby increasing the set of possible 
+adjustments to external changes (DesJardine et al., 2019). On the basis of these insights, we 
+expect that, due to low CSR investment, firms led by greedy CEOs will experience greater 
+losses in the short run, as manifested in a drop in these firms’ stock price in the immediate 
+aftermath of a systemic shock, and they will need more time to recover.
+Figure 1 depicts our research framework. Working with a sample of 301 CEOs of publicly 
+listed U.S. companies, we analyzed CSR before and resilience during and after such a sys-
+temic shock: the 2008 GFC. Our results suggest that CEO greed was indeed negatively asso-
+ciated with CSR in the preshock (2003-2008) period and that this relationship was amplified 
+when executive pay was linked to short-term targets. Furthermore, although we do not find 
+that firms with low CSR investment or greedy CEOs experienced greater drops in stock price 
+in the postshock period, our findings do indicate that both CEO greed and low CSR invest-
+ment are associated with longer recovery times.
+Our study makes a number of contributions. First, we contribute to the literature on the 
+drivers of executive behavior (Busenbark, Krause, Boivie, & Graffin, 2016; Wowak et al., 
+2017). By integrating the UE perspective and agency theory to predict why and how CEOs 
+shape firms’ CSR profiles and long-run performance, we respond to calls to integrate CEOs’ 
+pecuniary and nonpecuniary motives as antecedents of strategic decision making (Wowak 
+et al., 2017). Second, we complement the CSR literature on organizational resilience 
+(DesJardine et al., 2019; Ortiz-de-Mandojana & Bansal, 2016) by illustrating how CEOs pro-
+mote socially responsible initiatives and, in turn, affect their firms’ ability to cope with sys-
+temic shocks. There is growing evidence that CSR investments yield long-term benefits, yet 
+this line of research has stopped short of examining its antecedents. We extend this literature 
+by pointing out that consideration of executives’ motives for investing in CSR is essential for 
+Figure 1
+Research Framework
+960  Journal of Management / April 2021
+a more complete understanding of the drivers of organizational resilience. Third, we contrib-
+ute to the body of UE research that explores the impact of executives’ characteristics on orga-
+nizational outcomes in the context of systemic shocks (Buyl, Boone, & Wade, 2019; Patel & 
+Cooper, 2014). These studies have examined how executives adopt (reckless) risk-taking 
+strategies and thereby affect the long-run fate of their organizations. We add to this research 
+by proposing that CEOs may also impact firms’ capacity to endure and bounce back from 
+systemic shocks by neglecting investment in CSR due to their excessive focus on current earn-
+ings. Finally, we contribute to the growing management literature that investigates the organi-
+zational consequences of executive greed (Haynes et al., 2017; Haynes, Hitt, et al., 2015; 
+Haynes, Josefy, et al., 2015; Wang & Murnighan, 2011). This research has examined how 
+CEO greed impacts short-run organizational outcomes, such as shareholder wealth (Haynes 
+et al., 2017). We extend this scholarship by providing evidence that CEO greed also has 
+important long-run consequences: It jeopardizes organizations’ resilience to systemic shocks.
+Theory and Hypotheses
+CSR Perspectives
+In this study, we add to the long-standing but ongoing debate (e.g., Smith & Rönnegard, 
+2016) between two classical views on the purpose of the firm and executives’ responsibility. 
+On the one hand, advocates of the shareholder view argue that executives should act solely 
+to the benefit of their firms’ owners, the shareholders. Going back to Friedman (1962), they 
+argue that in a free economy, the only social responsibility for executives should be to maxi-
+mize the firm’s profits, within the rules of the game—that is, without deception or fraud. 
+Executives thus have a fiduciary duty to follow the interests of their firms’ owners (N. Smith 
+& Rönnegard, 2016).
+Conversely, the stakeholder view proposes that there are various other parties—stakehold-
+ers—that should also be considered during strategy development and decision making (Freeman, 
+1984). Stakeholders are commonly defined as “any group or individual who can affect or is 
+affected by the achievement of the organization’s objectives” (Freeman, 1984: 46). This implies 
+that executives’ social responsibility is directed not only toward the shareholders, and not even 
+only toward their organizations’ primary stakeholders—those with whom they have a contrac-
+tual arrangement, such as employees, customers, and shareholders—but also toward their sec-
+ondary stakeholders; this latter group does not enter into formal contractual arrangements or 
+direct transactions with the firm, and it includes entities such as community groups or nongov-
+ernmental organizations (Thijssens, Bollen, & Hassing, 2015). In line with this view, CSR is 
+generally defined as encompassing all voluntary organizational actions that generate benefits for 
+all stakeholders, beyond the firm’s owners alone (McWilliams & Siegel, 2001). CSR does not 
+inevitably preclude the maximization of shareholder value (Smith & Rönnegard, 2016), but it 
+generally drains short-term profits in favor of long-run value creation—for example, through the 
+development of good relationships with stakeholders (Kang, 2016).
+Despite their opposing stances on executives’ responsibility, both the shareholder view 
+and the stakeholder view are normative in nature (Donaldson & Preston, 1995): They stipu-
+late what executives should do. At the same time, they do not account for what executives 
+want to do. Yet a growing stream of research shows that there is an immense heterogeneity 
+in executives’ motives to attend to shareholders’ and/or stakeholders’ benefits (Chin et al., 
+2013; Gupta, Briscoe, & Hambrick, 2017; Kang, 2016; Tang, Qian, Chen, & Shen, 2015; 
+Sajko et al. / CEO Greed, CSR, and Resilience  961
+Wowak et al., 2016). In this study, we focus on a key motive for executives: greed. This is a 
+very relevant motive for our study, as we argue that high levels of executive greed violate the 
+normative assumptions of both the shareholder and the stakeholder view. Haynes et al. (2017) 
+have already convincingly shown that executive greed, as a manifestation of managerial 
+opportunism, negatively affects shareholders’ interests. They found that instead of caring for 
+the maximization of shareholder wealth, greedy CEOs directed more of their firms’ resources 
+to themselves, resulting in lower shareholder returns (Haynes et al., 2017). We add to this 
+finding by proposing that greed will also negatively affect executives’ willingness to act in 
+the best interest of other stakeholders. More specifically, we expect greedy CEOs to reduce 
+investments in CSR and to expose their organizations to the harmful consequences of sys-
+temic shocks, acts that therefore go against what is assumed in the stakeholder view.
+Greed
+Owing to its origins in Adam Smith’s (1776/1977) The Wealth of Nations, self-interest is 
+traditionally seen as the driving force behind executives’ decision making in classical economic 
+theories. Although this idea has inspired a view of uniformly self-interested executives 
+(Hirschman, 1977), abundant evidence indicates that self-interest is subject to systematic indi-
+vidual differences (Declerck & Boone, 2016; Haynes, Josefy, et al., 2015). Greed, which is 
+most commonly defined as an excessive materialistic desire to acquire personal wealth (Wang 
+& Murnighan, 2011), can be seen as the “dark” end of the self-interest continuum—that is, 
+hyper-self-interest (Haynes et al., 2017). Whereas “healthy” self-interest generally comes with 
+positive externalities, as A. Smith (1776/1977) discussed, this is not the case for hyper-self-
+interest. The unbridled, purely self-serving pursuit of personal wealth that is associated with 
+greed is not aligned with collective interests—the “greater good” (Haynes et al., 2017). In a 
+similar vein to the way in which executives’ positive self-concept (core self-evaluation) turns 
+into hubris when it reaches very high levels (Hiller & Hambrick, 2005), greed could be seen as 
+an “unhealthy” excess of self-interest (Haynes et al., 2017). While self-interest is morally neu-
+tral, greed carries a moral charge (Posner, 2003). As such, it is closely related to moral identity, 
+which refers to individuals’ inherent tendency to abide to socially constructed rules of moral 
+conduct (Aquino & Reed, 2002). Indeed, the pursuit of self-interest at the expense of the well-
+being of others associated with greed is regarded as immoral in most societies (Posner, 2003).
+Greed by definition implies a lack of concern for the well-being of others (Wang & 
+Murnighan, 2011). A long tradition of research in social psychology supports this. For instance, 
+it has repeatedly shown that in prisoners’ and social-dilemma games, greedy individuals tend 
+to opt for defection, which endows them with short-term gains at the expense of group welfare 
+(Bogaert, Boone, & Declerck, 2008; Declerck & Boone, 2016). Conversely, individuals’ 
+moral identity positively affects volunteerism and donation behavior (Aquino & Reed, 2002). 
+Translating these findings to an organizational context, we expect that greed will reduce 
+CEOs’ readiness to attend to stakeholders’ interests in strategic decision making, bringing 
+about decreases in CSR and in long-run resilience. In support of this, Ormiston and Wong 
+(2013) found CEOs’ moral identity to be a key driver of corporate social irresponsibility.
+Greed is related to but distinct from another CEO characteristic that has been featured in 
+both the CSR (Petrenko et al., 2016) and organizational resilience literatures (Buyl et al., 
+2019): narcissism. Narcissists are “those who have very inflated self-views and who are pre-
+occupied with having those self-views continuously reinforced” (Chatterjee & Hambrick, 
+962  Journal of Management / April 2021
+2007: 351). Narcissists constantly strive to increase their “narcissistic supply”—that is, they 
+seek to reinforce their inflated self-image by engaging in exhibitionistic acts that attract exter-
+nal praise and awe (Chatterjee & Pollock, 2017). Narcissism relates to greed because both 
+concepts heavily draw on the notion of self-interest. However, whereas greed is defined in 
+economic terms, narcissism is not: With narcissism, the extreme pursuit of wealth transforms 
+into an extreme pursuit of an ideal and grandiose self-image. Because of this distinction, the 
+two characteristics may produce opposite behaviors. That is, narcissistic CEOs have been 
+shown to favor CSR investment because furthering some social good brings about admiration 
+from external audiences (Petrenko et al., 2016). This increased engagement in CSR, however, 
+stands in contrast to what can be expected from greedy CEOs. We explain why below.
+CEO Greed and CSR
+We expect a negative association between CEO greed and firms’ CSR (see Figure 1) due 
+to greedy CEOs’ diminished concern for how their strategic decisions affect the well-being 
+of the firm’s stakeholders. In their unbridled pursuit of financial wealth, greedy CEOs may 
+seize firm resources that could have otherwise been allocated to social issues, or they might 
+compromise the safety of workers and engender devastating consequences for the natural 
+environment, as was the case in the 2010 BP oil spill in the Gulf of Mexico (Haynes, Josefy, 
+et al., 2015). Moreover, even though firms face increasing pressures from diverse institu-
+tional actors to contribute to social welfare (Wang, Tong, Takeuchi, & George, 2016), greedy 
+executives are less likely to be receptive to arguments about the organizational benefits of 
+employee satisfaction or community engagement (Haynes, Josefy, et al., 2015) as long as 
+these pressures do not endanger CEOs’ wealth. Greedy CEOs’ opportunistic tendencies are 
+also at odds with a commitment to the long-run fate of their organizations or to the building 
+of strong stakeholder relations, given that these executives are more likely to leave the firm 
+in pursuit of greater material wealth in the form of higher compensation or prestige elsewhere 
+(Haynes, Josefy, et al., 2015).
+In addition, we argue that the negative association between CEO greed and CSR is espe-
+cially likely in the contemporary business environment. Today’s corporate milieu is in gen-
+eral geared toward the short term and away from activities that benefit larger communities 
+(Hambrick & Wowak, 2012). In recent years, the combination of rising quarterly-earnings 
+pressures and steeply declining CEO tenures has led to an increased emphasis on short-term 
+decision making (Mizruchi & Marshall, 2016). In addition, CEO pay is closely tied to firm 
+performance, and firms typically experience declines in market value for failing to meet 
+quarterly targets (Mizruchi & Marshall, 2016). This implies that CEOs with an excessive 
+desire to accumulate material wealth are expected to have especially pronounced short-term 
+interests. Hence, they are less likely to invest in CSR because committing resources to social 
+issues requires a short-term financial sacrifice that primarily pays off only in the long run 
+(Kang, 2016). Taken together, this leads us to hypothesize the following:
+Hypothesis 1: CEO greed will have a negative impact on a firm’s CSR.
+Monetary Incentives, CEO Greed, and CSR
+Scholars in the agency theory tradition have repeatedly established the relevance of 
+monetary incentives as instruments for influencing CEO behavior (Eisenhardt, 1989). In 
+Sajko et al. / CEO Greed, CSR, and Resilience  963
+particular, CEOs’ compensation packages are generally designed so that they reward CEOs 
+for attaining particular (desired) outcomes. CSR scholars have used this insight to argue that 
+certain pay packages can steer CEOs to adopt longer time horizons, which may lead them to 
+establish and strengthen relationships with the firm’s stakeholders (Deckop et al., 2006; 
+Flammer & Bansal, 2017). In this respect, two CEO pay components are of particular rele-
+vance: (a) bonuses, which focus on short-term-oriented performance outcomes (Hou, Li, & 
+Priem, 2013), and (b) restricted stocks, which can be cashed only after a particular time 
+period (Johnson & Greening, 1999).
+However, the empirical evidence on the effects of CEO pay on CSR is not clear-cut (Hart, 
+David, Shao, Fox, & Westermann-Behaylo, 2015). In the case of firms’ environmental per-
+formance, for instance, researchers have found that long-term-oriented executive pay has 
+both positive (Berrone & Gomez-Mejia, 2009) and negative (Berrone, Cruz, Gomez-Mejia, 
+& Larraza-Kintana, 2010) effects. Given this ambiguity, we build on a person-pay logic 
+(Wowak & Hambrick, 2010) to theorize that CEOs’ tendency to invest in CSR when pro-
+vided with short- or long-term incentives is contingent on their motives (here, CEO greed; 
+see Figure 1).
+Bonus. Annual bonuses are outcome-based instruments that tie CEO pay to generally 
+financial objectives (McGuire et al., 2003). They have an asymmetric payoff structure: CEOs 
+are rewarded for attaining year-end performance targets, but they are not penalized for failing 
+to achieve them (Hou et al., 2013). This represents a strong incentive for (greedy) CEOs to 
+boost short-term firm performance so as to maximize their personal wealth. Because stake-
+holder engagement requires long-term horizons for financial benefits to accrue (Flammer 
+& Bansal, 2017), scholars have argued and found that CEO pay based on a high proportion 
+of bonuses is negatively associated with investment in CSR (Fabrizi, Mallin, & Michelon, 
+2014). Due to the asymmetric payoff structure of bonuses, the focus of CEOs who have a 
+strong desire to accumulate personal wealth—that is, greedy CEOs—on short-term strategic 
+actions will be exacerbated when their pay heavily depends on annual bonuses, potentially 
+even at the expense of damaging stakeholder relations. We expect that the greedier the CEO, 
+the more strongly large bonus-based pay relative to total compensation will incentivize the 
+CEO to maximize short-term returns. Therefore, we hypothesize the following:
+Hypothesis 2a: The relationship between CEO greed and a firm’s CSR will be more negative if a 
+higher proportion of the CEO’s pay is an annual bonus.
+Restricted stock. In contrast, restricted stock ownership compels CEOs to adopt long-term 
+horizons. Under such pay arrangements, CEOs hold stock that cannot be sold until certain 
+conditions—usually, continued employment for a period of time—are met (Johnson & Green-
+ing, 1999). This implies that a sizable portion of the CEO’s wealth becomes tied to long-term 
+performance outcomes, and at the same time it reduces the pressure to maximize earnings 
+in the short run (Deckop et al., 2006). Longer time horizons, in turn, may motivate CEOs to 
+become more cognizant of the importance of continued stakeholder support and legitimacy 
+(Johnson & Greening, 1999). Hence, restricted stock that cannot be sold for a longer period 
+of time incentivizes CEOs to treat stakeholders fairly (Hambrick & Wowak, 2012). Empirical 
+evidence supports the idea that long-term-oriented executive compensation leads to increased 
+investment in CSR (Deckop et al., 2006; Flammer et al., 2019; Flammer & Bansal, 2017).
+964  Journal of Management / April 2021
+This suggests that the negative association between CEO greed and CSR might be contin-
+gent on whether executive compensation contains long-term incentives. If a considerable 
+portion of CEO pay consists of restricted stock, executives who have a strong desire to 
+acquire material wealth might especially become attuned to the well-being of stakeholders. 
+Because restricted stock ties a CEO’s wealth to long-term firm valuations, we expect that the 
+greedier the CEO, the more strongly large proportions of restricted stock will incentivize the 
+CEO to consider long-term strategic investments such as CSR. This leads us to hypothesize 
+the following:
+Hypothesis 2b: The relationship between CEO greed and a firm’s CSR will be less negative if a 
+higher proportion of the CEO’s pay is restricted stock.
+CEO Greed, CSR, and Organizational Resilience
+Organizational resilience is a system’s latent ability to endure despite adversity and to 
+recover and maintain its existing structure after a shock (Gunderson & Pritchard, 2002). Two 
+essential properties give rise to resilient systems: stability and flexibility (DesJardine et al., 
+2019). Stability includes a set of capabilities that enable a firm to preserve its key organiza-
+tional attributes, such as its core functions and structure, in the face of disturbances (Weick, 
+Sutcliffe, & Obstfeld, 2008), whereas flexibility entails a stock of flexible and diverse 
+resources that facilitate the development of alternative solutions to the same disruption 
+(Sanchez, 1995). Resilient organizations are thus better able (a) to preserve their core struc-
+tures and (b) to bounce back from setbacks, because they excel at anticipating, absorbing, 
+and adjusting to environmental changes (Ortiz-de-Mandojana & Bansal, 2016). In line with 
+DesJardine et al. (2019), we assess both facets of resilience in terms of stock behavior, since 
+market valuations reflect all relevant and new information about the firm. To examine stabil-
+ity, we evaluate the drop in stock price immediately after a severe systemic shock. To assess 
+flexibility, we consider the time it takes a firm’s stock price to recover to preshock levels 
+(DesJardine et al., 2019).
+Research on organizational resilience emphasizes that it is essential to consider a firm’s 
+features prior to a systemic shock if one is to understand how it will react to the shock (Buyl 
+et al., 2019). Therefore, we explore how both CSR and CEO greed in the preshock period 
+contribute to firms’ stability and flexibility in the postshock period (see Figure 1) and there-
+fore play a vital role in the creation of resilient organizations. Investment in CSR fosters 
+resilience through mechanisms that are primarily external to the firm. For example, due to 
+increased stakeholder support and reciprocity, firms become more strongly embedded in 
+their social and natural environment (Ortiz-de-Mandojana & Bansal, 2016). CEO greed is 
+not only expected to decrease stakeholder engagement, but it also relates to resilience through 
+its impact on organizational culture and practices. Because CEOs’ greedy behavior may 
+inspire a culture of cupidity across the entire organization and because it may lead to resource 
+depletion (Haynes et al., 2017; Haynes, Josefy, et al., 2015), it makes firms more vulnerable 
+to environmental shocks.
+Stability. CSR fosters a firm’s ability to absorb exogenous disturbances by creating “inter-
+dependencies between the organizational system and the social and natural systems in which 
+the organization is embedded” (DesJardine et al., 2019: 5). These interdependencies result 
+Sajko et al. / CEO Greed, CSR, and Resilience  965
+from repeated interactions with stakeholders and regularly involve the sharing of resources, 
+values, and information (Albert, Kreutzer, & Lechner, 2015). Firms that engage in CSR are 
+thus more steadily anchored in their environment. For example, not only do employees tend 
+to be more committed to organizations with strong CSR programs (Flammer & Luo, 2017), 
+but CSR also signals conformity to institutional demands, which leads to increased legiti-
+macy and a diminished exposure to unsystematic market risks (Bansal & Clelland, 2004). If 
+firms have high CSR investment in the period before a systemic shock, they are more likely 
+to exhibit greater stability immediately after that shock, because they are strongly embed-
+ded in their environment and have deeper relationships with their stakeholders. We expect 
+that this will be reflected in less severe drops in the stock price. Hence, we hypothesize the 
+following:
+Hypothesis 3a: The greater the firm’s CSR in the preshock period, the smaller the drop in its stock 
+price following a shock.
+In addition to a detrimental effect on stakeholder relations, we propose that CEO greed 
+might also affect firms’ ability to absorb external shocks in other ways. Greedy CEOs are 
+likely to shape organizations so that they develop individualistic cultures (Haynes, Josefy, 
+et al., 2015) that foster increased competition and self-serving behaviors in the top manage-
+ment team (TMT) (Fredrickson, Davis-Blake, & Sanders, 2010) and among lower-level 
+employees (Connelly, Haynes, Tihanyi, Gamache, & Devers, 2016). In individualistic orga-
+nizations, employees are motivated and incentivized to compete with their colleagues (Lazear 
+& Rosen, 1981), and this can give rise to several undesirable behaviors, such as conflict 
+(Fredrickson et al., 2010) and a manipulation of or an unwillingness to share information 
+(Milgrom & Roberts, 1988). This implies that CEO greed might contribute to the creation of 
+individualistic organizations that fare worse in the long run, because sharing of information 
+is one of the key mechanisms that resilient firms use to sense and interpret changes in the 
+environment (Ortiz-de-Mandojana & Bansal, 2016). Firms can detect problems in the envi-
+ronment only when there is sufficient attentional capacity throughout the entire organization. 
+Individualistic organizations are less likely to integrate their members’ multiple perspectives 
+as a result of their diminished levels of information sharing, and so they compromise their 
+ability to anticipate and adjust appropriately to emerging problems (Sutcliffe & Vogus, 2003). 
+In light of this, we argue that CEO greed in the period before a shock will be associated with 
+a diminished stability that will be reflected in higher losses following that shock. Therefore, 
+we hypothesize the following:
+Hypothesis 3b: The greater CEO greed in the preshock period, the larger the firm’s drop in stock 
+price following a shock.
+Flexibility. Increased interdependencies between the organization and its stakeholders 
+in the preshock period not only lead to greater stability but also foster greater flexibility 
+after the shock (DesJardine et al., 2019). On the one hand, CSR initiatives positively affect 
+stakeholder motivations. For example, employees in firms with positive labor relations will 
+be more willing to adjust their working time and wages, while fair treatment of the supply 
+chain might facilitate the development between the firm and its suppliers of trust and common 
+efforts focused on bringing about recovery (Ortiz-de-Mandojana & Bansal, 2016). Moreover, 
+966  Journal of Management / April 2021
+firms with strong stakeholder relations also gain access to diverse points of view and infor-
+mation. For instance, reciprocal transactions with customers may lead to faster detection of 
+changes in customer tastes, and repeated interactions with other stakeholders can help firms 
+better identify new technologies or environmental threats (Harrison, Bosse, & Phillips, 2010). 
+Furthermore, the resulting increase in knowledge diversity is conducive to firms’ ability to 
+navigate uncertain and complex environments (Ferrier, 2001), and it stimulates creativity 
+and innovation (DesJardine et al., 2019) in such forms as the cutting of costs through waste 
+reduction or transportation improvements (Ortiz-de-Mandojana & Bansal, 2016). Hence, we 
+expect that firms with high levels of CSR investment before a shock will exhibit greater flex-
+ibility in the postshock period due to the increased collective will and information sharing 
+among stakeholders. These firms not only depend on stakeholders who are more willing to 
+adapt but also are more likely to develop novel solutions when faced with adversity. There-
+fore, we expect that they will take less time to recover from systemic shocks:
+Hypothesis 4a: The greater the firm’s CSR in the preshock period, the shorter its recovery time fol-
+lowing a shock.
+Besides because of its negative effect on CSR, we anticipate that CEO greed in the pre-
+shock period will also affect a firm’s ability to recover from systemic shocks because it will 
+exhaust the firm’s internal resources. That is, greedy CEOs strive to appropriate excess returns 
+from the firm to satisfy their material desires (Haynes et al., 2017). In addition, to the extent 
+that CEOs’ greedy behavior is overt, TMT members and lower-level employees are also more 
+likely to engage in greedy acts, thereby further exacerbating agency costs (Haynes, Josefy, 
+et al., 2015). In extreme cases, the cultivation of such an individualistic organizational culture 
+might even lead employees to steal from the firm (Greenberg, 1990). This implies that CEO 
+greed results in a depletion of firms’ resources, which can profoundly limit their ability to 
+recover from a shock (Sutcliffe & Vogus, 2003). This is because “a sufficient amount of inter-
+nal resources and the ability to rearrange, transform, and adapt these resources to the uncertain 
+and changed postshock economic conditions” are the key ingredients of flexibility (Buyl et al., 
+2019: 9). We thus anticipate that firms with greedy CEOs in the preshock period will take a 
+longer time to recover from this shock. Hence, we hypothesize the following:
+Hypothesis 4b: The greater CEO greed in the preshock period, the longer the firm’s recovery time 
+following a shock.
+Sample
+We constructed a panel data set of CEOs who served at public U.S. corporations listed on 
+the S&P 1500 index prior to the onset of the GFC. Consistent with prior work, we identify 
+September 17, 2008, as the start of the GFC, which unfolded immediately after Lehman 
+Brothers’ fall and AIG’s bailout by the U.S. Federal Reserve (DesJardine et al., 2019). The 
+ensuing economic meltdown resulted in significant corporate losses across industries and 
+affected all aspects of the business environment (Flammer & Ioannou, 2018). These aspects 
+make the 2008 GFC an ideal natural setting in which to examine organizational resilience.
+Our data set was compiled from several sources. Compensation and other CEO-related 
+data were retrieved from Execucomp and the U.S. Federal Election Commission, while data 
+Sajko et al. / CEO Greed, CSR, and Resilience  967
+on boards of directors and CEOs’ past employment were gathered from BoardEx. All firm-
+level accounting data and industry classifications were obtained from Compustat, and infor-
+mation on institutional ownership came from the Thomson-Reuters Institutional Holdings 
+(13F) database. For stock prices, data were drawn from the Center for Research in Security 
+Prices (CRSP) database, while data on CSR came from the Kinder, Lyndenberg, and Domini 
+and Co. (KLD) database. KLD is an independent investment firm that has been providing 
+annual ratings for CSR strengths and concerns under several categories (e.g., environment, 
+community, product quality) for publicly traded U.S. firms since 1991. KLD is the most 
+widely used data source for empirical research on CSR (Mattingly, 2017) and has repeatedly 
+been employed in UE studies (Chin et al., 2013; Petrenko et al., 2016; Wowak et al., 2016) 
+and organizational resilience (DesJardine et al., 2019; Ortiz-de-Mandojana & Bansal, 2016).
+To construct the final sample, we applied several conditions. Our baseline population 
+covered all CEOs of firms included in the S&P 1500 in the year 2008 (at the onset of the 
+GFC). We then merged the data from all sources (KLD, Compustat, Execucomp, BoardEx, 
+CRSP, and Thomson-Reuters Institutional Holdings) and dropped observations with missing 
+variables. Subsequently, we excluded observations with missing data and from highly regu-
+lated sectors (e.g., public and financial) where managerial discretion might be severely 
+curbed (McNamara, Aime, & Vaaler, 2005). Finally, for a CEO to be included in the sample, 
+we required that he or she could be observed for the three consecutive years of 2006, 2007, 
+and 2008 so that we could capture more than just a snapshot of preshock CEO greed.2
+Applying these criteria left us with a sample of 301 CEOs, each from a different firm.3 We 
+used the same matched CEO-firm sample in three sets of analyses that cover different time 
+periods. In Part 1, we examine how CEO greed affected CSR during the preshock period. Our 
+observation period started in 2003, when KLD expanded its firm coverage, and ended in 
+2008, prior to the onset of the GFC. The sample for this first set of analyses comprised 1,419 
+yearly observations for the 301 CEOs. In Part 2, we analyze how CEO greed and CSR before 
+the GFC (preshock CEO greed and CSR) affected firms’ ability to absorb exogenous shocks 
+in the year following September 17, 2008, for our sample of 301 CEOs. Finally, in Part 3, we 
+study how preshock CEO greed and CSR affected firms’ ability to recover during the 2009-
+to-2011 period. For this third set of analyses, we excluded 32 CEOs that left the organization 
+in the 2009-to-2011 period. This left us with 5,164 yearly observations for a sample of 269 
+CEOs. Because our theoretical predictions rely on the explanation of different phenomena 
+(CSR, stability, and flexibility) and require different estimation techniques, we present the 
+methods and results in three separate sections.
+Empirics Part 1: Explaining CSR in the Preshock Period
+Method
+Dependent variable. To measure firms’ CSR engagement, we used all of KLD’s rating 
+categories (community, diversity, employee relations, environment, human rights, and prod-
+uct quality) except for the corporate governance category, because the latter relates more to 
+mechanisms that enable shareholders to monitor and control managerial behavior in order 
+to maximize their returns (Servaes & Tamayo, 2013). Hence, our measure assesses firms’ 
+engagement with both primary stakeholders—employees, customers (product quality)—and 
+secondary stakeholders—the community and environmental and human rights stakeholder 
+968  Journal of Management / April 2021
+groups (Thijssens et al., 2015). Following the common approach taken in research on CSR 
+(Gupta et al., 2017; Kang, 2016), we measured CSR as the sum of all binary strength items 
+minus the sum of all binary concern items across all stakeholder categories. On average, the 
+resulting composite CSR score of the firms in our sample was ‒0.28 (SD = 2.62), with a 
+minimum of ‒9 and a maximum of 14. The use of such a composite CSR measure reflects 
+the idea that stakeholder relations can improve both by increasing stakeholder engagement 
+and by minimizing negative externalities (Chin et al., 2013).4
+Independent variable. To operationalize CEO greed, we carefully followed Haynes et al. 
+(2017). These authors recently developed a novel procedure for obtaining an unobtrusive 
+measure of CEO greed. They went to great lengths to establish the construct’s discriminant 
+and predictive validity. For example, they conducted several interviews with senior execu-
+tives, industry analysts, and experts. In addition, they provided empirical evidence to demon-
+strate that greed is distinct and independent from related constructs, such as hubris.
+We used three proxies of extraordinary compensation to operationalize CEO greed 
+(Haynes et al., 2017); they capture different aspects of abnormal compensation with respect 
+to (a) the market’s view on the appropriate form of compensation, (b) the pay of the next-
+highest-paid executive in the same firm, and (c) the pay that would be expected based on 
+known predictors of executive compensation. All three measures represent actualized 
+extraordinary wealth, which is an outcome of the latent variable in question, namely, greed, 
+or the pursuit of or desire to acquire excessive material wealth. Assessing actualized forms of 
+compensation to measure greed allows us to rely on unobtrusive indicators from archival 
+data. In contrast, the success of primary data collection on a sample of large corporations not 
+only is implausible due to low response rates but also can be expected to be subject to severe 
+social desirability bias due to the sensitivity of the topic. Moreover, in the context of execu-
+tive pay, weak pursuit of wealth is unlikely to be reflected in abnormally high compensation, 
+because one of the key duties of the board of directors is to evaluate and set executive pay 
+arrangements (Gupta & Wowak, 2017). This implies that a high score on the compensation-
+based measure of greed more likely results from an actual pursuit of wealth rather than its 
+being an accidental outcome.
+The first proxy is the dollar value of perquisite compensation—that is, annual compensa-
+tion not properly categorized as salary, bonus, or long-term incentives (Haynes et al., 2017). 
+This variable captures the use of perks and various personal benefits, which tend to reflect 
+agency costs and rent extraction, because shareholders do not consider such forms of com-
+pensation to reflect pay for managerial ability (Yermack, 2006). The fact that the majority of 
+executives at S&P 1500 firms receive zero perquisite compensation and the fact that the cor-
+relation between perks and firm size is negligible lend support to this view (Haynes et al., 
+2017). The second proxy is pay disparity, which takes the form of the CEO’s cash pay divided 
+by that of the next-most-highly-paid officer (Haynes et al., 2017). CEOs yield considerable 
+influence over the pay of their TMT (Chatterjee & Hambrick, 2007). Hence, large pay gaps 
+are highly indicative of the presence of greedy CEOs, because uneven distribution of 
+resources is a key outcome of greed (Wang & Murnighan, 2011).5 The third proxy is CEO 
+overpayment—the excessive portion of CEO compensation that cannot be explained by firm 
+and contextual factors (Haynes et al., 2017). This proxy consist of residuals from a CEO-pay 
+regression (Fong, Misangyi, & Tosi, 2010). Following the standard approach in the literature, 
+we regressed the log of total annual CEO pay on CEO age, CEO tenure, CEO duality, 
+Sajko et al. / CEO Greed, CSR, and Resilience  969
+percentage of independent directors on board, firm size, firm risk, sales growth, return on 
+assets (ROA), and firm and year fixed effects. All explanatory variables were lagged by 1 
+year. The resulting adjusted R2 was .67, which is comparable with that from prior studies. 
+Because we wanted to capture the excessive portion of executive compensation, CEO over-
+payment was measured as the residual from the CEO-pay regression if the residual was posi-
+tive and 0 otherwise (Haynes et al., 2017).
+To construct the CEO greed variable, we combined the three proxies by using principal 
+component analysis with varimax rotation (Haynes et al., 2017). The results revealed signifi-
+cant loadings of all three compensation-based measures of greed on a single factor (eigen-
+value = 1.36; 45% variance explained).6 Hence, we used factor weightings to compute a 
+single measure of CEO greed, which we winsorized at the 1% and 99% levels to mitigate the 
+impact of outliers. The distribution of CEO greed is shown in Figure A in the online 
+supplement.
+Moderator variables. Bonus is the ratio of the annual value of bonus to the total value of 
+all CEO compensation (McGuire et al., 2003), and restricted stock is the ratio of the annual 
+value of restricted stocks to the total value of all CEO compensation (Deckop et al., 2006).7
+Control variables. We include year and industry dummies (based on two-digit Standard 
+Industrial Classification codes) to account for macroeconomic fluctuations and industry 
+membership. We control for a number of firm-level covariates, all of which have been found 
+in prior work to be associated with CSR. We include presample CSR, measured as the value 
+of the firm’s CSR in the year prior to when the CEO was observed in the sample for the first 
+time (Wowak et al., 2016).8 We also control for firm size, measured as the logarithm of firm 
+sales (Gupta et al., 2017), and ROA, measured as the ratio of income before extraordinary 
+items to the book value of assets (Tang et al., 2015). In addition, we include slack resources, 
+measured as the logarithm of the ratio of long-term debt to market value of equity, as such 
+excess resources increase the opportunity for managers to invest in other-than-economic 
+goals (Stevens, Moray, Bruneel, & Clarysse, 2015). Research and development (R&D) inten-
+sity, measured as the logarithm of the ratio of R&D expenses to sales plus 1, is included 
+because previous research has shown that R&D and CSR are highly correlated (McWilliams 
+& Siegel, 2000).9 Furthermore, previous research has shown that institutional investors play 
+an important role in pressuring CEOs to pursue short-term- versus long-term-oriented strate-
+gies (Zhang & Gimeno, 2016). More in particular, transient investors generally have short-
+term investment horizons, while dedicated investors focus on the longer term (Connelly 
+et al., 2016). Because of this, we control for dedicated ownership, measured as the number 
+of shares owned by dedicated institutional investors divided by the total number of shares 
+outstanding, and transient ownership, measured as the number of shares owned by transient 
+institutional investors divided by the total number of shares outstanding.10 Finally, we control 
+for board independence, measured as the percentage of independent directors on the board, 
+as the independence and composition of boards of directors has been linked to CSR in prior 
+studies (Hart et al., 2015).
+At the CEO level, we account for several variables related to CEOs’ power and human 
+capital: CEO outsiderness, measured as the sum of the inversed standardized firm and indus-
+try tenure that the focal CEO attained prior to assuming the post (Karaevli & Zajac, 2013); 
+CEO duality, measured as a dummy that equals 1 if the CEO is also the chairman of the board 
+970  Journal of Management / April 2021
+(Wowak et al., 2016); CEO tenure, measured as the logarithm of the number of years that the 
+CEO was in his or her position (Petrenko et al., 2016); and CEO liberalism, measured as a 
+CEO’s individual political contributions to the Democratic Party (for a detailed description 
+of the measure, see Chin et al., 2013). Previous research has found that liberal, compared 
+with conservative, CEOs engage more in CSR initiatives (Chin et al., 2013). Moreover, when 
+analyzing the effects of CEO greed, it is important to separate them from those of the CEO’s 
+pay level and pay structure (Haynes et al., 2017). Because of that, we include CEO predicted 
+pay (based on the CEO-pay regression from the third CEO greed proxy) to control for CEO 
+pay level, and salary and stock options, measured as a ratio of the CEO’s total compensation 
+to—together with moderators bonus and restricted stocks—control for CEO pay structure.
+Estimation. Because our data consist of cross-sectional time series covering the 2003-to-
+2008 period, we used panel data analysis. The Hausman test failed to reject the null hypoth-
+esis, indicating that the random-effect estimator was consistent and therefore appropriate. 
+In our sample, the number of firms equaled the number of CEOs, hence firm-CEO match 
+was used as the grouping variable. To account for heteroscedasticity and intragroup correla-
+tions, we clustered standard errors within the panel. All independent, moderator, and control 
+variables were lagged by 1 year. This research design alleviates concerns about endogeneity 
+resulting from reverse causality and is in line with our theorized causal direction.
+Results
+The correlations and descriptive statistics are shown in Table 1. Table 2 reports the regres-
+sion results. Model 1 includes control and moderator variables only. The results indicate that 
+presample CSR is a strong predictor of CSR (β = 0.82, p = .000). Additionally, firms with 
+abundant slack resources (β = ‒0.07, p = .023) invest more in CSR. In line with theoretical 
+expectations, bonus is negatively associated (β = ‒0.78, p = .014) with it. In Model 2, we 
+introduce CEO greed and find a negative and significant coefficient (β = ‒0.13, p = .091), 
+providing support for Hypothesis 1. A one-standard-deviation (SD) increase in CEO greed 
+results in a 2.9% SD decrease in CSR. In Model 3, we introduce the interaction term between 
+CEO greed and bonus to test Hypothesis 2a, which stated that the negative impact of CEO 
+greed on a firm’s CSR will be more pronounced if the CEO is paid to a larger degree in 
+bonuses. Hypothesis 2a is supported with a negative and significant coefficient on the inter-
+action term (β = ‒0.66, p = .050). All other things being equal, a one-SD increase in CEO 
+greed is associated with a 1.3% SD decrease in CSR when the proportion of bonus is low 
+(mean − 1 SD) and with a 6.0% SD decrease in CSR when the proportion of bonus is high 
+(mean + 1 SD). To visualize this interaction, we plotted the association between CEO greed 
+and CSR in Figure 2 at low and high levels of bonus. In Model 4, where we introduce the 
+interaction term between CEO greed and restricted stock, we fail to find support for 
+Hypothesis 2b. Finally, Model 5 includes all variables and yields further support for the 
+expectation that the combination of CEO greed and short-term-oriented compensation 
+(bonus) has a negative impact on stakeholders.11
+Robustness checks. We conducted two tests to address endogeneity concerns. First, we 
+specified an ordinary least squares (OLS) model with robust standard errors to regress the 
+change in CSR (CSRt – CSRt–1) against the change in CEO greed (CEO greedt–1 – CEO 
+greedt–2), controlling for the change in all control variables and year fixed effects. The sample 
+971
+T
+ab
+le
+ 1
+D
+es
+cr
+ip
+ti
+ve
+ S
+ta
+ti
+st
+ic
+s 
+an
+d
+ C
+or
+re
+la
+ti
+on
+s 
+(E
+m
+p
+ir
+ic
+s 
+P
+ar
+t 
+1)
+V
+ar
+ia
+bl
+e
+M
+SD
+M
+in
+.
+M
+ax
+.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+ 1
+. C
+S
+R
+−
+0.
+28
+2.
+62
+−
+9.
+00
+14
+.0
+0
+ 
+ 2
+. P
+re
+sa
+m
+pl
+e 
+C
+S
+R
+−
+0.
+05
+2.
+16
+−
+8.
+00
+9.
+00
+.7
+2
+ 
+ 3
+. F
+ir
+m
+ s
+iz
+e 
+(l
+og
+)
+7.
+68
+1.
+48
+3.
+94
+12
+.8
+4
+−
+.0
+2
+−
+.0
+6
+ 
+ 4
+. R
+et
+ur
+n 
+on
+ a
+ss
+et
+s
+0.
+07
+0.
+06
+−
+0.
+65
+0.
+50
+.0
+9
+.0
+9
+.0
+9
+ 
+ 5
+.  D
+eb
+t-
+to
+-e
+qu
+it
+y 
+ra
+ti
+o 
+(l
+og
+)
+4.
+16
+2.
+54
+0.
+00
+8.
+73
+−
+.1
+7
+−
+.1
+3
+.5
+0
+−
+.2
+0
+ 
+ 6
+. R
+&
+D
+ in
+te
+ns
+it
+y 
+(l
+og
+)
+0.
+04
+0.
+10
+0.
+00
+1.
+21
+.1
+9
+.1
+2
+−
+.2
+8
+−
+.3
+3
+−
+.2
+6
+ 
+ 7
+. D
+ed
+ic
+at
+ed
+ o
+w
+ne
+rs
+hi
+p
+0.
+10
+0.
+07
+0.
+00
+0.
+37
+.1
+0
+.0
+9
+.0
+8
+.0
+0
+.0
+3
+.1
+2
+ 
+ 8
+. T
+ra
+ns
+ie
+nt
+ o
+w
+ne
+rs
+hi
+p
+0.
+16
+0.
+09
+0.
+00
+0.
+64
+.0
+0
+−
+.0
+4
+−
+.2
+5
+.0
+3
+−
+.1
+7
+.1
+0
+−
+.0
+8
+ 
+ 9
+. B
+oa
+rd
+ in
+de
+pe
+nd
+en
+ce
+0.
+79
+0.
+12
+0.
+25
+0.
+94
+.0
+5
+−
+.0
+3
+.1
+9
+−
+.0
+3
+.2
+4
+.0
+2
+.0
+4
+.0
+2
+ 
+10
+. C
+E
+O
+ o
+ut
+si
+de
+r
+0.
+04
+1.
+91
+−
+6.
+16
+1.
+88
+−
+.0
+3
+−
+.0
+4
+−
+.2
+0
+−
+.0
+7
+−
+.1
+3
+.1
+8
+.0
+1
+.1
+7
+.1
+0
+ 
+11
+. C
+E
+O
+ d
+ua
+li
+ty
+0.
+59
+0.
+49
+0.
+00
+1.
+00
+.0
+1
+.0
+3
+.2
+1
+.0
+3
+.1
+9
+−
+.1
+0
+.0
+4
+.0
+2
+.2
+1
+.0
+2
+ 
+12
+. C
+E
+O
+ te
+nu
+re
+ (
+lo
+g)
+1.
+98
+0.
+70
+0.
+69
+3.
+58
+.0
+0
+.0
+1
+−
+.2
+4
+.0
+9
+−
+.1
+9
+.1
+4
+.0
+4
+.1
+1
+−
+.1
+3
+.2
+7
+.1
+9
+ 
+13
+. C
+E
+O
+ li
+be
+ra
+li
+sm
+0.
+46
+0.
+23
+0.
+01
+0.
+98
+.0
+5
+.0
+1
+.0
+0
+−
+.0
+1
+−
+.0
+4
+.0
+7
+.0
+2
+.0
+9
+−
+.0
+1
+.0
+7
+.0
+2
+.1
+3
+ 
+14
+. C
+E
+O
+ p
+re
+di
+ct
+ed
+ p
+ay
+8.
+24
+0.
+94
+2.
+44
+11
+.1
+1
+.0
+5
+−
+.0
+1
+.6
+7
+.0
+8
+.3
+9
+.0
+3
+.1
+6
+−
+.0
+3
+.2
+9
+.0
+0
+.2
+1
+−
+.1
+6
+.0
+0
+ 
+15
+. S
+al
+ar
+y
+0.
+25
+0.
+20
+0.
+01
+1.
+00
+−
+.0
+4
+−
+.0
+2
+−
+.3
+6
+−
+.1
+2
+−
+.2
+6
+−
+.0
+7
+−
+.0
+7
+−
+.0
+7
+−
+.2
+4
+−
+.0
+4
+−
+.1
+2
+.1
+2
+.0
+2
+−
+.6
+7
+ 
+16
+. B
+on
+us
+0.
+14
+0.
+17
+0.
+00
+0.
+97
+−
+.0
+4
+−
+.0
+1
+.0
+1
+.0
+6
+.0
+9
+−
+.1
+1
+−
+.0
+5
+.0
+0
+−
+.1
+1
+−
+.0
+6
+−
+.0
+2
+−
+.1
+2
+.0
+1
+.0
+1
+.0
+0
+ 
+17
+. R
+es
+tr
+ic
+te
+d 
+st
+oc
+k
+0.
+18
+0.
+22
+0.
+00
+0.
+94
+−
+.0
+6
+−
+.1
+0
+.2
+6
+−
+.0
+5
+.2
+4
+−
+.1
+3
+.0
+4
+−
+.0
+8
+.1
+6
+−
+.0
+1
+.0
+7
+−
+.0
+9
+−
+.0
+2
+.2
+8
+−
+.3
+5
+−
+.2
+0
+ 
+18
+. S
+to
+ck
+ o
+pt
+io
+ns
+0.
+28
+0.
+27
+0.
+00
+0.
+95
+.1
+2
+.1
+1
+−
+.0
+7
+.0
+2
+−
+.1
+6
+.3
+0
+.0
+9
+.1
+3
+.0
+6
+.1
+3
+−
+.0
+1
+.0
+0
+.0
+1
+.1
+9
+−
+.4
+0
+−
+.2
+0
+−
+.4
+2
+ 
+19
+. C
+E
+O
+ g
+re
+ed
+0.
+02
+0.
+58
+−
+0.
+85
+2.
+31
+−
+.0
+2
+−
+.0
+6
+.1
+9
+.1
+2
+.1
+4
+−
+.0
+2
+.0
+4
+.0
+3
+.0
+9
+.0
+8
+.1
+4
+.1
+0
+.0
+5
+.2
+1
+−
+.3
+9
+−
+.0
+7
+.2
+5
+.0
+6
+N
+ =
+ 1
+,4
+19
+. C
+S
+R
+ =
+ c
+or
+po
+ra
+te
+ s
+oc
+ia
+l r
+es
+po
+ns
+ib
+il
+it
+y;
+ R
+&
+D
+ =
+ r
+es
+ea
+rc
+h 
+an
+d 
+de
+ve
+lo
+pm
+en
+t. 
+C
+or
+re
+la
+ti
+on
+s 
+at
+ r
+ >
+ .0
+5 
+ar
+e 
+si
+gn
+if
+ic
+an
+t a
+t p
+ <
+ .0
+5.
+972  Journal of Management / April 2021
+Table 2
+Random-Effects Models for CSR
+Variable (1) (2) (3) (4) (5)
+Year dummies Included Included Included Included Included
+Industry dummies Included Included Included Included Included
+Presample CSR 0.82 (0.04)***
+[.000]
+0.82 (0.04)***
+[.000]
+0.81 (0.04)***
+[.000]
+0.82 (0.04)***
+[.000]
+0.81 (0.04)***
+[.000]
+Firm size (log) 0.15 (0.10)
+[.119]
+0.17 (0.09)*
+[.072]
+0.18 (0.10)*
+[.066]
+0.17 (0.09)*
+[.074]
+0.17 (0.10)*
+[.067]
+Return on assets 0.34 (0.88)
+[.697]
+0.41 (0.87)
+[.641]
+0.37 (0.88)
+[.676]
+0.41 (0.87)
+[.642]
+0.36 (0.88)
+[.681]
+Debt-to-equity 
+ratio (log)
+−0.07 (0.03)**
+[.023]
+−0.07 (0.03)**
+[.020]
+−0.07 (0.03)**
+[.020]
+−0.07 (0.03)**
+[.020]
+−0.07 (0.03)**
+[.020]
+R&D intensity 
+(log)
+1.28 (0.81)
+[.113]
+1.30 (0.81)
+[.106]
+1.30 (0.80)
+[.106]
+1.31 (0.81)
+[.105]
+1.32 (0.81)
+[.102]
+Dedicated 
+ownership
+1.22 (0.82)
+[.137]
+1.21 (0.82)
+[.140]
+1.19 (0.82)
+[.148]
+1.20 (0.82)
+[.141]
+1.18 (0.82)
+[.151]
+Transient 
+ownership
+−0.04 (0.63)
+[.951]
+0.05 (0.63)
+[.937]
+0.05 (0.63)
+[.938]
+0.06 (0.63)
+[.927]
+0.07 (0.63)
+[.912]
+Board 
+independence
+0.63 (0.67)
+[.341]
+0.64 (0.66)
+[.332]
+0.63 (0.66)
+[.341]
+0.65 (0.67)
+[.332]
+0.63 (0.67)
+[.340]
+CEO outsiderness −0.03 (0.06)
+[.669]
+−0.02 (0.06)
+[.692]
+−0.02 (0.06)
+[.723]
+−0.02 (0.06)
+[.688]
+−0.02 (0.06)
+[.716]
+CEO duality −0.05 (0.16)
+[.780]
+−0.04 (0.16)
+[.813]
+−0.04 (0.16)
+[.822]
+−0.04 (0.16)
+[.799]
+−0.04 (0.16)
+[.789]
+CEO tenure (log) −0.02 (0.12)
+[.875]
+−0.01 (0.12)
+[.944]
+−0.01 (0.12)
+[.942]
+−0.01 (0.12)
+[.953]
+−0.01 (0.12)
+[.962]
+CEO liberalism 0.08 (0.40)
+[.831]
+0.10 (0.40)
+[.808]
+0.12 (0.40)
+[.774]
+0.10 (0.40
+[.806]
+0.12 (0.40)
+[.767]
+CEO predicted 
+pay
+0.02 (0.12)
+[.835]
+−0.01 (0.12)
+[.908]
+−0.01 (0.12)
+[.946]
+−0.01 (0.12)
+[.929]
+−0.00 (0.12)
+[1.000]
+Salary −0.06 (0.37)
+[.865]
+−0.28 (0.36)
+[.432]
+−0.25 (0.36)
+[.487]
+−0.25 (0.37)
+[.490]
+−0.18 (0.37)
+[.622]
+Bonus −0.78 (0.32)**
+[.014]
+−0.79 (0.31)**
+[.011]
+−0.83 (0.31)***
+[.008]
+−0.79 (0.31)**
+[.012]
+−0.82 (0.31)***
+[.009]
+Restricted stock 0.11 (0.30)
+[.714]
+0.16 (0.31)
+[.612]
+0.15 (0.31)
+[.627]
+0.18 (0.31)
+[.580]
+0.21 (0.31)
+[.521]
+Stock options −0.50 (0.33)
+[.136]
+−0.50 (0.33)
+[.133]
+−0.48 (0.33)
+[.146]
+−0.49 (0.33)
+[.139]
+−0.46 (0.33)
+[.160]
+CEO greed −0.13 (0.08)*
+[.079]
+−0.06 (0.09)
+[.515]
+−0.11 (0.11)
+[.305]
+−0.01 (0.13)
+[.951]
+CEO Greed × 
+Bonus
+−0.66 (0.34)**
+[.050]
+−0.70 (0.34)**
+[.041]
+CEO Greed × 
+Restricted Stock
+−0.06 (0.22)
+[.772]
+−0.16 (0.23)
+[.496]
+Constant −2.27 (1.27)*
+[.073]
+−2.13 (1.26)*
+[.092]
+−2.23 (1.27)*
+[.079]
+−2.17 (1.28)*
+[.089]
+−2.33 (1.30)*
+[.072]
+Observations 1,419 1,419 1,419 1,419 1,419
+Number of CEOs 301 301 301 301 301
+Wald χ2 6,053.39*** 8,800.02*** 10,384.74*** 8,146.77*** 8,110.63***
+R2 0.60 0.60 0.60 0.60 0.60
+Note: Robust standard errors in parentheses; p values in brackets. CSR = corporate social responsibility; R&D = research and 
+development.
+*p < .1 (two-tailed tests).
+**p < .05.
+***p < .01.
+Sajko et al. / CEO Greed, CSR, and Resilience  973
+size was reduced to 1,184 CEO-year observations due to the additional data requirements. 
+The regression results shown in the first column of Table 3 indicate that the coefficient of 
+change in CEO greed remains negative and significant (β = ‒0.13, p = .054). Second, we 
+employed the generalized method of moments (GMM) approach (Arellano & Bond, 1991), 
+which handles endogeneity by incorporating internal instruments consisting of first differ-
+ences of multiple lags on all right-hand-side variables. We used lags of t ‒ 2 and t ‒ 3 as 
+instruments to avoid the problems arising from instrument proliferation that are associated 
+with longer lags (Roodman, 2009). Due to the lag structure, the sample size for this analy-
+sis was reduced to 1,118 CEO-year observations. Both the Sargan and the Hansen test for 
+overidentifying restrictions indicated that the internal instruments were exogenous. We spec-
+ified a two-step first-difference GMM estimator and applied Windmeijer-corrected standard 
+errors to control for downward bias in the estimator (Windmeijer, 2005). The negative and 
+significant coefficient on CEO greed (β = ‒0.56, p = .007) in the second column of Table 3 
+provides further support for our findings and suggests that endogeneity has not introduced a 
+bias into our results.
+Furthermore, our argument that CEO greed leads to a decrease in CSR engagement due to 
+a greedy CEO’s myopic focus on the maximization of short-run profits suggests that CEO 
+greed should be positively associated with short-term firm performance. To strengthen our 
+theoretical arguments, we investigated this implication. Following Connelly et al. (2016), we 
+operationalized short-term performance as ROA in year t. We regressed ROA on the same set 
+of lagged covariates as those used in our main analyses, except that we replaced lagged ROA 
+with lagged CSR as a predictor. The Hausman test rejected the null hypothesis; hence we 
+specified a fixed-effects model with clustered standard errors. The coefficient of CEO greed 
+in the third column of Table 3 is positive, as expected, but did not reach statistical signifi-
+cance (β = 0.01, p = .168).
+Finally, one might argue that our measure of CEO greed (based on abnormally high com-
+pensation) may be driven by the CEO’s human capital—that is, CEOs with a college or MBA 
+degree, or who studied at an elite school, might be able to reap higher compensation. We 
+reran the analyses including control variables to account for these CEO features (see Table C 
+Figure 2
+The Joint Effect of CEO Greed and Bonus Pay on Corporate Social Responsibility
+974  Journal of Management / April 2021
+Table 3
+Robustness Tests
+Variable
+(1) (2) (3)
+∆CSR (OLS) CSR (GMM) ROA (FE)
+Year dummies Included Included Included
+Firm size (log) 0.11 (0.20)
+[.587]
+−0.48 (0.71)
+[.494]
+−0.02 (0.03)
+[.463]
+Return on assets 0.31 (0.57)
+[.585]
+−0.22 (1.74)
+[.901]
+—
+Debt-to-equity ratio (log) −0.05 (0.03)*
+[.094]
+0.02 (0.09)
+[.815]
+0.00 (0.00)
+[.461]
+R&D intensity (log) 0.72 (0.57)
+[.208]
+−0.50 (2.09)
+[.811]
+0.16 (0.09)*
+[.089]
+Dedicated ownership 0.83 (0.73)
+[.256]
+−1.59 (2.28)
+[.486]
+−0.19 (0.06)***
+[.002]
+Transient ownership 0.40 (0.59)
+[.501]
+−0.74 (1.59)
+[.640]
+0.11 (0.06)*
+[.082]
+Board independence 1.41 (0.63)**
+[.024]
+−1.46 (2.16)
+[.499]
+0.00 (0.04)
+[.989]
+CEO duality 0.16 (0.21)
+[.461]
+−0.07 (0.55)
+[.898]
+0.00 (0.01)
+[.823]
+CEO tenure (log) −0.09 (0.33)
+[.782]
+−0.10 (0.49)
+[.839]
+0.01 (0.02)
+[.534]
+CEO predicted pay −0.02 (0.43)
+[.426]
+0.90 (1.01)
+[.376]
+−0.09 (0.06)
+[.142]
+Salary −0.45 (0.27)*
+[.089]
+−0.31 (1.01)
+[.757]
+−0.03 (0.03)
+[.284]
+Bonus −0.48 (0.24)**
+[.046]
+0.10 (0.60)
+[.863]
+−0.00 (0.02)
+[.996]
+Restricted stock 0.01 (0.24)
+[.952]
+0.28 (0.69)
+[.683]
+−0.05 (0.02)**
+[.025]
+Stock options −0.32 (0.24)
+[.175]
+0.26 (0.71)
+[.710]
+−0.01 (0.02)
+[.679]
+CEO greed −0.13 (0.07)*
+[.054]
+−0.56 (0.21)***
+[.007]
+0.01 (0.01)
+[.168]
+CSR — — −0.00 (0.00)
+[.638]
+Constant −0.40 (0.17)**
+[.020]
+— 0.83 (0.40)**
+[.041]
+Observations 1,184 1,118 1,419
+Number of CEOs 301 301 301
+Note: All robustness tests employ either first-differencing or fixed effects at the firm/CEO level. Because we 
+observe only one CEO per each firm, constants such as presample CSR, CEO outsiderness, and CEO liberalism 
+are excluded as control variables from these models. Robust standard errors in parentheses; p values in brackets. 
+CSR = corporate social responsibility; OLS = ordinary least squares; GMM = generalized method of moments; 
+FE = fixed effects; R&D = research and development.
+*p < .1 (two-tailed tests).
+**p < .05.
+***p < .01.
+Sajko et al. / CEO Greed, CSR, and Resilience  975
+in the online supplement) and found that this did not change our results. Similarly, our find-
+ings hold if we exclude insignificant CEO-level control variables (see Table D in the online 
+supplement).
+Empirics Part 2: Explaining Postshock Stability
+Method
+Dependent variable. We follow DesJardine et al. (2019) and measure a drop in a firm’s 
+stock price as the absolute percentage change between the closing price just before the onset 
+of the GFC on September 17, 2008, and the lowest closing price that the stock reached within 
+a 12-month period.12 A high value on this measure reflects a large drop. A window of 1 year 
+is the standard boundary in related studies (Buyl et al., 2019; DesJardine et al., 2019) and 
+reduces the likelihood that drops in stock price are driven by other events. Additionally, a 
+visual inspection of the average daily stock price movements (see Figure 3) confirms that the 
+severest drop in stock price following the economic meltdown occurred in the first quarters 
+of 2009.
+Independent variable. Both CSR and CEO greed are operationalized as described earlier. 
+However, we measured both variables prior to the GFC (preshock CSR and CEO greed). We 
+took the average value during the 2 years before the shock (2007-2008) to ensure that we 
+capture more than just a snapshot of preshock CSR and CEO greed.
+Figure 3
+Average Daily Stock Price During the Period September 2008 to September 2011
+976  Journal of Management / April 2021
+Control variables. We included industry dummies to control for industry-level stock 
+price drops and used the same set of control variables as in Part 1. In line with the indepen-
+dent variables, all control variables were computed as the average of their 2007 and 2008 
+values to capture stable preshock tendencies. Additionally, we control for several firm-level 
+factors that might have affected the drop in stock price immediately after the shock (DesJar-
+dine et al., 2019): firm age, measured as the logarithm of the number of years since the firm 
+was first covered by Compustat; intangible assets, measured as the logarithm of market-to-
+book ratio; operational efficiency, measured as the ratio of sales to total assets; and capital 
+intensity, measured as the ratio of capital expenditures to total assets. To account for regres-
+sion to the mean (Buyl et al., 2019), we also control for preshock stock price, measured as 
+the closing price on September 16, 2008.
+Estimation. Because our data were a cross-section, we specified OLS models with robust 
+standard errors.
+Results
+The correlations and descriptive statistics are shown in Table 4. Table 5 reports the OLS 
+regression results. Model 1 includes control variables only and indicates that firms with better 
+performance (β = ‒0.55, p = .000), more intangible assets (β = ‒0.05, p = .003), higher 
+R&D intensity (β = ‒0.45, p = .012), and CEO duality (β = ‒0.03, p = .042) prior to the 
+shock experienced smaller drops. Surprisingl

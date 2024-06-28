@@ -1,0 +1,668 @@
+Debt Forgiveness and Debt Relief for Covid-19 Economic Recovery Financed through GDP-Linked Sukuk
+
+ 
+http://www.ojs.unito.it/index.php/EJIF          ISSN 2421-2172            DOI: 10.13135/2421-2172/4582 1 
+Debt Forgiveness and Debt Relief for Covid-19 
+Economic Recovery Financed  
+through GDP-Linked Sukuk 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+Abstract— This paper proposes alternatives for governments to 
+deal with the current pandemic crisis today. It suggests ways to 
+deal with the increasing debt levels as a result of the fiscal 
+stimulus issued to cushion the effects of a tremendous shock to 
+the economy. 
+Firstly, the paper proposes to protect the vulnerable group 
+(based on debt-to-income ratio or its debt-servicing ability) 
+through debt forgiveness and help SMEs through debt relief via 
+debt restructuring for their outstanding loans. To finance this, we 
+propose to convert the increased public debt from these 
+initiatives into equity through a GDP-linked sukuk to stabilise a 
+sovereign’s debt to GDP ratio. The repayment on these sukuk 
+will be in proportion to the country’s GDP whereby the 
+repayment automatically declines when growth is weak and 
+increases when GDP is strong. In doing so, an anticipated deep 
+recession caused by the global pandemic slowdown will makes it 
+less likely to trigger a sovereign debt crisis.  
+Secondly, such a strategy would provide the issuing government 
+with economic reprieve when growth weakens and tax receipts 
+decline. At the same time, investors can view these sukuk as an 
+alternative asset class through exposure to the real economy, 
+given the low interest rate environment. Both sides are 
+incentivized by the debt-stabilising effects of issuance that would 
+make sovereign defaults less likely and balance risk-taking. 
+Keywords - debt limits, fiscal space, growth-linked sukuk, 
+sovereign debt management. 
+I.  INTRODUCTION 
+Combating the COVID-19 pandemic has elicited radical 
+responses from governments and world health officials, which 
+has resulted in some of the most drastic strategies that we have 
+seen in our recent history. The consequential lock-down of the 
+suspected originating city in China, have quickly expanded 
+extreme measures to the quarantine of entire provinces and 
+entire countries, slowing down economic activities 
+substantially. 
+To ensure that all countries can do what is necessary to 
+fight the economic fallout of the pandemic, the fiscal costs of 
+this global crisis for each nation has been great. Many 
+governments have already pledged billions in grants to support 
+health care, liquidity to the private sector (credit lines to 
+SMEs), short-time work schemes and stimulus packages. In 
+order to do so, governments have to dig deep into their reserves 
+and for others, resort to debt. The need for stable capital flows 
+to help moderate the path to economic recovery requires 
+support for the real economy and dealing with potential 
+sovereign defaults, if capital runs out before the economy 
+recovers adequately. It is therefore important to develop and 
+utilize market instruments that can boost the recovery curve. 
+This paper investigates the stimulus alternatives that are being 
+implemented at the moment and suggests ways to deal with the 
+increasing debt levels as a result of the fiscal stimulus issued to 
+cushion the effects of a tremendous shock to the economy. It 
+proposes the conversion of public debt into equity through 
+GDP-linked sukuk to ―stabilise a sovereign‘s debt to GDP ratio 
+and makes it less likely that a deep recession will trigger a debt 
+crisis and cause a default‖ [3] based on the findings of various 
+research on GDP-linked bonds. 
+A. Objectives of Research 
+In this pandemic, our current lack of knowledge about the 
+virus is our greatest weakness in combating it. Not knowing 
+who has been infected, or who is a carrier without symptoms, 
+contributes to higher infection rates. Not knowing enough 
+about the virus delays our ability to treat those infected, or 
+release those from quarantine with absolute confidence. It 
+hinders our judgement to restart the economy and leaves us 
+little choice but to take a measured approach in getting people 
+back to work and to allow businesses to return to operations. 
+Containment measures to ―flatten the curve‖ are still enforced 
+and loosened in phases in order to prevent a second wave, 
+Hazik Mohamed and M. Ashraful Mobin 
+Submitted June 2020, Revised December 2020, 
+Accepted December 2020 
+EJIF – European Journal of Islamic Finance                           Islamic Finance Role in the Time of Covid-19 Pandemic, No 16, December (2020) 
+ 
+ 
+ 
+http://www.ojs.unito.it/index.php/EJIF          ISSN 2421-2172            DOI: 10.13135/2421-2172/4582 2 
+which historically had been more deadly than the first
+1
+. 
+Adjustments to work-from-home (WFH) orders and social-
+distancing has transformed business-as-usual to such an extent 
+that shifts in the economy will be inevitable. Also, within the 
+next few months, there will be companies, both big and small, 
+that will file for bankruptcy and there will be sovereign 
+defaults as countries face drying liquidity.  
+In order to prevent undesired outcomes, we propose that 
+governments can do two things, on top of what have already 
+been implemented. (1) Identify the ‗most vulnerable group‘ 
+within their communities and assess their household and 
+personal debt levels for consideration of debt forgiveness. (2) 
+Allow micro, small and medium enterprises (SMEs) to 
+restructure their corporate debts or renegotiate for new terms as 
+a form of debt relief. These two initiatives will be funded 
+through a GDP-linked sukuk issued by the country. The 
+financial burdens lifted by these initiatives will have positive 
+effects on the economy as capital which would have been used 
+to pay down the debts will instead be utilized as spending or 
+consumption for the vulnerable groups and necessary 
+expenditure for the SMEs. This cycle of spending will in turn 
+contribute towards GDP growth and, directly and indirectly, 
+save jobs and limit unemployment. 
+II. REVIEW ON GDP-LINKED BONDS AND SUKUK 
+A. Creating Sustainable Sovereign Instruments 
+In order to finance the proposed debt forgiveness for 
+households and debt relief for SMEs, governments can issue 
+public debt instruments such as sovereign sukuk [13; 7]. 
+However, doing so creates more fiscal indebtedness. GDP-
+linked sukuk is one way to convert those debts into equity 
+repayments based on GDP performance of the country. Such 
+growth-linked financial instruments are a type of security akin 
+to a ―stock on a country‖ in the sense that it has ―equity-like‖ 
+features. Similarly, it pays more ‗dividends‘ when the 
+performance is better and pays less when it is worse than 
+expected. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          
+1 There were three waves in the Spanish Flu pandemic of 1918: the first 
+occurred in the Spring, the second in the Autumn/Fall and the third in Winter. 
+It is unclear what triggered the second wave. 
+https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/three-
+waves.htm 
+https://fullfact.org/online/spanish-flu-second-wave-quarantine/ 
+Figure 1: Simplified Structure of GDP-linked Sukuk 
+(Source: Author‘s own) 
+Tax Revenues
+Investors
+Governments 
+through
+GDP-Linked Sukuk
+Investments in 
+Revenue-
+generating 
+projects
+Debt Relief,
+Debt Forgiveness,
+Fiscal Stimulus
+ 
+Taking into consideration experiences from other financial 
+instruments, especially the Argentina's successes with 
+inflation-linked sukuk as well as their failings with "GDP 
+warrants", we recommend a GDP-linked sukuk that will 
+incorporate the following principles in its design: (i) simplicity 
+— keeping conditional payment triggers simple to avoid 
+failures of trading out of the money for long periods as well as 
+hindering fair-value pricing; (ii) recognizability — maintaining 
+the industry-standard terms present in inflation-linked sukuk 
+contracts and adapting them where necessary; (iii) pliability — 
+with a flexible term sheet template designed to accommodate 
+the range of emerging and advanced economies with slight 
+adjustments; (iv) balanced risk-sharing — with the investor 
+sharing the rewards of the upside as well as the risks of the 
+downside, which reinforces the debt-stabilising physiognomies 
+of this structure for the issuer as well as incentives for return 
+and repayment. 
+B. Debt Limit and Fiscal Space 
+We discuss the work done on GDP-linked bonds by IMF 
+researchers [10; 22] where they show ―how the structure of 
+sovereign debt can alter the payment capacity of a government, 
+which delivers a calculation of the maximum level of debt that 
+a sovereign is likely to be able to sustain before it risks facing a 
+crisis‖. The concept of the debt limit captures the 
+understanding of fiscal fatigue where ―an improvement in a 
+country‘s structural characteristics or economic growth rate 
+raises its debt limit, while the occurrence (or recognition of the 
+possibility) of a negative shock could push an otherwise 
+sustainable debt level to the unsustainable territory‖. They 
+found evidence of fiscal reactions where ―governments face 
+debt limits beyond which debt cannot be rolled-over‖. They 
+used these findings to compute ―fiscal space‖ which is ―defined 
+as the difference between projected debt ratios and debt limits‖, 
+allowing for further increases in public debt without 
+undermining sustainability.  
+The mechanism through which GDP-linked bonds (and 
+similarly, sukuk) help to increase fiscal space arises because 
+EJIF – European Journal of Islamic Finance                           Islamic Finance Role in the Time of Covid-19 Pandemic, No 16, December (2020) 
+ 
+ 
+ 
+http://www.ojs.unito.it/index.php/EJIF          ISSN 2421-2172            DOI: 10.13135/2421-2172/4582 3 
+the evolution of sovereign debt ratios is affected by stochastic 
+variation in GDP. During lower-than-expected growth, the 
+creditworthiness of sovereigns fall because the poor ratings due 
+to higher-than-expected debt ratio raises default risk. If the debt 
+contract could be varied to modulate the debt service during 
+bad times (e.g. economic shocks such as the COVID-19 
+pandemic), default risk would decline. Such flexibility in 
+exchange for an increased rate of return during good times, 
+would allow the debt contract to be written with a lower 
+average interest rate. 
+Kim and Ostry [18] ran simulations that suggest fiscal 
+space gains in the order of 10-60% of GDP for a representative 
+advanced economy, assuming investor risk neutrality. 
+Simulated gains in fiscal space are larger for counter-cyclical 
+fiscal policy because, holding constant the extent of growth 
+uncertainty, more countercyclicality in policy amplifies 
+stochastic variation in the debt ratios by more for nominal bond 
+than for GDP-linked bond. 
+In their research, Bank of England researchers [3] focused 
+on the ―amount GDP-linked bond that can potentially increase 
+debt limits, rather than the absolute value of the debt limits 
+themselves‖. Even with the simplest model set-up used, they 
+found that ―GDP-linked bonds have a substantial impact on a 
+sovereign‘s debt limit – raising it by around 100% of GDP‖.  
+Pienkowski [23] found that ―even issuing relatively modest 
+amounts – say 20% GDP-linked bond of the total debt stock — 
+can have a significant impact on the debt limit‖. From Figure 2, 
+it is observed that for advanced economies (AEs), ―the debt 
+limit would rise by around 15% points of GDP, which would 
+be enough to accommodate the median fiscal costs of a 
+systemic banking crisis
+2
+‖. Emerging markets (EMs) have a 
+maximum debt limit when GDP-linked bonds make up around 
+80% of the debt stock. Beyond this, the cost of issuing these 
+instruments outweighs the benefits, and the debt limit begins to 
+fall. ―For AEs, the debt level continues to increase with the 
+share of GDP-linked bond‖ [24]. For low-income countries 
+(LICs), however, there is no change in the debt limit (relative 
+to the case where 100 percent of debt is local currency 
+denominated). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          
+2   Amaglobeli et al. [1] estimate that the ―direct fiscal cost of a systemic 
+banking crisis recapitalisation and asset purchases) has a median of 6% of 
+GDP; while the median increase in public debt associated with these events is 
+around 14% of GDP‖. ―An 8%-point increase in the debt limit for EMs is also 
+substantial, enough to accommodate additional borrowing through a typical 
+recession‖ [16]. 
+Figure 2: Change in Debt Limits with Variation of GDP-linked Bond to the 
+Total Debt Stock for LICs, EMs and AEs (Source: Pienkowski, 2017) 
+ 
+ 
+ 
+The results of the various GDP-linked bond composition 
+research suggest that ―there is no one-size-fits-all debt structure 
+that all countries should target‖. For LICs, with the lowest 
+‗baseline‘ debt limit, results seem to suggest that ―focus may be 
+best directed at reducing exchange rate risk through local 
+currency debt issuance and building institutions that can raise 
+the maximum sustainable primary balance‖ [23]. For EMs, 
+when they have adequately diminished exchange rate risk, the 
+benefits from GDP-linked sukuk become obvious. But 
+Pienkowski‘s results show that AEs benefitted the most, ―with 
+debt limits rising by 15% points when GDP-linked sukuk make 
+up one-fifth of the debt stock‖. 
+From a cost-benefit approach, government issuers may 
+consider starting at lower levels of the debt stock, since the 
+‗marginal benefit‘ (in terms of the change in the debt limit) 
+reduces across the board for all countries. It should be noted 
+that the ―results presented are sensitive to the parameter 
+assumptions, perhaps the largest uncertainty involves the risk 
+premium required by investors to hold local currency and 
+GDP-linked bond‖ [23]. Also, a useful consideration is to 
+EJIF – European Journal of Islamic Finance                           Islamic Finance Role in the Time of Covid-19 Pandemic, No 16, December (2020) 
+ 
+ 
+ 
+http://www.ojs.unito.it/index.php/EJIF          ISSN 2421-2172            DOI: 10.13135/2421-2172/4582 4 
+incorporate a long maturity debt into the tenure of the model, 
+or even to contemplate perpetuity. Other valuable 
+considerations would include capturing the various policy 
+frameworks in different countries such as currency union. Such 
+countries have considerably less latitude to control nominal 
+GDP through monetary and fiscal policy, and hence the 
+perceived benefits of GDP-linked sukuk based on the study 
+may be impaired. 
+III. COPING WITH THE ECONOMIC REPERCUSSION OF THE 
+PANDEMIC AND INCREASING LEVELS OF SOVEREIGN DEBT 
+As mention in the earlier section of this research, we 
+propose that governments do two things, on top of what have 
+already been implemented so far in terms of austerity measures 
+to save lives. In the subsequent phase of this pandemic, the 
+next order of business is to save the economy. In order to 
+prevent further undesired outcomes, (1) Identify the ‗most 
+vulnerable group‘ within their communities and assess their 
+household and personal debt levels for consideration of debt 
+forgiveness. (2) Allow micro, small and medium enterprises 
+(SMEs) to restructure their corporate debts or renegotiate for 
+new terms as a form of debt relief. These two initiatives will be 
+funded through a GDP-linked sukuk issued by the country. The 
+financial burdens lifted by these initiatives will have positive 
+effects on the economy as capital which would have been used 
+to pay down the debts will instead be utilized as spending or 
+consumption for the vulnerable groups and necessary 
+expenditure for the SMEs. This cycle of spending will in turn 
+contribute towards GDP growth and, directly and indirectly, 
+save jobs and limit unemployment, on the road to economic 
+recovery. 
+A. Debt Forgiveness 
+Consumer debt is a concern today because it has reached 
+record levels [2] and because its rise comes as powerful trends
+3
+ 
+shape how debt is incurred and the consequences it has for 
+financial security. We see the issue of consumer debt as a 
+necessary challenge, different in many ways than the more 
+widely understood mortgage debt (borrowing to buy a home) 
+that precipitated the Great Recession of 2018. Our definition 
+includes all forms of non-mortgage debt such as student and 
+auto loans, credit cards, and non-loan obligations including 
+medical debt and money owned to local governments that have 
+come to use such fines and fees as a key revenue source. The 
+scope of this mounting crisis is troubling: for example, debt in 
+collections now appears on one-third of consumer credit 
+reports.  
+The approach to these can be worked out through a 
+framework that is built on the analyses of historical patterns, 
+contemporary drivers, and differences among demographic 
+groups. The vulnerable group can be defined via its debt-to-
+income (DTI) indicator — the higher the number, the more 
+vulnerable the group is. Based on this information, the 
+classification of the outstanding debts and its volume, the debt 
+                                                          
+3   Trends such as stagnating incomes, new forms of credit availability, and 
+structural changes in medical and education markets. 
+forgiveness can be applied to the group below a certain DTI 
+value. Targeted forgiveness of household debt held by 
+borrowers whose loans are most likely to undermine their 
+financial security (i.e. the low-income debtors determined 
+through the DTI value). 
+For illustration purposes, we have taken the debt-to-income 
+ratio (DTI) and debt service ratio (DSI) for European countries 
+for the year 2017
+4
+ only. From Figure 3, we can see that the 
+bottom 20% of Greece (GR), Cyprus (CY), Netherlands (NL) 
+and Slovenia (SI) are 3 times in debt against their income. 
+Overall, indebtedness is highest across all sections of income 
+levels for Cyprus and Netherlands, with most of them owing 
+about 200% (and exceeding) of their income. But before we 
+determine the most vulnerable group and apply a cut-off, we 
+need to understand the debt-to-service ratio of these groups. 
+Figure 3: DTI and Household Debt Outstanding 
+0.0
+100.0
+200.0
+300.0
+400.0
+500.0
+600.0
+700.0
+BE DE EE IE GR ES FR HR IT CY LV LT LU HU MT NL AT PL PT SI SK FI
+Bottom 20% 20-40% 40-60% 60-80% 80-90% 90-100%
+ 
+Note: The debt to income (DTI) ratio is the ratio of total debt5 to gross 
+household income6.  
+* For full country abbreviation list, refer to Appendix A. 
+Source: Household Finance and Consumption Survey (Year 2017).  
+From Figure 4, we can observe that although Netherlands 
+is one of the two countries that is considered to have high debt 
+to income overall, its debt-to-service ratio is typical of other 
+European countries, except for its bottom 20% which far 
+exceeds all others. From here, we can determine the most 
+                                                          
+4   For a better cross-sectional study, the investigation can be extended to 5 
+years or more. Debt tenure typically exceed 5 years, so the debt outstanding 
+does not change very much in shorter time spans. 
+5 Total debt includes mortgages collateralised on household's main residence, 
+mortgages collateralised on other real estate property owned by the household, 
+non-mortgage loans (consumer credit loans, private loans and other loans not 
+collateralised on household's real estate property), credit lines/bank overdrafts 
+debt and credit card debt (outstanding amount on which interest is paid at the 
+end of the billing period) - unless otherwise specified for a given country (see 
+country notes below for more detail). 
+6 Total gross household income is calculated as the sum of the employee 
+income, self-employment income, income from public pensions, income from 
+private and occupational pensions and income from unemployment benefits 
+(items collected for households members aged 16+) and income from social 
+transfers other than unemployment benefits, regular private transfers (such as 
+alimonies), rental income from real estate property, income from financial 
+investments, income from private business or partnership and regular income 
+from other sources (items collected at the household level). 
+EJIF – European Journal of Islamic Finance                           Islamic Finance Role in the Time of Covid-19 Pandemic, No 16, December (2020) 
+ 
+ 
+ 
+http://www.ojs.unito.it/index.php/EJIF          ISSN 2421-2172            DOI: 10.13135/2421-2172/4582 5 
+vulnerable group by setting the cut-off as 25% or 30% of DSI, 
+i.e. about a quarter of their monthly incomes goes to 
+repayment of debts. 
+The next approach for this Debt Forgiveness for Most 
+Vulnerable Households policy is to assess if (1) dissolution of 
+household debt capped at a certain value per borrower (e.g. 
+$50,000–$100,000), or (2) full termination of all household 
+debt for the extremely vulnerable group, where we can set as 
+those with 25% or 30% of DSI.  
+Figure 4: DSI and Household Debt Outstanding 
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+70.0
+80.0
+90.0
+BE DE EE IE GR ES FR HR IT CY LV LT LU HU MT NL AT PL PT SI SK FI
+Bottom 20% 20-40% 40-60% 60-80% 80-90% 90-100%
+ 
+Note: The debt service to income ratio is calculated as the ratio between total 
+monthly debt payments and household gross monthly income7, among 
+households with debt payments.  
+Source: Household Finance and Consumption Survey (Year 2017).  
+ 
+B. Debt Relief or Debt Restructuring 
+Governments and nations have good reason to fear economic 
+distress in SMEs, because economic and health crises can 
+produce massive unemployment and stunt economic recovery. 
+SMEs are the backbone of most economies in the world — in 
+Asia alone, they account for more than 70% of all businesses 
+and between 32 and 87% of total share of employment outside 
+the agricultural or farm-based workforce in Asia
+8
+ [15]. An 
+analysis of individual countries in Europe reveals that the 
+―support SMEs receive from financial institutions to help 
+finance their businesses does not reflect their contributions to 
+their country's GDP and employment, despite being the critical 
+drivers for growth‖ [9]. In general, SME loan volumes in the 
+EURO region are less than 40% of their contribution to GDP, 
+                                                          
+7 Total gross household income is calculated as the sum of the employee 
+income, self-employment income, income from public pensions, income from 
+private and occupational pensions and income from unemployment benefits 
+(items collected for households members aged 16+) and income from social 
+transfers other than unemployment benefits, regular private transfers (such as 
+alimonies), rental income from real estate property, income from financial 
+investments, income from private business or partnership and regular income 
+from other sources (items collected at the household level). 
+8   Asia-Pacific Employment and Social Outlook 2018: Advancing decent 
+work for sustainable development by International Labour Organization, 
+2018. https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---sro-
+bangkok/documents/publication/wcms_649885.pdf 
+and constitute less than 20% of total loans, according to IMF 
+data. 
+Figure 5: Small loans (< €250k) with respect to total NFC lending (NBV*), by 
+percentage and country 
+ 
+ 
+Source: EIF (2019) based on ECB Data Warehouse 
+Huerga et al. [14] show that ―small loans are a good proxy for 
+the SME lending market‖. In the EIF report [9], it was 
+observed that ―small loans are relatively more important in the 
+credit market of vulnerable countries‖. From Figure 3, in Spain 
+and Portugal, for example, ―small loans make up 40% and 
+35%, respectively, of new loans granted to non-financial 
+corporations (NFCs). For September 2019, both shares stayed 
+roughly constant compared to the same month in 2018. Also, in 
+Italy this share is relatively high at 25%. In Austria, the 
+Netherlands, Slovakia, Belgium and Germany, the proportion 
+of small loans in total new business volume is much smaller 
+and does not exceed 10%‖. 
+The next approach for this SME Debt Restructuring policy is to 
+calculate the cost of delaying the monthly payments for their 
+SME loans. This can be easily calculated through the banks‘ 
+data. Options are (1) to retain the same monthly payments by 
+offering moratoriums, or (2) renegotiate monthly payment 
+premiums based on longer tenures or reduced monthly 
+borrowing rates. 
+IV. BENEFITS AND ADVANTAGES OF GDP-LINKED SUKUK 
+The idea of issuing GDP-linked sukuk is similar to having 
+some kind of insurance against unprecedented economic 
+shocks in very uncertain times. Past debt crises that involved 
+countries like Portugal, Ireland, Greece and Spain over a 
+decade ago would have been less severe if their debt had been 
+coupled to their GDP. Investment in GDP-linked instruments 
+allow for risks to be more acceptable, given the unlimited 
+upside to investing in entire economies. In addition, global 
+investors can achieve the benefits of diversification by holding 
+GDP-linked sukuk of nations tied to their growth and survival. 
+Embracing GDP-linked sukuk puts pressure on delivering 
+performance for sovereign debt managers but rising public debt 
+burdens should incentivise many of them to consider new 
+forms of borrowing that appeal to a wide range of investors. 
+This includes ones with limited exposure to conventional 
+sovereign sukuk. Outreach by the GDP-linked sukuk working 
+group suggests there is potential demand for the new 
+EJIF – European Journal of Islamic Finance                           Islamic Finance Role in the Time of Covid-19 Pandemic, No 16, December (2020) 
+ 
+ 
+ 
+http://www.ojs.unito.it/index.php/EJIF          ISSN 2421-2172            DOI: 10.13135/2421-2172/4582 6 
+instruments from pension funds, sovereign wealth funds, 
+insurance companies, equity funds and hedge funds [4; 17]. 
+There are important advantages to issuing GDP-linked 
+sukuk for both the issuing countries and the investors, as 
+discussed in this research (see also [11]). The system-wide 
+benefits afforded by growth-linked instruments far exceed 
+those that can be achieved by individual investors or countries. 
+GDP-indexed securities can be viewed as desirable vehicles for 
+international risk sharing and for avoiding the disruptions 
+arising from formal default. The dead-weight costs of long debt 
+restructuring at times of crises would be avoided, as debt was 
+automatically modified. GDP-linked sukuk have characteristics 
+of a public good as they generate systemic benefits above those 
+accruing to individual investors and countries. If GDP-linked 
+sukuk lowered risk of default, they would make remaining 
+conventional sukuk safer, in the same country [11]. By 
+reducing likelihood of defaults, they would also benefit a 
+broader range of investors than just those directly affected, 
+along with economies not issuing them, but which would 
+reduce their chance of contagion from other countries, as well 
+as economies and multilateral institutions. 
+The reality is that, despite its demonstrated benefits, GDP-
+indexed debt has not been widely issued, beyond countries 
+having difficulties in servicing their debts. The inertia caused 
+by financial innovation coupled with the complexity of 
+implementing new financial inventions may be the 
+impediments. But like most things worth accomplishing, it 
+takes time and effort to pursue an innovation until its 
+successful implementation. Perhaps, the current economic dire 
+straits caused by the pandemic may provide the impetus and 
+motivation to do so. 
+V. CONCLUSION 
+With the increasing levels of sovereign debt levels and 
+diminishing reserves, ―GDP-linked debt is an attractive 
+instrument for this purpose because it can ensure that debt stays 
+in step with the growth of the economy in the long run and can 
+create fiscal space for countercyclical policies during 
+recessions‖ [18]. Thus, GDP-linked debt would give 
+governments more room to maneuver in its fiscal policy space, 
+which would be especially valuable at a time like the present 
+when fiscal space is scarce, and immediate solutions are 
+urgently needed. 
+While such sukuk market development is still not 
+widespread, the debt capital markets have come a long way 
+since the Brady bonds of the late 1980s and early 1990s. The 
+ability to protect the vulnerable group and SMEs at this crucial 
+time where most countries are restarting their stalled 
+economies, such instruments also help investors manage 
+country risks and further raises its desirability. GDP-linked 
+sukuk could also allow risk to be shared across borders more 
+efficiently and safely, while potentially reducing the need for 
+international bailouts of sovereigns and so reduce morally 
+hazardous behaviors and agency risks. 
+ACKNOWLEDGMENT 
+We acknowledge the idea from Prof. Dr. Abbas Mirakhor 
+who initially proposed it as a solution to protect the most 
+vulnerable households and SMEs. 
+APPENDIX 
+COUNTRY CODE
+Belgium BE
+Germany DE
+Estonia EE
+Ireland IE
+Greece GR
+Spain ES
+France FR
+Croatia HR
+Italy IT
+Cyprus CY
+Latvia LV
+Lithuania LT
+Luxembourg LU
+Hungary HU
+Malta MT
+Netherlands NL
+Austria AT
+Poland PL
+Portugal PT
+Slovenia SI
+Slovakia SK
+Finland FL  
+REFERENCES 
+[1] D. Amaglobeli, N. End, M. Jarmuzek and G. Palomba, From Systemic 
+Banking Crises to Fiscal Costs: Risk Factors, IMF Working Paper No. 
+15/166, 2015.  
+[2] Aspen EPIC, Lifting the Weight: Consumer Debt Solutions Framework, 
+November 14, 2018. 
+[3] D. Barr, O. Bush, and A. Pienkowski. GDP-linked sukuk and Sovereign 
+Default. Bank of England Working Paper No. 484, 2014. 
+[4] J. Benford, T. Best, and M. Joy, Sovereign GDP-linked sukuk, Bank of 
+England Financial Stability Paper No. 39, 2016, pp. 13.  
+[5] C. Burnside, and D. Dollar, ―Aid, policies, and growth‖. American 
+Economic Review, 90 (4), 2000, pp. 847-68. 
+[6] E. Borensztein, and P. Mauro (2004), ―The case for GDP-indexed 
+bond‖, Economic Policy, Vol. 19, No. 38, April 2004. 
+[7] A. Diaw, O. Bacha, and A. Lahsasna, Public Sector Funding and Debt 
+Management: A Case for GDP-linked Sukuk, 8th International 
+Conference on Islamic Economics and Finance, 2011. 
+[8] EMN-MFC. Microfinance in Europe: Survey Report 2016-2017. 
+December 2018. 
+[9] European Investment Fund. European Small Business Finance Outlook, 
+December 2019. Working Paper 2019/61. Luxembourg. 
+EJIF – European Journal of Islamic Finance                           Islamic Finance Role in the Time of Covid-19 Pandemic, No 16, December (2020) 
+ 
+ 
+ 
+http://www.ojs.unito.it/index.php/EJIF          ISSN 2421-2172            DOI: 10.13135/2421-2172/4582 7 
+[10] A. Ghosh, J. I. Kim, E. G. Mendoza, J. D. Ostry, M. S. Qureshi, Fiscal 
+Fatigue, Fiscal Space and Debt Sustainability in Advanced Economies, 
+NBER Working Paper 16782, 2011. 
+[11] S. Griffith-Jones, and D. Hertova, GDP-linked Securities, in Bergsten, 
+C. F. and C. R. Henning (eds.), Global Economics in Extraordinary 
+Times; Essays in Honor of John Williamson, PIIE, 2012, Washington 
+DC. 
+[12] S. Griffith-Jones, and K. Sharma, GDP-indexed sukuk: Making it 
+happen, DESA Working Paper No. 21, 2006. 
+[13] N. ul Haque, and A. Mirakhor. The Design of Instruments For 
+Government Finance in an Islamic Economy. 1999. MPRA Paper No. 
+56028, posted 20 May 2014. 
+[14] J. Huerga, J. Puigvert, and C. Rodriguez, Enhancements on ECB MFI 
+interest rate statistics. in OECD – The Statistics Newsletter. Issue No. 
+55. March 2012. 
+[15] ILO, Asia-Pacific Employment and Social Outlook 2018: Advancing 
+Decent Work for Sustainable Development. Bangkok, Thailand. 
+[16] IMF, Debt: Use it Wisely, IMF Fiscal Monitor. 2016. 
+[17] M. Joy, GDP-linked Sukuk, Sovereign GDP-Linked Sukuk: Design, 
+Investor Response and Open Issues. Ad Hoc Working Group on The 
+London Term Sheet Discussion Paper, Bank of England, 2017. 
+[18] J. Kim, and J. Ostry, Boosting Fiscal Space: The Roles of GDP-linked 
+Debt and Longer Maturities, IMF Working Paper Series, No.18/04, 
+2018. 
+[19] K. L. McKay, and D. Kingsbury. Student Loan Cancellation: Assessing 
+Strategies to Boost Financial Security and Economic Growth. The 
+Aspen Institute EPIC. April  2019. 
+[20] J. Mohrenweiser, S. Srikantan, and T. Wan (2017), Insurance-Linked 
+Securities Rating Criteria, Fitch Ratings, 2017, pp. 15 
+[21] E. Neumayer, Is Good Governance Rewarded? A Cross-National 
+Analysis of Debt Forgiveness. World Development, 30 (6), 2012, pp. 
+913-30. 
+[22] J. Ostry, A. Ghosh, J. Kim, and M. Qureshi, Fiscal Space, IMF Staff 
+Position Note, SPN/10/11, 2011, International Monetary Fund, 
+Washington. 
+[23] A. Pienkowski, Debt Limits and the Structure of Public Debt, IMF 
+Working Paper 44913, 2017. 
+[24] A. Pienkowski, ―Debt limits and the structure of public debt‖, Journal of 
+Globalization and Development, Volume 8, Issue 2, 2018, Walter de 
+Gruyter GmbH, Berlin/Boston. 
+[25] M. Schularick, and A. Taylor, Credit Booms Gone Bust: Monetary 
+Policy, Leverage Cycles, and Financial Crises, 1870-2008, American 
+Economic Review, 2012. 
+ 
+EJIF – European Journal of Islamic Finance                           Islamic Finance Role in the Time of Covid-19 Pandemic, No 16, December (2020) 
+ 
+ 
+ 
+http://www.ojs.unito.it/index.php/EJIF          ISSN 2421-2172            DOI: 10.13135/2421-2172/4582 8 
+ 

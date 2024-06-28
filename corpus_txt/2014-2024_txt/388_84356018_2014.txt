@@ -1,0 +1,450 @@
+Energetic and economic viability of olive stone recovery as a renewable energy source: a Southern Italy case study
+
+22 October 2021
+Energetic and economic viability of olive stone recovery as a renewable energy source: a Southern Italy case study /
+Alessandro Parenti;Piernicola Masella;Lorenzo Guerrini;Antonio Guiso;Paolo Spugnoli. - In: JOURNAL OF
+AGRICULTURAL ENGINEERING. - ISSN 2239-6268. - STAMPA. - 45(2014), pp. 60-63. [10.4081/jae.2014.230]
+Original Citation:
+Energetic and economic viability of olive stone recovery as a renewable energy
+source: a Southern Italy case study
+Published version:
+10.4081/jae.2014.230
+Terms of use:
+Publisher copyright claim:
+(Article begins on next page)
+La pubblicazione è resa disponibile sotto le norme e i termini della licenza di deposito, secondo quanto stabilito dalla
+Policy per l'accesso aperto dell'Università degli Studi di Firenze (https://www.sba.unifi.it/upload/policy-oa-2016-1.pdf)
+Availability:
+This version is available at: 2158/901147 since:
+Questa è la Versione finale referata (Post print/Accepted manuscript) della seguente pubblicazione:
+FLORE
+Repository istituzionale dell'Università degli Studi di
+Firenze
+Open Access
+DOI:
+Abstract
+The recovery of olive stone for biofuel purpose is becoming increas-
+ingly widespread in olive milling plants. The study looks at the eco-
+nomic and energetic benefits of using a de-stoner machine in a small-
+to-medium sized oil milling plant. The performance of the olive stone
+recovery system was evaluated over a full olive oil production season.
+The energetic viability of the de-stoner was assessed using an energy
+balance. The break-even point was achieved when about 76 tons of
+olives had been processed, which is less than the annual production of
+the mill under study. Similarly, in economic terms, the machine cov-
+ered its costs after about the half of its technical life.
+Introduction
+Energy generation from biomass is becoming more widespread and
+gaining in popularity worldwide. Biomass is a generic term for all
+organic matter produced as a result of photosynthesis, as well as
+municipal, animal and industrial organic waste. Among these, agricul-
+tural by-products are attracting increasing interest (Demirbas, 2005).
+The review by Rodríguez et al. (2008) showed that the olive oil indus-
+try produces significant quantities of by-products, including a valuable
+lignocellulosic biomass, namely olive stones (OS), which can be used
+as biofuel. In fact, based on its combustion performance (Miranda et
+al., 2008), OS are a viable alternative to wood pellets (a biomass fuel
+that is experiencing considerable market expansion). According to
+Cordero et al. (2004), OS are also characterized by low ash content and
+very low sulphur content that indicate a high-quality fuel. 
+With regard to olive oil extraction systems, the main by-products of
+the process are vegetation water and so-called virgin pomace oil (VP).
+This is a coarse, semi-solid mixture containing residual oils, water and
+the drupe’s solid parts (pulp and woody fragments of the pits) that are
+left over from the crushing phase. This latter fraction can be separated
+at various times during processing with differing degrees of efficiency,
+including: from the olive paste before oil extraction, from the virgin
+pomace immediately after mechanical oil extraction, and from the
+exhausted pomace after solvent extraction of the residual oil (Pattara
+et al., 2010). The amount of VP and OS is highly dependent on the sys-
+tem that is adopted for the extraction of the olive oil. Among the three
+most widespread extraction techniques (pressing, three and two-
+phase decanter) the amount of VP obtained, thus the amount of waste
+material generated, varies from 25% for pressing to 85% for the two-
+phase decanter technique, by weight of olive drupes mass (Di
+Giovacchino and Prezioso, 2006). The recovery of OS ranges from 12-
+20% of the processed VP mass. Despite this variability, few studies
+have focused on the energetic and economic viability of OS recovery.
+This study examines an industrial plant equipped with a three-phase
+decanter. This configuration was chosen as it is in widespread use and
+representative of a large number of Italian olive oil mills.
+Materials and methods
+Experimental procedure
+The study was carried out at an industrial olive mill in the South of
+Italy (the Calabria region). The mill operates a continuous three-
+phase horizontal centrifuge [4015 CI Plus, Barracane s.r.l., Modugno
+(BA), Italy], with an actual work rate of about 1000 kg h–1 of olive dru-
+pes and a yearly running time of 650 h year–1. The plant was also
+equipped with a continuous de-stoner machine [5DN/SP, Clemente
+s.r.l., Flagogna (UD), Italy] that separated OS from VP. This machine
+uses a cylindrical fixed grid and an inner screw conveyor rotating at
+1350 rpm to separate the two materials. The grid (length 0.95 m, inter-
+nal diameter 0.40 m) has two contiguous sections of length 0.2 and 0.7
+m, and mesh size of 2.7 and 2.0 mm respectively. The VP is continuous-
+ly fed into the grid through a stationary inlet tube. The centrifugal
+force causes solids to accumulation on the wall of the grid and the
+extrusion of all materials (mainly pulp) with dimensions smaller than
+the mesh size. The rotating conveyor continuously removes the solids
+(mainly OS) that are caught by the grid and moves them towards the
+discharge outlet. The machine was equipped with three, three-phase
+alternating-current (AC) motors (380 V), which were used, respective-
+ly, to feed the VP (0.75 kW), discharge the separated products (0.75
+Correspondence: Lorenzo Guerrini, Dipartimento Gestione Sistemi Agrari,
+Alimentari e Forestali (GESAAF), Università di Firenze, Piazzale delle
+Cascine 18, 50144 Firenze, Italy. 
+Tel.: +39.055.2755932.
+E-mail: lorenzo.guerrini@unifi.it
+Key words: bioenergy, biomass, olive oil waste, agricultural by-products.
+Acknowledgments: the authors would like to thank the Frantoio oleario
+Giovazzini Giuseppe who made their plant available for our tests, and Pietro
+Giovazzini for performing the measurements during his doctoral work.
+Received for publication: 20 February 2014.
+Accepted for publication: 14 June 2014.
+©Copyright A. Parenti et al., 2014
+Licensee PAGEPress, Italy
+Journal of Agricultural Engineering 2014; XLV:230
+doi:10.4081/jae.2014.230
+This article is distributed under the terms of the Creative Commons
+Attribution Noncommercial License (by-nc 3.0) which permits any noncom-
+mercial use, distribution, and reproduction in any medium, provided the orig-
+inal author(s) and source are credited.
+Energetic and economic viability of olive stone recovery as a renewable
+energy source: a Southern Italy case study
+Alessandro Parenti, Piernicola Masella, Lorenzo Guerrini, Antonio Guiso, Paolo Spugnoli
+Dipartimento Gestione Sistemi Agrari, Alimentari e Forestali, Università di Firenze, Italy
+[page 60]                                              [Journal of Agricultural Engineering 2014; XLV:230]                                  
+                             Journal of Agricultural Engineering 2014; volume XLV:230
+No
+n c
+om
+me
+rci
+al 
+us
+e o
+nly
+kW), and move the rotating conveyor (15 kW). The total installed power
+was therefore 16.5 kW. The mill’s standard working procedure involved
+batch processing of different varieties of olive drupes, mainly the culti-
+vars grossa di cassano, carolea and tondina in variable proportions. The
+estimated annual processing capacity of olive drupes was about 650
+tons. In order to take into account changes in the physical properties of
+olives during the harvesting season (October to December), three tests
+were performed at 15-day intervals. In each test the de-stoner machine
+was monitored for three consecutive working days. Its electric energy
+consumption and the flow of mass materials (olive drupes and OS) dur-
+ing the standard OS recovery process were recorded. Moreover, during
+each trial, an OS sample (one sample per working day) was taken and
+the moisture content determined. 
+Analyses
+Electric energy consumption of the de-stoner was recorded by means
+of a portable electrical network analyser [model Multiver 3SN from
+Dossena s.n.c., Cavenago d’Adda (LO), Italy].
+The moisture content of OS was determined by drying 50 g samples
+at a temperature of 105°C in a mechanical convection air oven, and cal-
+culated from the loss in mass of the samples (Samuelsson et al., 2006).
+The energy analysis was performed taking into account the follow-
+ing entries: i) embedded energy of the OS extraction machine (de-
+stoner); this energy corresponds to the sum of fossil energy required
+to produce the machine and the energy required to deliver it to the
+farm; ii) the conventional energy required producing electricity to
+run the de-stoner; iii) the thermal energy potentially available from
+the combustion of OS.
+Specific data on the embedded energy of the de-stoner are unavail-
+able in literature, thus data were gathered from Audsley (1997) under
+the entry named agricultural inputs - other machines. Specifically,
+Audsley (1997) reports the total fossil energy for the following cate-
+gories that were summed up to determine the embedded energy of the
+de-stoner: materials input (48.46 MJ kg–1), manufacturing (19.61 MJ
+kg–1), repairs and maintenance (21.63 MJ kg–1), transport to the farm
+(0.0005377 MJ kg km–1). Considering a mass of the de-stoner of 850 kg
+and a distance of 223 km between the manufacturer site and the farm
+under study, the total embedded energy of the de-stoner accounts to
+76,347 MJ. The conventional energy required for the de-stoner opera-
+tion was assessed on the base of the grid electricity consumption
+recorded during the trials and energy required for the production of
+electricity itself. The latter was computed from the process of electricity
+production inventoried in ELCD core II life cycle assessment (LCA)
+database, named Electricity Mix, consumption mix, at consumer, AC,
+1kV - 60kV IT referred to the Italian mix at 2010. The process dataset
+was imported (ILCD format) in openLCA and analyzed according to the
+impact assessment method of cumulative energy demand. The method
+maps all the energy flows needed to produce 1 MJ of electric energy.
+The computation gives 2.95 MJ MJEL–1 (corresponding to 10.92 MJ
+kWhEL–1) shared as 75 % fossil sources, 12.5 nuclear sources, and 12.5
+renewable sources. 
+The thermal energy potentially available from the combustion of OS
+has been estimated assuming a lower heating value (LHV) of 19.2 MJ
+kg–1 OS dry basis, according to Mata-Sánchez et al. (2014). All the ener-
+gy computations were referred to the OS dry weigh, based on the aver-
+age OS moisture content determined during the trials. Furthermore,
+the thermal energy potentially available from OS was considered irre-
+spective of the thermal conversion devices, thus any conversion effi-
+ciency has been considered.
+The economic analysis was based on the estimation of the following
+indicators:
+- net present value (NPV):
+                                                       
+(1)
+where N is the life of the de-stoner machine, assumed to be 8 years, i
+is the annual interest rate, assumed to be 6%, Fk is the annual flow cash
+in the kth year, and TCI is the total capital investment. Fk is calculated
+as: Fk = ROS − TOC, where ROS is the revenue generated from the sale
+of OS and TOC is total operating costs;
+- profitability index (PI):
+                                                       
+(2)
+- internal rate of return (IRR): defined as the value i that makes the
+NPV value zero;
+- payback time (PBT): defined as the time required recovering the ini-
+tial investment.
+Results and discussion
+Table 1 reports the moisture content of OS sampled during trials.
+Immediately after separation, the overall average moisture content was
+of 22.1% (standard deviation of 2.1). Moisture tends to increase during
+the harvest season, by about 4% moving from the first to last test. The
+recorded values agree with what has been recently reported by Mata-
+Sánchez et al. (2014), where the limit value of the third quartile of 176
+OS samples from Spanish mills was 20.83%, with a strong variability
+spanning from 5.80 (minimum) to 33.20% (maximum). However,
+before it is sold as a fuel, the product usually undergoes pre-treatments
+such as cleaning or drying processes to allow reducing the moisture
+content to about 10-12% (Mata-Sánchez et al., 2014). Figure 1 gives an
+example of the instantaneous absorbed electrical power during the de-
+stoner operation, monitored in one out of the three trials belonging to
+the first test. It is evident the occurrence of several power peaks, that
+in some cases differ considerably from the mean value. This was sup-
+ported by the results of the statistical analysis showed in Table 2, where
+for the sake of simplicity the statistical outputs refer specifically to data
+of Figure 1. The same outcome has been found for all the other trials.
+According to Table 2, the mean adsorbed electrical power had some
+variability as stated by its standard deviation, that accounts for about
+28% of the mean (variation coefficient). Nevertheless, the range is
+quite high (13.34 kW), mirroring the presence of the power peaks
+(above and below the mean) showed in Figure 1. The 5th and 95th per-
+centiles limits were 3.6 and 11.22 kW, respectively, corresponding to a
+percentage deviation from the median of 56% and +36% respectively.
+Outliers detection (Hadi Robust Outlier Detection method) identified
+94 cases, i.e. about 14% of total recorded cases. Of these, 24 cases
+                          [Journal of Agricultural Engineering 2014; XLV:230]                                            [page 61]
+                             Article
+Table 1. Moisture content of olive stones.
+                                                                    Moisture content (%)*
+Test 1                                                                                              20.7±2.1
+Test 2                                                                                              21.1±1.6
+Test 3                                                                                              24.5±1.2
+Average°                                                                                         22.1±2.1
+*Mean value±standard deviation of three independent trials; °average value±standard deviation of the
+three test.
+No
+n c
+om
+me
+rci
+al 
+us
+ on
+ly
+[page 62]                                              [Journal of Agricultural Engineering 2014; XLV:230]                          
+belong to the 5th percentile (lower than 3.6 kW) and 10 belong to the
+95th percentile (higher than 11.22 kW). As stated above, a similar
+behaviour was recorded in all tests, with slightly differences in the
+number and magnitude of power peaks, as well as the average input
+power. Operating parameters are summarized in Table 3, and the cor-
+responding process performance indicators are shown in Table 4. Mean
+input power was around 9.9 kW (standard deviation of 1.14 kW), with
+slightly higher values for the second test. Electric energy consumption
+averaged 2.02 MJ per kg of dry OS produced. There was variability
+between the three tests as stated by a variation coefficient of about
+16%, where the electrical energy consumption tended to increase as
+the season progressed. On average, olive stone yield was 5.84 kg dry
+mass (0.12 standard deviation) per 100 kg of processed drupes. As
+shown in Figure 1, there were periods of variable length, during which
+power absorption was minimal. These intervals correspond to dead
+times, i.e. times when the machine was empty, resulting in energy con-
+sumption with no productivity. It is therefore interesting to estimate
+the effect of these dead times on the total working time of the machine.
+To this end, we assumed dead times to include all those periods that
+lasted at least five consecutive minutes, during which the power
+requirement was less than 4 kW (i.e. the input power when the de-ston-
+er was empty and representing the minimal electric load). This thresh-
+old value was selected according to the outliers detection reported
+above, where of the 94 outlying cases, 84 cases fall below 4 kW. Of
+these, 60 cases belong to the 95th percentile being lower than 3.6 kW,
+and corresponding to about 24% of total installed power of the de-ston-
+er supporting the importance of these dead time on the overall per-
+formance of the machine. As shown in Table 3, dead times accounted
+for 4.3% of total energy consumption on average (1.16 standard devia-
+tion). Based on the data collected during de-stoner operation, an ener-
+gy analysis of the OS recovery process was carried out. This evaluated
+the total quantity of OS to be produced such as the thermal energy
+potentially available from OS combustion (thermal energy revenue,
+namely TER), equals (energy break-even point, namely EBP) the total
+energy required for the recovery process (total energy cost, namely
+TEC):
+EBP = TER-TEC; EPB = 0                                                                 (3)
+The term TEC in equation 3 was computed as the sum of the embed-
+ded energy of the de-stoner (fixed energy cost) plus the total operating
+electrical energy of de-stoner for a given amount of OS to be processed
+and resulting from the product of OS average specific electrical energy
+consumption (as MJ kg–1 OS) of Table 4 and the amount of processed
+OS. The term TER was computed as the product between the OS LHV
+(19.2 MJ kg–1 dry weigh) and the produced amount of OS. Both the
+energy terms TEC and TER were plotted in Figure 2 as a function of
+increasing amount of produced OS. The EBP, corresponding to the
+intersection of the two straight lines, resulted of about 4444 kg of OS to
+be produced. Assuming an OS recovery yield (dry weigh) of 0.0584 kg
+kg–1 of olive mass, about 76,095 kg of olive have to be processed to
+reach the EBP. In the case under study, this value was reached in the
+first year after the de-stoner installation. The economic viability of OS
+recovery was proved by calculating the NPV, PI, IRR investment and
+PBT (Table 5). This economic analysis is based on current conditions
+in the oil mill used in this case study, where the recovered OS was sold.
+Some further assumptions were made in order to simplify the analy-
+sis: i) in the energy calculation, OS recovery was considered as a sep-
+arate activity, from an economic point of view, to that of oil production;
+ii) the cost of the VP used in OS recovery was considered to be null as
+the mill can use it with no cost; iii) the average selling price of OS was
+0.14 € kg–1, assessed by a local market analysis; iv) the by-products of
+the OS separation process (de-stoned pomace) can be disposed of with
+no extra costs as waste or soil amendment or sent to the pomace pro-
+cessing plant and generates no revenue; v) the de-stoner was assumed
+to have a lifespan of 8 years (the term of the investment); vi) the mean
+annual OS production was estimated as 48,750 kg, based on a yield of
+7.5% (wet basis) of olive drupes processed; vii) in the NPV computa-
+tion, TCI corresponds to the purchase cost for the de-stoner machine,
+                             Article
+Figure 1. Electrical power adsorbed by the de-stoner over a day
+during the first test. The dashed lines indicate the limits of the 5th
+and 95th percentiles.
+Table 2. Statistical analysis of instantaneous electric power
+absorbed during the de-stoner operation.
+Statistics                                                                   Values
+No. of cases                                                                                        685
+Minimum (kW)                                                                                   3.00
+Maximum (kW)                                                                                 16.34
+Median (kW)                                                                                      13.34
+Arithmetic mean (kW)                                                                      8.27
+Standard error of arithmetic mean                                               8.14
+95.0% lower confidence limit (kW)                                               0.09
+95.0% upper confidence limit (kW)                                              7.97
+Standard deviation (kW)                                                                  8.31
+Coefficient of variation                                                                    2.30
+Percentiles (Cleveland method) (kW)                                       0.283
+5.00%                                                                                                      3.6
+95.00%                                                                                                 11.225
+Table 3. Operating parameters of the de-stoner.
+                                             Test 1        Test 2      Test 3     Total
+Monitoring time (h)                        33.18               30.27           28.03          91.48
+Olives (kg)                                       29,600             30,715         22,051        82,366
+Dry olive stones (kg)                    1697.02          1832.058      1281.99     4811.068
+Total electrical energy (MJ)*     3018.20           3469.55       3044.75      9532.51
+Dead time energy (MJ)*               107.26             130.63         170.98        408.87
+*Conversion factor 2.95 MJ MJEL−1. 
+No
+ co
+mm
+erc
+ial
+ us
+e o
+nly
+assumed to be 20,000 €; viii) TOC correspond to the sum of repairs and
+maintenance costs (assumed to be 10% of the cost of the de-stoner
+machine); insurance costs (assumed to be 1.5% of the cost of the de-
+stoner); electricity costs (estimated on the basis of data collected dur-
+ing monitoring of the de-stoner machine and applying the rates of the
+Italian Electricity and Gas Authority) equal to 0.0333 € MJ–1.
+The economic parameters reported in Table 4 confirm the economic
+viability of olive stone recovery (profitability of investment).
+Specifically, the PI is higher than 1 and the IRR was significantly high-
+er than the capital cost (assumed to be 6%). Finally, the PBT corre-
+sponds to the 4th working season.
+In broader terms, given the boundary conditions used here, the eco-
+nomic break-even point is reached after 2600 t of olive oil has been
+processed and when the de-stoner processes 195 t OS per year.
+Conclusions
+Our results clearly confirm the viability of OS recovery in the oil mill
+under study, both in view of energetic and economic analyses. The
+framework for our work is typical of the situation for Italian olive mill
+plants and can be effectively extended to many other olive oil produc-
+tion scenarios. From the energy perspective, the de-stoner covers the
+cost of OS extraction when about 76 t of olive are processed per year
+(the equivalent of 4.4 t of dry OS). This means that there is a potential
+energetic advantage for most olive processing plants. From an econom-
+ic standpoint, although various assumptions had to be made regarding
+the assessment and importance of the context in which the plant oper-
+ated, the de-stoner plant began to pay for itself during the fourth sea-
+son, i.e. about half the assumed plant). Monitoring of the operations of
+the de-pitting machine showed some variability in electricity consump-
+tion, mainly due to variability of the virgin pomace to be processed.
+Electricity adsorption monitoring also made it possible to evaluate con-
+sumption in idle periods, which accounted for about 4.7% of the total
+energy consumed. This is an energy loss that could be saved by a proper
+setting of virgin pomace feeding to the de-stoner. The OS recovery
+seems to be a major opportunity for the olive oil production sector, and
+offers a supplementary income for olive mills.
+References
+Audsley E., Alber S., Clift R., Cowell S., Crettaz P., Gaillard G., Hausheer J.,
+Jolliet O., Kleijn R., Mortensen B., Pearce D., Roger E., Teulon H.,
+Weidema B., van Zeijts H. 1997. Harmonisation of environmental life
+cycle assessment for agriculture. Final report, concerted action AIR3-
+CT94-2028. European Commission DG VI, Brussels, Belgium.
+Cordero T., Rodrıguez-Mirasol J., Pastrana J., Rodrıguez J. 2004.
+Improved solid fuels from co-pyrolysis of a high-sulphur content coal
+and different lignocellulosic wastes. Fuel. 83:1585-90.
+Demirbas A. 2005. Biodiesel production from vegetable oils via catalytic
+and non-catalytic supercritical methanol transesterification methods.
+Prog. Energ. Combust. 31:466-87. 
+Di Giovacchino L., Prezioso  S. 2006. Utilization of olive mill by-products.
+pp 379-389. In: Proc. Olivebioteq 2006, Recent advances in the olive
+industry, Marsala (TP), Italy.
+Mata-Sánchez J., Pérez-Jiménez J.A., Díaz-Villanueva M.J., Serrano A.,
+Núñez-Sánchez N., López-Giménez F.J. 2014. Development of olive
+stone quality system based on biofuel energetic parameters study.
+Renew. Energ. 66:251-6. 
+Miranda T., Esteban A., Rojas S., Montero I., Ruiz A. 2008. Combustion
+analysis of different olive residues. Int. J. Mol. Sci. 9:512-25.
+Pattara C., Cappelletti G.M., Cichelli A. 2010. Recovery and use of olive
+stones: commodity, environmental and economic assessment.
+Renew. Sust. Energ. Rev. 14:1484-9. 
+Rodríguez G., Lama A., Rodríguez R., Jiménez A., Guillén R., Fernández-
+Bolaños J. 2008. Olive stone an attractive source of bioactive and
+valuable compounds. Bioresour. Technol. 99:5261-9. 
+Samuelsson R., Burvall J., Jirjis R. 2006. Comparison of different methods
+for the determination of moisture content in biomass. Biomass
+Bioenerg. 30:929-34.
+                          [Journal of Agricultural Engineering 2014; XLV:230]                                            [page 63]
+                             Article
+Figure 2. Thermal energy potentially available from olive stones
+(OS) combustion (total energy revenue) and total energy required
+for the recovery process (total energy cost) as a function of
+increasing amount of produced OS.
+Table 5. Results of economic profitability analysis for olive stones
+recovery.
+Economic indicator                                                 Value
+NPV (€)                                                                                          15,641
+IRR (%)                                                                                               32
+PI                                                                                                         1.78
+PBT (years)                                                                                         4
+NPV, net present value; IRR, internal return rate; PI, profitability index; PBT, pay-back time.
+Table 4. Performance indicators of the de-stoner operation. Olive
+stones (OS) yield is expressed as the drymass of OS compared to
+total processed olive mass, and dead time energy is expressed as
+percentage of total energy consumption.
+                                    Test 1      Test 2      Test 3       Mean       SD
+Dry OS yield (% w/w)          5.73              5.96              5.81              5.84            0.12
+Specific electrical energy consumption 
+   (MJ kg−1 OS)                      1.78              1.89              2.38              2.02            0.32
+   Mean input power (kW)   8.6               10.8              10.2              9.87            1.14
+   Dead time energy (%)      3.5                3.7                5.6               4.27            1.16
+SD, standard deviation.
+No
+n c
+om
+me
+rci
+al 
+us
+e o
+nly

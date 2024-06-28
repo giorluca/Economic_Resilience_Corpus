@@ -1,0 +1,1011 @@
+Adaptive Water Governance Project: Assessing Law, Resilience and Governance in Regional Socio-Ecological Water Systems Facing a Changing Climate
+
+UIdaho Law
+Digital Commons @ UIdaho Law
+Articles Faculty Works
+2014
+Adaptive Water Governance Project: Assessing
+Law, Resilience and Governance in Regional Socio-
+Ecological Water Systems Facing a Changing
+Climate
+Barbara Cosens
+Follow this and additional works at: https://digitalcommons.law.uidaho.edu/faculty_scholarship
+Part of the Environmental Law Commons, and the Water Law Commons
+THE ADAPTIVE WATER GOVERNANCE 
+PROJECT: ASSESSING LAW, RESILIENCE AND 
+GOVERNANCE IN REGIONAL SOCIO-
+ECOLOGICAL WATER SYSTEMS FACING A 
+CHANGING CLIMATE 
+INTRODUCTION TO NREL EDITION OF THE 
+IDAHO LAW REVIEW 
+BARBARA COSENS,* LANCE GUNDERSON,** AND BRIAN CHAFFIN*** 
+The water understands 
+Civilization well; 
+It wets my foot, but prettily, 
+It chills my life, but wittily, 
+It is not disconcerted, 
+It is not broken-hearted: 
+Well used, it decketh joy, 
+Adorneth, doubleth joy: 
+Ill used, it will destroy, 
+In perfect time and measure 
+With a face of golden pleasure 
+Elegantly destroy. 
+Ralph Waldo Emerson1 
+ 
+TABLE OF CONTENTS 
+ 
+I. INTRODUCTION ............................................................................................ 2 
+II. THE ADAPTIVE WATER GOVERNANCE PROJECT ............................... 4 
+III. THE LANGUAGE AND CONCEPTS OF RESILIENCE AND 
+ADAPTIVE GOVERNANCE .................................................................... 6 
+A. Resilience: Theories of Change in Social-Ecological Systems .............. 7 
+B. Adaptive Governance ............................................................................. 9 
+1. Structure .......................................................................................... 11 
+2. Capacity .......................................................................................... 12 
+3. Process ............................................................................................ 12 
+C. Bridging Resilience and Adaptive Governance ................................... 13 
+                                                          
+ * Professor, College of Law and Waters of the West, University of Idaho, Moscow, 
+ID 83844. 
+ ** Professor, Department of Environmental Sciences, Emory University, Atlanta, 
+GA 30322. 
+ *** NRC Postdoctoral Associate, National Risk Management Research Laboratory, 
+United States Environmental Protection Agency, Cincinnati, OH 45268. 
+ 1. Ralph Waldo Emerson, Water, in POETS OF THE ENGLISH LANGUAGE (W.H Auden & Nor-
+man H. Pearson eds., Viking Press 1950) (1867). 
+2 IDAHO LAW REVIEW [VOL. 1 
+ 
+ 
+IV. RESILIENCE AND GOVERNANCE ASSESSMENT OF SIX 
+NORTH AMERICAN WATER BASINS ................................................ 16 
+A. Anacostia ............................................................................................. 17 
+B. Columbia .............................................................................................. 18 
+C. Florida Everglades ............................................................................... 19 
+C. Klamath ................................................................................................ 20 
+D. Middle Rio Grande .............................................................................. 21 
+E. Platte ..................................................................................................... 22 
+V. SYNTHESIS: GOVERNANCE OF WATER BASINS IN A 
+CHANGING CLIMATE .......................................................................... 23 
+A. Trajectory #1: Maintenance of Desired State ....................................... 23 
+B. Trajectory #2: Loss of Resilience Latitude .......................................... 24 
+C. Trajectory #3: Regime Shift ................................................................. 26 
+VI. CONCLUSION ............................................................................................ 27 
+ 
+I. INTRODUCTION 
+For more than two centuries, humans have collectively and intensively pur-
+sued control of water resources throughout the United States. From the arid por-
+tions of the southwest region to the relatively water rich east, humans have sought 
+to control the pulses of surface waters, in part to avoid the ‘elegant destruction’ 
+suggested above by Ralph Waldo Emerson. Indeed part of the twentieth century 
+myth of taming nature was to modify basic ecosystem functions for the service of 
+humans. Dams were built in the mighty rivers of the western United States – the 
+Columbia, the Colorado and the Missouri—to control floodwaters and divert scant 
+water resources for human and agricultural consumption. While substantially en-
+hancing a narrow range of services for the benefit of certain sectors of society, such 
+controls have also come at great costs to society—not just in fiscal terms of in-
+vestment in infrastructure, but also in terms of loss of biodiversity, as indicated by 
+the large number of endangered and threatened species and cultures. Moreover, the 
+planned and inadvertent ecological changes associated with the development of 
+water resources have led to unforeseen shifts in ecosystems characterized as the 
+erosion of ecological resilience.
+2
+ 
+As the water resources of the U.S. have developed, and resilience has de-
+clined, the ways in which humans have valued and governed these systems has also 
+changed.
+3
+ Once viewed as providing sustenance to humans, water is now seen to 
+supply a wide variety of ecosystem goods and services. Such manifold uses of wa-
+ter include irrigation for agriculture, water supplies for major and minor urban cen-
+ters, and water to sustain ecological structures and functions such as mitigation of 
+flood and water quality. At the close of the 20
+th
+ century, sustainability became an-
+other social objective, which extended the time horizon for achieving social goals 
+                                                          
+ 2. See generally C. S. Holling, Resilience and Stability of Ecological Systems, 4 ANN. REV. OF 
+ECOLOGY & SYSTEMATICS 1 (1973), available at http://www.jstor.org/stable/2096802?seq=1; RESILIENCE 
+AND THE BEHAVIOR OF LARGE-SCALE SYSTEMS (Lance H. Gunderson & Lowell Pritchard eds., 2002). 
+ 3. LANCE H. GUNDERSON ET AL., BARRIERS AND BRIDGES TO THE RENEWAL OF ECOSYSTEMS 
+AND INSTITUTIONS (1995). 
+2014] NREL EDITION 3 
+ 
+and outcomes by considering the needs of future generations.
+4
+ As these systems 
+have developed over time, the human dimensions (including institutions made up 
+of laws, rules, social norms, and patterns of management) have become more com-
+plex. Indeed, attempting to understand such patterns of complexity has led to inte-
+grative scholarship that directs attention to linking the social and ecological com-
+ponents of these systems.
+5
+ 
+Understanding the dynamics of complex social-ecological systems is urgent, 
+as these resource systems are now facing new and relatively unknown changes due 
+to changing climate. Broadly defined, climate is the long-term (decades to centu-
+ries) pattern of precipitation and temperature in a particular area.
+6
+  In regional scale 
+water systems, climatic patterns have been central to the design and management of 
+such systems. For example, the Everglades region has a subtropical savanna cli-
+mate; characterized by little seasonal change in temperature (rare freezing), with 
+pronounced wet and dry seasons.
+7
+ As such, the management system has evolved to 
+control flooding during the wet season, and to supply water to agriculture, urban 
+interests and conservation areas during the dry season. In terms of the operation, 
+the water system is managed according to this annual cycle. Yet a growing body of 
+literature indicates that long-term changes in hydrologic processes are occurring, 
+and hence fundamental assumptions of design and management must be revisited 
+due to this loss of stationarity of ecosystem functions.8  Moreover, the types of 
+events associated with climate change will continue to test the resilience of the 
+coupled social-ecological system to respond and adapt to these broad scale changes. 
+In her groundbreaking work, Nobel Laureate Elinor Ostrom put forward a 
+framework for social-ecological systems to aid in understanding why some com-
+munities self-organize to regulate their own resource exploitation to achieve sus-
+tainability and some do not.
+9
+ As Dr. Ostrom was developing her theories, ecologists 
+were building on the landmark work of Buzz Holling who introduced the under-
+                                                          
+ 4. The concept of “sustainability” in environmental management is generally traced to the defi-
+nition of “sustainable development” by the Report of the World Commission on Environment and Devel-
+opment, which defines sustainable development as “development that meets the needs of the present with-
+out compromising the ability of future generations to meet their own needs.”  REPORT OF THE WORLD 
+COMMISSION ON ENVIRONMENT AND DEVELOPMENT: OUR COMMON FUTURE (1987), available at 
+http://www.un-documents.net/our-common-future.pdf. 
+ 5. See NAVIGATING SOCIAL-ECOLOGICAL SYSTEMS: BUILDING RESILIENCE FOR COMPLEXITY 
+AND CHANGE (Fikret Berkes et al. eds., 2013). 
+ 6. The Intergovernmental Panel on Climate Change defines climate as follows: “[c]limate in a 
+narrow sense is usually defined as the ‘average weather’, or more rigorously, as the statistical description 
+interms [sic] of the mean and variability of relevant quantities over a period of time ranging from months to 
+thousands or millions of years. These quantities are most often surface variables such as temperature, pre-
+cipitation, and wind. Climate in a wider sense is the state, including a statistical description, of the climate 
+system. The classical period of time is 30 years, as defined by the World Meteorological Organization 
+(WMO).”  INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE, FOURTH ASSESSMENT REPORT: CLIMATE 
+CHANGE 2007: WORKING GROUP II: IMPACTS, ADAPTATION AND VULNERABILITY, app. 1 (2007), available 
+at http://www.ipcc.ch/publications_and_data/ar4/wg2/en/annexessglossary-a-d.html. 
+ 7. See Ilmo Hela, Remarks on the Climate of South Florida, 2 BULL. OF MARINE SCI. 438 
+(1952), available at  
+http://idahoid.library.ingentaconnect.com/content/umrsmas/bullmar/1952/00000002/00000002/art00005. 
+8  See P.C.D. Milly et al., Stationarity is Dead: Whither Water Management?, 319  SCI. 573, 573–74 
+(2008), available at http://www.sciencemag.org/content/319/5863/573.full. 
+ 9. Elinor Ostrom, A General Framework for Analyzing Sustainability of Social-Ecological 
+Systems, 325 SCI. 419 (2009). 
+4 IDAHO LAW REVIEW [VOL. 1 
+ 
+standing of the nonlinear behavior of complex ecological systems through the lens 
+of resilience.
+10
+ With this new understanding, ecologists considered a new approach 
+to manage complex non-linear resource systems and developed the concepts of 
+adaptive management.
+11
+ Soon after adaptive management was applied, failures of 
+this management approach gave rise to a new literature in which shortcomings in 
+adaptive management were attributed in part to governance issues.
+12
+ The solution 
+was dubbed adaptive governance.
+13
+ 
+This volume introduces the initial products of the Adaptive Water Govern-
+ance (AWG) Project.
+14
+ The AWG Project does not seek to reinvent or critique the 
+body of research on adaptive and environmental governance, instead we seek to 
+add the role of law in adaptive governance approaches in heavily regulated and 
+developed social-ecological systems. The AWG Project brings together ecologists, 
+geographers and political scientists, all of whom approach their work through the 
+lens of resilience, with legal scholars with a research focus on environmental and 
+natural resources law and who have also begun to view that field through the lens 
+of resilience. 
+We begin with an introduction to the project, followed by the language and 
+concepts of resilience and adaptive governance. We then move to a summary of 
+each of the six basin assessments, and finally conclude with an initial synthesis of 
+the lessons learned from the assessments relevant to the role of law in different 
+governance trajectories. The six basin assessments then follow this article in six 
+separate articles.  
+II. THE ADAPTIVE WATER GOVERNANCE PROJECT 
+                                                          
+ 10. Holling, supra note 2.  
+ 11. ADAPTIVE ENVIRONMENTAL ASSESSMENT AND MANAGEMENT (C.S. Holling ed., 1978); 
+Carl J. Walters & Ray Hilborn, Ecological Optimization and Adaptive Management, 9 ANN. REV. 
+ECOLOGICAL SYS. 157 (1978), available at 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev.es.09.110178.001105. 
+ 12. Thomas Dietz et al., The Struggle to Govern the Commons, 302 SCI. 1907 (2003), available 
+at http://www.sciencemag.org/content/302/5652/1907.full; RONALD D. BRUNNER ET AL., ADAPTIVE 
+GOVERNANCE: INTEGRATING SCIENCE, POLICY, AND DECISION MAKING (2005); Carl Folke et al., Adaptive 
+Governance of Social-Ecological Systems, 30 ANN. REV. ENVTL. RES. 441 (2005), available at 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev.energy.30.050504.144511; Lance Gunderson & 
+Stephen S. Light., Adaptive Management and Adaptive Governance in the Everglades Ecosystem, 39 POL’Y 
+SCI. 323 (2006), available at http://research-
+lega-
+cy.arch.tamu.edu/epsru/Course_Readings/Ldev671MARS689/LDEV671_Readings/PolicySciences_gunder
+son_light_everglades.pdf.    
+ 13. Gunderson & Light, supra note 12. See generally Brian C. Chaffin et al., A Decade of Adap-
+tive Governance Scholarship: Synthesis and Future Directions, 19 ECOLOGY & SOC’Y, no. 3, art. 56 
+(2014), available at http://www.ecologyandsociety.org/vol19/iss3/art56/ (discussing adaptive governance as 
+a form of environmental governance). 
+ 14. The Adaptive Water Governance Project is a synthesis project on Social-ecological System 
+Resilience, Climate Change, & Adaptive Water Governance, co-chairs Cosens, B. and Gunderson, L., with 
+the National Socio-Environmental Synthesis Center (SESYNC) under funding from the National Science 
+Foundation DBI-1052875.  
+2014] NREL EDITION 5 
+ 
+In November of 2010, Stockholm University held the first conference to bring 
+together legal and resilience scholars,
+ 15
+ in recognition of the fact that after several 
+decades of work on understanding the complexity of ecosystems, the recommended 
+solutions of adaptive management, and adaptive governance were yet to be widely 
+implemented. This led to a special session at the Resilience 2011 Conference,
+16
+ and 
+the publication of three collections on law and resilience.
+17
+ The resulting dialogue 
+recognized that the law presents a barrier to more adaptive forms of governance 
+due to its foundation in an understanding of systems as linear and its focus on eco-
+nomic stability, and yet in the face of destabilizing forces including climate change, 
+the law may also be the vehicle to introduce new approaches while protecting the 
+social need for stability. The perspective legal scholars bring to the study of resili-
+ence and adaptive governance is the recognition that legal systems, while establish-
+ing boundaries and fostering a primary goal of economic and social stability, never-
+theless are inherently adaptable and have throughout history responded to new 
+challenges. This dialogue led to the proposal to the National Socio-Environmental 
+Synthesis Center to bring together ecologists, resilience scholars and legal scholars 
+for the Adaptive Water Governance Project.
+18
+ 
+The AWG project explores means to link ecological resilience and the law 
+and policy governing the process of water management in complex, multi-
+jurisdictional water basins. Its members hope to “contribute to the growing effort to 
+connect concepts from science to policy decisions and to move social-ecological 
+systems toward” sustainability even as the water balance and ecological changes 
+resulting from climate change play out. 
+The AWG project focuses on assessing resilience to climate change and the 
+law in six regional scale watersheds or basins [Figure 1]. The AWG Project uses 
+the setting of these major North American water basins as examples of heavily reg-
+ulated and developed social-ecological system. We choose to ground the project in 
+case studies to both contextualize our research,
+19
+ and enhance cross-disciplinary 
+understanding through reference to real situations. A common goal that informs the 
+work of the AWG team is to meet the challenge of posing solutions in recognition 
+of the fact that we do not write on a clean slate. Rather than propose a new form of 
+governance, we focus on bridging existing governance to proposed approaches ask-
+ing how we might get there from here. 
+                                                          
+ 15. Sturle Hauge Simonsen, The Law for Social-Ecological Resilience, STOCKHOLM 
+RESILIENCE CENTER (Nov. 1, 2010), http://www.stockholmresilience.org/21/news--events/general-news/11-
+1-2010-the-law-for-social-ecological-resilience.html. 
+ 16. Julie Anne Wrigley, Resilience 2011 - Resilience, Innovation and Sustainability, ARIZONA 
+ST. U., https://sustainability.asu.edu/events/rsvp/resilience-2011 (last visited Jan. 20, 2015). 
+ 17. LAW AND SOCIAL-ECOLOGICAL RESILIENCE, PART I: CONTRIBUTIONS FROM RESILIENCE 
+2011 (Ahjond S. Garmestani et al. eds., 2013), available at 
+http://www.ecologyandsociety.org/issues/view.php/feature/78; LAW AND SOCIAL-ECOLOGICAL 
+RESILIENCE, PART II: CONTRIBUTIONS FROM LAW FOR SOCIAL-ECOLOGICAL RESILIENCE SYMPOSIUM 
+(Jonas Ebbesson & Ellen Hey eds., 2013), available at 
+http://www.ecologyandsociety.org/issues/view.php?sf=98. 
+ 18. See Social-Ecological System Resilience, supra note 15. 
+ 19. See, e.g., Stephen J. Toope & Jutta Brunnee, Freshwater Regimes: The Mandate of the In-
+ternational Joint Commission, 15 ARIZ. J. INT’L. & COMP. L. 273 (1998). 
+6 IDAHO LAW REVIEW [VOL. 1 
+ 
+The AWG Project asks four questions on the role of law in adaptive govern-
+ance. (1) What is the role of law in setting boundaries by identifying approaching 
+thresholds or tipping points in the system? (2) What is the role of law in creating 
+either a disturbance or window of opportunity in which adaptive forms of govern-
+ance may emerge? (3) What is the role of law in presenting barriers to adaptive 
+forms of governance? (4) What is the role of law in facilitating adaptive forms of 
+governance? As in the interdisciplinary project itself, we begin here with an under-
+standing of a common language. 
+FIGURE 1. Map of the AWG Project Six North American Water Basins. 
+ 
+III. THE LANGUAGE AND CONCEPTS OF RESILIENCE AND ADAPTIVE 
+GOVERNANCE 
+One of the challenges of interdisciplinary research is to develop a common 
+language around concepts that form the communication base of a collaborative pro-
+ject.
+20
+ The following sections provide the understanding of resilience and of adap-
+tive governance used by the AWG team, while recognizing that these terms invoke 
+                                                          
+ 20. ALLEN F. REPKO, INTERDISCIPLINARY RESEARCH: PROCESS AND THEORY 263 (2d ed. 
+2011). 
+2014] NREL EDITION 7 
+ 
+a variety of meanings in other contexts. Our goal is not to resolve debate over defi-
+nition of these terms, but simply to build from a common platform agreed upon by 
+the natural and social scientists and legal scholars in the study. 
+A. Resilience: Theories of Change in Social-Ecological Systems 
+The regional water management systems described in the basin assessments 
+are defined by a great diversity in the aquatic, wetland and terrestrial ecosystems.  
+While these ecosystems are dynamic and change over time due to non-human pro-
+cesses, water management and the history of development of water control has led 
+to dramatic shifts in ecosystem structures and functions. Such shifts are described 
+in ecological theory as being controlled by the property of resilience. 21 Resilience 
+can be defined as “a measure of the amount of perturbation a social-ecological 
+system can withstand while maintaining its structure and functions; it describes the 
+ability of a complex system to continue to provide the full range of ecosystem ser-
+vices in the face of change.”22 
+Since the concept was introduced to describe non-linear change in ecosys-
+tems, resilience literature has shown that social-ecological systems can exist in very 
+different configurations or regimes, each with sets of reinforcing feedbacks and 
+persistence over time.
+23
+ Such alternative regimes can confer different sets of eco-
+system goods and services. For example, undammed or uncontrolled rivers provide 
+many provisioning, regulatory, aesthetic and supporting services, such as flood 
+abatement, nutrient and sediment transport, food production and recreational expe-
+riences. Damming of rivers has often switched the bundles of ecosystem services 
+by trading off services such as aesthetic and biodiversity supporting services, in 
+order to provide dependable water and energy supplies as well as reducing vulnera-
+bility to flood risk. 
+ How to reconcile such tradeoffs consumes much of the current research and 
+practitioners debates. Since prior management activities have tended to reduce eco-
+logical resilience, scenarios of climate and other global drivers indicate that ecolog-
+ical regime shifts that can impact and alter the bundle of ecosystem goods and ser-
+vices are more likely to occur in the future.
+24
+ 
+A system can be highly resilient either because it is quite adaptable (latitude) 
+or quite resistant to change (resistance).
+25
+ Thus, a nutrient enriched lake that is 
+characterized by algal blooms, low oxygen and changed fish communities may be 
+resistant to returning to its original state when nutrient lading is reduced – it is 
+therefore resilient but not necessarily something we label as good. A brutal military 
+                                                          
+ 21. Holling, supra note 2. 
+ 22. See, e.g., BRIAN WALKER & DAVID SALT, RESILIENCE THINKING: SUSTAINING 
+ECOSYSTEMS AND PEOPLE IN A CHANGING WORLD (2006). 
+ 23. RESILIENCE AND THE BEHAVIOR OF LARGE SCALE SYSTEMS (Lance H. Gunderson & Low-
+ell Pritchard eds., 2002); WALKER & SALT, supra note 22.  
+ 24. See, e.g., T.P. Hughes et al., Climate Change, Human Impacts, and the Resilience of Coral 
+Reefs, 301 SCI. 929 (2003). See generally NATURE’S SERVICES: SOCIETAL DEPENDENCE ON NATURAL 
+ECOSYSTEMS (Gretchen Daily ed., 1997).  
+ 25. Brian Walker et al., Resilience, Adaptability and Transformability in Social-ecological Sys-
+tems, 9 ECOLOGY AND SOC’Y, no. 2, art. 5 (2004), available at 
+http://www.ecologyandsociety.org/vol9/iss2/art5/. 
+8 IDAHO LAW REVIEW [VOL. 1 
+ 
+dictatorship may be highly resistant to change—it is therefore resilient but not nec-
+essarily something we label as good. We find it more useful to discuss societal 
+goals such as sustainability or the maintenance of ecosystem function, as an emer-
+gent outcome from a system of governance. What resilience brings to the discus-
+sion is a different perspective in terms of how we respond, adapt or adjust our ac-
+tions in a complex system to achieve societal goals that is linked to how the system 
+responds to our actions. 
+We view the property of ecological resilience to be non-normative or value 
+neutral, unlike the concept of sustainability.
+26
+ However, society does make value 
+judgments about alternative states. Indeed, much of adaptive governance is about 
+contrasting and weighing alternative values of different ecological states. It is with-
+in governance that the desire for a particular alternative state is expressed, it is re-
+silience – i.e. the system properties – that tells us how to get there within a complex 
+system. 
+A second bridging concept from the resilience literature, panarchy, provides a 
+dynamic cross-scale lens through which both social-ecological systems and their 
+systems of governance can be viewed. 
+27
+ Panarchy describes the existence of sys-
+tems in a nested, interconnected, hierarchy in various stages of growth, collapse, 
+innovation and reorganization (Figure 2). Thus, within a social-ecological system at 
+the landscape scale, are multiple interconnected smaller scale systems down to the 
+microscopic in the ecological realm, and down to the individual in the societal 
+realm. Panarchy expands the concept of resilience by recognizing that: a) resilience 
+of a system declines as a system matures or develops; b) larger (slower) and small-
+er (faster) scale processes interact and can both foster resilience; and c) cross scale 
+interactions may play a role in transformations into new regimes in both ecological 
+and social system configurations. These aspects of panarchy are also observed in 
+our systems of governance. 
+                                                          
+ 26. It should be noted that the disaster response literature has adopted the term resilience to de-
+scribe the vulnerability of a community in terms of how quickly it will recover from a natural disaster. See, 
+e.g., FEMA, CRISIS RESPONSE AND DISASTER RESILIENCE 2030 (2012), available at 
+http://www.fema.gov/media-library-data/20130726-1816-25045-
+5167/sfi_report_13.jan.2012_final.docx.pdf. This is the engineering definition of resilience and has a nor-
+mative focus in contrast to our use of the definition from ecology. 
+ 27.  See generally Lance H. Gunderson & C. S. Holling, Panarchy: Understanding Transfor-
+mations in Human and Natural Systems (Lance H. Gunderson & C. S. Holling eds., 2002) [hereinafter 
+Panarchy]. 
+2014] NREL EDITION 9 
+ 
+FIGURE 2. Panarchy theory emphasizes four key features of change. One is the im-
+portant role that diversity has during recovery after a disturbance, a role that can 
+seed novelty, trigger invasions, or spawn innovation in the next sweep of the adap-
+tive cycle (omega to alpha phases). Another is the role of stability between disturb-
+ances (omega), where the pattern unrolls predictably as the system grows, as it ac-
+cumulates capital and ultimately reduces resilience (r to K phases). Still another is 
+the role of an increasing likelihood of collapse across spatial/temporal scales, as 
+collapse at one scale can propagate to larger/slower scales when those scales are 
+vulnerable (revolt). And still another is the inhibition of that process of spreading 
+(i.e., cross-scale collapse) as the memory of the bigger and slower scales sustain 
+lower scale recovery (modified from Gunderson and Holling 2002).28 
+B. Adaptive Governance 
+Governance refers to the means through which political actors choose goals 
+and make decisions and the means through which they take action to achieve those 
+goals; thus, governance includes not only the laws, regulations, policies, and pro-
+cesses of government, but the formal and informal institutional frameworks in 
+which government acts and private actors take a role in the political process as well 
+as the societal norms that influence policy decisions. 29 Adaptive Governance is 
+simply governance that allows adaptive processes to emerge.
+30
+ In this context, the 
+                                                          
+ 28. PANARCHY, supra note 27 at 75. 
+ 29. Dave Huitema et al., Adaptive Water Governance: Assessing the Institutional Prescriptions 
+of Adaptive (Co-) Management from a Governance Perspective and Defining a Research Agenda, 14 
+ECOLOGY & SOC’Y, no. 1, art. 26 (2009), available at 
+http://www.ecologyandsociety.org/vol14/iss1/art26/; Patsy Healey, Transforming Governance: Challenges 
+of Institutional Adaptation and a New Politics of Space, 14 EUR. PLAN. STUD. 299 (2006). 
+ 30. See generally Brian C. Chaffin et al., A Decade of Adaptive Governance Scholarship: Syn-
+thesis and Future Directions, 19 ECOLOGY & SOC’Y, no. 3, art. 56 (2014), available at 
+http://www.ecologyandsociety.org/vol19/iss3/art56. 
+10 IDAHO LAW REVIEW [VOL. 1 
+ 
+AWG Project working description of Adaptive Governance is that it enables socie-
+ty to navigate the dynamic, multi-scalar nature of social ecological systems. Adap-
+tive governance is appropriate when the system is complex (e.g. lies within multi-
+ple jurisdictions), the system faces change with a degree of uncertainty (e.g. climate 
+change) and the system is approaching a potential threshold or regime shift as evi-
+denced by increasing conflict over resources (e.g. litigation), increasing scarcity, or 
+actual identification of an approaching threshold by law or science (e.g. listing of 
+species). 
+Considerable scholarship has developed through empirical observation of the 
+emergence of adaptive forms of governance to solve common pool problems in the 
+face of uncertainty.
+31
+ These emerging or self-organizing governance mechanisms 
+are variously referred to under the general umbrella of adaptive governance,
+32
+ or 
+more specifically as community-based initiatives
+33
+ and collaborative co-
+management.
+34
+ Many of the mechanisms are collaborative in nature and formed at 
+the local level, often in response to the scale of a particular problem. Nobel Laure-
+ate Elinor Ostrom in collaboration with her lab at U. Indiana took this work further 
+by identifying the key attributes of the social-ecological systems in which adaptive, 
+self-regulating processes emerge and setting them within their institutional set-
+ting.
+35
+ Other resilience scholars have contributed to the understanding of the attrib-
+utes of adaptive governance.
+36
+ 
+Rather than reproduce or critique those frameworks, the AWG Project seeks 
+to extract those aspects relevant to legal systems by asking: what role may the law 
+play in either preparing a system for adaptive governance or facilitating the adap-
+tive governance process. The AWG Project has identified three areas of inquiry for 
+assessment of the role of law in: (1) structure; (2) capacity; and (3) process.
+37
+ We 
+also acknowledge that to introduce flexibility into governance while maintaining 
+legitimacy, and to assure attention to all aspects of an interacting social ecological 
+                                                          
+ 31. See generally ELINOR OSTROM, GOVERNING THE COMMONS: THE EVOLUTION OF 
+INSTITUTIONS FOR COLLECTIVE ACTION (1990); GOVERNANCE FOR THE ENVIRONMENT: NEW 
+PERSPECTIVES (Magali A. Delmas & Oran R. Young eds., 2009). 
+ 32. Carl Folke et al., Adaptive Governance of Social-Ecological Systems, 30 ANN. 
+REV. OF ENV’T & RES.  441 (2005), available at 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev.energy.30.050504.144511; Huitema, supra note 
+Error! Bookmark not defined.; Chaffin, supra note 30. 
+ 33. RONALD D. BRUNNER ET AL., FINDING COMMON GROUND: GOVERNANCE AND NATURAL 
+RESOURCES IN THE AMERICAN WEST (2008). 
+ 34. Per Olsson & Carl Folke, Adaptive Comanagement for Building Resilience in So-
+cial-Ecological Systems, 34 ENVTL. MGMT. 75, 75–90 (2004). See generally JULIA MARIE 
+WONDOLLECK & STEVEN LEWIS YAFFEE, MAKING COLLABORATION WORK: LESSONS FROM INNOVATION 
+IN NATURAL RESOURCE MANAGEMENT (2000). 
+ 35. Elinor Ostrom, Background on Institutional Analysis and Development Framework, 39 
+POL’Y STUD. J. 7 (2011); see also Michael D. McGinnis, An Introduction to IAD and the Language of the 
+Ostrom Workshop: A Simple Guide to Complex Framework, 39 POL’Y STUD. J. 169 (2011); Elinor Ostrom, 
+A General Framework for Analyzing Sustainability of Social-Ecological Systems, 325 SCI. 419 (2009); 
+Elinor Ostrom, A Diagnostic Approach for Going Beyond Panaceas, 104 PNAS 15181.  
+ 36. See, e.g., Folke, supra note 32; Huitema, supra note Error! Bookmark not defined.. For a 
+eview of the literature on adaptive governance, see generally Chaffin, supra note 30.  
+ 37. Our initial thoughts on these areas of inquiry for analyzing legal systems are published at 
+Barbara Cosens et al., Identifying Legal, Ecological and Governance Obstacles, and Opportunities for 
+Adapting to Climate Change, 6 SUSTAINABILITY 2338 (2014), available at http://www.mdpi.com/2071-
+1050/6/4/2338/pdf. This article continues the development of this approach. 
+2014] NREL EDITION 11 
+ 
+system, requires both diverse and inclusive representation, thus in addition to reli-
+ance on the literature on adaptive governance, all three components (structure, ca-
+pacity and process) incorporate concepts of “good governance.”38 
+1. Structure 
+Structure refers to the multi-level, multi-scalar response needed in the face of 
+uncertainty and requires attention to both polycentricity (i.e. overlapping and con-
+nected levels of governance)
+ 39
+ across spatial scales. This type of structure includes 
+“nested governance” e.g. a hierarchy in which coordination may occur at the basin 
+scale, but flexibility exists for implementation at local scales.
+40
+ In layman’s terms 
+the concepts of polycentricity and nested governance require the ability to respond 
+to the same problem at different levels and scales, at the same level from different 
+perspectives and to be able to communicate across those divides. It provides in ref-
+erence to panarchy, the room for local governance to experiment and adapt while 
+relying on larger scale governance for resources and stability. 
+Structural considerations must also pay attention to the level or scale at which 
+implementation is appropriate and the degree of inclusiveness.
+ 
+This captures the 
+notions of fit of management and response to purpose,
+ 41
+ and subsidiarity (i.e. the 
+concept that decisions should be made as close as possible to the individual citi-
+zen
+42
+). Although recently adopted as furthering a conservative agenda in reducing 
+the role of government, the principle of subsidiarity has broader origins, and has 
+generally been intended to further individual empowerment within the context of a 
+government that plays “a significant role in fostering the conditions for its imple-
+mentation.”43  Subsidiarity increases the chances that feedback from the ecological 
+system will be linked to the appropriate governance level and allows for greater use 
+of local knowledge, increased speed in response to change and provides a means 
+for small scale innovation under an umbrella of basin-wide stability (again, in ref-
+erence to panarchy).
+44
+ 
+                                                          
+ 38. Thomas M. Franck, Legitimacy in the International System, 82 Am. J. Int’l L. 705 (1988); 
+WORLD WATER ASSESSMENT PROGRAMME, UNITED NATIONS, WORLD WATER DEVELOPMENT REPORT: 
+WATER FOR PEOPLE, WATER FOR LIFE 370–384 (2003), available at 
+http://unesdoc.unesco.org/images/0012/001297/129726e.pdf#page=387. 
+ 39. Huitema, supra note Error! Bookmark not defined..  
+ 40. Vincent Ostrom et al., The Organization of Government in Metropolitan Areas: a Theoreti-
+cal Inquiry, 55 AM. POL. SCI. REV. 831, 837 (1961), available at http://dx.doi.org/10.2307/1952530; see 
+also POLYCENTRIC GOVERNANCE AND DEVELOPMENT: READINGS FROM THE WORKSHOP IN POLITICAL 
+THEORY AND POLICY ANALYSIS (Michael McGinnis ed., 1999); Huitema, supra note Error! Bookmark 
+ot defined.. 
+ 41. Jeroen Rijke et al., Fit-for-Purpose Governance: A Framework to Make Adaptive Govern-
+ance Operational, ENVTL. SCI. & POL’Y 22, 76–80 (2012). 
+ 42. Robert K. Vischer, Subsidiarity as a Principle of Governance: Beyond Devolution, 35 IND. 
+L. REV. 103, 110 (2001).  We adopt this broader view of subsidiarity.  For application in a legal document, 
+see e.g., Treaty on the Functioning of the European Union, art. 69, Oct. 30, 2010, 83 O.J.(C) 74, which 
+states “National Parliaments ensure that the proposals and legislative initiatives submitted under Chapters 4 
+and 5 comply with the principle of subsidiarity, in accordance with the arrangements laid down by the 
+Protocol on the application of the principles of subsidiarity and proportionality.” Treaty for the Functioning 
+of the European Union, Oct. 30, 2010, 83 O.J.(C) 74, available at 
+http://www.en.parlamento.pt/EuropeanAffairs/DisposPNsEN.pdf.  
+ 43. Id. 
+ 44. See PANARCHY, supra note 27, at 195–240.  
+12 IDAHO LAW REVIEW [VOL. 1 
+ 
+Assessment of governance structure to identify the role of law must include 
+questions such as: What are the system boundaries? Who are the entities with au-
+thority to make decisions, respond to, or influence the system you identified? What 
+is the scope of that authority? Do all stakeholders who are affected by management 
+of the system have representation within the structure?
+45
+ 
+2. Capacity 
+Capacity encompasses both the resources and authority to respond to change 
+(adaptive capacity),
+46
+ and the right and resources to have a role in decision making 
+(participatory capacity).
+47
+ Adaptive capacity requires the availability of tools for 
+adaptive management, such as the model administrative law for adaptive manage-
+ment recently developed by Craig and Ruhl.
+48
+ Participatory capacity is primarily 
+related to the local ability to participate in decision making. For marginalized popu-
+lations, participatory capacity may require access to judicial processes to establish 
+rights as a precursor to capacity building, as described in the basin assessments 
+below. 
+Assessment of governance capacity to identify the role of law must include 
+questions such as: Who participates in decision making affecting the system? Do 
+local leaders have the resources (including time and knowledge) to participate? 
+How is information made available to those who are affected by decision making? 
+What venues are available to express interests? What authority do management 
+entities have to consider expressed interests in management actions? 
+3. Process 
+Process elements are the ones most frequently overlooked in the scientific ap-
+plication of adaptive management and necessarily focus on assuring the resilience 
+of society.
+ 
+The degree of flexibility needed for more adaptive forms of governance 
+that can manage the level of uncertainty associated with the impacts of climate 
+change is in tension with the notion that a functional system of governance must 
+foster stability. Appropriate process may aid in addressing this tension. Social resil-
+ience requires that the processes used to achieve adaptive governance incorporate 
+elements of “good governance” focused on equity and justice, captured through the 
+                                                          
+ 45. Modified from the following workbook by the AWG Project in collaboration with the Resil-
+ience Taskforce for IUCN to reflect a focus on governance attributes: RESILIENCE ALLIANCE, ASSESSING 
+RESILIENCE IN SOCIAL-ECOLOGICAL SYSTEMS - A WORKBOOK FOR SCIENTISTS, 7–13 (2007), available at 
+http://www.resalliance.org/index.php/resilience_assessment.  
+ 46. Claudia Pahl-Wostl, A Conceptual Framework for Analyzing Adaptive Capacity and Multi-
+Level Learning Processes in Resource Governance Regimes, GLOBAL ENVTL. CHANGE 19, 354–365 
+(2009). 
+ 47. See Huitema, supra note Error! Bookmark not defined., at 3. see also G.T. (Tom) 
+aadgever et al., Assessing Management Regimes In Transboundary River Basins: Do They Support Adap-
+tive Management?, 13(1) ECOLOGY & SOC’Y 14 (2008), available at 
+http://www.ecologyandsociety.org/vol13/iss1/art14/; Susan S. Hanna, Institutions for Managing Resilient 
+Salmon (Oncorhynchus Spp.) Ecosystems: the Role of Incentives and Transaction Costs, 13(2) ECOLOGY & 
+SOC’Y 35 (2008), available at http://www.ecologyandsociety.org/vol13/iss2/art35/. 
+       48.   Robin Kundis Craig & J.B. Ruhl, Designing Administrative Law for Adaptive Manage-
+ment, 67 VAND. L. REV.  1, 50–59 (2014). 
+2014] NREL EDITION 13 
+ 
+lens of legitimacy and inclusiveness.49 Inclusiveness is addressed by participatory 
+capacity. Legitimacy is addressed through processes that place bounds on the exer-
+cise of discretion in implementation of flexible management; that consider both 
+biophysical and social/economic timeframes in setting periods for adjustment; that 
+establish processes to ensure accountability in adjustment of goals; and that provide 
+an avenue for broad, inclusive public input.
+50
+ 
+Assessment of governance process to identify the role of law must include 
+questions such as: What are the means to resolve conflicts? Are there multiple ways 
+to participate? Who is left out? What groups are marginalized by these processes? 
+Do any of the means of participation encourage problem solving, learning, critique 
+of the decision making process, innovation, collaboration? What types of infor-
+mation informs decision making (e.g. science, local knowledge)? How are the 
+timeframes for adjustment of management actions set? How are the benefits and 
+burdens of management of the system distributed? 
+C. Bridging Resilience and Adaptive Governance 
+The adaptive cycle described as a feature of panarchy above, is a useful tool 
+for bridging concepts of resilience and adaptive governance. The adaptive cycle of 
+complex systems not only describes non-linear change in these systems, but is also 
+a building block for understanding the effects of cross-scale interactions (figure 2). 
+We use the adaptive cycle here along with examples from the basin assessments to 
+highlight the mechanisms responsible for the emergence of adaptive forms of gov-
+ernance (figure 3). 
+                                                          
+ 49. Thomas M. Franck, Legitimacy in the International System, 82 AM. J. INT’L L. 705, 713–25 
+(1988); see also Daniel Bodansky, The Legitimacy of International Governance: A Coming Challenge for 
+International Environmental Law?, 93 AM. J. INT’L L. 596, 603–06 (1999); Daniel C. Esty, Good Govern-
+ance at the Supranational Scale:  Globalizing Administrative Law, 115 YALE L.J. 1490, 1515–21 (2006); 
+UNITED NATIONS, WATER FOR PEOPLE, WATER FOR LIFE: A JOINT REPORT BY THE TWENTY THREE UN 
+AGENCIES CONCERNED WITH FRESHWATER, 370–84 (2003); Barbara Cosens, Legitimacy, Adaptation, and 
+Resilience in Ecosystem Management, 18(1) ECOLOGY & SOC’Y 3 (2013), available at 
+http://www.ecologyandsociety.org/vol18/iss1/art3/. 
+ 50. Cosens, supra note 49.   
+14 IDAHO LAW REVIEW [VOL. 1 
+ 
+ 
+FIGURE 3. The Adaptive Governance Cycle. 
+ 
+It is difficult to determine where adaptive governance begins or can begin rel-
+ative to a social ecological system trajectory along the adaptive cycle, but empirical 
+observations suggest that the development of adaptive governance is often the re-
+sult of a perceived or actual resource crisis.
+51
+ During the early fore loop of the 
+adaptive cycle (r or exploitation phase) the governance regime in river basin social 
+ecological system generally encourages growth. In North American the existence of 
+clearly defined rights to land and water is important in fueling growth.
+52
+ Similarly, 
+clear definition of the rights to shared water basins are important and are reflected 
+in North America in the form of international treaties
+53
+ and interstate compacts.
+54
+ 
+As growth and exploitation continues the system enters a more stable state of con-
+servation (K phase), the focus of these governance tools shifts from development to 
+implementation and enforcement in order to meet multiple, often competing social 
+                                                          
+ 51. Brian C. Chaffin et al., A Decade of Adaptive Governance Scholarship: Synthesis and Fu-
+ture Directions, 19(3) ECOLOGY & SOC’Y 56 (2014). 
+ 52. For example, the prior appropriation doctrine recognized by states in the western U.S. rec-
+ognizes clearly defined property rights to the use of shared water sourcesSee generally, WELLS A. 
+HUTCHINS, WATER RIGHTS LAWS IN THE NINETEEN WESTERN STATES 6–14 (1971). In contrast, until re-
+cently Native American water rights although recognized (Winters v. United States), have not been clearly 
+defined, contributing to the slower rate of economic development on Native American reservations. Daniel 
+McCool, Winters Comes Home to Roost, in FLUID ARGUMENTS: FIVE CENTURIES OF WESTERN WATER 
+CONFLICT 121 (Char Miller ed., 2001). 
+ 53. See, e.g., The Columbia Treaty, U.S.-Can., Jan. 17, 1961, available at http://www.crt2014-
+2024review.gov/Files/International%20Documents%20ColumbiaRiverTreaty.pdf.  
+ 54. See, e.g., South Platte River Compact, Pub. L. No. 37, 44 Stat. 195. 
+2014] NREL EDITION 15 
+ 
+goals. At this stage, internal conflicts over goals and external disturbances causing 
+resource scarcity may lead to the rise of new voices and the development of new 
+legal mechanisms to redistribute benefits and curb the external impacts of resource 
+exploitation.
+55
+ However, as the growth (K) phase persists, the optimization of re-
+source management for the exploitation of select services and the implementation 
+of the policies themselves lead to rigidity in management with considerable reduc-
+tion in resilience latitude (i.e. little room for adaptation). This can be further exac-
+erbated by interactions from higher scales that support growth in the face of scarci-
+ty.
+56
+ At this point the system is vulnerable to internal conflict and to external dis-
+turbance. The potential for collapse is high. 
+It is also at this point that any strong interaction from social and/or ecological 
+scales either above or below the system of focus can exploit the rigidity of govern-
+ance causing a “release” i.e., a collapse or loss of function.57 As the system reor-
+ganizes, so too does its system of environmental governance. The sudden release of 
+previous governance controls during a crisis (Ω or “release” phase) creates space 
+for a reorganization of those controls, often with new sources of input. In the wake 
+of a resource crisis (e.g., a scarcity such as drought resulting in food shortage and 
+economic loss, or failure to anticipate or control a flood resulting in catastrophic 
+property damage), a leadership vacuum can appear. During this period of social and 
+ecological “crisis” the seeds of adaptive forms of governance may be sown through 
+the “creative destruction” of previously dominant governance processes.58 
+It is the hypothesis of the AWG Project that a social ecological system pre-
+pared to facilitate emergence of more adaptive forms of governance through devel-
+opment of the appropriate structures, capacity and processes, will be more likely to 
+navigate this transition smoothly without substantial disruption in social and eco-
+nomic systems. The shift in governance needed during the transition from release to 
+reorganization (Ω to α) in a system’s adaptive cycle is one in which space is creat-
+ed for the “emergence” of adaptive forms of governance.59 Emergence is character-
+ized by the infusion of new or dormant leadership, trust building amongst govern-
+                                                          
+ 55. For example, the development of a major body of federal environmental laws such as the 
+Endangered Species Act of 1973, 16 USC §§1531-154; National Environmental Policy Act of 1969, 42 
+USC §§4321-4370h; and Clean Water Act, 33 USC §§1251-1387, in the 1960’s and 70’s in the United 
+States reflects this phase, as well as the legal recognition of Native American rights in federal courts de-
+scribed in both the Columbia and Klamath River Basin assessments infra. 
+ 56. For example, federal subsidy of western irrigation in the United States may develop water to 
+such a high level of efficiency based on historic water supply that little room remains for adaptation when 
+faced with climate change.  
+ 57. See generally PANARCHY, supra note 27.  Examples of this might include: a lawsuit 
+filed in 1988, when the US government sued the State of Florida for allowing nutrient releases from agricul-
+tural fields to damage federal resources as described in the Everglades assessment infra; a disruptive judi-
+cial or political action (e.g., enforcement of the Endangered Species Act and resulting changes in Reclama-
+tion water deliveries described in the Klamath basin assessment infra, or extended drought as a result of 
+climate change as described in the Middle Rio Grande basin assessment infra.  
+ 58. C.S. Holling & Lance H. Gunderson, Resilience and Adaptive Cycles, in PANARCHY: 
+UNDERSTANDING TRANSFORMATIONS IN HUMAN AND NATURE SYSTEMS 25, 34 (Lance C. Gunderson & 
+C. S. Holling eds., 2002); See generally JOSEPH A. SCHUMPETER,  CAPITALISM, SOCIALISM, AND 
+DEMOCRACY (3d ed. 2008). 
+ 59. B.C. CHAFFIN & LANCE GUNDERSON, EMERGENCE AND INSTITUTIONALIZATION: ADAPTIVE 
+GOVERNANCE AND THE ADAPTIVE CYCLE OF COMPLEX SOCIAL-ECOLOGICAL SYSTEMS (manuscript in 
+preparation for Resilience: International Policies, Practices and Discourses).   
+16 IDAHO LAW REVIEW [VOL. 1 
+ 
+ance actors, and often, a trial-and-error method of establishing new or novel gov-
+ernance mechanisms in an attempt to attain broader social and ecological goals in 
+avoidance of the processes that led to earlier collapse in system function. 
+As the new system configuration emerges and becomes dominant, the system 
+moves from reorganization (α phase) back to exploitation (r phase). In order for the 
+characteristics of adaptive governance to become lasting, some degree of “institu-
+tionalization” must take place, e.g., a change in law, rule, or social norm, a signifi-
+cant shift or devolution in decision making authority, or the recognition of an in-
+formal adaptive governance network as a formal governance organization.
+60
+ The 
+influence of cross-scale interactions is critical and law may play a prominent role. 
+The degree to which an emergent regime of adaptive governance is institutionalized 
+depends on constraints or catalysts emanating from scales above and below the 
+system. For example, existing laws and policies could fail to support and even 
+fragment emerging networks of governance actors, causing the failure of adaptive 
+governance and the return to the status quo.
+61
+ On the other hand, a new or changed 
+law may support emerging governance networks by providing adequate funding, 
+authority, and the necessary legitimacy to formally reconfigure the system towards 
+adaptive governance.
+62
+ These boosts in capacity have been termed “windows of 
+opportunity” and have been shown to be essential for the ongoing institutionaliza-
+tion of adaptive governance.
+63
+ As adaptive governance continues to develop along 
+the trajectory of the adaptive cycle, the new system of governance will need to be 
+recognized and solidified both formally and informally to varying degrees through 
+changes in laws, policies, organizational structures, and social norms—the institu-
+tionalization of adaptive governance. 
+In reality, social ecological systems are nonlinear, even in their progress along 
+an adaptive cycle. Thus, as discussed below, a system may move back from the 
+brink of collapse through changes that include restoration of ecological function or 
+redistribution of benefits from resources. Intervention from a higher scale such as 
+the federal government may artificially fuel growth beyond the capacity of the ex-
+isting system, but may also provide the stability and resources necessary for a 
+smooth local transition or for restoration. We turn now to a summary of the six 
+basin assessments, before returning to the theme of governance trajectories below. 
+ 
+ 
+IV. RESILIENCE AND GOVERNANCE ASSESSMENT OF SIX NORTH 
+AMERICAN WATER BASINS 
+                                                          
+ 60.  Id. 
+ 61. See infra Part IV.B. For example, the broadly collaborative approach of the treaty review 
+process may be undermined by resort of currently dominant interests seeking to maintain the status quo to 
+Congressional leaders. 
+ 62. See  infra Part IV.C. For example, federal funding for the dam removal solution developed 
+through local collaborative processes will be essential to institutionalization of the new governance collabo-
+rations in the basin.  
+ 63. Per Olsen et al., Shooting the Rapids: Navigating Transitions to Adaptive Governance of So-
+cial-Ecological Systems, 11, 1 ECOLOGY AND SOC’Y, at art. 18 (2006), available at 
+http://www.ecologyandsociety.org/vol11/iss1/art18/. 
+2014] NREL EDITION 17 
+ 
+Six articles in this volume each provide an assessment of a North American 
+water basin. These assessments illustrate that with the onset of water balance im-
+pacts from climate change some of the water supplies relied on in North America 
+are close to irreversible thresholds that, once crossed, will alter natural ecosystem 
+services and the adequacy of engineered infrastructure, potentially impairing exist-
+ing water-based economies. This collection of articles forms the starting point in 
+the AWG Project for assessment of our capacity to govern in the face of change by 
+recognizing the conditions under which approaches to adaptive governance emerge 
+and, in particular, the role of law in not only preventing and facilitating this form of 
+governance, but in providing the boundaries that may trigger its emergence. Alt-
+hough the AWG project goal is to identify the legal tools necessary for adaptive 
+governance, it is also clear from these assessments that major investment in conser-
+vation, green infrastructure, ecological restoration, and re-operation of dams,
+64
+ will 
+be necessary to increase the adaptability of water-based economies in the face of 
+climate change. In this call for investment, we echo the recent recommendations 
+from the Johnson Foundation in its report on a six year study of U.S. water sys-
+tems.
+65
+ 
+The six basin teams have used a variety of approaches that build off earlier 
+approaches to resilience assessment,
+66
+ by adding assessment of governance and the 
+role of law. By testing different approaches to evaluate basin governance, these 
+assessments will form the basis for development of a governance assessment meth-
+od as one of the outcomes of the AWG Project. The following sections briefly 
+summarize each of the assessments. 
+A. Anacostia 
+The following paragraph introduces the Anacostia basin assessment by Craig 
+Anthony (Tony) Arnold, Olivia Odom Green, Daniel DeCaro, Alexandra Chase, 
+and Jennifer-Grace Ewa. 
+The Anacostia is a watershed in Maryland and Washington DC that is tribu-
+tary to the Potomac River which along with numerous other rivers, drains to the 
+Chesapeake Bay (figure 1), and in contrast to the other basins in this study, the An-
+acostia is predominantly urban-suburban with roughly one and a half million peo-
+ple living within the watershed and only 30% of the basin devoted to forests or ag-
+riculture. The river is highly channelized by human development with substantial 
+loss of wetlands and is listed as impaired under the Clean Water Act, with the level 
+of toxics and fecal coliform bacteria high enough to render human contact unwise. 
+                                                          
+ 64. See Brian D. Richter & Gregory A. Thomas, Restoring Environmental Flows by Modifying 
+Dam Operations, 12, 1 ECOLOGY & SOC’Y, at art. 12 (2007), available at  
+http://www.ecologyandsociety.org/vol12/iss1/art12/. 
+ 65. See THE JOHNSON FOUND. AT WINGSPREAD, NAVIGATING TO NEW SHORES: SEIZING THE 
+FUTURE FOR SUSTAINABLE AND RESILIENT U.S. FRESHWATER RESOURCES (2014), available at 
+http://www.johnsonfdn.org/sites/default/files/reports_publications/CNW_NavigatingToNewShoresFullRep
+ort.pdf. 
+ 66. See generally LANCE GUNDERSON ET AL., ASSESSING RESILIENCE IN SOCIAL-ECOLOGICAL 
+SYSTEMS: WORKBOOK FOR PRACTITIONERS (2007), available at http://www.resalliance.org/workbook; 
+Kristine T. Nemec et al., Assessing Resilience in Stressed Watersheds, 19, 1 ECOLOGY & SOC’Y at art. 34 
+(2014), available at   http://www.ecologyandsociety.org/vol19/iss1/art34/ (presenting a simplified ap-
+proach). 
+18 IDAHO LAW REVIEW [VOL. 1 
+ 
+The once rich aquatic life is substantially reduced and impaired due to both low 
+water quality and barriers to migration, but no aquatic species are listed on the En-
+dangered Species List. One of the dichotomies in the story of the Anacostia is that 
+while its development has been in the name of economic growth, its status as the 
+“Forgotten River” in this time of greater attention to restoration may be largely the 
+result of its inhabitance by primarily low-income and minority populations. An 
+aspect of the social system in the basin not apparent in our other basins is the lega-
+cy of slavery both in the development history and the continuing marginalization of 
+minority populations in the watershed today. Nevertheless, the river is part of the 
+efforts to restore the Chesapeake Bay and has been listed as a watershed for nation-
+al priority under various federal initiatives and has been the focus of restoration and 
+economic revitalization initiatives by both the Maryland and DC governments. The 
+basin assessment traces the history of the Anacostia from a watershed of forests and 
+wetlands, to agriculture and navigation, to industrialization, to urbanization, to po-
+tential restoration through development of green infrastructure. Numerous citizen 
+and community-led watershed governance institutions have developed in recent 
+decades and are involved in multi-agency and multi-stakeholder collaborations, 
+increasing potential adaptive capacity. The primary legal driver of restoration has 
+been the Clean Water Act. Climate change will likely intensify both storm events 
+and dry periods, which – when coupled with land development pressures and exist-
+ing impervious cover – will increase the quantity and velocity of stormwater runoff. 
+The Anacostia basin assessment looks at alternative potential futures and the adap-
+tive governance mechanisms necessary to achieve the more desirable of those. Of 
+particular interest in the Anacostia basin assessment is the application of a new 
+framework (Institutional-Social-Ecological Dynamics (ISED)) developed by lead 
+author Tony Arnold, to understand the changes in three systems: institutional, so-
+cial and ecological and the interaction of those changes in the social-ecological 
+system. Application of the ISED to the Anacostia basin reveals that law and litiga-
+tion have forced the emergence of more innovative solutions and that the rise of 
+locally-based watershed organizations have been the vehicle for much of this inno-
+vation. 
+B. Columbia 
+The following paragraph introduces the Columbia River basin assessment by 
+Barbara Cosens and Alexander Fremier. 
+The Columbia River Basin located in the Pacific Northwest is shared by the 
+United States and Canada and is heavily developed for purposes of flood control, 
+hydroelectric generation, irrigation and navigation. The authors approach to as-
+sessing governance is to look at changes to key system variables through time in 
+response to increased alteration of natural ecosystem services as infrastructure was 
+developed to serve society. The authors focus on four specific historical time peri-
+ods: (1) pre – Contact defines the era in which indigenous populations lived a sub-
+sistence life style and were highly adaptive to changes in salmon runs and other 
+natural variables, yet vulnerable to outside disturbance; (2) Contact defines the pe-
+riod of transition from an indigenous society to one of European settlement in 
+which both populations were reliant on either federal aid or eastern investment for 
+survival, and settlers began changing the uplands through monoculture and the riv-
+2014] NREL EDITION 19 
+ 
+er through development of locks for navigation; (3) Dam building defines the peri-
+od of the first half of the twentieth century in which heavy federal investment sub-
+stantially changed the river hydrograph through development of dams for hydro-
+power production, flood control and irrigation, including dams built in the river 
+headwater in Canada as the result of an international treaty; and (4) Environmental 
+Justice and Civil Rights defines a period beginning in the 1970’s in which assertion 
+of rights by Native American tribes altered the power balance in river management 
+and the resulting increase in capacity elevated certain tribes to co-managers of the 
+fishery, yet to date the changes have been primarily in governance, with only small 
+incremental changes to river operation and optimization for hydropower production 
+continues to dominate. By mapping the changes to variables used to define system 
+resilience, the authors note the severance of feedback to governance when flood 
+control infrastructure and water storage alleviate direct impacts from extremes in 
+water supply. The massive development of the river in the twentieth century in-
+creased mainstem modularity and thus ability to hold back flood, but did so at the 
+expense of habitat variability and diversity for salmon. While federal investment 
+during this period greatly improved the lives of many reliant on the basin’s ser-
+vices, it also increased the vulnerability of the basins iconic salmon populations. Of 
+interest in the Columbia River assessment is the use of this mapping of resilience 
+variables to identify the types of restoration needed to increase resilience latitude 
+and move the basin away from a threshold. Climate change is likely to alter the 
+timing of runoff to earlier, increase water temperature, and increase demand for 
+both irrigation water and summer electric generation. The basin is currently under-
+going a major review process for the Treaty with Canada that controls much of the 
+operation of the river mainstem and it remains to be seen whether this will be an 
+opportunity for introducing greater flexibility to basin governance. 
+C. Florida Everglades 
+The following paragraph introduces the Florida Everglades basin assessment 
+by Lance H. Gunderson, Ahjond Garmestani, Keith W. Rizzardi, J.B. Ruhl, and 
+Alfred Light. 
+The Florida Everglades is a biologically rich subtropical wetland social eco-
+logical system, within which water is managed to sustain urban, agricultural and 
+conservation areas. The social ecological system supplies water to about 8 million 
+people in the watershed, a multi-billion dollar agriculture enterprise, and the con-
+servation needs of a U.S. National Park. Over the past century the system was al-
+tered to ameliorate flooding, to supply water during drought, and to assure clean 
+water. This massive effort to engineer control and stability of the Everglades water 
+has fostered economic and human development along the southeast coast of Flori-
+da, while at the same time eroding the ecological resilience of the natural biodiver-
+sity. The authors describe a nonlinear process of water infrastructure development 
+in response to flood events, with a shared (and shifting) responsibility between the 
+state and federal governments. In response to a severe drought and rising popula-
+tions, local water management districts were established under state law in the 
+1970’s, with authority to manage water including distribution, flood control and 
+water quality. Water quality crisis in the 1980’s led to initial diversion of pollution 
+from agriculture away from locally valued resources toward federally protected 
+20 IDAHO LAW REVIEW [VOL. 1 
+ 
+areas and subsequent litigation ultimately led to development of wetlands to man-
+age agricultural runoff and return flow. In the 1990’s, continued deterioration of 
+environmental values led to an increased focus on ecosystem restoration culminat-
+ing in passage of the Everglades Restoration Act in 2000 by Congress. Yet, inter-
+ests reliant on the current engineering and management of the system have stalled 
+implementation of this Act. Climate change predictions for the region suggest a 
+shift in seasonal wet/dry cycles; changes in long term flood/drought cycles with 
+great frequency and a shortened timeframe between flood and drought; the likeli-
+hood of stronger and more frequent storms and rising sea level. Of particular inter-
+est in the Florida Everglades assessment is the application of resilience to identify 
+four types of change: 1) declining resilience over time due to flood control policies, 
+increased development and rising sea level; 2) rhythms of stability and instability 
+that have led to infrastructure development to respond to flood and drought, yet is 
+not adaptive to changes in the frequency and magnitude of these events; 3) cascad-
+ing change that may result from fire suppression or invasive species, but can also 
+result from social change such as increase in value placed on restoration; and 4) 
+windows of transformative change that include flood and drought, yet past response 
+seeking to maintain the same type and level of services from the system with in-
+creasing population has placed the Everglades region in a rigidity trap and thus 
+vulnerable to the disturbances that are expected with climate change The authors 
+look at three management strategies focused on system resilience: (1) management 
+to avoid crossing a threshold such as a water quality standard; (2) management to 
+reduce resilience and thus facilitate regime shift – a necessary approach for ecosys-
+tem restoration and one that requires a high level of flexibility for experimentation; 
+and (3) management for transformation approached by the authors by laying out 
+three scenarios for future regimes. The authors conclude by evaluating the current 
+capacity of the Everglades system for adaptive governance to address the three 
+management strategies concluding that while many of the attributes necessary for 
+adaptive governance such as identification of thresholds, authority to experiment 
+(e.g. adaptive management authority) and diversity of institutions exist in the Ever-
+glades; their implementation is, however, hindered by use of their own tools – 

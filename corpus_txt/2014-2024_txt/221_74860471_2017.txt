@@ -1,0 +1,1269 @@
+Forward osmosis for wastewater treatment and energy recovery: a techno-economic analysis
+
+FORWARD OSMOSIS FOR WASTEWATER TREATMENT AND ENERGY 
+RECOVERY: A TECHNO-ECONOMIC ANALYSIS  
+ 
+By 
+ 
+ 
+Patrick Buckwalter 
+ 
+ 
+A Thesis Presented to 
+The Faculty of Humboldt State University 
+In Partial Fulfillment of the Requirements for the Degree 
+Master of Science in Environmental Systems: Energy Technology and Policy 
+ 
+Committee Membership 
+Dr. Andrea Achilli, Committee Chair 
+Dr. Kerri Hickenbottom, Committee Member 
+Dr. Kevin Fingerman, Committee Member 
+Dr. Margaret Lang, Program Graduate Coordinator 
+ 
+December 2017 
+  ii 
+ABSTRACT 
+ 
+FORWARD OSMOSIS FOR WASTEWATER TREATMENT AND ENERGY 
+RECOVERY: A TECHNO-ECONOMIC ANALYSIS  
+ 
+ 
+Patrick Buckwalter 
+ 
+ 
+A novel wastewater treatment system was investigated using forward osmosis 
+membranes to treat municipal wastewater. Treatment by forward osmosis was determined 
+to cost $10 million per million gallons per day (MGD) of wastewater capacity over a 20-
+year lifetime, with an energy consumption of 870 kWh per million gallons. A case study 
+at the Arcata Wastewater Treatment Plant was conducted to investigate a treatment 
+system that combines energy recovery from algae biomass with forward osmosis 
+membrane treatment using local seawater as a draw solution. Total system cost was 
+calculated to be $29.7 million over a 20-year lifetime with a 2.3 MGD capacity. Energy 
+recovery was found to offset the parasitic energy requirements of the system and produce 
+an excess of 1,200 MWh annually. This research demonstrates a proof-of-concept study 
+on the techno-economic feasibility of forward osmosis membranes to (1) treat municipal 
+wastewater and (2) concentrate wastewater for energy recovery via anaerobic digestion of 
+algae biomass. 
+  
+  iii 
+ACKNOWLEDGEMENTS 
+I would like to thank my committee chairman, Dr. Andrea Achilli, for his 
+guidance and assistance. I am also thankful to Dr. Kerri Hickenbottom and Dr. Kevin 
+Fingerman for their editorial inputs. I would like to especially thank Emma O’Rourke-
+Powell and my mother for their encouragement and motivation. I am also very grateful 
+for my family and girlfriend for pushing me to complete my thesis.  
+  
+  iv 
+TABLE OF CONTENTS 
+ABSTRACT ....................................................................................................................... ii	
+ACKNOWLEDGEMENTS .............................................................................................. iii	
+TABLE OF CONTENTS ................................................................................................... iv	
+LIST OF TABLES ............................................................................................................. vi	
+LIST OF FIGURES .......................................................................................................... vii	
+List of APPENDICES ........................................................................................................ ix	
+INTRODUCTION ............................................................................................................... 1	
+OBJECTIVES ...................................................................................................................... 3	
+BACKGROUND AND MOTIVATION ............................................................................. 6	
+Municipal Wastewater Treatment ................................................................................... 6	
+Forward Osmosis ............................................................................................................. 7	
+Forward Osmosis Theory ............................................................................................ 8	
+Algae Bioenergy ............................................................................................................ 17	
+METHODS ........................................................................................................................ 24	
+Stand-Alone Forward Osmosis system ......................................................................... 24	
+Cost analysis of Stand-Alone FO system .................................................................. 27	
+Sensitivity Analyses .................................................................................................. 29	
+Case Study at the Arcata Wastewater Treatment Plant ................................................. 29	
+Dry Month Operation ................................................................................................ 30	
+Wet Month Operation ................................................................................................ 31	
+Algae production ....................................................................................................... 32	
+  v 
+Anaerobic Digestion .................................................................................................. 36	
+Seawater intake and pretreatment .............................................................................. 37	
+Diluted seawater Discharge ....................................................................................... 39	
+Cost-Benefit Analysis ................................................................................................ 40	
+RESULTS AND DISCUSSION ........................................................................................ 41	
+Forward osmosis stand-alone system cost ..................................................................... 41	
+Sensitivity Analyses .................................................................................................. 43	
+Arcata Wastewater Treatment Plant Case Study ........................................................... 47	
+Forward Osmosis Process Cost ................................................................................. 48	
+Algae Cultivation and Biogas Production Cost ......................................................... 51	
+Seawater Intake and Disposal Process Cost .............................................................. 53	
+Effluent Characteristics ............................................................................................. 55	
+Energetic Results ....................................................................................................... 56	
+Revenue from Algae Biogas Production ................................................................... 57	
+Cost Benefit Analysis .................................................................................................... 59	
+CONCLUSION ................................................................................................................. 64	
+REFERENCES .................................................................................................................. 66	
+APPENDICES ................................................................................................................... 73	
+  
+  vi 
+LIST OF TABLES 
+Table 1: Comparison of microalgae’s water footprint to other crops (adapted from Yang 
+et al. 2011) ......................................................................................................................... 20	
+Table 2: Capital costs for the Forward Osmosis Process .................................................. 50	
+Table 3: Annual operating costs for the forward osmosis system ..................................... 51	
+Table 4: Capital costs for Algae Cultivation and Biogas Production ................................ 52	
+Table 5: Annual operational costs for Algae Cultivation and Biogas Production ............ 53	
+Table 6: Capital Costs for the Seawater Intake and Disposal Process .............................. 54	
+Table 7: Annual operational Costs for the Seawater Intake and Disposal Process ........... 54	
+Table 8: Summation of Net Present Value Costs .............................................................. 60	
+Table 9: Lifecycle Cost Comparison of Arcata Wastewater Facility Retrofits ................. 63	
+  
+  vii 
+LIST OF FIGURES 
+Figure 1: Image of the Arcata Wastewater Treatment Plant showing the 16.8 acres of 
+oxidation ponds and the proximity to seawater in Humboldt Bay (Google Maps, 2017). .. 4	
+Figure 2: Direction of water flow for forward osmosis compared to reverse osmosis. ...... 8	
+Figure 3: Illustration of internal concentration polarization (ICP) and reverser salt 
+diffusion. The dotted line represents the gradual change in osmotic pressure across the 
+membrane. (adapted from Achilli, Cath, and Childress 2010). ......................................... 12	
+Figure 4: Juxtaposition of non-concentrated algae culture on left and forward osmosis 
+concentrated algae culture on right. ................................................................................... 17	
+Figure 5: The annual energy yields for bioenergy crops. (adapted from Christi, 2007) ... 19	
+Figure 6: Flow diagram of the stand-alone forward osmosis system. ............................... 25	
+Figure 7: Process schematic for "dry month" operation in which forward osmosis 
+membranes are used to harvest microalgae for biogas production. ................................... 31	
+Figure 8: Process schematic for "wet month" operation in which forward osmosis 
+membranes are only used to reduce the volume of wastewater to be treated. The 6 MGD 
+of screened wastewater is the peak wet weather design flow (City of Arcata, 2017). ...... 32	
+Figure 9: Example of a raceway pond being mixed by a paddle wheel. ........................... 33	
+  viii 
+Figure 10: Average daily photosynthetically active radiation (PAR) for Arcata, CA. ..... 34	
+Figure 11: Average monthly precipitation in Arcata, CA (NOAA, 2017). ....................... 35	
+Figure 12: Capital cost components for the stand-alone forward osmosis system. ........... 42	
+Figure 13: Operational cost breakdown for a stand-alone forward osmosis system. ........ 43	
+Figure 14: Sensitivity analysis measuring the effect of membrane price on the lifecycle 
+cost of a 1 MGD stand-alone FO system. .......................................................................... 44	
+Figure 15: Sensitivity analysis measuring the effect of membrane longevity on the 
+lifecycle cost of a 1 MGD stand-alone FO system. ........................................................... 45	
+Figure 16: Sensitivity analysis measuring the effect of flux rate on the lifecycle cost of a 
+1 MGD stand-alone FO system ......................................................................................... 46	
+Figure 17: Process breakdown of the Arcata Wastewater Treatment Plant Case Study ... 48	
+Figure 18: Parasitic energy breakdown for the Arcata Wastewater Treatment Plant case 
+study. ................................................................................................................................. 57	
+Figure 19: Theoretical electricity yield from the anaerobic digestion of algae biomass at 
+the Arcata WWTP. ............................................................................................................ 59	
+  
+  ix 
+ LIST OF APPENDICES 
+Appendix A: Forward osmosis system parameters and assumptions ................................ 73	
+Appendix B: Algae production parameters and assumptions ............................................ 77	
+Appendix C: Seawater intake assumptions and parameters .............................................. 81	
+Appendix D: Effluent limitations for the Arcata Wastewater Treatment Facility ............ 83	
+ 
+ 
+  
+1 
+INTRODUCTION 
+Municipal wastewater treatment in the US discharges 12 trillion gallons of 
+nutrient-laden water into the environment annually (Shen et al., 2015). Research into the 
+collection of resources from municipal wastewater streams has recently increased; 
+however, the dilute concentration of wastewater constituents has bottlenecked the 
+development of waste-to-resource systems (Buckwalter et al. 2013; Wang et al. 2016). If 
+municipal wastewater could be concentrated at a reasonable cost, then downstream 
+energy capture and nutrient reuse could be achieved, with the added benefit of decreased 
+eutrophication and aquatic dead zones. 
+Forward osmosis (FO) membrane separation has been shown to concentrate both 
+nutrients and suspended solids in wastewater (Cath, Childress, and Elimelech 2006; 
+Holloway et al. 2007). The process of osmosis is a natural equilibrium phenomenon that 
+transports water across a semi-permeable membrane in order to balance the solute 
+concentration. FO membranes facilitate the flux of water (solvent), while blocking the 
+passage of most suspended and dissolved particles (solutes). Recent developments in 
+membrane technology have prompted their use for treatment of industrial tailings, 
+desalination and the concentration of food products (Cath, Childress, and Elimelech 
+2006; Zhao et al. 2012; McCutcheon, McGinnis, and Elimelech 2005; McGinnis and 
+Elimelech 2007). Treatment of municipal wastewater with FO membranes is an 
+innovative concept that could achieve tertiary and advanced treatment standards with less 
+energy and fouling than conventional membrane technologies (Achilli et al. 2009; 
+ 
+ 
+  
+2 
+McGinnis and Elimelech 2007; Cornelissen et al. 2008). In addition, forward osmosis has 
+been suggested as a harvesting method for algae biomass production, leading to the idea 
+that FO membranes could simultaneously harvest algae and treat wastewater if algae 
+production were incorporated into wastewater treatment systems (Buckwalter et al. 2013; 
+Wang et al. 2016).  
+Algae can be harvested from wastewater and processed to produce a renewable 
+energy feedstock by using wastewater and wastewater nutrients as a growth media 
+(Lundquist et al. 2010).  In 2010, the U.S. Department of Energy endorsed the symbiotic 
+relationship of wastewater treatment and algae, declaring, “Inevitably, wastewater 
+treatment and recycling must be incorporated with algae biofuel production (Christenson 
+and Sims 2011).”  Algae produce more energy per area and use less water than terrestrial 
+crops; however, the infrastructure necessary to produce and harvest microalgae is still too 
+expensive to compete with conventional energy sources (Demirbas and Demirbas 2011). 
+If the cost of energy increases and algae biofuel technology advances, algae bioenergy 
+could become an affordable part of a global energy portfolio. 
+  
+ 
+ 
+  
+3 
+OBJECTIVES 
+The objective of this study is to determine the economic feasibility of integrating 
+forward osmosis into a wastewater treatment plant to simultaneously treat wastewater and 
+harvest algae biomass. Economic feasibility will be determined by analyzing data from 
+industry reports, peer-reviewed articles and manufacturer information to determine 
+project cost, wastewater treatment efficacy and biomass production potential. While 
+research into the treatment of wastewater by forward osmosis and the cultivation of algae 
+in wastewater has been studied extensively (Buckwalter et al., 2013; Achilli et al., 2009; 
+Ansari et al., 2016; Ansari et al., 2017; Lundquist et al., 2010), the economic feasibility 
+of integrating both processes at a municipal wastewater treatment plant has yet to be 
+investigated. 
+The Arcata wastewater treatment plant (AWTP) in Arcata, CA was selected as the 
+project site, based on the preexisting oxidation ponds, a potential site for algae 
+cultivation, and the proximity to seawater. The oxidation ponds are approximately 16.8 
+acres and aerated to promote the growth of algae. The AWTP also maintains several 
+acres of enhancement marshes that provide some tertiary treatment, wildlife habitat and 
+overflow diversion capacity.  In 2014 the average influent flow increased from the 
+designed capacity of 2.3 MGD to about 3 MGD. Increased winter flows have necessitated 
+the diversion of influent wastewater to the enhancement marshes, resulting in several 
+infractions from the EPA between 2005 and 2007 (Kuhlman 2007). EPA violations for 
+excessive total suspended solids (TSS) are the most common violation, and according to 
+ 
+ 
+  
+4 
+Dave Couch, an operator at the ATWP, storm events are the root cause of the violations 
+(D. Couch, personal communication, 2009). In the summer, algae flourish in the 
+oxidation ponds before dying and settling to the pond floor. In the winter, particularly at 
+the beginning of the rainy season, the settled solids (dead algae) are resuspended due to 
+increased water flows and released out into Humboldt Bay.  
+ 
+ 
+Figure 1: Image of the Arcata Wastewater Treatment Plant showing the 16.8 acres of 
+oxidation ponds and the proximity to seawater in Humboldt Bay (Google Maps, 2017). 
+ 
+This study proposes a system to harvest the algae with forward osmosis 
+membranes to both reduce environmental infractions and create a byproduct revenue 
+stream with the harvested algae.  The Arcata Wastewater treatment Plant, located in 
+Arcata, CA, will be used as a case study, in which the secondary treatment system will be 
+replaced with an algae biomass production and forward osmosis treatment system. The 
+Oxidation	Ponds 
+Arcata	Bay 
+ 
+ 
+  
+5 
+forward osmosis system will harvest the algae by utilizing the osmotic gradient between 
+seawater and wastewater. 
+A technological assessment and cost-benefit analysis will be conducted to 
+determine the economic feasibility of the novel wastewater/seawater forward osmosis 
+(WSFO) system. The results will illustrate how a WSFO would operate and explain the 
+capital and operational costs, with special attention given to the forward osmosis system 
+due to the lack of data regarding the economics and energy balance of a large-scale 
+forward osmosis system including. 
+  
+ 
+ 
+  
+6 
+BACKGROUND AND MOTIVATION 
+Municipal Wastewater Treatment 
+In the US, over 32 billion gallons of municipal wastewater are treated daily at 
+14,780 municipal wastewater treatment facilities (Shen et al. 2015). The annual energy 
+demand for municipal wastewater treatment is 30.2 million MWh, releasing 21 million 
+metric tons of greenhouse gases into the atmosphere (Shen et al. 2015). The 
+methodology, operating conditions and restrictions of municipal wastewater treatment 
+differ depending on influent flow variability, quality of incoming wastewater, permitted 
+levels of effluent and local guidelines. Pre-treatment and primary treatment processes 
+include waste collection, screening, chemical treatment, grit removal and sedimentation. 
+Pretreatment removes solid particles with diameters greater than one millimeter and 
+primary treatment reduces the amount of suspended inorganic and organic solids. These 
+processes have relatively low energy requirements when compared to secondary and 
+advanced treatment methods. They are designed to remove the associated fraction of 
+nitrogen, phosphorus and organic matter from the course solids and grit, but to a limited 
+degree.  
+Secondary treatment methods treat the remaining colloidal organic impurities and 
+dissolved organic matter. Biological treatment is the most popular method of secondary 
+treatment, in which dissolved oxygen is added to the wastewater via mechanical, surficial 
+or diffusive aeration promoting heterotrophic microorganisms to act upon the organic 
+ 
+ 
+  
+7 
+impurities by removing or disinfecting the impurities. Secondary processes are designed 
+to remove 20-30% of nitrogen and 85-95% of BOD5 from wastewater. 
+Tertiary and advanced treatment methods are designed to remove the remaining 
+suspended solids and biological nutrients (nitrogen and phosphorous) as well as eliminate 
+pathogenic microorganisms. These treatment processes are relatively rare, compared to 
+secondary treatment processes, due to the absence of regulations concerning the effluent 
+concentration of specific biological nutrients and other pollutants in municipal 
+wastewater. 
+Forward Osmosis 
+Novel osmotic membrane technology is currently being researched to treat 
+wastewater, produce clean energy and desalinate water (Cath et al., 2006). FO exploits 
+the osmotic gradient between two solutions, driving the transport of water across a semi-
+permeable membrane from a region of low osmotic pressure to a region of high osmotic 
+pressure (Figure	2). As seen in Figure 1, FO does not require an energy input of 
+hydrostatic pressure (ΔP). Instead, the driving force of FO is provided by the osmotic 
+pressure of the two solutions, creating an osmotic gradient. Osmotic pressure is dictated 
+by the concentration of solutes dissolved in a given liquid. In FO systems, water in the 
+feed solution (FS), with a lower osmotic pressure, is pulled through the FO membrane 
+into the draw solution (DS), with a higher osmotic pressure. The membrane acts as a 
+physical barrier, inhibiting the passage of most salts and suspended solids. The advantage 
+of FO compared to conventional membrane separation technologies, such as reverse 
+ 
+ 
+  
+8 
+osmosis and microfiltration, is high-level treatment, low energy requirements and 
+reduced fouling characteristics (Cath et al, 2006; Zhao et al. 2012).  
+ 
+ 
+Figure 2: Direction of water flow for forward osmosis compared to reverse osmosis.  
+ 
+Forward Osmosis Theory 
+Water transport through a forward osmosis membrane is generally described as: 
+ 𝐽! = 𝐴 𝜋!,! − 𝜋!,!  (1) 
+Where Jw is the water flux, A is the pure water permeability of the membrane, πD,b is the 
+bulk osmotic pressure of the draw solution and πF,b is the bulk osmotic pressure of the 
+feed solution. The above equation assumes complete rejection of the feed and draw 
+solutes where the bulk osmotic pressure of each solution is described by the Van’t Hoff 
+Osmo%c'
+Membrane'
+ 
+ 
+  
+9 
+equation: 
+ 𝜋 = 𝑅!𝑇 𝑖𝑀 (2) 
+Where Rg is the gas constant (0.08206 
+! ! !"#!"# ! !), T is the temperature in Kelvin, I is the 
+dimensionless Van’t Hoff factor for the specific ion, and M is the molarity of the specific 
+ion. Bulk osmotic pressure (π) describes the average osmotic pressure of an entire 
+solution, whereas in forward osmosis systems osmotic pressure gradients occur.  
+ 
+Concentration Polarization 
+In osmotic systems, the bulk osmotic pressure does not accurately describe the 
+osmotic pressure at the membrane interface and across the semi-permeable membrane. 
+As water diffuses through a membrane, solutes blocked by the membrane will 
+concentrate on the membrane surface facing the feed solution, causing the surficial 
+osmotic pressure of the feed solution to be larger than the osmotic pressure of the bulk 
+feed solution. This phenomenon is referred to as concentrative external concentration 
+polarization (ECP) and has been modeled using film theory for a dense symmetric 
+membrane as (McCutcheon and Elimelech 2007):  
+ 𝐽! = 𝐴 𝜋!,! − 𝜋!,!𝑒𝑥𝑝 𝐽!,!𝑘!  (3) 
+Where the exponential term is the concentrative ECP modulus, which is a function of the 
+empirically derived water flux, 𝐽!,!, and the mass transfer coefficient on the feed side of 
+the membrane, kF. The mass transfer coefficient is calculated from the appropriate 
+Sherwood number correlations, which incorporate the viscosity, density, diffusion 
+ 
+ 
+  
+10 
+coefficient and flow velocity to determine the ratio of the total rate of mass transfer 
+(convection) to the total rate of diffusion(Kessler and Moody 1976).  
+On the draw solution side of the membrane dilutive ECP occurs, in which water 
+that has permeated through the membrane dilutes the effective draw solution osmotic 
+pressure at the surface of the membrane. The combination of dilutive and concentrative 
+ECP on water flux is described as (McCutcheon and Elimelech 2007): 
+ 𝐽! = 𝐴 𝜋!,!𝑒𝑥𝑝 − 𝐽!,!𝑘! − 𝜋!,!𝑒𝑥𝑝 𝐽!,!𝑘!  (4) 
+Where kD is the mass transfer coefficient on the draw solution side of the membrane. 
+Note the negative exponential term for the dilutive ECP modulus, indicating a reduction 
+in osmotic pressure on the draw solution side of the membrane. Eq. 4 calculates the 
+osmotic flux implicitly for osmotic systems using dense symmetric membranes; however, 
+symmetric membranes are currently not available for forward osmotic systems, limiting 
+the usefulness of this model to predict flux in FO processes. Asymmetric membranes, 
+instead, are used in FO systems and recent research has shown that concentration 
+polarization inside the membrane has a larger effect on water flux than external 
+concentration polarization.  
+ Internal concentration polarization (ICP) is caused by the build-up of salts in the 
+porous support layer of the membrane (Figure 3). For most FO processes, the draw 
+solution is in contact with the porous layer. Salt must permeate the porous layer to 
+establish the osmotic driving force across the active layer of the osmotic membrane. After 
+the osmotic driving force has been established, water will diffuse into the membrane and 
+ 
+ 
+  
+11 
+effectively dilute the draw solution across the membrane. The dilutive effects inside the 
+membrane are appropriately referred to as the dilutive ICP and in terms of water flux for 
+an FO process are described as (McCutcheon and Elimelech 2007): 
+ 𝐽! = 𝐴 𝜋!,!𝑒𝑥𝑝 −𝐽!,!𝐾 − 𝜋!,!𝑒𝑥𝑝 𝐽!,!𝑘!  (5) 
+Where the exponential term, exp(-Jw,eK), is the dilutive ICP modulus and K is the 
+resistance to diffusion by the solute within the membrane support layer. Note that the 
+dilutive ECP term has been removed due to the membrane being asymmetrical and the 
+assumption that the support layer is permeable to the draw solute. The K term describes 
+the ICP resistance to water flux by incorporating the diffusivity of the solute and the 
+structural aspects of the membrane support layer. These resistance factors affect the 
+solute’s ability to diffuse in and out of the membrane, which controls the magnitude of 
+ICP. The solute resistance to diffusion within the membrane is described as (Lee, Baker, 
+and Lonsdale 1981): 
+ 𝐾 = 𝑡𝜏𝐷𝜀 (6) 
+Where t is the thickness of the porous support layer, τ is the tortuosity (the degree of 
+twists or turns) of the porous support layer, D is the bulk diffusion coefficient of the 
+solute and ε is the porosity of the support layer.  
+Equation 5 shows that the ECP and ICP moduli describe a resistance to the overall 
+osmotic driving force. Recent studies have shown that the contribution to flux resistance 
+by concentration polarization increases as water flux increases, indicating the self-
+limiting behavior of FO processes.  
+ 
+ 
+  
+12 
+ 
+ 
+Figure 3: Illustration of internal concentration polarization (ICP) and reverser salt 
+diffusion. The dotted line represents the gradual change in osmotic pressure across the 
+membrane. (adapted from Achilli, Cath, and Childress 2010). 
+ 
+ 
+ 
+ 
+ 
+  
+13 
+Solute Transport 
+The transport of inorganic draw solutes through a membrane is known as reverse 
+salt diffusion (also referred to as reverse solute flux) (Figure 3). Ideally, forward osmosis 
+membranes would completely block the transport of salts; however, with current FO 
+membrane technology, reverse salt diffusion is inevitable and poses substantial risk to the 
+economics of industrial FO systems (Ansari et al., 2017). The transport of NaCl across 
+the membrane can render the system uneconomical due to strict water quality standards 
+(i.e. low concentrations of NaCl) and the diminishing return on energy investment of 
+NaCl removal at lower concentrations. Further consideration must also account for the bi-
+directional diffusion of solutes. For instance, the transport of solutes (i.e. pathogens, 
+organics, pharmaceutical compounds) from the wastewater to the treated and diluted 
+saltwater may necessitate further water treatment if the diluted draw solution does not 
+meet water quality standards.  
+The transport of draw solutes into a freshwater microalgae culture will inhibit 
+algal growth and oil productivity. A model to predict the amount of reverse salt diffusion 
+is described as (Phillip, Yong, and Elimelech 2010):  
+ 𝐽!𝐽! = 𝐴𝐵 𝑛𝑅!𝑇 (7) 
+Where Js is the total draw solute flux, B is the draw solute permeability coefficient and n 
+is the number of dissolved species created by the draw solute. The ratio of water flux to 
+draw solute flux are liters per mole, characterizing the amount of water passing through 
+the membrane per the amount of draw solute passing through the membrane. As can be 
+ 
+ 
+  
+14 
+seen from the parameters of the model, reverse salt diffusion is independent of the draw 
+solute concentration and structural aspects of the membrane. Therefore, only the 
+measured values for A and B are needed to determine the amount of reverse salt diffusion.  
+ The draw solute permeability coefficient, B, can be determined by (Phillip, Yong, 
+and Elimelech 2010): 
+ 𝐵 = 𝐽!𝐶!𝑒𝑥𝑝 − 𝐽!𝑘!  (8) 
+Where CD is the molar concentration of the draw solute at the surface of the membrane 
+active layer.  
+ 
+Fouling Concerns 
+Membrane fouling is an inevitable problem with the concentration of wastewater 
+via forward osmosis. Membrane fouling reduces the flow rate across the membrane by 
+acting as a physical barrier and also by creating a cake enhanced concentration 
+polarization (Ansari et al., 2017).  For the concentration of wastewater with forward 
+osmosis membranes, foulants include suspended solids, algae and freshwater and 
+seawater organisms.  
+Fouling occurs for two reasons: (1) foulants are drawn into the membrane due to 
+the hydrodynamic forces of an osmotic system and  (2) organisms utilize the membrane 
+as a substrate or infrastructure to attach themselves to. Fouling can be moderated several 
+ways including the increase of cross-flow rates (Ansari et al. 2016), systematic 
+backflushing, chemical cleaning and the pretreatment of feed and draw solutions.  
+ 
+ 
+  
+15 
+However, more research into the mitigation and long-term effects of fouling need 
+to be conducted to understand the complex fouling concerns of a forward osmosis system 
+using seawater and wastewater. 
+ 
+Recent Developments 
+Interest in the use of forward osmosis membranes to treat complex waters like 
+municipal wastewater has increased over the past 12 years (Cath et al., 2006; Achilli et 
+al., 2009; Buckwalter et al., 2013; Ansari et al., 2017). The advantage of high-level 
+treatment, low energy requirements and reduced fouling characteristics have been 
+reported on small scale, with many reports concluding that the results warrant more large 
+scale experiments to understand the longevity and efficacy of FO membranes in an 
+industrial setting (Ansari et al. 2017). Several of the most important findings relating to 
+the use of forward osmosis membranes for wastewater treatment and algae separation are 
+described below (adapted from Lutchmiah et al. 2014): 
+I. Forward osmosis membranes are able to reject suspended particles, pathogens 
+and emerging pollutants, as well as wastewater grown algae.  
+II. Forward osmosis membranes have a mean pore radius of 0.25-0.37 nm leading to 
+high salt and total dissolved solids (TDS) rejection  
+III. Where water recovery is unnecessary, FO is less energy intensive than reverse 
+osmosis due to the lack of hydraulic pressure needed. The lack of high pressure 
+also negates the need for expensive, high strength materials to withstand the 
+ 
+ 
+  
+16 
+hydrostatic forces.  
+IV. Compared to reverse osmosis and nanofiltration systems, that require hydrostatic 
+pressure to overcome the osmotic gradient, FO systems have reduced cleaning 
+costs and membrane replacement rates. 
+Due to these advantages, forward osmosis membranes have been shown to 
+effectively treat oil and gas fracturing effluents (Coday et al. 2014), landfill leachates 
+(York, Thiel, and Beaudry 1999), digester centrate, activated sludge and municipal and 
+simulated wastewaters (Holloway et al. 2007; Cornelissen et al. 2011; Lutchmiah et al. 
+2014; Linares et al. 2013). Nevertheless, many drawbacks to FO systems exist including 
+the recovery step in closed-loop or water recovery systems, incomplete rejection of trace 
+organic contaminants (TrOCs), low water fluxes and reverse salt diffusion (Seppälä and 
+Lampinen 2004; Hancock and Cath 2009; Buckwalter et al. 2013).  
+In 2013, Buckwalter et al. suggested that forward osmosis membranes could reduce 
+the cost of algae bioenergy systems, specifically the cost of microalgae harvesting 
+(Buckwalter et al. 2013). Utilizing seawater as a draw solution and a freshwater 
+microalgae culture as a feed solution, forward osmosis membranes facilitated the 
+transport of water through an FO membrane while rejecting the algae, effectively 
+concentrating (harvesting) the algae culture (Figure 4). Buckwalter et al. concluded that 
+harvesting of microalgae by forward osmosis might be advantageous when a draw 
+solution is inexpensive and readily available and leaking through the membrane is 
+ 
+ 
+  
+17 
+prevented by reducing the possibility of puncturing of the membrane by aquatic 
+organisms.  
+ 
+ 
+Figure 4: Juxtaposition of non-concentrated algae culture on left and forward osmosis 
+concentrated algae culture on right.  
+ 
+Algae Bioenergy 
+Algae are described as thallophytes (plants lacking roots, stems and leaves), 
+containing chlorophyll a as their primary photosynthetic pigment and void of a sterile 
+covering of cells around the reproductive cells. Microalgae have a relatively simple 
+cellular structure and avoid many biological energy expenditures associated with macro 
+ 
+ 
+  
+18 
+biota. Algae carry out oxygenic photosynthesis by using solar energy to split water, 
+resulting in the fixation of carbon dioxide and the production of oxygen and storable 
+chemical energy as lipids and carbohydrates. When harvested, these carbohydrates and 
+lipids can be processed to produce renewable biofuel. 
+Mass cultivation of microalgae and the beginning of algal biofuels research 
+started on the rooftops of the Massachusetts Institute of Technology in the early 1950s 
+(Burlew 1953). Shortly after, UC Berkeley began the conceptual process and systems 
+analysis for methane production from algae (Golueke, Oswald, and Gotaas 1957). 
+However, it was not until the Arab Oil Embargo of 1973 and then the energy crisis of 
+1979 that microalgae were realistically considered for energy production. In 1978, 
+President Jimmy Carter initiated the Algae Species Program (ASP) through the newly 
+consolidated Department of Energy (DOE). The initial intent of the ASP was focused on 
+producing hydrogen from algae, but later switched emphasis to transportation fuels, in 
+particular biodiesel and microalgae cultivation methods. The ASP made significant 
+contributions to algae biofuel research by isolating thousands of algal species, 
+determining the impacts of different nutrient and carbon dioxide concentrations and 
+addressing the engineering challenges of large scale algae production. Unfortunately, 
+amidst decreasing energy prices in the 1990s, the DOE decided to stop funding the ASP, 
+leading to the termination of the ASP in 1996. Renewed interest in algal biofuel has been 
+prompted by the growing global demand for storable fuel, uncertainty about “peak oil” 
+production, climate change, and the desire for energy security and independence (DOE, 
+2016). 
+ 
+ 
+  
+19 
+In the US, a goal was set to replace 20% of transportation fuels with biofuels by 
+2030 (Shen et al., 2015). When compared to conventional biofuel feedstocks, microalgae 
+need much less area to produce an equivalent amount of energy (Figure	5). For instance, 
+even oil palm, a very efficient terrestrial biofuel feedstock, would need 10 times the 
+fertile land area when compared to microalgae. Also, as can be seen in Table 1, 
+microalgae have the potential to reduce the water footprint of biofuel production when 
+compared to conventional biofuel feedstocks.  Note that the kWh value was changed in 
+“Figure 5” and “Table 1” from kilograms biodiesel and liters biodiesel with the 
+assumption that 1 kg biodiesel is equivalent to 10.5 kWh and 1 liter of biodiesel is 
+equivalent to 9.24 kWh (Yang et al., 2011). 
+ 
+ 
+Figure 5: The annual energy yields for bioenergy crops. (adapted from Christi, 2007) 
+ 
+0	
+10	
+20	
+30	
+40	
+50	
+60	
+Corn		 Soybean	 Canola	 Jatropha	 Coconut	 Oil	palm	 Microalgae	
+En
+er
+gy
+	Y
+ie
+ld
+	(k
+W
+h/
+m
+2 )
+	
+ 
+ 
+  
+20 
+Table 1: Comparison of microalgae’s water footprint to other crops (adapted from Yang 
+et al. 2011) 
+Bioenergy Feedstock 
+Total water footprint 
+(kg-water/kWh) 
+Maize 382 
+Potatoes 357 
+Sugar Cane 374 
+Sugar Beet 206 
+Sorghum 1460 
+Soybean 1302 
+Microalgae 56-348 
+ 
+One significant issue with mass algae production is the maintenance of culture 
+biology to create a productive monoculture. Threats to a productive monoculture include: 
+predator algae; zooplankton such as rotifers that graze on microalgae; bacteria; fungi; and 
+viruses (Lundquist et al., 2010). Certain algae strains have been shown to overcome these 
+threats by varying the pH or salinity and other commercial strains have managed the 
+threats by cultivating an extensive amount of inoculum and frequently restarting the 
+cultures (Lundquist et al., 2010). Advances in genetic engineering could also help 
+alleviate the threats to a productive monoculture (Lundquist et al., 2010). Overall, 
+sustained monoculture is, at present, a huge impediment to large-scale algae production, 
+but given the small amount of success with certain strains and the capabilities of genetic 
+ 
+ 
+  
+21 
+engineering, algae researchers are confident this hurdle can be overcome (Lundquist et 
+al., 2010).  
+Several recent studies have suggested that algae biofuel could compete with 
+conventional energy production if wastewater is utilized as an inexpensive nutrient and 
+water resource. Lundquist et al., (2010) found that the anaerobic digestion of microalgae 
+from a wastewater treatment plant could produce energy at a relatively high cost of 
+$0.62/kWh, compared to normal electricity production costs of $0.04/kWh. However, 
+when a wastewater treatment credit of $1.23/kg of BOD5 removal was included in the 
+economic analysis, the cost to produce energy was negative. These findings do not imply 
+that a profit can be made from an algae wastewater system; instead the results suggest 
+that algae wastewater systems are a less costly way to remove BOD5 when compared to 
+conventional treatment technologies.  
+Anaerobic digestion is a biological process utilized to convert biodegradable 
+material, like algae and other organic solids in wastewater, into methane and carbon 
+dioxide. First the organic input material goes through bacterial hydrolysis in which the 
+organic material is broken down into insoluble organic polymers. Acidogenic bacteria are 
+then able to break the sugars and amino acids into carbon dioxide, hydrogen, ammonia 
+and organic acids. The organic acids are further broken down by acetogenic bacteria, 
+converting the acids into ammonia, hydrogen and carbon dioxide. Methanogens, lastly, 
+convert the remaining products into carbon dioxide and methane that can be used for 
+bioenergy production. 
+ 
+ 
+  
+22 
+Utilizing microalgae biomass from wastewater for the production of bioenergy 
+has two main benefits over stand-alone (non-wastewater) algae production systems. (1) 
+Wastewater is produced in large volumes (around 100 gallons per person per day) and the 
+infrastructure is already built to transport the wastewater to a centralized wastewater 
+treatment plant. (2) Sufficient concentrations of costly growth nutrients (nitrogen, 
+phosphorous, carbon and other essential micronutrients) are abundant in wastewater and 
+considered pollution if released to the environment.  
+Currently, several thousand wastewater treatment facilities utilize microalgae to 
+provide oxygen for the bacterial breakdown of waste; however, most wastewater 
+treatment plants, use an activated sludge process to increase dissolved oxygen 
+concentrations and promote the bacterial degradation of biosolids. The major problem 
+associated with using algae to supply oxygen and remove nutrients is the removal, or 
+harvesting, of the microorganisms. The common practice is to flocculate the algae by 
+adding coagulants or employing dissolved air flotation (DAF) to promote settling for 
+easier removal. Coagulants and DAF, however, are expensive and are therefore only 
+practiced at larger wastewater treatment plants that can afford the cost of microalgae 
+separation (Lundquist et al. 2010). Coagulants can also cause problems downstream if the 
+harvested algae were to be used as a biogas or nutrient recovery feedstock (Lundquist et 
+al. 2010).  
+Algae harvesting for biofuel production is also prohibitively expensive. Estimates 
+suggest that 20-40% of the total algae production cost is associated with the separation of 
+algae from its aqueous environment (Grima et al. 2003; Pragya, Pandey, and Sahoo 
+ 
+ 
+  
+23 
+2013). The amount of separation depends on the desired energy form and therefore is 
+often broken down into two steps: harvesting and drying. In this report, harvesting will 
+refer to the removal of 85-95% of the volume of water from the algae culture with an 
+initial solids concentration of 2 g/L and drying will refer to the removal of the remaining 
+water. 
+In 2013, Buckwalter et al. suggested that the harvesting of microalgae by forward 
+osmosis might be less expensive than other dewatering methods, provided that saltwater 
+is readily available and inexpensive and leakage through the membrane is controlled 
+(Buckwalter et al., 2013). The energy requirements for forward osmosis were found to be 
+0.3 kWh per liter of initial algae culture. In other words, it would take 0.3 kWh to remove 
+85-95% of the water in an algae culture with forward osmosis. These values, however, 
+were extrapolated from a review on osmotic separation processes that estimated the 
+energy required to pump water and draw solution through a forward osmosis desalination 
+process (Semiat, Sapoznik, and Hasson 2010), and not calculated based on a system 
+designed specifically to harvest microalgae. Indeed, a more accurate evaluation of the 
+energetic and economic cost of a forward osmosis system to harvest microalgae is needed 
+to determine a more useful assessment of the viability of FO in a combined wastewater 
+treatment-algae biofuel production system.  
+  
+ 
+ 
+  
+24 
+METHODS 
+In order to evaluate the techno-economic feasibility of a wastewater/seawater 
+forward osmosis (WSFO) system, data from peer-reviewed journals, manufacturer 
+documents and engineering reports were analyzed. This section describes the source of 
+data for all aspects of this study, the necessary assumptions and the economic theory to 
+evaluate economic feasibility. The report is separated into two sections: (1) Design and 
+economic analysis of a stand-alone forward osmosis system, and (2) a cost-benefit 
+analysis of implementing a WSFO system at the Arcata Wastewater Treatment Facility in 
+Arcata, California.  
+ 
+Stand-Alone Forward Osmosis system 
+The stand-alone forward osmosis system consists of: a housing structure, storage 
+tanks, feed pumps, flush pumps, forward osmosis membranes, piping, valves, hangers, 
+supports and the FO instrumentation and controls. The components of the FO system 
+were modeled after an advanced treatment system using reverse osmosis to treat 
+wastewater (AWP 2013). A flow diagram describes the flow of liquid through the FO 
+system (Figure 6). The feed (algae culture or wastewater) and draw (seawater) solution 
+enter the FO system and are stored in a tank to ensure consistent downstream flow. 
+Antiscalant and sulfuric acid are added to the feed and draw solution to prevent 
+biofouling. Feed pumps are used to pump both solutions across the forward osmosis 
+ 
+ 
+  
+25 
+membranes. Both solutions then exit the membranes as diluted seawater or a concentrated 
+algae or wastewater solution. Twice a month, flush pumps are utilized to remove fouling 
+and particles obstructing the membrane.  
+ 
+ 
+Figure 6: Flow diagram of the stand-alone forward osmosis system. 
+ 
+The stand-alone FO system is assumed to have a 20-year lifetime with inputs of 1 
+million gallons per day (MGD) of wastewater and seawater and outputs of 1.8 MGD of 
+diluted seawater and 0.2 MGD of concentrated wastewater. Membrane water flux of 5 L 
+m-2 hr-1 and membrane cleaning rate were chosen based on the empirical forward osmosis 
+Algae		
+Culture	or		
+Wastewater	
+Seawater	
+Storage	tank	
+Storage	tank	
+An2scalant	and		
+Sulfuric	Acid	
+An2scalant	and		
+Sulfuric	Acid	
+FO	Feed	pump	
+FO	Feed	pump	
+Flush	pump	
+Flush	pump	
+Forward	Osmosis	Membrane	
+Concentrated		
+Algae	Solu2on	
+Diluted	
+Seawater	
+ 
+ 
+  
+26 
+data using wastewater and simulated seawater with a spiral wound FO module (Wang et 
+al., 2016). The assumed membrane water flux of 5 L m-2 hr-1 is actually less than the 
+reported value of 6 L m-2 hr-1, to account for the variability in wastewater constituents at 
+different facilities and different times of year. Also, it should be acknowledged that the 
+referenced membrane water flux was measured using a different membrane module than 
+this study is proposing and also a different flow rate. Usable membrane area is the area of 
+a standard 8040 spiral wound membrane module. A concentration factor of 5 was chosen, 
+because it is sufficient for anaerobic digestion when the concentrated wastewater is 
+mixed with sludge from the clarifier (Wang et al., 2016). Input flow rates in MGD of the 
+feed (wastewater) and draw (seawater) solutions were considered to be equal, based on 
+data that show high relative membrane flux rates and a negligible salt backflux influence 
+when the feed and draw input flow rates are equivalent (Hancock and Cath 2009). 
+Membrane lifetime was referenced from a recent FO report to be 5 years (Linares et al., 
+2016). As concluded by Buckwalter et al. (2010) and Wang et al. (2016), the active layer 
+will face the feed solution to inhibit algae biofouling of the structural matrix. Energy 
+consumption for a WSFO system was taken from a report on forward osmosis for 
+wastewater treatment in which FO was modeled for tertiary wastewater treatment 
+(Jackson, 2014). Although different water flux, recovery and flow rate values were used 
+and the optimization of energy consumption was not conducted, the assumed value was 
+used due to similar feed and draw solution chemistries. A more detailed table with all 
+assumptions is found in the Appendix A.  
+ 
+ 
+ 
+  
+27 
+Cost analysis of Stand-Alone FO system 
+System design, membrane componentry and operational costs are modeled after a 
+proposed advanced water purification facility study report (AWPFSR) using reverse 
+osmosis in San Diego (AWP 2013), omitting components necessary for high pressure RO 
+systems. The assumption that an FO facility is similar in design to a reverse osmosis 
+facility without high-pressure components is a key assumption of this report and will 
+need further scrutiny once large-scale forward osmosis systems are constructed.  
+Forward osmosis membrane cost is taken from Linares et al. (2016) at $1,500 per 27 m2, 
+based on the predicted future cost by Porifera Inc. and comparable RO membranes.  
+The cost of the membranes (FOcost) per MGD is described as: 
+ 𝐹𝑂!"#$ = 𝐴!"×𝐶! (9) 
+Where AFO is the area of membrane needed to permeate an MGD of liquid and Cm is the 
+cost of membrane per square meter.  
+The amount of membrane area needed to harvest algae from wastewater is 
+described as: 
+  (10) 
+Where QFS is the membrane permeation rate of the feed solution and JW is the water flux 
+through the membrane.  
+Membrane replacement costs were prorated over the entire lifetime of the system 
+to give an annual membrane replacement cost. Membrane component costs associated 
+with pumping and pretreatment (feed pumps, flush pumps, chemical cleaning agents) 
+€ 
+AFO =
+QFS
+JW
+ 
+ 
+  
+28 
+were assumed to be double the cost of the proposed RO plant, because forward osmosis 
+systems require two flow streams across the membrane compared to one in reverse 
+osmosis systems. Capital costs for permitting, mobilization/demobilization, construction 
+insurance, engineering, legal, administration, construction management and contingency 
+were taken from an advanced wastewater treatment report (Lundquist et al., 2010) and 
+considered indirect capital costs. Electricity was assumed to cost $0.12/kWh (AWP 2013) 
+and annual costs to operate the FO system were updated from the AWPFSR to reflect the 
+doubling of liquid input streams in WSFO compared to advanced treatment with reverse 
+osmosis. Chemical cleaning costs were also doubled to treat both the feed and draw input 
+streams. Maintenance and labor costs were taken from the AWPFSR.  
+A present value cost analysis was conducted on the stand-alone FO system to 
+determine the lifetime cost of a SWFO project per MGD. An annual inflation rate of 3% 
+was used to bring referenced costs to present day values (Hickenbottom et al. 2015) and a 
+discount rate of 6% was applied over the 20-year plant life (Gomez 2011). Present value 
+(PV) is described as: 
+ 𝑃𝑉 = 𝐹𝑉(1+ 𝑖)!! (11) 
+Where FV is the future value of the project, 𝑖 is the discount rate and n is the lifetime of 
+the project in years. The present value over the 20-year lifetime of the system (n = 20) 
+was considered to be the lifecycle cost. The same 20-year lifecycle cost methodology was 
+applied to each process of the WSFO system.  
+ 
+ 
+ 
+  
+29 
+Sensitivity Analyses 
+Three sensitivity analyses were conducted to understand how future changes in 
+membrane price, flux rate, and membrane longevity would affect the overall FO stand-
+alone lifecycle cost. Membrane price range was determined arbitrarily to be 50% above 
+and below the assumed cost of the FO membrane. A flux rate range was chosen based on 
+past studies on FO membranes with wastewater and DI water (Buckwalter et al., 2013) 
+and a membrane longevity range was chosen as a “best-guess” of possible longevity 
+values for a large scale FO system (based on personal experience), due to the lack of 
+research measuring membrane longevity with FO membranes using wastewater as a feed 
+solution and seawater as a draw solution.  
+ 
+Case Study at the Arcata Wastewater Treatment Plant 
+A case study was conducted at the Arcata Wastewater Treatment Plant to evaluate 
+the feasibility of a forward osmosis system for algae concentration and wastewater 
+volume reduction. Algae would be cultivated in wastewater for 6 months of the year (dry 
+months), during which the forward osmosis membranes would act as a harvesting 
+mechanism and wastewater volume reducer. For the remaining 6 months (wet months), 
+algae would not be cultivated and the forward osmosis membranes would only be utilized 
+to reduce the volume of wastewater necessary for treatment.  
+ 
+ 
+ 
+  
+30 
+Dry Month Operation  
+During the dry months, screened wastewater will enter the SWFO system and 
+undergo clarification to separate sludge from the liquid wastewater (Figure 7). The liquid 
+wastewater is piped to high rate ponds to facilitate the growth of algae biomass to a 
+concentration of 1-2 grams (dry weight) of algae per liter of water. When the algae 
+culture contains a sufficient algae concentration it is directed into the forward osmosis 
+system to undergo water separation. In the forward osmosis system, the algae culture is 
+concentrated as water from the algae culture flows through the FO membrane while the 
+algae cells are blocked. Once the algae culture is concentrated by 80% it flows to the 
+anaerobic digester. After digestion, methane (CH4) from the digested algae is piped to a 
+generator for electricity and the remaining digestate is piped to the oxidation pond to 
+undergo secondary treatment.  
+The draw solution, seawater, will enter the SWFO system and undergo 
+pretreatment to reduce fouling in the forward osmosis system. The pretreated saltwater 
+will enter the FO system and be diluted by water that is crossing the membrane from the 
+algae culture. Once the seawater has a volume of around 180% of the original volume it 
+is released into the environment as diluted seawater. 
+ 
+ 
+ 
+  
+31 
+ 
+Figure 7: Process schematic for "dry month" operation in which forward osmosis 
+membranes are used to harvest microalgae for biogas production. 
+ 
+Wet Month Operation 
+From October to March wastewater influent flows can reach 3 times the flow 
+during the dry months. During these wet months, algae harvesting will end and the 
+raceway ponds will act as oxidation ponds. The treatment process will still utilize the FO 
+system as a method to reduce the volume to be treated by directing around 2.3 MGD of 
+clarified wastewater into FO system to be concentrated (Figure 11). After FO 
+concentration the wastewater will be mixed with the non-concentrated wastewater in the 
+oxidation/raceway ponds for secondary treatment. The seawater system is identical to dry 
+month operation.  
+Clarifier	
+Anaerobic	
+Digester	
+High	Rate	
+Ponds	
+Generator	
+Diluted	
+Seawater	
+Disposal	
+Pretreatment	
+Screened		
+Wastewater	
+2.3	MGD	
+Algae		
+Biomass	
+(1-2	g/l)	
+Algae		
+Biomass	
+(5-20	g/l)	
+Forward	
+Osmosis	Unit	
+Electricity	
+Intake	Pump	
+Seawater	
+2.3	MGD	
+CH4	 Diluted	Seawater	
+4.1	MGD	
+Forward	
+Osmosis	
+Membrane	
+OxidaNon	
+Pond	
+Digestate	
+Sludge	
+Treated		
+Wastewater	
+0.5	MGD	
+ 
+ 
+  
+32 
+ 
+ 
+Figure 8: Process schematic for "wet month" operation in which forward osmosis 
+membranes are only used to reduce the volume of wastewater to be treated. The 6 MGD 
+of screened wastewater is the peak wet weather design flow (City of Arcata, 2017). 
+ 
+Algae production 
+Algae production methods were modeled after Lundquist et al. (2010), 
+specifically “Case 2,” in which algae were modeled to grow in wastewater and harvested 
+to produce biogas through anaerobic digestion. The microalgae will be cultivated in 
+narrow, shallow ponds that are circulated and mixed by a wheel, known as high rate 
+ponds (Figure 9). These ponds are substantially cheaper than bioreactors for algae growth 
+and have been shown to effectively cultivate algae on a large scale. Average hydraulic 
+retention time is 4 days. Cost estimates to construct, operate and maintain the raceway 
+Clarifier	
+Anaerobic	
+Digester	
+Diluted	
+Seawater	
+Disposal	
+Pretreatment	
+Screened		
+Wastewater	
+6	MGD	
+Forward	
+Osmosis	Unit	
+Intake	Pump	
+Seawater	
+2.3	MGD	
+Diluted	Seawater	
+4.1	MGD	
+Forward	
+Osmosis	
+Membrane	
+Oxida@on/
+Raceway	
+Ponds	
+Sludge	
+2.3	MGD	
+3.7	MGD	
+0.5	MGD	
+Treated		
+Wastewater	
+4.2	MGD	
+Generator	
+Electricity	
+CH4	
+ 
+ 
+  
+33 
+ponds were updated from Lundquist et al., 2010 and can be seen in more detail along 
+with other algae production assumptions in Appendix B.  
+ 
+ 
+Figure 9: Example of a raceway pond being mixed by a paddle wheel. 
+ 
+The timeline for algae cultivation was determined by assuming a minimum 
+average daily photosynthetically active radiation of 2.0 kWh/m2. Atmospheric data was 
+analyzed to determine the local incoming photosynthetically active radiation (PAR). 
+Hourly data from 2006 to 2012 was organized to show monthly averages for daily 
+incoming photosynthetically active radiation (Figure 10). PAR values were then used to 
+determine biomass productivity and electricity production.  
+Precipitation data for Arcata was analyzed to determine the average monthly 
+precipitation in Arcata, CA (Figure 11). Low precipitation is necessary for dry month 
+operation to reduce overflowing of the system. Low precipitation months were based on 
+ 
+ 
+  
+34 
+the relative average precipitation and assumed to be any month with less than an average 
+of 3 inches of rain. As can be seen in Figure 10 and Figure 11, April through September 
+were the only months that were considered viable for algae harvesting and biogas 
+production.  
+ 
+ 
+Figure 10: Average daily photosynthetically active radiation (PAR) for Arcata, CA. 
+0.0	
+0.5	
+1.0	
+1.5	
+2.0	
+2.5	
+3.0	
+Jan	 Feb	 Mar	 Apr	 May	 June	 July	 Aug	 Sep	 Oct	 Nov	 Dec	
+Da
+ily
+	P
+AR
+	E
+ne
+rg
+y	
+(k
+W
+h/
+m
+2 	)
+	
+ 
+ 
+  
+35 
+ 
+Figure 11: Average monthly precipitation in Arcata, CA (NOAA, 2017). 
+ 
+Solar energy was assumed to be the limiting factor of bioenergy production. It is 
+worthwhile to mention that temperature is also a possible limiting factor; however, strain 
+discovery and/or strain development have the ability to overcome certain temperature-
+related limitations, therefore solar energy was chosen as the limiting factor.  Solar energy 
+data was obtained from the Central and Northern California Ocean Observing System 
+(CeNCOOS). Photosynthetically active radiation (PAR) was used to determine the 
+potential solar energy available to the algae. Algae biomass yield is expressed by the 
+following equation, adapted from Shen et al. (2009) as the theoretical biomass yield for 
+algae: 
+ 
+0	
+1	
+2	
+3	
+4	
+5	
+6	
+7	
+Jan	 Feb	 Mar	 Apr	 May	 Jun	 Jul	 Aug	 Sep	 Oct	 Nov	 Dec	
+M
+on
+th
+ly
+	P
+re
+ci
+pi
+ta
+0o
+n	
+(in
+ch
+es
+)	
+ 
+ 
+  
+36 
+ 𝐵𝑌 = 𝑄𝑇ç𝐸!  (12) 
+Where BY is the biomass yield (g m-2 d-1), Q is the average monthly PAR (W m-2), T is 
+time (86,400 s d-1), ç is the theoretical final PAR conversion efficiency (10%) (Shen et 
+al., 2016) and Ec is the energy necessary for building 1 gram of carbohydrate (17 KJ g-1) 
+(Shen et al., 2016). Lipid content and the energy required to synthesize lipids were 
+omitted from the equation, because this project is focused on carbohydrate production for 
+anaerobic digestion not lipid production for biodiesel.  
+Pond area was based on the predicted future dry flow rate at the Arcata 
+Wastewater Treatment Plant (2.3MGD) by the City of Arcata Wastewater Treatment 
+Facility Improvements Project (City of Arcata, 2016) and the ratio of pond area to 
+wastewater influent flow (100 ha/16.5 MGD) from Lundquist et al. (2010). Costs were 
+updated for interest (3%) and fractionally reduced based on the 16 MGD of the Lundquist 
+study and the 2.3 MGD capacity used in this study. As mentioned before, the existing 
+oxidation ponds at the Arcata Wastewater Treatment Facility will be converted into 
+raceway ponds, except for 3 hectares, which will be used to treat the digestate from the 
+anaerobic digester.  
+ 
+Anaerobic Digestion 
+In the dry months, once the algae culture has passed through the forward osmosis 
+system, the algae are put through an anaerobic digester. The digester produces methane 
+that is used as a biofuel to produce electricity. The digestate from the digester during the 
+ 
+ 
+  
+37 
+dry months is sent to the existing 3-hectare oxidation pond to undergo wet composting 
+treatment.  The digestate is aerated in the presence of bacteria to facilitate oxidation and 
+reduce the biological oxygen demand and convert ammonia to nitrate. Effluent from the 
+digestate oxidation pond will undergo existing enhanced treatment via enhancement 
+marshes and either chlorine or ultraviolet disinfection.  
+Revenue from electricity production via anaerobic digestion was based on the 
+amount of algae biomass that could be produced with the amount of photosynthetically 
+active radiation as the limiting factor. Monthly electricity production (EP) was described 
+as: 
+ 𝐸𝑃 = 𝐵𝑌 × 0.3 × 𝐴! × 10.8 × 𝑡 × 𝑇!""   (13) 
+Where BY (biomass yield) is calculated in units of grams per meter squared per day, the 
+“0.3” value is the amount of methane produced (in liters of methane) from 1.0 g volatile 
+solids (harvested algae, dry weight) (Lundquist et al., 2010), 𝐴!  is the area of the raceway 
+ponds, the “10.8” value is the amount of energy in kWh that can be produced from one 
+cubic meter of natural gas with the assumption that algae biomass has a high heating 
+value (HHV) of 39.0 MJ/m3 (Lundquist et al., 2010), 𝑡 is the number of days in each 
+month and 𝑇!"" is the turbine efficiency (assumed to be 30% [Lundquist et al., 2010]). 
+Sludge handling and sludge energy production via anaerobic digestion during the wet and 
+dry months is not considered in this report.  
+ 
+Seawater intake and pretreatment 
+Seawater was assumed to come directly from Humboldt Bay, approximately one 
+ 
+ 
+  
+38 
+mile from the Arcata treatment plant. As stated above, the flow rate will equal the 
+wastewater influent flow rate of 2.3 MGD. The seawater intake and pretreatment process 
+is modeled after a case study by the Water Research Foundation (WRF) for desalination 
+in Carlsbad, California (WRF 2011). An open intake was assumed to be the cheapest 
+option for this study, in accordance with the WRF study. Capital and operational costs 
+were fractionally reduced based on volume and updated for interest. In other words, if the 
+volume or capacity of the referenced study was 1000% larger than the volume or capacity 
+assumed for this study, then the costs was assumed to be reduced by 90%. More detailed 
+componentry and economic assumptions can be seen in Appendix C.  
+The pumping energy (PE) was determined to be the energy required to pump 
+enough seawater from the sea surface to the FO system, described as: 
+  (14) 
+Where MHp is the motor horsepower and QDS is the flow rate of the draw solution. The 
+DS subscript refers to Draw Solution. Motor horsepower is described as:  
+  (15) 
+Where WHp is the water horsepower, BHpe is the brake horsepower efficiency, and MHpe 
+is the motor horsepower efficiency. The BHpe was assumed to be 80% and the MHpe was 
+assumed to be 88% (Spellman, 2004).  Water horsepower is described as: 
+  (16) 
+ 
+Where TDH is the total dynamic head, described as: 
+€ 
+PEDS =
+MHp
+QDS
+€ 
+MHp =WHp× BHpe ×MHpe
+€ 
+WHp = TDH ×QDS
+ 
+ 
+  
+39 
+  (17) 
+Where H is the discharge head loss and Hf is the head loss due to friction. The head loss 
+due to friction was calculated with the Darcy-Weisback equation, which calculates the 
+head loss due to friction per 100 feet of pipe length. This equation was modified to 
+determine the total head loss from friction for the entire pipe length and described as: 
+ 
+ 
+(18) 
+Where c is the Hazen Williams Roughness Constant, dh is the inside hydraulic diameter 
+of the pipe, and Lp is the length of pipe. Sea coated cast iron was chosen as the pipe 
+material with a Hazen Williams Roughness Constant of 120. Inside hydraulic diameter 
+was chosen to be 18 inches based on the 2.3 MGD flow at the AWTP. The length of pipe 
+was assumed to be 1,000 feet (WRF 2011).  
+ 
+Diluted seawater Discharge 
+The discharge of liquid after it has passed through the draw side of the membrane 
+should only include treated water (44%) and seawater (56%). It is assumed that the 
+Diluted seawater is discharged into the adjacent enhancement marshes at negligible cost. 
+This assumption is based on a pumping energy with negative head over 200 ft. and 
+existing piping from the wastewater treatment plant to the enhancement marshes.  
+ 
+€ 
+TDH = H + Hf
+€ 
+Hf =
+0.2083× 100c
+# 
+$ 
+% 
+& 
+' 
+( 
+1.852
+×QDS1.852
+dh4.8655
+× Lp
+ 
+ 
+  
+40 
+Cost-Benefit Analysis 
+The cumulative costs of algae cultivation, anaerobic digestion, seawater intake 
+and forward osmosis were compared to the revenue from electricity production. Over a 
+lifetime of 20 years, the present value (described earlier) was calculated for each cost and 
+revenue to determine the overall cost of a WSFO system.  
+  
+ 
+ 
+  
+41 
+RESULTS AND DISCUSSION 
+Forward osmosis stand-alone system cost 
+The costs of constructing and operating a stand-alone forward osmosis membrane 
+facility were extrapolated from industry reports and peer reviewed journals, shown in 
+Appendix A. Initial capital cost of the stand-alone system was about $3.2 million dollars 
+per million gallons of capacity, and is broken down by components in Figure 12. 
+Membrane cost is the largest cost contributor for the forward osmosis stand-alone system, 
+with an initial membrane cost of over $2,000,000 for around 32,000 m2 of membrane. 
+The relatively large membrane cost could be due to the immaturity of the FO membrane 
+market, in which future prices could decrease due to the economy of scale. Technological 
+advances in membrane efficiency could also decrease the amount of membrane needed if 
+the flux rate is increased. Indirect costs included permitting, mobilization/demobilization, 
+construction insurance, engineering, legal and administration, construction management 
+and contingencies and accounted for a sizable portion of the capital cost also.  
+ 
+ 
+  
+42 
+ 
+Figure 12: Capital cost components for the stand-alone forward osmosis system.  
+ 
+Annual operational cost for the stand-alone system totaled about $600,000 per one 
+million gallons of capacity per year and is broken down by components in Figure 13. 
+Similar to the capital costs, forward osmosis membrane replacement was the largest 
+contributor the annual operations cost at 66%.  
+FO	
+Membranes	
+Facility	Structure	
+FO	Feed	Pumps		
+FO	Flush	Pumps		
+Hangers	and	
+Supports		
+Valves		 Piping		 Instrumenta=on	and	Controls		Indirect	
+cost	
+Tanks		
+Other	
+ 
+ 
+  
+43 
+ 
+Figure 13: Operational cost breakdown for a stand-alone forward osmosis system. 
+ 
+A comparison of other rejection technologies, such as microfiltration, reverse 
+osmosis or granulated activated carbon, is both difficult and impractical due to the vast 
+amount of variation within different treatment technologies, as well as the incomplete 
+nature of this particular treatment analysis. Instead, this study provides an estimated cost 
+to construct and operate a stand-alone forward osmosis facility to more easily compare 
+technologies on a particular project basis.  
+ 
+Sensitivity Analyses 
+Three sensitivity analyses were conducted by altering the effect of membrane 
+price, membrane longevity, and membrane flux on the lifecycle cost of the stand-alone 
+FO	Feed	Pumps		
+6%	
+FO	
+Replacemen

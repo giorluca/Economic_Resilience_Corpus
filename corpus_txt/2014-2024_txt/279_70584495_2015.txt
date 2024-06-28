@@ -1,0 +1,1018 @@
+New Employment In Post-1990s Algeria: Are Rapidly Added Jobs Positively Affecting Economic Recovery?
+
+University of North Dakota
+UND Scholarly Commons
+Theses and Dissertations Theses, Dissertations, and Senior Projects
+January 2015
+New Employment In Post-1990s Algeria: Are
+Rapidly Added Jobs Positively Affecting Economic
+Recovery?
+Adrian Troyer
+Follow this and additional works at: https://commons.und.edu/theses
+This Thesis is brought to you for free and open access by the Theses, Dissertations, and Senior Projects at UND Scholarly Commons. It has been
+accepted for inclusion in Theses and Dissertations by an authorized administrator of UND Scholarly Commons. For more information, please contact
+zeineb.yousif@library.und.edu.
+Recommended Citation
+Troyer, Adrian, "New Employment In Post-1990s Algeria: Are Rapidly Added Jobs Positively Affecting Economic Recovery?" (2015).
+Theses and Dissertations. 1974.
+https://commons.und.edu/theses/1974
+NEW EMPLOYMENT IN POST-1990s ALGERIA: ARE RAPIDLY ADDED JOBS 
+POSITIVELY AFFECTING ECONOMIC RECOVERY? 
+by 
+Adrian R. Troyer 
+Bachelor of Arts in Spanish, Franklin College, 2001 
+A Thesis 
+Submitted to the Graduate Faculty 
+of the 
+University of North Dakota 
+in partial fulfillment of the requirements 
+for the degree of 
+Master of Science in Applied Economics 
+Grand Forks, North Dakota 
+December 
+2015 
+Copyright 2015 Adrian R. Troyer 
+!ii
+
+PERMISSION 
+Title   New Employment in Post-1990s Algeria: Are Rapidly Added Jobs   
+  Positively Affecting Economic Recovery? 
+Department  Economics 
+Degree Master of Science in Applied Economics 
+ In presenting this thesis in partial fulfillment of the requirements for a graduate 
+degree from the University of North Dakota, I agree that the library of this University 
+shall make it freely available for inspection. I further agree that permission for extensive 
+copying for scholarly purposes may be granted by the professor who supervised my 
+thesis work or, in his absence, by the Chairperson of the department or the dean of the 
+School of Graduate Studies. It is understood that any copying or publication or other use 
+of this thesis or part thereof for financial gain shall not be allowed without my written 
+permission. It is also understood that due recognition shall be given to me and to the 
+University of North Dakota in any scholarly use which may be made of any material in 
+my thesis. 
+       
+      Adrian R. Troyer 
+      December 3, 2015 
+!iv
+TABLE OF CONTENTS 
+LIST OF FIGURES……………………………………………………………………..vi 
+LIST OF TABLES………………………………………………………………………vii 
+ACKNOWLEDGEMENTS……………………………………………………………viii 
+ABSTRACT……………………………………………………………………………..ix 
+CHAPTER 
+ I. INTRODUCTION.………………………………………………………..1 
+   Dissatisfaction and Government Response.……………………….2 
+   Low-Quality Jobs………………………………………………….4 
+ II. METHODS AND DATA………………………………………………….8 
+   Models and Data: Panel Data…………………………………….10 
+   Models and Data: Interrupted Time Series (ITS).………………..13 
+ III. RESULTS AND DISCUSSION………………………………………….17 
+   Panel Data Results……………………………………………….17 
+   ITS Results: GDP Growth………….…………………………….23 
+   ITS Results: Unemployment and Labor Productivity.……..…….27 
+ IV. CONCLUSION…………………………………………………………..33 
+REFERENCES………………………………………………………………………….35 
+!v
+LIST OF FIGURES 
+Figure               Page 
+1. Rate of Unemployment in Algeria Since 1990………………………………………..3 
+2. ITS for GDP Growth in Algeria………………………………………………………24 
+3. Algeria GDP Growth vs. the World……..……………………………………………26 
+4. Algeria’s unemployment under a 2-event ITS specification………………….………28 
+5. Algeria unemployment under 2-event ITS specification, with pre-intervention trend 
+continued and with imagined average pre- and post-intervention smoothing trend.……29 
+6. Labor productivity 2-event ITS for Algeria……..………….…………….…..………31 
+7. Algeria labor productivity compared to the average of the control group of 5 upper  
+middle income MENA nations…………………………………….……………………32 
+!vi
+LIST OF TABLES 
+Table               Page 
+1. Partial summary of government-induced added employment..………………………..6 
+2. Difference in means T-test of control group characteristics and Algerian 
+characteristics in 2003..…………………….……………….……………..……………10 
+3. Correlation statistics for considered lagged values of GDP growth and 
+jobs growth..………………………….…………………………………………………17 
+4. Results for dynamic panel model AB1, estimated by robust one-step  
+system GMM……..…………………….……………………………………………….19 
+5. Results for dynamic panel model AB2, estimated by robust one-step  
+system GMM…………………………..………………………….………………….…20 
+6. Results for dynamic panel model AB3, estimated by robust one-step  
+system GMM………………………………….…………………..………………….…21 
+7. Predicted GDP growth vs. actual GDP growth for Algeria for five-year period 
+during peak total employment growth……………….……………..…..……………….21 
+8. Probit FE, regressing binary variable for more than median GDP growth on binary  
+variable for Top 20% of annual jobs growth instances………….……………..………..23 
+9. ITS regression for Algeria GDP growth……………………………………..……….24 
+10. ITS 2-event regression for Algeria labor productivity…………..………..…………30 
+    
+!vii
+ACKNOWLEDGEMENTS 
+Thank you to the wonderful professors of the MSAE program at the University of North 
+Dakota.  Dr. Biederman was incredibly generous with his time and aide early in my 
+economics studies and Dr.’s Flynn and Simlai were very influential as well.  Special 
+thanks must go to Dr. Tan for overseeing this thesis work with care and attention and to 
+Dr. Goenner for answering endless questions over the past couple of years about the 
+program and about his thoughts on Algeria-related research.  Also, thank you to Dr. 
+Hammouda, Dr. Lassassi, Dr. Merouani, and Mr. Flici at CREAD in Algiers for their 
+wonderful hospitality and invaluable insights.  Lastly, it goes without saying, but I do 
+nothing without You. 
+!viii
+To Susie 
+ABSTRACT 
+An apparent labor recovery success story since the turn of the century has been the 
+reduction of Algeria’s post-war high unemployment rate.  However, there are reasons to 
+doubt the effectiveness of government programs that induced the adding of large totals 
+of short-term, low-paying jobs, particularly following new labor legislation in December 
+2004.  By nature, this added employment has not been genuine permanent work for the 
+educated that might be associated with labor productivity and economic growth.  We use 
+dynamic panel models with Arellano-Bond estimators by the generalized method of 
+moments to suggest that Algeria has not exhibited the expected positive economic 
+growth associated with its employment growth.  We then use interrupted time series 
+regressions to illustrate the behavior of the economy after 2004 and find significant 
+negative level changes in both GDP growth and productivity that are not exhibited by a 
+control group of nations. 
+!ix
+CHAPTER I 
+INTRODUCTION 
+An apparent labor recovery success story since the turn of the century has been the 
+reduction of Algeria’s enormous unemployment rate on the heels of horrific civil and 
+political unrest in the 1990s.  The total rate of unemployment has been reduced by two 
+thirds since the troubling 30 percent level of 2000, down to a 10 percent rate by 2012 
+that is much more in line with Middle East and North African (MENA) regional norms 
+(World Bank, 2015).   Additionally, economic growth, in terms of GDP,  remained 
+sufficient at near 2 percent or better through the same timespan (World Bank), 
+suggesting that the instability and unpredictability observed during the chaos of the 
+1990s has subsided.  This rapid "stabilization" of sorts offers an unusual opportunity to 
+investigate the impact of the policies that have brought about the various types of added 
+employment within a still-industrializing nation.   
+ Even with the positives in mind, the unemployment rate is still much higher and 
+the GDP growth rate lower than would be desired by a mid-level wealth nation with 
+seemingly sufficient resources at hand to see significant growth in the current age of 
+rapid-growth economies in Algeria’s region and in Algeria’s mid-level wealth profile 
+grouping (Kpodar, 2008).  What's more, the types of added jobs could largely be 
+!1
+considered “low-quality" and potentially non-growth-stimulating.  Many new jobs are 
+short-term or low-salary positions provided by the government for individuals (many of 
+them older) with a low frequency of tertiary education (ONS, 2001-14; World Bank).  
+While these positions might potentially contribute to the nation’s accumulation of 
+capital, a key driver in the neoclassical growth models (Solow, 1956); they probably 
+leave something to be desired in terms of promoting labor productivity and skills 
+development, technological advancements [including R & D (Bassanini and Scarpetta, 
+2001)], and residual efficiency gains—all potentially powerful drivers of economic 
+growth and development (Solow)—that might accompany the allocation of labor to a 
+younger, more educated demographic (Denison, 1962).  Unfortunately, even added 
+positions for the young, educated demographic may principally have also been low-
+quality offerings (i.e. short-term, low-paying) as a means of pacifying restless youth 
+desperate to put their training into practice (Musette, et al, 2014).  As we shall see in our 
+analysis, these new jobs may be failing to add much substance to the nation in terms of 
+growth or advancement. 
+Dissatisfaction and Government Response   
+Despite the overall lowering of unemployment, the rates of joblessness among youth, 
+women, and the educated have remained high (ONS). The ongoing frustration and unrest  
+surrounding jobs issues (BBC, 2015) is a daily struggle that has still not come close to 
+being solved (Musette).  It should not be surprising that unsatisfied youth continue to 
+demonstrate against rigid job market possibilities when the system seems contrived for 
+!2
+accommodating demographics other than themselves, as evidenced by the fact that both 
+their age grouping and that of all individuals with higher education remain unemployed 
+at nearly a 20 percent rate (Furceri, 2012). What’s more, even though overall 
+unemployment (10 percent) and male unemployment (8 percent) are down, the search 
+for jobs for women remains a struggle [also around 20 percent are jobless (ONS)].   
+ The government’s response to the demands of the people has been proactive.  
+Natural post-war recovery followed by government employment programs and business 
+development incentives saw total employment grow by 44 percent from 2000 to 2006 
+(World Bank) and top out annually at 8.6 percent in 2005 (two and a half times its 
+median rate for 1990-2014)—essentially overwhelming, in a raw statistical sense, all of 
+Figure 1: Rate of Unemployment in Algeria since 1990 (World Bank; ONS) 
+!3
+10
+15
+20
+25
+30
+Un
+em
+plo
+ym
+en
+t R
+at
+e
+1990 1995 2000 2005 2010 2015
+Year
+Rate of Unemployment in Algeria
+the unemployment rise of the 1990s in slightly more than half a decade (Figure 1).  As 
+we have already begun to suggest, it raises the question: Is it too good to be true?  Did all 
+of the added employment bring genuine benefit to the economy? 
+Low-Quality Jobs 
+Research of past "growth events" in other industrializing nations suggests that certain 
+principles are repeated: added low-quality jobs potentially lead to a growth in the 
+number of low-income working class individuals who cannot save or invest, a widening 
+in the gap between rich and poor as more capital is accumulated for the rich at the hands 
+of the aforementioned non-saving/non-investing working class, and decreased long-term 
+per-worker productivity as the rate of technological change is stifled by restrictions on 
+opportunities for educated workers (Melamed, et al, 2011).  Meanwhile, adding higher 
+quality jobs (for younger, more educated individuals within meaningful sectors of 
+business) should lead to potential ingenuity in the workplace and therefore greater 
+technological advancement, productivity, and growth (Eicher, 1994; Kelley, 1969).   
+ In the case of Algeria, the perceived jobs needs and the increased ease for 
+implementing federal programs following the end of violence have led to aggressive 
+social policy in the last 15 years as part of the “liberal” or “liberal residual” component 
+of the welfare capitalist system in Algeria (Titmuss, 1974; Merouani, 2015).  This 
+portion of the social welfare system attempts to invest in employment as a sort of social 
+protection for the nation’s citizens during economic down times.  The most influential 
+policy decision was the passing of a new labor regulation entitled the “Program for 
+!4
+Professional Integration” (in French, “DAIP”) in December 2004 (Merouani).  The 
+DAIP aimed to integrate first-time employees in the 18 to 35 age range into the formal 
+workforce by granting them jobs and by paying all or most of their wages and benefits.  
+Hundreds of thousands of jobs have been almost fully paid for through this program, but 
+most positions are only one or two-year contracts and the vast majority of contracts are 
+not renewed [Agency for Social Development (ADS) statistics; Merouani].  In the 
+primary program targeting university or trade school graduates (a program formerly 
+known as the CPE, but now called the PID), only 1 to 5 percent of granted positions 
+have been confirmed to have continued to a second year during each annual period 
+(ADS, Merouani).  For the portion of the program that targets unemployed individuals 
+who dropped out of school (formerly ESIL, now DAIS), jobs are again temporary and 
+pay very low wages.  In total, these two programs alone brought about nearly 2 million 
+new 1- or 2-year work contracts from 2004 to 2012 in a country that only employed 10 
+and a half million people by 2012.  
+ Beyond the DAIP regulation, two large-scale programs aimed at promoting 
+entrepreneurship among qualified individuals have been responsible for the funding of 
+many small business projects.  ANSEJ (the National Agency for Supporting Youth 
+Employment) has granted micro-credit for nearly 300,000 projects since 2007 (ANSEJ 
+statistics; Merouani).  Each project creates roughly two and a half jobs in the year it is 
+launched. Additionally, a program for older individuals (ages 35 to 50) is run by the 
+National Agency for Micro Credit (ANGEM).  A half a million projects (nearly 750 
+thousand jobs), for example, were funded by this program in 2012 (ANGEM, Merouani).   
+!5
+However, there is little follow-up or accountability after funding has been dispersed. 
+Only 65 percent of ANGEM participants paid back their micro-credit in 2012 and many 
+have never filed for social insurance—the most basic practice for a new business to be 
+recognized and supported by the government and to have the right to formally hire 
+employees (Merouani).  In the end, considering ANGEM and other government 
+programs, well over two thirds of new jobs in 2012 could be credited to government-
+funded short-term work or project financing from a government agency (Musette).   
+Table 1: Partial summary of government-induced added employment (ONS, ADS, Merouani, Melamed) 
+——————————————————————————————————— 
+     Example Programs’    Permanent Salaried Non-Permanent Salaried 
+ (CPE/ESIL) Added Jobs       Worker Rate          Worker Rate 
+——————————————————————————————————— 
+2003:          80,500   41%    21% 
+2004:           123,300   38%    21% 
+2005:  117,600   39%    28% 
+2006:  145,800   32%    28% 
+2007:  183,600   33%    30% 
+2008:  189,800   34%    30% 
+2009:  158,100   32%    32%    
+——————————————————————————————————— 
+ All told, as we see in Table 1, the percentage of formal wage-earning workers 
+with permanent (i.e. long-term) positions dropped from 41 percent in 2003 to only 32 
+percent in 2009, while the percentage of non-permanent (i.e. mostly non-renewed 
+contracts) wage-earning workers rose from 21 percent to an identical 32 percent level by 
+2009 (Musette).  Indeed, a broad cross-section of the government-funded programs that 
+have contributed heavily to the decrease in the unemployment rate have been short-term 
+!6
+and/or low-paying—affecting a significant turnover of individuals from year to year that 
+does not seem conducive to promoting the productivity and economic growth that should 
+be associated with employment growth. 
+ With plenty of ground still to be gained in high-quality jobs creation and long-
+term unemployment reduction--particularly among youth, the educated, and women--
+areas of recent labor growth are worth exploring in an effort to see the effectiveness of 
+new government jobs creation policies and to evaluate how well the added work might 
+be fueling or slowing growth.  Specifically, the rest of this paper aims to use econometric 
+techniques to analyze whether GDP growth and productivity have responded to total 
+employment growth in Algeria at expected levels. If not, we assume the counterfactual 
+condition that the government initiatives have not affected positive economic outcomes.  
+We begin by presenting panel data configurations—primarily dynamic panel models 
+according to Arellano-Bond specifications for generalized method of moments 
+estimators—that isolate the relationship between added labor and our dependent 
+variables of interest for Algeria and other mid-level wealth nations in the MENA region.  
+Then, we examine a series of interrupted time series (ITS) models that allow us to 
+analyze economic trends in Algeria before and after the employment policies that have 
+been rolled out by the government.   We extend this analysis to compare the behavior of 
+Algeria to that of economically similar nations in an effort to strengthen the foundation 
+of our hypothesis: that economic growth and labor productivity have not been affected 
+positively by government employment interventions during Algeria’s recovery from the 
+unrest of the 1990s. 
+!7
+CHAPTER II 
+METHODS AND DATA 
+At the outset of this research, we hoped to construct data sets that would allow us to 
+isolate the marginal impact of various types of jobs that have been added in Algeria since 
+2000.  We planned to consider variables for demographics, business sectors, and types of 
+employment to find which types of jobs have most positively affected the economy.  
+Unfortunately, after much effort, due to the lack of frequency of data collection in the 
+country, the lack of good data from before 2000, and the lack of rich data from similar 
+nations, no time series with enough observations could be constructed or projected for 
+these types of data for the above-mentioned type of analysis to be completed.  Instead, 
+we have endeavored to estimate answers to a couple of key questions using other 
+methods: 1) What should be the response of the economy when jobs are added in a 
+country of Algeria’s profile and 2) what has been the actual behavior of the Algerian 
+economy following growth in total employment brought on by many short-term and/or 
+low-income positions?  
+ To answer these two questions, we will work in two econometric spheres.  First, 
+we present several panel data configurations—namely, dynamic panel data models using 
+Arellano-Bond generalized method of moments estimators—aimed at estimating how an 
+!8
+economy of Algeria’s type will typically respond to jobs growth, which we define as the 
+annual rate of change in total employment.  We use the results to analyze the specifics of 
+Algeria’s economic outcomes following its broadest application of social labor policies 
+(2004).   
+ Second, we further circumvent the issue of short time series by focusing on the 
+mentioned 2004 point of implementation of the labor programs to uncover in-country 
+economic trends before and after the intervention.  We do this by constructing numerous 
+interrupted time series (ITS) models.  With our ITS models, we intend to reject the null 
+hypothesis that there has been no change in levels and/or trends for GDP growth and 
+labor productivity totals in Algeria since the passing of our concerned employment plan. 
+ Finally, it should be discussed that we employ a control group of five nations 
+similar to Algeria for construction of the panel data and for the establishment of baseline 
+economic behavior at the time of the interruption in our ITS analysis of labor 
+productivity.  The control group is made up of the only five nations in the world (a) who 
+are in Algeria’s regional grouping (Middle East and North Africa) and (b) who have been 
+(and are currently) in Algeria’s upper middle income classification for all or the majority 
+of our studied period of 1989 to 2014 (World Bank).  These nations are Iran, Iraq, 
+Jordan, Lebanon, and Tunisia.  In addition to the general kinship mentioned, we use 
+these nations because their “pre-treatment” (prior to the post-2004 period of deepest 
+analysis) collective demographic and economic statistics demonstrate no statistically 
+significant differences from those of Algeria (Table 2); also, the concerning shocks of 
+!9
+Table 2: Difference in means T-test of control group characteristics and Algerian characteristics in 2003  
+ (ONS, World Bank) 
+_____________________________________________________________________________________ 
+Statistic         Algeria    Control Group Mean  P > |t| 
+_______________________________________________________________________ 
+    
+Population:       32.4 million          22.6 million  (.354) 
+Total GDP (2005 $):     $93.4 billion         $53.0 billion  (.273) 
+Total Employment:        7.4 million            5.8 million  (.415) 
+Productivity:           $6.90   $5.85   (.318) 
+  (GDP/worker/hr in 2005 $) 
+Unemployment Rate:           23.7%   16.1%   (.178) 
+———————————————————————————————————- 
+unrest, war, and sanctions in the control group and Algeria can be statistically diminished 
+through robustness controls.   
+Models and Data: Panel Data 
+For our panel series models, we use panels of annual time series data for 1989 to 2014 
+for Algeria and the five control group nations.  With this selection of data, we collect 156 
+observations from national accounts data of the World Bank and OECD and 130 labor-
+related observations available based on the World Bank’s projections from International 
+Labour Organization (ILO) surveys and research.  All Algeria-related data from the ILO 
+match the original survey results published in-country by the National Office of 
+Statistics (ONS), which we verified extensively to be sure that research here corresponds 
+with that of Algerian researchers.   
+ In attempting to establish the inference of causality between past values of x on 
+the dependent y with cross-sectional time series data, we typically must incorporate 
+!10
+lagged values of both variables as we attempt to minimize unobserved confounders.  
+However, incorporating lagged values of our dependent variable and our independent 
+variable of interest will almost certainly involve some level of correlation between 
+lagged regressors and error terms when we employ standard fixed effects dynamic panel 
+models.  Thankfully, we have a solution that largely minimizes this issue while 
+maintaining efficient estimations of coefficients: using the generalized method of 
+moments (GMM) and its reliance on lagged variables as instruments for calculating what 
+is referred to as an Arellano-Bond estimator.   This type of estimation for dynamic panel 
+data fits our needs well for establishing the nature of the relationship between 
+employment growth and periods-ahead GDP growth in Algeria and our control group 
+nations, as it is specifically designed for data sets with low T values.  As such, we use the 
+following model as an example of our base fixed effects problem: 
+   yct = α1yc,t-1 + α2yc,t-2 + β1xc,t-1 + β2xc,t-2 + υc + εct  , 
+where y is our dependent growth variable for a specific country c in year t.  The 
+coefficients β are the estimates of the impact of lagged values of x, the independent 
+variable for labor growth for country c in year t, on our dependent variable y.  The 
+independent variable υ is in fact a series of dummy variables coinciding with existence in 
+group c that each represent the time-invariant fixed effects of the country c on the 
+dependent variable.  The coefficients α are the estimates of the impact of lagged values 
+of y, of which we will maintain the significant values in our Arellano-Bond estimation. 
+!11
+We also include whichever lagged values of x that are BOTH individually significant and 
+jointly significant according to an F-test or Wald test.  The error term here is εct.   
+ Taking the first difference of our base fixed effects equation and simplifying it 
+leaves us with, 
+   Δy = ΔRπ + Δυ , 
+where R represents our regressors and π is the parameters.  We then generate the 
+Efficient Generalized Method of Moments estimator as, 
+  πEGMM = [ΔR’Z(Z’ΩZ)-1Z’ΔR]-1ΔR’Z(Z’ΩZ)-1Z’y , 
+where Z is the instrument matrix for ΔR.  The matrix Ω for the standard one-step 
+Arellano-Bond estimator (Arellano, 2003) is computed from the variance of the error 
+terms εct.  We choose not to use log transformed variables here to manage the existence 
+of many negative growth observations.  The outputs will allow for estimates for Algeria 
+and its counterparts’ GDP and labor relationship, for which our results will suggest a 
+positive impact of diminishing returns from lags of total employment growth on GDP 
+growth. 
+ To take one more small step in supporting the idea that above-normal jobs growth 
+may not always correlate to economic growth, we construct probit regressions that 
+estimate the probability of strong economic growth happening when different labor 
+growth thresholds are met. We again incorporate country-specific fixed effects.  
+Primarily, we ask the question, “What is the probability of GDP growth reaching levels 
+above the country-specific median level for the 1989 to 2014 period when the 
+!12
+corresponding lagged annual jobs growth was at the 80th percentile or greater for yearly 
+employment growth values for all six nations?”  Explained within the conceptual 
+framework of the model, we have,  
+   Pr (Y = 1 | X ) = Φ (X’β) , 
+where Y is a binary variable for GDP growth being greater than the country-specific 
+median annual GDP growth value for our studied time period.  Our group of regressors X  
+are made up of a binary variable for the lag of jobs growth being at the 80th percentile or 
+above for annual labor growth values across the six nations, plus the same six binary 
+variables that control for fixed country effects by representing each observation’s 
+occurrence in its country.  Our parameters β are estimated by maximum likelihood 
+procedures and represent the effect on the probability of Y being true when a particular 
+regressor from the group X happens or is true.  Lastly, the cumulative distribution 
+function of the standard normal distribution is shown by Φ.   
+Models and Data: Interrupted Time Series (ITS) 
+As mentioned earlier in this work, the data available in Algeria and nations similar to it 
+are not frequent enough nor longstanding enough for the construction of time series 
+containing enough observations for use in standard least squares regressions.  Similarly, 
+data are not rich enough and research methods are not very feasible for the building of 
+models of randomized design that might evaluate government policies.  With these 
+known limitations, a strong alternative—especially for evaluating community or 
+!13
+government interventions—is the implementation of interrupted time series (ITS) 
+regressions (Biglan, et al, 2000).  ITS analysis can be carried out when the moment of an 
+intervention or shock is known and we wish to evaluate any change in the level or slope 
+(trend) of the outcome following the interruption.  This type of analysis has frequently 
+been implemented for assessment of affected individuals’ behavior post-intervention 
+(Gelardi, 1996) and for comparing a performance metric before and after an intervention 
+(Cullen, Levitt, et al, 2013; Dee, et al, 2010), the latter of which is our endeavor, as we 
+examine Algeria’s economic performance in terms of economic growth, labor 
+productivity, and unemployment rate. 
+ ITS uses segmented regression analysis and is carried out in the following design: 
+ Yt = βo + β1 x pre-interventiont + β2 x interventiont  
+   + β3 x post-interventiont  + et    , 
+where Y is our dependent variable of interest (i.e. unemployment, GDP growth, and 
+productivity in our work), pre-intervention is an integral variable for the number of time 
+periods from the beginning of the time series, intervention is a binary variable taking on 
+a value of 1 for post-intervention years and 0 otherwise, post-intervention is a second 
+integral variable for the number of time periods following the intervention, and e is our 
+error term.  The model estimates the parameters βo for the base level of the outcome 
+before the interruption, β1 for the baseline trend before the interruption, β2 for the change 
+in level of the outcome post-intervention, and β3 for the change in trend (slope) post-
+intervention. 
+!14
+ We use the above specification to highlight the apparent relationship between 
+unemployment, GDP growth, and worker productivity and the Algerian government’s 
+December 2004 decision to implement programs that stimulated the adding of many 
+low-income, short-term jobs.  Further, we compare identical ITS specifications for 
+Algeria to world nations and our control group nations to confirm mathematically that 
+the type of changes in GDP growth and productivity levels following its intervention 
+were confined to the Algerian context.   General conditions (Ramsay, et al, 2003) for this 
+type of analysis suggest that we should have all observations spaced equally (ours are 
+annual), that there should be at least 10 plotted points in time after the intervention (we 
+have exactly 10, from 2005 to 2014), that at least 80 percent of the population should be 
+considered in plotted observations (this does not apply to us; we employ national GDP 
+and labor variables), and that evidence of any simultaneous change in relevant 
+conditions should not be the source of level or trend changes in our treated individual or 
+group (i.e. secular trends and environmental shocks must be considered). 
+ Beyond the standard ITS model, we implement a second, 2-event/3-segment 
+specification that accounts for the quick change in macroeconomic conditions that began 
+in 2000 following the end of the fighting of the 1990s.  That specification is as such, 
+ Yt = βo + β1 x pre-interruptiont + β2 x interruption1t  
+ + β3 x post-interruption1t + β4 x interruption2t  
+ + β5 x post-interruption2t + et  , 
+!15
+where pre-interruption is the same as pre-intervention from the first equation,  
+interruption1 is a binary variable taking on a value of 1 for 2000 to 2004 (between 
+interruptions) and 0 otherwise, post-interruption1 is an integral variable for the number 
+of time periods following the violence (2000 is 1, 2002 is 2, and so on), interruption2 is 
+the same binary variable as intervention in the first ITS specification, post-interruption2 
+is likewise an integral variable akin to post-intervention from the first equation, and e is 
+still our error term.  Our parameters are these: βo and β1 are the same as the first ITS 
+regression, β2 and β4 are the changes in output level following their corresponding 
+interruptions, and β3 and β5 are the changes in trend following their corresponding 
+interruptions. 
+ Our data series are again taken from World Bank and OECD national accounts 
+data and World Bank, ILO, and ONS labor series.  We use the following simple equation 
+to normalize productivity units across the same six upper middle income MENA nations 
+as before:  
+ per-worker, per-hour productivity = real GDP in 2005 $ /  
+  annual total employment / estimated average yearly working hours,  
+where we assume an average of 46 real weeks of work times 40 hours per week, 
+according to Algerian labor norms and 2013 ONS per-week working hour estimates.  
+This equation yields productivity values in the $2-per-hour to $12-per-hour range for 
+Algeria and the five control group nations for all years, including years of unrest or 
+economic sanctions. 
+!16
+CHAPTER III 
+RESULTS & DISCUSSION 
+Panel Data Results 
+Before making the final selection of our preferred dynamic panel models, we present a 
+correlations table (Table 3) to demonstrate the interactions among our considered 
+variables.  In the end, we feel comfortable that none of the possible dependent variables, 
+with these correlation statistics, will present an overpowering effect on the efficiency of 
+Table 3: Correlation statistics for considered lagged values of GDP growth and jobs growth 
+——————————————————————————————————— 
+     gdpgr..th     Lgdp..h    L2gdp..h    L3gdp..h     L.JG     L.JG^2    L2.JG 
+——————————————————————————————————— 
+L.GDPGrowth:  -0.011        1.00 
+L2.gdpgr..th:     0.015        0.085   1.00 
+L3.gdpgr..th:    -0.039      -0.160        -0.139        1.00 
+L.JobsGrowth:  -0.175       0.308   0.389        -0.099        1.00 
+L.JG^2:     0.254      -0.087   0.448        -0.258       0.586      1.00 
+L2.JobsG..th:     0.035      -0.154   0.305         0.285       0.204      0.148       1.00 
+L2.JG^2:    -0.023       0.242        -0.084         0.343       0.193      0.108       0.584 
+——————————————————————————————————— 
+our estimators, which are configured to reduce endogeneity much better than standard 
+panel data models.  Perhaps the most concerning pairs are the total employment growth 
+(jobs growth) variables and their squares.  We conclude from testing numerous models 
+that there is a nonlinear relationship between jobs growth and GDP growth.  Including 
+quadratic independent parameters that may be somewhat correlated seems necessary and 
+!17
+unavoidable here.  We should mention that we also add other variables to our growing 
+multivariate model and find limited significance from them; namely, changes in oil 
+prices through the period had little transcendent impact.   
+ We systematically build our dynamic panel model lag by lag and variable by 
+variable, always including no more lags of our studied independent labor variables than 
+we retain of our dependent y; that is, GDP growth.  Using a robust one-step system 
+GMM estimator, and having included time variables in our model as exogenous 
+regressors for the removal of universal time-related shocks from the errors according to 
+the recommendations of Roodman (2009), we find that all seven of the variables from 
+Table 3 can be included in our model (three lags of GDP growth and two lags each of 
+jobs growth and jobs growth squared).  They are all significant in a single model or in 
+combinations with certain variables removed.  In fact, the significance of the coefficients 
+for these models is present in both simple or robust specifications.  We choose to show 
+robust results, as they yield stronger Wald tests for joint significance and they tend to 
+minimize the impact of extreme results for both jobs and growth variables during times 
+of unrest for all six studied nations.  Beyond the seven mentioned variables, the inclusion 
+of a fourth lag for GDP growth or a third lag for the total employment growth variables 
+yield some insignificant coefficients; thus, we do not present results of models which 
+include them or any greater lags.  We begin with the parameters for a model containing 
+all seven mentioned significant variables employed for GMM-style instrumentation 
+(Table 4, “AB1”).  Because instruments are equal to the number of observations, we are 
+at maximum capacity for instruments here.  We feel compelled to leave the model as it is 
+!18
+because of the need to instrument all of our seven independent variables of concern to 
+control for potential correlation with other regressors and the error terms—despite the 
+fact that the Hansen statistic has reduced meaning (Prob > 1.00 is not plausible) because 
+Table 4: Results for dynamic panel model AB1, estimated by robust one-step system GMM. 
+——————————————————————————————————— 
+Variable  Coefficient  Standard Error  P>|z| 
+——————————————————————————————————— 
+LagGDPGrowth:      .531         (.187)   (.005) 
+Lag2GDPGrowth:    -.225         (.115)  (.026) 
+Lag3GDPGrowth:      .129         (.049)   (.008) 
+LagJobGrowth:    -1.847        (.655)  (.005) 
+LagJobGrowth^2:    17.462        (4.42)  (.000) 
+Lag2JobGrowth:     1.093        (.607)  (.072) 
+Lag2JobGrowth^2:     -9.515        (3.86)   (.014) 
+year1-year26 (jointly insignificant) 
+constant:      .011         (.025)  (.653) 
+———————————————————————————————————- 
+N = 125; Wald stat = 194.25, Prob > chi^2 = 0.00 
+Arellano-Bond test for 1st & 2nd level autocorrelation in first differences: 0.082/0.156. 
+Sargan test of overid. stat: 123.46; Prob > chi^2 = 0.036 
+Hansen test of overid. stat: 0.00; Prob > chi^2 = 1.000 
+Wald test stat for joint significance of 4 JobGrowth variables:18.18; Prob > chi^2 = 0.00 
+———————————————————————————————————- 
+of the possibility that we have employed too many instruments (although the test still 
+suggests robust results here).  The Arellano-Bond test for first and second order 
+autocorrelation is also potentially suspect, as it is designed for larger numbers of 
+observations in each panel.  Our panels only hold roughly 20 observations each.  The 
+meaning of the Sargan test result here is that we reject the null that our instruments are 
+definitely valid (i.e. they may be invalid, so we cannot strongly assert validity).  Note the 
+very strong Wald results for the entire model and the jobs growth variables jointly. 
+!19
+ We move on to consider a model without the third lag of GDP growth (Table 5; 
+“AB2”).  Here, many of our test results are similar—but the Wald test stats are improved, 
+from 194.25 in AB1 to 342.92 in AB2 here.  
+Table 5: Results for dynamic panel model AB2, estimated by robust one-step system GMM. 
+——————————————————————————————————— 
+Variable  Coefficient  Standard Error  P>|z| 
+——————————————————————————————————— 
+LagGDPGrowth:      .454         (.141)   (.001) 
+Lag2GDPGrowth:    -.227         (.097)  (.019) 
+LagJobGrowth:    -1.748        (.595)  (.003) 
+LagJobGrowth^2:    15.522        (3.31)  (.000) 
+Lag2JobGrowth:     1.043        (.556)  (.061) 
+Lag2JobGrowth^2:     -7.528        (2.82)   (.008) 
+year1-year26 (jointly insignificant) 
+constant:      .017         (.021)  (.422) 
+———————————————————————————————————- 
+N = 125; Wald stat = 342.92, Prob > chi^2 = 0.00 
+Arellano-Bond test for 1st & 2nd level autocorrelation in first differences: 0.077/0.206. 
+Sargan test of overid. stat: 127.66; Prob > chi^2 = 0.024 
+Hansen test of overid. stat: 0.00; Prob > chi^2 = 1.000 
+Wald stat for joint significance of 4 JobGrowth variables: 308.68; Prob > chi^2 = 0.00     
+———————————————————————————————————- 
+ Finally, in Table 6, for Model AB3, we remove the second lag of all variables, 
+retaining only the first lags.  This final model yields the strongest Wald test statistic for 
+the joint significance of jobs variables and of all included variables (1709.89 compared 
+to 342.92 and 194.25 for AB2 and AB1).  Thus, we use this third model to predict GDP 
+growth values and to compare the predictions to real life in Table 7. 
+  Although we have not discussed the specifics, it has been mentioned that there 
+appears to be a diminishing positive impact of added jobs—an assumption that is 
+!20
+Table 6: Results for dynamic panel model AB3, estimated by robust one-step system GMM. 
+——————————————————————————————————— 
+Variable  Coefficient  Standard Error  P>|z| 
+——————————————————————————————————— 
+LagGDPGrowth:      .323         (.036)   (.000) 
+LagJobGrowth:    -1.581        (.506)  (.002) 
+LagJobGrowth^2:    12.617        (1.71)  (.000) 
+year1-year26 (jointly insignificant) 
+constant:      .0301        (.012)  (.013) 
+———————————————————————————————————- 
+N = 131; Wald stat = 1709.89 Prob > chi^2 = 0.00 
+Arellano-Bond test for 1st & 2nd level autocorrelation in first differences: 0.141/0.177. 
+Sargan test of overid. stat: 143.49; Prob > chi^2 = 0.009 
+Hansen test of overid. stat: 0.00; Prob > chi^2 = 1.000 
+Wald stat for joint significance of 2 JobGrowth variables: 448.06; Prob > chi^2 = 0.00 
+———————————————————————————————————- 
+supported by the quadratic relationship illustrated in our three models.  It is interesting to 
+note, then, that even with these diminishing returns factored into the final dynamic panel 
+models, we still see that the added jobs variables considerably over-project what 
+Table 7: Predicted GDP growth vs. actual GDP growth for Algeria for five-year period during peak total  
+ employment growth 
+____________________________________________________________________________________ 
+                 Avg. Cumulative GDP 
+  Predicted Cumulative GDP   Actual Cumulative GDP      Growth of our 5 similar  
+       Growth for Algeria   Growth for Algeria       nations(Predicted/Actual)  
+______________________________________________________________________ 
+2004-2008:      24.4%   18.5%           44.2/45.5%  
+——————————————————————————————————— 
+Algeria’s growth rate should have been during the years with the highest increases in 
+total employment, 2004-2008.  The Table 7 totals illustrate the point well, but the results 
+!21
+of our second highly significant model (AB2) are even stronger—projecting Algerian 
+GDP growth at a full 2.6 points per year higher than reality during the 2004-2008 period.  
+In fact, a difference in means T-test for the most important period (2006-2008, 
+immediately after the year of greatest total employment growth), suggests a statistically 
+significant difference between estimated Model AB2 values and real-life values (P > |t| = 
+0.054). Even while oil prices—a huge component of the Algerian economy (Musette)—
+remained strong, and even while other oil-dependent and otherwise regionally and 
+economically related nations maintained growth beyond their “jobs-growth-predicted” 
+values, Algeria’s values were low.  Because we have considerable doubt that Algeria’s 
+total employment growth positively affected GDP growth outcomes during our 
+concerned period, we would assert the counterfactual proposition that the added jobs 
+during the period did not live up to the inferred causal expectation of economic growth 
+and were mostly cosmetic with their short-term and low-paying characteristics. 
+ Generally speaking, further evidence of diminishing returns (i.e. the possible lack 
+of economic impact brought on by adding many low-quality jobs in our concerned 
+context) can be found in the results of our probit specification.  This specification1 
+predicts that a nation with a lagged jobs growth value in the top 20 percent of values for 
+all countries for all years in the study will see GDP growth exceeding its own 26-year 
+median annual GDP growth rate only 58 percent of the time.  Results of the “Top 20%” 
+configuration are in Table 6. We can see from the chart that our overall numbers don’t 
+___________________________________ 
+1We report only this specification as representative of similar results from other models which attempted 
+various thresholds and varying lag combinations. 
+!22
+suggest extreme significance; still, the Top20JobsGrowth variable is significant and we 
+can make the estimate that a high level of jobs growth only amounts to about a 58 
+percent chance of being associated with stronger than median levels of GDP growth in 
+the following year.  This supports our earlier findings that a positive relationship 
+Table 8: Probit FE, regressing binary variable for more than median GDP growth on binary variable for  
+ Top 20% of annual jobs growth instances 
+——————————————————————————————————— 
+Variable  Coefficient  Standard Error  P>|z| 
+——————————————————————————————————— 
+Top20JobsGrowth:     .672         (.294)  (.023) 
+Algeria FE:     -.057         (.387)  (.883) 
+constant:     -.033         (.267)  (.900) 
+——————————————————————- 
+Prob > chi2: 0.36; Pseudo R-squared: 0.036; Observations: 132 
+______________________________________________________________________ 
+between jobs growth and GDP growth does not necessarily always carry through to the 
+highest levels of jobs growth.  The freedom to reject the notion that high total 
+employment growth automatically equates to strong GDP growth confirms our 
+previously asserted freedom to propose the counterfactual that Algeria’s high jobs 
+growth did not correspond to strong economic growth outcomes. 
+ITS Results: GDP Growth 
+We begin our ITS analysis with a look at results for our specification for GDP growth 
+(Table 9).  Recall that we define our intervention as beginning in 2005, just after the 
+!23
+Table 9: ITS regression for Algeria GDP growth 
+____________________________________________________________________________________ 
+Variable  Coefficient  Standard Error   P>|t| 
+______________________________________________________________________ 
+Pre-intervention:    .0046         (.001)   (.000) 
+Intervention:     -.026          (.014)   (.073) 
+Post-intervention:    -.0049         (.002)   (.027) 
+constant:     -.006          (.008)   (.463) 
+——————————————————————— 
+Adj. R-squared: .451; Root MSE: .016; Observations: 25 
+Robustness: No observations with Cook’s D values > 1 (i.e. nothing to drop) 
+———————————————————————————————————- 
+passing of the new employment regulations of December 2004. We see from the chart 
+that our results are significant on a number of levels.  GDP growth not only dropped in 
+Figure 2: ITS for GDP Growth in Algeria 
+!24
+-.0
+2
+0
+.0
+2
+.0
+4
+.0
+6
+.0
+8
+1990 1995 2000 2005 2010 2015
+year
+GDP growth Fitted values
+ITS Regression for Algeria GDP Growth
+level after the intervention, with better than a 10 percent significance level, the trend also 
+fell—beyond a 5 percent significance level.  The graph in Figure 2 illustrates this nicely.  
+For ITS results of this type to be meaningful, however, we must analyze whether there 
+are any secular trends or contextual changes impacting Algeria’s situation. 
+ We next run the same ITS regression with nations of the world to put Algeria’s 
+situation into context2.  Figure 3 shows the difference between the behavior of GDP 
+growth for Algeria and that of the world, Algeria’s region, and Algeria’s economic 
+grouping.  We note similar kinks in the paths of all of the other groupings.  However, 
+level changes and trend changes are statistically insignificant in the world and MENA 
+region regressions.  On the other hand, changes for upper middle income nations are 
+significant. First, there is a significant fall in trend (-0.0049, beyond the 0.05 significance 
+level) that matches the fall in trend in Algeria.  This provides some evidence, then, that 
+Algeria’s fall in trend may be attributed to changes in secular trends around it. In spite of 
+this similarity, the significant change in GDP growth rate level in the upper middle 
+income nations goes contrary to that of Algeria—resulting in a positive coefficient of 
+0.028 to the 0.054 significance level.  This positive level change can be attributed at least 
+in part to the rising post-Iraq war elevated oil prices, to which the upper middle income 
+____________________________________________ 
+2We show these results because the graphic representations of the situations of our control group nations 
+for this ITS specification are a bit erratic due to period unrest in all five nations. In the end, only Jordan 
+experienced a small, slightly significant drop in GDP growth rate trend post-intervention. All other trend 
+and level changes were insignificant on the country level. A joint robust regression of the five nations’ 
+means yields a significant increase in GDP growth level post-intervention, consistent with the 
+demographic-wide situation for upper middle income nations.  There was no significant trend change.  
+  
+!25
+Figure 3: Algeria GDP Growth vs. the World 
+nations’ GDP growth correlates at a 0.43 level.  The same correlation does not exist for 
+Algeria, the world, or the MENA nations. 
+ The fact that Algeria’s significant negative change in GDP growth goes contrary 
+to regressions of the world, the MENA region, and upper middle income nations implies 
+that there is some evidence here to corroborate our earlier clues that not moving forward 
+with strong measures for adding labor may have allowed Algeria’s GDP growth to stay 
+at higher levels through the last half of the decade of the 2000s.  All nations demonstrate 
+an observable, albeit statistically insignificant, kink in their paths in Figure 3 because of 
+the high mid-2000s growth levels and subsequent downward trends brought on by the 
+combination of the impact of post-Iraq war oil prices being elevated, followed by the 
+!26
+0
+.0
+2
+.0
+4
+.0
+6
+.0
+8
+Fi
+tte
+d 
+va
+lue
+s
+1990 1995 2000 2005 2010 2015
+year
+Algeria MENA Region
+Upper Mid Income World
+Algeria GDP Growth vs. the World
+worldwide recession (and the currently falling oil prices in the case of the MENA and 
+upper middle income groups).  However, all groupings enjoyed several more years of 
+above average growth that Algeria did not see following its mass job additions policies
+—despite its economy’s dependence on oil and expected associated benefits.  The fact 
+that we can (a) reject the notion that Algeria’s GDP growth level is unchanged (but is 
+significantly altered toward the negative), (b) accept the opposite significant evidence 
+that other upper mid-level wealth nations enjoyed an uptick in GDP growth level, and (c) 
+reject the null that other groupings experienced significant changes to their growth levels 
+all suggest that we could reject the notion that Algeria’s growth outcomes were 
+positively affected by its jobs intervention.  
+ITS Results: Unemployment and Labor Productivity 
+One of the benefits of ITS design is the ease with which we may estimate the absolute 
+impact of an intervention because of the nature of the parameters that are constructed.  
+For our work, we will move to another outcome of interest to consider an absolute 
+impact question in general terms: Would unemployment have fallen naturally without the 
+jobs addition intervention?  We readily recognize that an outcome such as unemployment 
+is potentially volatile and depends on factors that our work may not encompass.  
+However, we conduct a graphical thought experiment related to unemployment because 
+this is the macroeconomic statistic that would be most readily recognized by the casual 
+observer and was most likely the statistic for which the Algerian government wished to 
+!27
+ease its citizens’ minds in adopting its policies.  We look at a 2-event ITS specification 
+for unemployment (Figure 4).  Here, the first event (kink) represents the coming of peace 
+Figure 4: Algeria’s unemployment under a 2-event ITS specification 
+at the end of the civil war of the 1990s.  The second again represents our studied 
+intervention.  In this case, we see that there was already a rapid fall in unemployment 
+taking place, which came naturally with the inherent freedoms to work and live as 
+normal following the war.  In fact, if we imagine the post-war trend had continued 
+(unlikely, but we’ll consider it for illustration’s sake), the current trend line for 
+unemployment would have been crossed only a couple of years after social labor 
+!28
+10
+15
+20
+25
+30
+1990 1995 2000 2005 2010 2015
+year
+unemployment Fitted values
+Algeria unemployment: 2-event ITS
+programs were accelerated (note the green line in Figure 5).  Perhaps more realistically, 
+consider an averaging of the post-war trend and the post-intervention trends.  It seems 
+Figure 5: Algeria unemployment under 2-event ITS specification, with pre-intervention trend continued  
+ and with imagined average pre- and post-intervention smoothing trend 
+possible that less aggressive additions of employment may have allowed the trend to 
+smooth more organically in this manner (yellow line in Figure 5).  If so, could we 
+envision that there is at least some possibility that lost government monies and lost low-
+quality work hours could have been re-allocated toward activities that could have 
+smoothed the corresponding significant negative level change we see in the ITS chart for 
+post-intervention GDP growth (Figure 2) as well. 
+!29
+10
+15
+20
+25
+30
+1990 1995 2000 2005 2010 2015
+year
+Unemployment rate Fitted values
+Pre-intervention trend Average pre/post intervention trend
+No-intervention Unemployment
+ Lastly, we also run a two-event ITS specification for labor productivity, which, 
+according to previously mentioned growth models (Solow), is the foundational variable 
+for beginning to evaluate the impact of workers on economic growth.  We certainly hope 
+that productivity, possibly as much as anything, will respond well to shocks brought on 
+by labor policy change.  The results of our productivity ITS specification are in Table 10 
+and Figure 6. From the table results, we see that there was a significant rise in the labor 
+Table 10: ITS 2-event regression for Algeria labor productivity 
+____________________________________________________________________________________ 
+Variable  Coefficient  Standard Error   P>|t| 
+______________________________________________________________________ 
+CivilWarTrend:    -.067          (.019)   (.003) 
+EndCivilWar:      .503          (.181)   (.013) 
+PostWarTrend:     .065          (.051)   (.217) 
+Intervention*:         .144          (.275)   (.607) 
+PostIntervention:    -.016          (.051)   (.755) 
+constant:     -.006          (.008)   (.463) 
+——————————————————————————————————— 
+Adj. R-squared: .635; Root MSE: .149; Observations: 23 
+Robustness: No observations with Cook’s D values > 1 (i.e. nothing to drop) 
+*Post-2000 regression results for “Intervention”: Coef. -.359, S.E. .114, P>|t| = 0.01 
+———————————————————————————————————- 
+  
+productivity level after the civil war, signified by “EndCivilWar.”  We then see from the 
+partial, post-2000 regression in the notes that there was a very significant fall in 
+productivity level after the intervention (“Intervention” and “Post-Intervention” full-
+period regression results do not mean much because they are being compared with the 
+initial level and trend).  Figure 6 shows the significant rise and fall. 
+!30
+Figure 6: Labor productivity 2-event ITS for Algeria 
+ Finally, to contrast the situation of the previously studied five control group 
+nations from Algeria’s income and geographic groupings, we compile the average labor 
+productivity rate for the group and run a single-event ITS specification at the time of 
+Algeria’s intervention.  We see from the graph (Figure 7) that there is virtually no kink 
+for the five-nation group, but instead a relatively steady, highly statistically significant, 
+incline in productivity over the entire 25-year period.  Strikingly, we notice how the 
+group’s productivity rate has ascended nicely every year since the time of Algeria’s 
+intervention, while Algeria’s productivity predictably fell significantly and has 
+!31
+6.
+2
+6.
+4
+6.
+6
+6.
+8
+7
+1990 1995 2000 2005 2010 2015
+year
+Labor Productivity Fitted values
+Productivity 2-Event ITS
+Figure 7: Algeria labor productivity compared to the average of the control group of 5 upper middle  
+ income MENA nations 
+floundered at lower levels as the large numbers of temporary, unskilled workers struggle 
+to add value to the economy.  If we look closely at 2001 to 2003, during immediate post- 
+war recovery, we notice that Algeria seemed headed toward a trajectory similar to its 
+relatives.  We wonder, once again, what may have happened with Algeria’s economic 
+outcomes path if the government had interceded in a smoother manner. 
+!32
+5
+6
+7
+8
+1990 1995 2000 2005 2010 2015
+year
+Algeria productivity Fitted values
+Average of the other 5 UMI MENA nations Fitted values
+Productivity in Algeria & 5 Similar Nations
+CHAPTER IV 
+CONCLUSION 
+We have shown that Algeria has used aggressive social policies for providing jobs for its 
+citizens while navigating through the global recession unscathed (Aly, 2010) and 
+avoiding the intense unrest of the Arab Spring (Musette) during the recovery period 
+following the “dark decade” of the 1990s.  Unfortunately, evidence from dynamic panel 
+data specifications using GMM via Arellano-Bond estimators suggests that the numbers 
+of jobs added in the middle and late 2000s have not exhibited the apparent causal 
+relationship with GDP growth that would be expected by nations similar to Algeria.  
+Further, ITS results show significant level changes toward the negative for growth and 
+productivity in Algeria—beginning at the time of the most drastic labor intervention at 
+the end of 2004.  These pieces of evidence cause us to conclude that Algeria’s 
+employment intervention programs have not had a positive impact on economic 
+outcomes. 
+ Questions for policy makers will remain as to whether the undertaken steps were 
+too drastic and too hurried.  In the future, efficiency gains from programs of the sort 
+analyzed here might come from budgeting less money toward volumes of short-term 
+jobs and more money toward oversight and accountability that (a) lead to firms’ genuine 
+!33
+use of government-funded stimuli for the training necessary to keep employees for long-
+term contracts and that (b) lead to the development of entrepreneurial endeavors beyond 
+their infancy.   
+ Further work here could involve deepening investigation into the relationship 
+between economic growth and employment growth by experimenting with additional 
+global control groups and by tracking Algeria’s growth within the specific parameters of 
+modern growth models to isolate the performance of its labor variables. 
+ What’s more, as data are available, studies into other development indicators 
+(female unemployment and female productivity, for example) and their responses to 
+specific government policies will be worthwhile in the future. 
+!34
+REFERENCES 
+Agence Nationale de Gestion du Micro-Crédit (ANGEM). Algeria. 2014. Data   
+ retrieved in-person by research partners at CREAD for the project: “Evolution de  
+ la coherence des programmes de protection sociale non-contributifs en Algerie.” 
+Agence Nationale pour Soutenir l'Emploi des Jeunes (ANSEJ). Algeria. 2014. Data  
+ retrieved in-person by research partners at CREAD for the project: “Evolution de  
+ la coherence des programmes de protection sociale non-contributifs en Algerie.”  
+Agence pour le Développement Social (ADS). Algeria. 2014. Data retrieved in-person  
+ by research partners at CREAD for the project: “Evolution de la coherence des  
+ programmes de protection sociale non-contributifs en Algerie.” 
+Aly, Hassan Y.; Strazichich, Mark C. “Global Financial Crisis and Africa: Is the Impact  
+ Permanent or Transitory? Time Series Evidence from North Africa.” The   
+ American Economic Review, 101.3, 2011: 577-581. http://www.jstor.org/stable/ 
+ 29783809. Web. 
+Arellano, Manuel. Panel Data Econometrics: Advanced Texts in Econometrics. 2003.  
+ Oxford University Press. Oxford, United Kingdom. 
+Bassanini, Andrea; Scarpetta, Stefano. “The Driving Forces of Economic Growth: Panel 
+ Data Evidence for the OECD Countries.” OECD Economic Studies No. 33, 2001/ 
+ II. http://www.oecd.org/eco/growth/18450995.pdf. Web. 
+BBC.com. “Algeria profile - overview.” BBC, 5 November 2015.  
+ www.bbc.com/news/world-africa-14118853. Web. Retrieved 29 November 2015. 
+Biglan, Anthony; Ary, Dennis; Wagenaar, Alexander C. “The Value of Interrupted Time- 
+ Series Experiments for Community Intervention Research.” Prevention Science,  
+ Vol. 1, No. 1, 2000. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4553062/.  
+ Web. 
+!35
+Cullen, J.B.; Levitt, S. D.; Robertson, E.; & Sadoff, S. “What Can Be Done to Improve  
+ Struggling High Schools?” The Journal of Economic Perspectives, 27(2), 2013.  
+ http://jstor.org/stable/23391694. Web. 
+Databank.worldbank.org. “Jobs.” The World Bank Group.  
+ http://databank.worldbank.org/data/reports.aspx?source=jobs. Web.   
+ Retrieved 16 July & 28 September 2015. 
+Databank.worldbank.org. “World Development Indicators.” The World Bank Group.  
+ http://databank.worldbank.org/data/reports.aspx?source=world-development-indicators.  
+ Web. Retrieved 7 September 2015. 
+Dee, T. S.; Jacob, B. A.; Hoxby, C. M.; & Ladd, H. F. “The Impact of No Child Left  
+ Behind on Students, Teachers, and Schools (with Comments and Discussion).  
+ Brookings Papers on Economic Activity, 2010: 149-207. http://www.jstor.org/ 
+ stable/41012846. Web. 
+Denison, Edward F. “Education, Economic Growth, and Gaps in Information.” Journal  
+ of Political Economy 70.5, 1962: 124-128. http://www.jstor.org/stable/1829108.  
+ Web. 
+Eicher, Theo S. “Interaction Between Endogenous Human Capital and Technological  
+ Change.” The Review of Economic Studies 63.1, 1996: 127-144. http://  
+ www.jstor.org/stable/2298118. Web. 
+Furceri, Davide. “Unemployment and Labor Market Issues in Algeria.” International  
+ Monetary Fund, IMF Working Papers: 12/99, 2012. http://www.imf.org/external/ 
+ pubs/ft/wp/2012/wp1299.pdf. Web. 
+Gelardi, A. M. G. “The Influence of Tax Law Changes on the Timing of Marriages: A  
+ Two-Country Analysis.” National Tax Journal. March 1996, 49(I). 
+Kelley, Allen C. “The Demand Patterns, Demographic Change and Economic Growth.”  
+ The Quarterly Journal of Economics 83.1, 1969: 110-126. http://www.jstor.org/ 
+ stable/1883996. Web. 
+Kpodar, Kangni. “Why Has Unemployment in Algeria Been Higher than in MENA and  
+ Transition Countries?” CERDI, Working Papers: 20083, 2008.    
+ http://publi.cerdi.org/ed/2008/2008.03.pdf. Web. 
+!36
+Melamed, Claire; Hartwig, Renate; Grant, Ursula. “Jobs, growth and poverty: what do  
+ we know, what don’t we know, what should we know?” Overseas Development  
+ Institute, Background Note: May 2011. www.odi.org.uk. Web. 
+Merouani, Walid. “The Three Worlds of Welfare Capitalism: A Lesson from Algeria.”   
+ The 22nd International Research Conference of the Foundation for   
+ International Studies on Social Security. 2015. Hong Kong. 
+Musette, Mohamed Saïb; Lassassi, Moundhir; Mouloud, Mohamed. Employment  
+ Policies and Active Labour Market Programmes in Algeria. 2014. European  
+ Training Foundation. 
+Office National des Statistiques (National Office of Statistics in Algeria). “Activité,  
+ Emploi & Chomage.” 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,  
+ 2012, 2013, 2014. 
+Office National des Statistiques. “Enquête Emploi Auprès des Menages.” By: La   
+ Direction technique chargée des statistiques de la Population et de l’Emploi.  
+ Collections Statistiques No 173. 2011. 
+Office National des Statistiques. “Les Comptes Économiques de 2000 à 2013.”  
+ Collections Statistiques No 669. 2013. 
+Ramsay, C.R.; Matowe, L.; Grilli, R.; Grimshaw, J.M.; Thomas, R.E. “Interrupted Time  
+ Series Designs in Health Technology Assessment: Lessons from Two Systematic  
+ Reviews of Behavior Change Strategies.” International Journal of Technological  
+ Assessment of Health Care, 2003, 19: 613-23.  
+Roodman, David. “How to do xtabond2: An introduction to difference and system GMM 
+ in Stata.” 9.1, 2009: 86-136. http://www.stata-journal.com/sjpdf.html?  
+ articlenum=st0159. Web. 
+Solow, Robert M. “A Contribution to the Theory of Economic Growth.” The Quarterly  
+ Journal of Economics, Vol. 70, No. 1., Feb. 1956: 65-94.  
+ http://www.econ.nyu.edu/user/debraj/Courses/Readings/Solow.pdf. Web. 
+Titmuss, R.M. Social Policy. 1974. Allen and Unwin. London.  
+ http://www.econ.boun.edu.tr/content/2015/summer/EC-48B01/Lecture  
+ %20Note-4_Titmuss_1974-06-30-2015.pdf. Web. 
+!37

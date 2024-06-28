@@ -1,0 +1,1074 @@
+Economic Recovery Tax Act of 1981
+
+The University of Akron
+IdeaExchange@UAkron
+Akron Law Review Akron Law Journals
+July 2015
+Economic Recovery Tax Act of 1981
+Merlin G. Briner
+Please take a moment to share how this work helps you through this survey. Your feedback will be
+important as we plan further development of our repository.
+Follow this and additional works at: https://ideaexchange.uakron.edu/akronlawreview
+Part of the Law and Economics Commons
+This Article is brought to you for free and open access by Akron Law Journals at IdeaExchange@UAkron, the
+institutional repository of The University of Akron in Akron, Ohio, USA. It has been accepted for inclusion in
+Akron Law Review by an authorized administrator of IdeaExchange@UAkron. For more information, please
+contact mjon@uakron.edu, uapress@uakron.edu.
+Recommended Citation
+Briner, Merlin G. (1982) "Economic Recovery Tax Act of 1981," Akron Law Review: Vol. 15 : Iss. 2 , Article 3.
+Available at: https://ideaexchange.uakron.edu/akronlawreview/vol15/iss2/3
+ECONOMIC RECOVERY TAX ACT OF 1981
+MERLIN G. BRINER*
+INTRODUCTION
+T-HE 1981 ACT represents a dramatic approach to the revision of the
+federal tax law. For the first time in recent history Congress has
+drastically reduced income, gift and estate taxes. The goals of the Act as
+set forth in the report of the United States Senate Finance Committee are:
+to insure economic growth in the future; to upgrade the country's industrial
+base; to stimulate productivity and innovation; to lower personal income
+taxes; to control the growth of the federal government; to restore certainty
+to economic decision making; and to provide a sound basis for economic
+recovery. The objective of the $750 billion tax cut to be phased in by 1987
+is to restore and create incentives for both individuals and businesses to
+"work, produce, save and invest."
+In essence this Act and the results it either produces or fails to produce
+will be a test of our free enterprise system. The Act, coupled with the ad-
+ministration's policy of deregulation and relaxing government controls of
+business, provides the opportunity business leaders have been looking for.
+A key to future economic health is the reduction of federal expenditures.
+If these cannot be curtailed, the combined effect of expenditures and re-
+duced tax revenues on inflation will be disasterous. If expenditures cannot
+be controlled, then taxes will have to be increased substantially in the not
+too distant future.
+As this article goes to press, measures the administration is proposing
+include: requiring corporations and contractors to pay taxes earlier; elimi-
+nating tax credits for insulation and solar heating; restricting the issuance
+of tax exempt industrial development bonds; and increasing the income tax
+on unemployment pay. Democrats and some Republicans are also urging
+that excise taxes on gasoline, telephone calls, cigarettes and liquor be in-
+creased; that cost of living increases for retirees be deferred and that oil
+tax breaks be restricted.
+Compiling this article required a concentrated effort to meet the pub-
+lication deadlines for the fall issue of the Law Review. This article, in
+addition to the annual Tax Developments article, proved the dedication
+of the contributing authors and the Law Review staff. Appreciation is
+hereby expressed to the following students who made substantial contribu-
+tions in the researching and writing of this article:
+*Professor of Law, University of Akron School of Law; formerly Manager, Tax Department,
+The Timken Co., Canton, Ohio; B.A.A., Wichita State University; J.D., University of Akron
+School of Law.
+[325] 1
+Briner: Economic Recovery Tax Act of 1981
+Published by IdeaExchange@UAkron, 1982
+AKRON LAW REVIEW
+Ann Amer Brennan William R. Meyer, Jr.
+David C. McAlister Thomas J. Thomas
+Special appreciation is extended to William Meyer and Amie Bruggeman
+for their dedicated efforts in editing.
+TABLE OF CONTENTS
+1:00 Individual Income Tax Changes
+1.01 Individual Income Tax Rate Changes
+1.02 Maximum Capital Gains Rate - Personal Holding Company Rate
+1.03 Alternate Minimum Tax
+1.04 Marriage Tax Lessened
+1.05 Exclusion for Dependent Care
+1.06 Savings Interest Exclusion
+1.07 Child and Dependent Care Credit
+1.08 Indexing
+1.09 Residential Exclusion Amount for Over 55's Increased
+1.10 Sale of Residence Roll-Over Period Increased
+1.11 Dividend Interest Exclusion
+2:00 Corporate Business Tax Changes
+2.01 Corporate Charitable Deduction Raised
+2.02 Gifts and Awards to Employees
+2.03 Corporate Tax Rates Lowered
+2.04 Tax Credit and Extension of Loss Carryovers
+2.05 Subchapter S Corporations
+2.06 Accumulated Earnings Tax Credit Increased
+3.00 Business Incentive Provisions
+3.01 Election to Expense Certain Assets
+3.02 Anti-Churning Rules
+3.03 Minimum Tax on Accelerated Cost Recovery System
+3.04 Accelerated Cost Recovery System for Personal Property
+3.05 Accelerated Cost Recovery System for Real Property
+3.06 Carryover of Recovery Attributes
+3.07 Calculating Earnings and Profits Under Accumulated Cost
+Recovery System
+3.08 Research and Development Credit
+3.09 Safe Harbor Leases
+3.10 Incentive Stock Options
+3.11 Investment Credit - New Percentage Applicable
+4.00 Retirement Savings Provisions
+4.01 Individual Retirement Accounts - Deductions, Contributions and
+Eligibility
+4.02 Qualified Voluntary Employee Contributions
+[Vol. 15:2
+2
+Akron Law Review, Vol. 15 [1982], Iss. 2, Art. 3
+https://ideaexchange.uakron.edu/akronlawreview/vol15/iss2/3
+ECONOMIC RECoVERY TAX AcT OF 1981
+4.03 Keogh, Simplified Employee Plan (S.E.P.) and Subchapter S Plan
+4.04 Qualified Retirement Plan - Constructive Receipt
+4.05 Employee Stock Ownership Plan - Payroll Based Credit,
+Leveraged ESOP's, Distributions
+5.00 Estate and Gift Tax Changes
+5.01 Unified Tax Credit
+5.02 Reduction of Transfer Taxes
+5.03 Unlimited Martial Deduction
+5.04 Marital Deduction - Charitable Remainder Trust
+5.05 Joint Ownership of Property
+5.06 Gift Tax Exclusion - Medical and Educational Expenses
+5.07 Basis of Appreciated Property Acquired by Decedent by Gift
+Within One Year of Death
+5.08 Disclaimer
+5.09 Gift Tax - Annual Exclusion
+5.10 Gifts Made Within Three Years of Donor's Death
+5.11 Gift Tax - Annual Return
+5.12 Stock Redemptions
+1:00 Individual Income Tax Changes
+1.01 Individual Income Tax Rate Changes
+I.R.C. §§ 1, 1348 - Act § 101. Effective for rate changes 10-1-81
+and for repeal 12-31-81.
+After October 1, 1981, tax rates for individuals will be reduced the
+equivalent of 5% for the remainder of 1981. The reduction will be accom-
+plished by means of a 1.25% credit against tax liability. For example, a
+taxpayer who owes $3,398 in taxes will receive a $42.48 credit against this
+amount. For 1982 and 1983, the rates will be decreased 10% each year.
+In 1984, the remaining 5% of the cut will go into effect. The overall result
+of these reductions will be a 23% cut in rates from the present structure.
+A married taxpayer filing jointly who earns $27,500 in 1981 will
+pay $5,433 in taxes. In 1984, the tax on the same salary will be $4,190,
+a savings of $1,243. The present marginal rates range from 14% to 70%
+while the new rates, when the cuts are finally phased in, will range from
+11% to 50%. Because the highest marginal tax rate has now been dropped
+to 50%, the section 1348 provision for the maximum tax on earned per-
+sonal service income is no longer necessary, and it has therefore been re-
+pealed. Where possible, it is advantageous to most taxpayers to shift de-
+ductions into the 1981 tax year and to defer income until 1982. If the
+taxpayer knows that certain deductible items will be owing in 1982, he
+may'wish to consider prepayment in order to take maximum advantage of
+the benefits of the new law.
+Fall, 198i)
+3
+Briner: Economic Recovery Tax Act of 1981
+Published by IdeaExchange@UAkron, 1982
+AKRON LAW REVIEW
+1.02 Maximum Capital Gains Rate - Personal Holding Company Rate
+Act §§ 101, 102. Effective as to exchanges after 6-9-81.
+I.R.C. § 541 - Act § 101. Effective after 12-31-81.
+With the maximum tax rate now scheduled to be 50%, the tax on
+capital gains has effectively dropped from 28% (70% rate x .40) to 20%
+(50% x .40). This provision affects all sales or exchanges made after June
+9, 1981, and will therefore result in an increased flow of capital before the
+end of the year.
+A taxpayer who has net capital gain in 1981 must make two separate
+computations and pay tax on the lesser amount. First the tax is computed
+on all of the taxable income including 40% of qualified net capital gain.
+The tax is then computed on all income other than 40% of qualified net
+capital gain plus 20% tax on qualified net capital gain.
+The change in the maximum tax rate will also affect the rate on un-
+distributed personal holding company income. This rate will drop from
+70% to the new maximum 50%.
+1.03 Alternative Minimum Tax
+I.R.C. § 55(a) - Act § 102. Effective as to transfers after 6-9-81.
+The new Act lowers the alternative minimum tax on items of tax
+preference. The rate for tax year 1982 will be 10% on amounts from
+$20,000 to $60,000 and 20% on the excess above $60,000. For the re-
+mainder of 1981, a special rule will apply. The tax will be the lesser of
+the tax computed according to the usual method or the tax an alternative
+minimum taxable income other than qualified net capital gain plus a 20%
+tax on qualified net capital gain.
+1.04 Marriage Tax Lessened
+I.R.C. § 221 - Act § 103. Effective after 12-31-81.
+In providing for the joint filing of income tax returns in 1948, Con-
+gress intended to promote the marital relationship by giving it a certain tax
+preference. Joint filing served this aim because most women were not em-
+ployed outside the home and there was only one income to be considered.
+As more women began to work outside the home, an unforseen complica-
+tion arose. When the woman's salary was added to that of her husband, the
+couple was pushed into a higher tax bracket and was forced to pay more
+than if each had filed separate returns. Some couples attempted year-end
+divorces to counter this effect, while others saw this tax result as a reason
+to delay or avoid marriage.
+The Economic Recovery Tax Act attempts to alleviate this problem
+by giving a deduction of 5% in 1982, and 10% thereafter, for either
+$30,000 or the earned income of the lower paid spouse, whichever is less.
+In other words, a maximum deduction of $1,500 is allowed in 1982 and
+[Vol. 15:2
+4
+Akron Law Review, Vol. 15 [1982], Iss. 2, Art. 3
+https://ideaexchange.uakron.edu/akronlawreview/vol15/iss2/3
+ECONOMIC RECOVERY TAx AcT oF 1981
+$3,000 thereafter. The deduction is to be taken from gross income, so that
+in order to use it, a couple need not itemize. Certain deductible items, in-
+cluding trade or business expenses, certain employee business expenses,
+contributions to either Keoghs, IRAs or Subchapter S pension plans, or re-
+quired repayments of supplemental unemployment benefits, must be de-
+ducted in computing qualified earned income.
+The marriage penalty has been most severe for those couples whose
+incomes are relatively equal. Consider the effect on a husband and wife
+each earning $22,000 per year, for a combined total of $44,000. In 1982,
+they can deduct $1,100 from their gross income (5% of the lesser income
+up to $1,500) leaving a total of $42,900 for a tax bill of $10,326, assum-
+ing no deductions. If, however, each had filed separately, the tax for each
+would be $4,372 for a combined total of $8,744. The marriage tax here is
+still $1,582.
+If the taxpayer uses the exemption and zero bracket amounts as he
+should, the difference becomes even greater because the zero bracket amount
+for an unmarried person is $2,300 and only $3,400 for a married couple,
+not $4,600. It is in this area that future legislation will be necessary. One
+possible solution would be to allow married persons to elect to file as
+single if it is to their advantage. This would achieve the desired result without
+the present complications.
+1.05 Exclusion for Dependent Care
+I.R.C. § 129 - Act § 124(e)(1). Effective after 12-31-81.
+If an employer provides dependent care program assistance, either by
+payment or by provision of services which would be employment-related
+expenses for an individual, the amount so provided is not considered in-
+come to the employee. However, the maximum expense limitations of
+$2,400/$4,800 applicable to persons still apply just as they do under the
+child care credit provisions. Any amounts in excess of these figures cannot
+be excluded from the employee's income. The exclusion is allowed for pay-
+ments to either an employee's child under age 19 or an individual related
+to the employee, if they are claimed as dependency exemptions.
+In order to qualify, the program must be in writing and for exclusive
+benefit of employees. It must not discriminate in favor of officers, owners
+or highly compensated individuals. If a union and employer engage in good
+faith bargaining which results in exclusion of union employees, however,
+this discrimination will not disqualify the program. No more than 25%
+of the assistance may be provided to shareholders or owners of more than
+5 % of the stock, capital or profit interest. The program need not be funded.
+Eligible employees must be given reasonable notice of the availability and
+terms of the program. A yearly written statement must be given each em-
+Fan, 198 11
+5
+Briner: Economic Recovery Tax Act of 1981
+Published by IdeaExchange@UAkron, 1982
+AKRON LAw REVIEW
+ployee indicating the amounts paid or the expenses incurred by the em-
+ployer in providing the care during the preceding year.
+If an amount is excluded under this provision, the same amount cannot
+also be deducted or used as a credit elsewhere on the tax return. None of
+the amounts excluded by the employee are subject to withholding, social
+security or unemployment tax.
+This is an excellent fringe benefit which should prove to be extremely
+valuable to both the employer and the employee because of the increased
+number of women who are now employed.
+1.06 Savings Interest Exclusion
+I.R.C. § 128 - Act § 301. Effective after 9-30-81.
+Because of extensive lobbying by the savings industry, as well as a
+congressional desire to encourage savings, the Economic Recovery Tax Act
+grants a $1,000 individual lifetime exclusion for tax exempt savings cer-
+tificates. Married persons filing joint returns may exclude a total of $2,000.
+There are very strict rules which must be followed in order for the
+certificate to qualify. The certificate must: (1) be issued after September
+30, 1981, and before January 1, 1983; (2) be issued by a qualified sav-
+ings institution (defined in section 128); (3) be available in denominations
+of $500; (4) have a maturity of one year; and (5) yield 70% of the average
+investment yield for the most recent auction of 52-week Treasury Bills.
+If a person pledges this certificate as collateral, it shall be treated as
+redeemed and the exclusion will be lost. Also, the penalty for early withdrawal
+of funds in this certificate is a loss of the interest exclusion on that particular
+certificate.
+For an institution other than a credit union to qualify to issue the
+certificates, the institution must provide qualified residential financing dur-
+ing the succeeding calendar quarter that is not less than the lesser of 75%
+of the face amount of certificates issued during the calendar year or 75%
+of the qualified net savings for the calendar quarter. In other words, each
+institution is obligated to lend 75% of the money it is receiving from
+these certificates or 75% of its net savings. This provision con-
+stitutes an effort to stimulate the housing industry by providing more funds
+for loans. However, the wording is such that the industry believes it can
+comply with this requirement without actually directly making new loans
+with these new deposits.
+1.07 Child and Dependent Care Credit
+:LR.C. § 44A -Act § 124. Effective after 12-31-81.
+The Tax Reform Act of 1976 changed child care expenses -resulting
+from parental :employment from a deduction to a credit. The maximum,
+expense allowed in calculating the credit was $2;000 for 1 child, and $4,000
+[Vol. 15:2
+6
+Akron Law Review, Vol. 15 [1982], Iss. 2, Art. 3
+https://ideaexchange.uakron.edu/akronlawreview/vol15/iss2/3
+ECONOMIC RECOVERY TAX ACT OF 1981
+for 2 or more children. The credit was 20% of the expenses or a maximum
+of $400 and $800, respectively.
+Under the Economic Recovery Tax Act, the percentage of allowable
+credit is increased to 30% of the employment related expenses for a person
+with an adjusted gross income of $10,000 or less. The ceiling on expenses
+is increased to $2,400 for one child and $4,800 for two or more. The 30%
+credit is reduced 1% for each additional $2,000 of earned income up to
+$28,000. The credit is 20% for earned income over $28,000. Congress
+increased the credit as a work incentive, especially for persons in low and
+middle income brackets. The definition of employment related expenses
+for outside services has been broadened to cover not only a dependent
+under 15, but also an individual who regularly spends at least 8 hours each
+working day in the taxpayer's household.
+In order to receive a credit for the expenses of a dependent child care
+center, the center must comply with state and local laws and provide care
+for more than 6 children. This will probably eliminate many small home
+care centers that may or may not be providing quality care.
+Employment related expenses cannot exceed the individuals' earned
+income if they are not married. If married, the expenses may not exceed
+the lesser of the earned income of the taxpayer or the spouse. Income is
+imputed to a dependent spouse who is either a student or incapacitated.
+As a result of the increase in allowable expense for the care of a student
+or an incapacitated spouse, it is necessary to increase the amount of income
+imputed to such a spouse. Thus, imputed income is increased from $166
+to $200 per month for families with one qualifying dependent and from
+$333 to $400 per month if there are two or more qualifying dependents.
+1.08 Indexing
+I.R.C. § 1(f), 151(f) - Act § 104. Effective after 12-31-84.
+As a result of inflation, many individuals have received an increase in
+wages. However, their actual purchasing power has remained the same or
+decreased because they have been forced into higher marginal tax brackets.
+This "bracket creep" is the result of considering an increase in income as
+a taxable gain rather than a nontaxable event which restores the status quo.
+As more and more individuals are taxed at higher marginal tax brackets
+without a corresponding increase in their lifestyle, the net result is a
+greater tax liability.
+The Economic Recovery Tax Act of 1981 will reduce this "bracket
+creep." Beginning with taxes in 1985, the amounts of personal exemptions,
+zero bracket amounts and tax bracket amounts will be tied to the Con-
+sumer Price Index. On September 30 of each year the amount of change
+in the Consumer Price Index from the preceding year will be determined
+Fall, 198 1]
+7
+Briner: Economic Recovery Tax Act of 1981
+Published by IdeaExchange@UAkron, 1982
+AKRON LAW REvIEw
+in order to prepare new tax tables. The base year for the Consumer Price
+index will be 1983. If the 1984 price index is higher than that of the base
+year, that percentage of change will be used to adjust these various factors
+upward.
+There has been some fear expressed that by indexing in this manner,
+inflation will become institutionalized, and the incentive of the taxpayer
+to control it will be dissipated. However, it will take some years of experience
+before the effectiveness of indexing can be determined. Hopefully, by
+1985 when this procedure is begun, inflation will be controlled.
+1.09 Residential Exclusion Amount for over 55's Increased
+I.R.C. § 121(b) - Act § 123. Effective after 7-20-81.
+Recognizing the effect which inflation has had on the selling prices
+of homes, the Economic Recovery Tax Act increases the amount of the
+one-time exclusion of gain realized on the sale of a principal residence by
+a person 55 years or older. The residence must have been owned as such
+for 3 of the last 5 years. A married taxpayer filing a joint return may
+now exclude up to $125,000 of the gain on a sale rather than the $100,000
+allowed under the 1976 Act. A single person is limited to an exclusion
+of $62,500.
+For example, a 59-year-old taxpayer sells his principal home for
+$110,000 which he has owned for 15 years. The basis in the property is
+$35,000 and there are selling and pre-sale fixup expenses of $16,500. The
+realized gain is $58,500. If the taxpayer elects to use the exclusion now,
+the entire gain is excluded from income. This is a one-time opportunity
+for taxpayers and there is no carry forward as to any unused portion of
+the total exclusion.
+1.10 Sale of Residence Roll-Over Period Increased
+I.R.C. § 1034 - Act § 122. Effective after 7-20-81 for sales and
+exchanges.
+A taxpayer now has two years in which to invest the proceeds from the
+sale of a principal residence into an equally or more expensive residence
+without recognizing gain. Previously the two-year period had been available
+only if the taxpayer was building a home, while for the purchase of an
+existing residence the period was 18 months.
+Perhaps the most helpful aspect of this section is that it applies to
+sales or exchanges whose 18 month roll-over period had not expired as
+of July 20, 1981. Because of the sluggish character of the home sale mar-
+ket, many people have been unwilling to commit to a high interest mortgage
+even to avoid recognizing gain. There is now a longer period available to
+determine what action they will take.
+[Vol. 15:2
+8
+Akron Law Review, Vol. 15 [1982], Iss. 2, Art. 3
+https://ideaexchange.uakron.edu/akronlawreview/vol15/iss2/3
+ECONOMIC RECOVERY TAX ACT OF 1981
+1.11 Dividend Interest Exclusion
+I.R.C. § 116 - Act § 302. Effective after 12-31-81.
+Under prior law, the exclusion available for interest and dividend in-
+come was increased to $200 for an individual return and $400 for a joint
+return. This has been effective for only one tax year, 1981, because the
+Economic Recovery Tax Act reenacts the exclusion for dividends to $100
+for individuals and $200 for taxpayers filing joint returns. In recommend-
+ing this action, the Committee stated that it did not believe that the previous
+excluded amounts had been sufficient to stimulate savings. Other provisions
+in the Act, particularly the exemption for all savers certificates, provide
+new and better incentives.
+Starting with the 1985 tax year, a taxpayer will be allowed to exclude
+from gross income earned interest up to a maximum of $450 for a single
+return, $900 for married, filing jointly. This amount will be computed
+by taking 15% of the lesser of $3000 on a single return or $6000 for a
+joint return or the net difference between the amount of interest paid and
+interest earned. To arrive at this figure it will not be necessary to include
+any interest payments on either home mortgages or trade or business re-
+lated loans. These particular amounts will continue to be fully deductible by
+the taxpayer. This action is yet another manifestation of the desire of Con-
+gress to encourage Americans to save.
+2:00 Corporate Business Tax Changes
+2.01 Corporate Charitable Deduction Raised
+I.R.C. § 170(b)(2) - Act § 263. Effective in tax years beginning
+after December 31, 1981.
+Previously corporations could deduct their contributions to charity
+up to a maximum of 5 % of their taxable income. The Act raises this limit
+to 10% of taxable income. This is apparently a concession to charitable
+institutions affected by previous budget cuts.
+2.02 Gifts and Awards to Employees
+I.R.C. § 274(b) - Act § 265. Effective in tax years ending on or aftei
+date of enactment.
+Gifts of tangible personal property to an employee costing $100 or
+less have been deductible for an employer where the gift was given for the
+employee's service or safety record. The limit on deductibility has now
+been increased to $400. In addition, a new category of awards, the qualified
+plan award, has been created. Awards given for productivity also qualify
+under the Act.
+A qualified plan award is an award given pursuant to a permanent
+written plan which does not discriminate in favor of officers, shareholders,
+or highly compensated employees with regard to eligibility or benefits. Al-
+Fall, 198 1]
+9
+Briner: Economic Recovery Tax Act of 1981
+Published by IdeaExchange@UAkron, 1982
+AKRON LAW REVIEW
+though the average cost of all items awarded cannot exceed $400, individual
+awards can cost up to $1,600 and still be eligible for the qualified plan
+award.
+It should be noted that the Act did not increase the $25 limitation
+of section 274(b)(1) for gifts to other individuals, such as customers or
+clients.
+2.03 Corporate Tax Rates Lowered
+I.R.C. § 11(b) - Act § 231(a). Effective in years beginning after 1981.
+Effective in years starting after December 31, 1981, the corporate in-
+come tax rate drops to 16% from 17% for any income not greater than
+$25,000. For income over $25,000 but not over $50,000, the rate drops
+from 20% to 19%. Another reduction occurs for years beginning after
+December 31, 1982. The rate becomes 15% for the $0 to $25,000 bracket
+and 18% for the $25,000 to $50,000 bracket. The statutory procedure for
+proration may be found in section 21.
+Assuming a calendar year as the tax year, a corporation with $25,000 of
+income per year will pay $250 less tax in 1982, and $500 less tax in 1983
+and beyond. A corporation making $50,000 per year will pay $500 less
+tax in 1982, and $1,000 less tax in 1983 and beyond. This reduction
+coupled with the increase in the accumulated earnings credit from $150,000
+to $250,000 provides an incentive for small corporations to retain funds
+in the corporation.
+2.04 Tax Credit and Extension of Loss Carryovers
+I.R.C. §§ 44E (e), 46(b), 50A(b), 53(b), 172(b) & (g), 812(b), 825(d) -
+Act § 207. Effective date varies.
+Carryovers of net operating losses are extended from 7 to 15 years for
+tax years ending after 1975. Also covered under the 15-year rule are regu-
+lated transportation companies and certain insurance companies which
+previously had 9 and 8 year carryovers respectively.
+Similarly, the carryover period for unused investment tax credits and
+work incentive program credits is lengthened from 7 years to 15 years for
+years ending after 1973. Furthermore, the carryover period for the new
+employee credit is expanded to 15 years from 7 years for years beginning
+after 1976. The Act also extends the alcohol fuels credit carryover period
+for years ending after September 30, 1980 from 7 to 15 years.
+2.05 Subchapter S Corporations
+I.R.C. § 1371(e) & (g) - Act § 234. Effective for tax years beginning
+after December 31, 1981.
+Previously, the maximum number of shareholders a corporation could
+have and still qualify under Subchapter S was 15. This is increased to 25
+by the Economic Recovery Tax Act.
+[Vol. 15:1
+10
+Akron Law Review, Vol. 15 [1982], Iss. 2, Art. 3
+https://ideaexchange.uakron.edu/akronlawreview/vol15/iss2/3
+ECONOMIC RECOVERY TAX ACT OF 1981
+2.06 Accumulated Earnings Tax Credit Increased
+I.R.C. §§ 243(b)(3)(c)(i), 535(c)(2) & (3), 1561(a)(2) - Act § 232.
+Effective in tax years beginning after December 31, 1981.
+To allow for the ravages of inflation, the minimum credit to offset ac-
+cumulated earnings for the accumulated earnings tax on corporations is
+increased from $150,000 to $250,000. However, personal service corpo-
+rations whose principal business is providing services in health, law, engi-
+neering, architecture, accounting, actuarial science, performing arts or
+consulting, retain only a $150,000 minimum credit. This reflects the belief
+that most personal service corporations do not require a substantial working
+capital.
+3.00 Business Incentive Provisions
+3.01 Election to Expense Certain Assets
+I.R.C. §§ 179, 453(i), 1245(a) - Act § 202. Effective when the
+property is placed in service after December 31, 1980.
+Prior law allowed an additional first-year depreciation allowance, or
+"bonus" depreciation, of up to 20% of the cost of qualified personal prop-
+erty. This was limited to a maximum deduction of $2,000 for corporations,
+partnerships and single individuals or $4,000 for married individuals filing
+joint returns. The new law repeals this additional first-year deduction for
+property placed in service after December 30, 1980, and substitutes an
+election to treat the cost of certain assets as an expense. The new election
+is available for property placed in service after December 31, 1981, there-
+fore allowing neither "bonus" depreciation nor a deduction for property
+placed in service during 1981. This oversight may be corrected by the tech-
+nical corrections act which always follows a major tax bill.
+The maximum amount that may be expensed is $5,000 per year for
+property placed in service during 1982 and 1983. The limit increases to
+$7,500 in 1984 and 1985. For 1986 and later, the limitation is $10,000.
+These dollar limitations are reduced by 50% for married individuals filing
+separate returns. The amount expensed does not qualify for the investment
+credit.
+The election is available for personal property eligible to be treated as
+recovery property, if it is acquired by purchase for use in a trade or business
+and is eligible for the investment credit. The "use" requirement means
+that property held merely for the production of income does not qualify.
+The "purchase" requirement means that property will not be eligible if
+acquired from a related person or from a controlled group of which taxpayer
+is a member, or if the basis of the property is in whole or in part a carryover
+basis.
+A "controlled group" of corporations (as determined under Code sec-
+tion 1563 using a 50% test), is treated as one taxpayer, and must therefore
+Fall, 198 1]
+11
+Briner: Economic Recovery Tax Act of 1981
+Published by IdeaExchange@UAkron, 1982
+AKRON LAW REVIEW
+allocate the dollar limitation among members of the group. Also, the dollar
+limitation applies both to partnerships and to each partner. The new law
+further provides that any portion of the basis of the property which is de-
+termined by reference to the basis of property traded in is not eligible for the
+election. The election must be made on an original return, and the taxpayer
+must specify the items of property to which the election applies and the
+amount thereof.
+A disposition of the property triggers recapture under section 1245 of
+the amount expensed as ordinary income. If expensed property has been
+disposed of in an installment sale, the taxpayer must immediately recognize
+any gain to the full amount expensed. The amount of this recognized gain
+is then added to the adjusted basis of the property to determine the profit
+ratio of the installment payments to be received later. But, because the in-
+stallment payments are deemed to be received immediately, the taxpayer's
+tax liability arising from the transaction could conceivably exceed the pay-
+ments actually received during that tax year. The best way to avoid this
+situation is not to sell expensed property for installment notes. If the tax-
+payer must sell in installments, he should make certain that the payments
+he receives in the year of the sale are at least equal to his tax liability aris-
+ing from the sale. Because the investment credit is not allowed for ex-
+pensed property, the tax benefits from using the shorter accelerated ACRS
+method may in some instances exceed the tax benefits of expensing the
+property. Taxpayers in lower brackets may find this to be the case because
+the credit to them will provide a greater tax benefit than a deduction.
+3.02 Anti-Churning Rules
+I.R.C. § 168(e)(4) - Act § 201. Effective as to property acquired
+after December 31, 1980, and before January 1, 1986.
+To prevent a taxpayer from attempting to bring his pre-Accelerated
+Cost Recovery System (ACRS) property, which was placed in service before
+January 1, 1981, under ACRS through questionable transactions, special
+anti-churning rules were included in the new law. To qualify for ACRS
+treatment, depreciable personal property acquired by the taxpayer after
+December 31, 1980, must not have been (1) owned or used by the tax-
+payer or a related person at any time during 1980; (2) acquired from a
+person who owned the property at any time during 1980, and the user of
+the property has not changed; (3) leased to a person (or a person related
+to such person) who owned or used the property at any time during 1980);
+or (4) acquired in a transaction in which the user does not change and the
+property did not qualify as ACRS property in the hands of the person from
+whom the property is acquired by reason of (2) or (3) above. The require-
+ment of user change prevents sale and leaseback transactions from qualifying.
+These new rules do not apply to property "owned" in 1980 but not used
+(Vol. 15:2
+12
+Akron Law Review, Vol. 15 [1982], Iss. 2, Art. 3
+https://ideaexchange.uakron.edu/akronlawreview/vol15/iss2/3
+ECONOMIC RECOVERY TAX AcT OF 1981
+until after 1980. Property is not owned for purposes of this section until it is
+in service.
+Depreciable real property will not qualify for ACRS treatment if the
+property was acquired after December 31, 1980, and if the property
+had been (1) owned by the taxpayer or a related person at any time during
+1980; (2) leased to a person (or a person related to such person) who
+owned such property at any time during 1980; or (3) acquired certain like
+kind exchanges, "rollovers" of low-income housing, involuntary conversions,
+or repossessions, for property owned by the taxpayer or a related person
+during 1980. This last requirement applies only to the extent of the sub-
+stituted basis in the property, so any remaining basis attributable to boot
+is eligible for ACRS treatment.
+A related person is defined under section 267(b) or section 707(b)(1)
+using the 10% test for control rather than the 50% test, or persons en-
+gaged in trades or businesses under common control using the control
+tests of sections 52(a) and (b). An exception to the related person test is
+a corporation which purchases stock to get assets in a section 334(b)(2)
+corporate liquidation.
+The Secretary is given broad powers to enforce the anti-churning rules,
+and any property which is acquired in a transaction for the purpose of
+avoiding the anti-churning rules will be denied ACRS treatment. In addi-
+tion, similar anti-churning rules are to be issued by the IRS to prevent
+taxpayers from attempting to qualify property placed in service before
+1985 or 1986 for the more accelerated methods of cost recovery which
+go into effect after 1984.
+3.03 Minimum Tax on Accelerated Cost Recovery System
+I.R.C. § 57 -Act § 2.05. Effective as to property placed in service
+December 31, 1980.
+Under prior law, accelerated depreciation of real property or leased
+personal property was an item of tax preference subject to the 15% mini-
+mum tax imposed by section 56. The same rules hold true for Accelerated
+Cost Recovery System (ACRS) property. The amount subject to the mini-
+mum tax for real property is the excess of the ACRS deduction for the
+tax year over the allowable straight line deduction using a 15 year re-
+covery period with no salvage value. For leased personal property, it is the
+excess of the ACRS deduction for the year over the allowable straight
+line deduction using extended recovery periods with no salvage value. The
+half-year convention is also required. The extended recovery periods are
+five years for 3-year property, eight years for 5-year property, 15 years for
+10-year property, and 22 years for 15-year property. The effect of the
+extended recovery periods is to increase the amount subject to the prefer-
+ence tax by lowering the allowable straight line deduction. These rules are
+NIL 1911]
+13
+Briner: Economic Recovery Tax Act of 1981
+Published by IdeaExchange@UAkron, 1982
+AKRON LAW REVIEW
+not applicable to corporations other than Subchapter S or personal holding
+companies.
+3.04 Accelerated Cost Recovery System for Personal Property
+I.R.C. §§ 168, 263, 1245 - Act §§ 201, 204. Effective as to
+property placed in service after December 31, 1980.
+Under prior law, depreciation deductions were designed to reflect the
+recovery of cost over the useful life of an asset. The midpoint lives in the
+Asset Depreciation Range (ADR) were based upon actual industry expe-
+rience, and the taxpayer could elect to depreciate an asset over any period
+between 80% and 120% of the ADR midpoint life of the asset. The tax-
+payer could also elect not to use ADR, but the useful lives chosen would
+have to be determined according to the facts and circumstances pertaining
+to each asset. Another choice available to the taxpayer was the election to
+use the straight line method of depreciation or certain accelerated methods.
+The Accelerated Cost Recovery System (ACRS) replaces ADR with
+recovery periods that are generally shorter than the useful lives of the
+assets and tables that are based on accelerated methods of depreciation.
+There are also several elections available to the taxpayer to provide flexi-
+bility. One election is to exclude property from ACRS and depreciate it
+under any method of depreciation not expressed in a term of years, such
+as the unit-of-production method.
+The recovery periods under ACRS are 3, 5, 10 or 15 years, depending
+upon the type of asset to be depreciated. Personal property placed in the
+3-year class includes automobiles, light duty trucks, equipment used for
+research and development, machinery or equipment with an ADR midpoint
+life of four years or less, race horses which are more than two years old
+when placed in service, or any horse that is more than 12 years old when
+placed in service. The 5-year class contains all depreciable personal property
+not included in other classes, single-purpose agricultural structures, facili-
+ties for the storage of petroleum and its primary products, and public
+utility property with an ADR midpoint life of 18 years or less. The 10-year
+class contains public utility property with an ADR midpoint life of at least
+18.5 years but no more than 25 years, railroad tank cars, section 1250
+property with an ADR midpoint life of 12.5 years or less, and qualified
+coal utilization property not included in the 5-year or 15-year classes. The
+15-year class of personal property contains only public utility property with
+an ADR midpoint life of more than 25 years.
+The cost recovered for each year is computed by multiplying the un-
+adjusted basis of the property by the applicable percentage for the property.
+The unadjusted basis of an asset is the excess of its basis for purposes of
+determining gain over the sum of that portion of the basis that is to be
+amortized plus that portion that the taxpayer elects to treat as an expense.
+[Vol. 15:2
+14
+Akron Law Review, Vol. 15 [1982], Iss. 2, Art. 3
+https://ideaexchange.uakron.edu/akronlawreview/vol15/iss2/3
+ECONOMIC RECOVERY TAX ACT OF 1981
+The applicable percentage comes from tables now contained in the Code
+itself. For property placed in service from 1981-1984, the tables are based
+upon the 150% declining balance method in the earlier years and the
+straight line method in the later years. For property placed in service in
+1985, the tables are based on the 175% declining balance method in the
+earlier years and the sum-of-the-years-digits method in the later years.
+For property placed in service after December 31, 1985, the tables are
+based upon the 200% declining balance method for the earlier years and
+the sum-of-the-years-digits method for the later years. The tables do not
+take salvage value into consideration. Therefore, the entire cost of every
+asset is eventually recovered.
+It is interesting to note that while the ACRS has been hailed as a
+great tax savings, the depreciation deduction using double declining balance
+on a $12,000 car purchased in early January using pre-1981 depreciation
+would be:
+Year Pre-1981 ACRS- 1981 Difference
+1 $ 8,000 $ 3,000 $ 5,000
+2 $ 2,667 $ 4,560 ($ 1,893)
+3 $ 889 $ 4,440 ($ 3,551)
+Total $11,556 $12,000 $ 444
+The Code section 168 tables also incorporate the half-year convention, which
+assumes that every asset was placed in service in the middle of the year.
+The half-year convention is advantageous for the taxpayer if the depreci-
+able asset is placed into service towards the end of the year, but is dis-
+advantageous if the depreciable asset is placed into service at the be-
+ginning of the year. The half-year convention is mandatory.
+Several elections designed to provide flexibility are available to the
+taxpayer. If the taxpayer does not desire to use the accelerated method of
+cost recovery in the tables, an election may be made to recover the cost
+over the applicable ACRS period using the straight line method. Also, once
+the taxpayer elects to use the straight line method, he may also elect to
+extend the period of recovery to the longer recovery periods used to cal-
+culate earnings and profits for the asset or for property in the next higher
+class. Thus, the optional periods for 3-year property are 3, 5, or 12 years;
+for 5-year property, 5, 12, or 25 years; for 10-year property, 10, 25, or
+35 years; and for 15-year property, 15, 35, or 45 years. In all cases, the
+half-year convention must be used. Furthermore, the same percentage
+must be used for all personal property of the same class (e.g., ACRS 3-
+year property) which is put into service in the same year.
+Upon disposition of depreciable personal property, gain or loss is gen-
+erally recognized unless some provision of the Code provides for nonrecog-
+Fall, 1981]
+15
+Briner: Economic Recovery Tax Act of 1981
+Published by IdeaExchange@UAkron, 1982
+AKRON LAW REVIW
+nition. Cost that has been recovered under ACRS is still recaptured under
+section 1245. Therefore, because the cost recovery deduction in the year
+of disposal would be recaptured as ordinary income in any case, no de-
+duction is allowed for ACRS personal property in that year. A special rule
+concerning the disposition of assets from mass asset accounts allows gain
+to be recognized to the extent of proceeds and leaves the unadjusted basis
+of the property in the account until fully recovered in future years. The
+purpose of this special rule is to avoid calculation of gain on the disposition
+of these assets. Amounts that had been expensed in the year of acquisition
+must also be recaptured as ordinary income, and dispositions may cause
+some recapture of the investment credits.
+3.05 Accelerated Cost Recovery System Writeoffs for Real Property
+I.R.C. §§ 167, 168, 1250 - Act §§ 201, 203, 204. Effective as to
+property placed in service after December 31, 1980.
+Under prior law, real property was depreciated over its useful life,
+usually from 30 to 60 years. Under the new law, the cost of most real estate
+can be recovered over a period of only 15 years and the cost of real prop-
+erty, which had a previous Asset Depreciation Range (ADR) midpoint life
+of 12.5 years or less, can be recovered over a period of only 10 years.
+This category includes theme park structures and manufactured homes.
+The rules and cost recovery tables pertaining to Accelerated Cost Recovery
+System (ACRS) 10-year property apply to them. However, the class con-
+sisting of 15-year real property has its own rules and cost recovery tables.
+The cost recovery deduction is computed by multiplying the unadjusted
+basis of the property by the applicable percentage from tax tables issued by the
+IRS. The table for most of the 15-year class of real property is based upon the
+175% declining balance method of recovery for the earlier years and the
+straight line method of recovery for the later years. The table for low-income
+housing is based upon the 200% declining balance method in the earlier years
+and the straight line method in the later years. No salvage value is considered
+in the deduction, and, unlike the tables for depreciable personal property,
+the tables do not use the half-year convention. Instead, they consider the
+number of months the property has been in service. The taxpayer is also
+entitled to a deduction for the number of months the property is in service
+during the year of disposition. Thus, there is no advantage or disadvantage
+concerning purchases or dispositions of real property which occur in the
+early or later parts of the tax year.
+Elections available to the taxpayer concerning real property are simi-
+lar to those available for personal property. The taxpayer may elect to use
+the straight line method of cost recovery rather than the accelerated meth-
+ods of the tables. Also, once an election to use the straight line method, has
+been made, the taxpayer can recover his costs over the normal period of
+(Vol. 15:2
+16
+Akron Law Review, Vol. 15 [1982], Iss. 2, Art. 3
+https://ideaexchange.uakron.edu/akronlawreview/vol15/iss2/3
+ECONOMIC RECOVERY TAX ACT OF 1981
+15 years or over either of the extended recovery periods of 35 or 45 years.
+Furthermore, these elections can be made on a property-by-property basis.
+The 1981 Act also eliminates composite depreciation. Under prior
+law, a taxpayer could allocate the cost of a building to its component parts,
+such as wiring and plumbing, and depreciate these components separately
+using shorter life spans than that of the structure itself. Now the entire
+building must be depreciated as a whole, with the result that the cost of all
+components must be recovered using the same methods and percentages
+as those used for the building itself. An exception to the composite de-
+preciation requirement exists for substantial improvements which may be
+treated as separate structures. Because of this exception, a substantial im-
+provement can have different recovery methods or periods from those of
+the original building. This rule will also allow a substantial improvement
+to qualify for ACRS treatment if made after December 31, 1980, even
+though the original building must still be depreciated under the ADR rules.
+The new rules concerning treatment of gain or loss upon disposition
+of depreciable real property will be extremely important to the tax planner.
+The treatment for gain on the sale of residential real property remains the
+same as before. That part of the gain which reflects the excess of the de-
+ductions taken using an accelerated method of cost recovery over the
+deductions which would have been taken if the straight line method had
+been used over 15 years is treated as ordinary income. However, if the real
+property is non-residential and an accelerated method of cost recovery
+has been used, all gain up to the total amount of deductions taken is treated
+as ordinary income. But if the taxpayer elects to use the straight line method,
+all gain will be capital gain.
+Therefore, taxpayer should compute the present values of the excess
+of the tax benefits of the accelerated deductions over the tax benefits of
+straight line deductions. The present value of the excess of the tax liability
+accruing from recapture of ordinary income over the liability accruing
+from capital gains should also be computed. These computations should then
+reveal whether there is any benefit to the taxpayer in using the accelerated
+method of cost recovery. The taxpayer may elect to use the straight line
+method of cost recovery when the beneficial tax treatment given to proceeds
+from the sale of property outweighs the disadvantages of smaller cost re-
+covery deductions. This, however, might only occur when the taxpayer plans
+to sell or exchange the property in the future.
+3.06 Carryover of Recovery Attributes
+I.R.C. § 381 - Act § 208. Effective as to property placed in service
+after December 31, 1980.
+In order to prevent attempts to change the recovery period or method
+through transfers of property among affiliated groups or certain other rela-
+Fall, 1980]
+17
+Briner: Economic Recovery Tax Act of 1981
+Published by IdeaExchange@UAkron, 1982
+AKRON LAW REVIEW
+ted parties, the acquiring corporation shall be treated as the distributor or
+transferor corporation for purposes of computing the cost recovery deduc-
+tion. The acquiring corporation must therefore use the same cost recovery
+method and period with respect to the transferred property that was used
+by the transferring corporation. This rule applies only to the extent that
+the acquiring corporation's basis does not exceed the transferor's adjusted
+basis. Property transferred in the liquidation of a subsidiary or a tax-free
+organization are the transactions which will give rise to the attribute carry-
+over rules.
+3.07 Calculating Earnings and Profits Under Accumulated Cost Recovery
+System
+I.R.C. § 312(k) - Act § 206. Effective as to property placed in service
+after December 12, 1980.
+Since distributions by a corporation to its shareholders are taxable as
+dividends only to the extent the distribution is from current or accumulated
+earnings and profits, the increased depreciation expenses caused by ACRS
+would result in lower earnings and profits. This decrease would allow tax-
+free or capital gain distributions. To prevent this possibility, Congress man-
+dated that the depreciation used in calculating earnings and profits must
+be computed by using the straight line method over extended recovery
+periods. These extended periods are five years for 3-year property, twelve
+years for 5-year property, 25 years for 10-year property, and 35 years for
+15-year property. If the corporation elected to use a longer recovery period
+than the applicable period above, that longer period must be used to compute
+earnings and profits. Foreign corporations, however, compute their earnings
+and profits under the same rules which govern the computation of de-
+preciation of foreign assets under ACRS.
+3.08 Research and Development Credit
+I.R.C. § 44F, 55(c)(4), 381(c), 6411, 6511 - Act § 221. Effective for
+amounts paid or incurred after June 30, 1981 and before January 1,
+1986.
+Under prior law, expenditures for research and development were
+capitalized and amortized over not less than 60 months unless the taxpayer
+elected to currently deduct the expenditures. To provide incentives for
+further expenditures for research and development, Congress created a new
+tax credit. Other incentives to increase research and development are the
+inclusion of such equipment in the 3-year class of the accelerated cost
+recovery system, liberalized deductions for certain charitable gifts of re-
+search and development equipment, and suspension of Treasury Regulation§ 1.861-8 which required allocation of research and development expendi-
+tures to foreign income.
+The new tax credit is computed as 25% of the excess of certain re-
+[V/ol. 15:2
+18
+Akron Law Review, Vol. 15 [1982], Iss. 2, Art. 3
+https://ideaexchange.uakron.edu/akronlawreview/vol15/iss2/3
+ECONOMIC RECOVERY TAX AcT oF 1981
+search and experimental expenditures for the current year over the base
+period research expense. To find the base period research expense, the tax-
+payer must average the qualified research expenditures for the three tax-
+able years preceding the determination year. Qualified research expenses
+are those which are paid or incurred by the taxpayer in carrying on a trade
+or business for either in-house research expenses or contract research ex-
+penses. Since these expenses must be incurred for "carrying on" rather than
+"in connection with" the trade or business, it will be slightly more difficult
+to qualify for the new credit than it will be to elect for current expenditures.
+Qualified in-house research expenses encompass: wages for employees
+engaged in research or in direct supervision of research; the cost of supplies
+used in research; and the cost of certain leases or other charges for computers.
+The term "wages" does not include fringe benefits which are not subject
+to withholding, nor does it include the expense of employing administrative
+personnel. Qualified contract research expenses are 65% of amounts paid
+to individuals, colleges, universities or research firms for performing quali-
+fied research. Grants to tax exempt funds also qualify if the funds are paid
+to a college or university for basic research.
+Base period research expenses are generally the average of the qualified
+research expenses of the preceding three years. However, there is a transi-
+tional rule for taxpayers whose first taxable year to which the new credit
+applies begins in 1980 or 1981, or for taxpayers whose second taxable
+year to which the new credit applies begins in 1981 or 1982. In no case
+shall the taxpayer's base period research expenses be less than 50% of
+his current research expenses. This limits the increase in expenditures quali-
+fying for the credit to a maximum of 50% of total qualified current ex-
+penditures.
+Qualified research consists of the research to discover information
+or the application of such information to new business items or to improve-
+ments of existing business items. However, testing for quality control or
+efficiency surveys do not qualify. Other exclusions are research conducted
+outside the United States, research in the humanities or social sciences, or
+research funded by any grantor contract by another person or any govern-
+ment entity.
+All corporate members of a controlled group, to which the 50% control
+test applies, must aggregate their research expenditures and then allocate
+the proportionate share of any increase of research expenditures which
+would give rise to the credit. This prevents artificial increases from shifting
+expenditures among the members of the group. In addition, all trades or
+businesses under common control must similarly aggregate and allocate
+research expenditures according to regulations to be issued. There are also
+special allocation rules for transactions involving the acquiring of a trade
+or business which paid or incurred qualifying research expenses.
+Fall, 1981]
+19
+Briner: Economic Recovery Tax Act of 1981
+Published by IdeaExchange@UAkron, 1982
+AKRON LAW RE[ Vw
+This new credit is nonrefundable and can be carried back three years
+or carried forward 15 years. Even though the requirements of qualifying
+for the credit are somewhat stringent, the credit is an added advantage
+that did not previously exist. This advantage is restricted because special
+pass-through rules limit the credit to the tax attributable to the taxpayer's
+interest in an unincorporated trade or business, partnership, Subchapter
+S corporation, or trust.
+3.09 Safe Harbor Leases
+I.R.C. § 168(f)(2) - Act § 201(a). Committee Rep.: H.R. Rep. No.
+215, 97th Cong., 1st Sess. 217 (1981). Effective immediately for
+property placed in service after December 31, 1980.
+The Act provides a safe harbor for corporate lessors which substantially
+eases the conditions formerly required to deem a transaction a lease. By
+meeting these safe harbors, the lessor obtains depreciation deductions and
+investment tax credits which arise from the leased property, i.e., the lessor
+is treated as the owner and the transaction is treated as being a lease in
+substance and not a sale.
+The taxpayer must comply with a number of conditions before relying
+on the safe harbors. First, the parties must describe the transaction as a
+lease and elect to have this section apply. Second, the lessor must generally
+be a corporation. Third, the lessor, from the time the property is first
+placed in service and throughout the term of the lease, must maintain an
+at-risk investment of not less than 10% of the property's adjusted basis.
+Fourth, the term of lease, including any extensions, may not exceed the
+greater of 90% of the useful life of the property for purposes of section
+167 or 150% of the class life of that property as of the beginning of 1981.
+Finally, the lease must be of qualified leased property.
+Qualified leased property is recovery property such as depreciable
+tangible property used in a trade or business or held for the production of
+income. Qualified lease property does not include a qualified rehabilitated
+building. Further, qualified leased property generally must be property re-
+ferred to in new section 38 that is leased within three months of being placed
+in service. Certain mass commuting vehicles also qualify.
+Qualified leased property, other than mass commuting vehicles, is
+deemed placed in service not earlier than the date such property is used
+under the lease. Property placed in service after December 31, 1980, but
+before the date of enactment, can qualify for the safe harbor rules if
+leased within three months of the enactment date. Where all the safe harbor
+tests are met the Act provides that no other factors will be considered in
+determining the owner of the property.
+In effect, this provision allows the transfer of depreciation deductions
+and investment tax credits to corporations with the capacity to "buy" the
+[ ol. 15:2
+20
+Akron Law Review, Vol. 15 [1982], Iss. 2, Art. 3
+https://ideaexchange.uakron.edu/akronlawreview/vol15/iss2/3
+ECONOMIC RECOVERY TAX ACT OF 1981
+deductions and credits and to use them. The lessor shelters income (pre-
+sumably at a 46% marginal rate) while the lessee receives a lower cost on
+his equipment since the federal government bears a greater share of the cost.
+3.10 Incentive Stock Options
+I.R.C. § 422A - Act § 251. Effective immediately for options granted
+after December 31, 1975 and exercised after December 31, 1980.
+A stock option is the employee's right to purchase company stock in
+the future at a predetermined price. Stock options offered to employees were
+generally taxable when granted under Code section 83. The fair market
+value of the option was included in the employee's gross income in the
+year in which it was granted as compensation. However, if the fair market
+value of that option was not readily ascertainable, income would not be
+recognized at the time of the grant. Instead, the employee would recognize
+the difference between the exercise price and the fair market value at the
+time of exercise. The employer was allowed a deduction equal to the in-
+come recognized by the employee in the same year the employee recognized
+the income. Under prior law, favorable tax treatment of stock options had
+either been repealed or severely restricted because of alleged abuses. Con-
+gress believed, however, that tax favored stock options were an important
+incentive device to attract new management and retain key employees by
+encouraging investment in the business. The Economic Recovery Tax Act
+favored treatment for certain stock options known as incentive stock options.
+The option must meet certain restrictions to qualify under Act
+section 422A(b)(l)-(8). In return for meeting those restrictions, the em-
+ployee recognizes income not at the time of the grant, nor at the time of the
+exercise, but only when the stock is sold. And, unlike stock options under
+prior law, the difference between the fair market value and the value at
+the time of exercise is not a tax preference for the add-on minimum tax.
+The incentive stock option price must not be less than the fair market
+value of the stock at the time of grant. Also, options may be granted in
+any one calendar year only for stock with a value of $100,000 or less, plus
+any carryover allowed from previous years.
+When the stock is sold, the employee receives either long-term capital
+gains income or ordinary income depending on the holding period and the
+employee's status with the company. To receive long-term capital gains
+treatment (and the 60% capital-gains exclusion), the employee must hold
+the stock for at least one year after exercise of the option and the sale must
+not occur earlier than two years after the option was granted. Additionally,
+to receive this beneficial tax treatment, the option cannot have been exer-
+cised more than three months after the termination of employment. An
+exception is made to the three month rule for disabled employees. They
+Fall, 198 11
+21
+Briner: Economic Recovery Tax Act of 1981
+Published by IdeaExchange@UAkron, 1982
+AKRON LAw REVIEW
+can exercise their options twelve months after terminating employment and
+still receive long-term capital gains treatment.
+A major opportunity exists for options already outstanding. If they
+otherwise meet the requirements for an incentive stock option and the
+granting corporation elects to have this section apply, these options will
+qualify for incentive stock option treatment. Act section 251(c) also limits
+the amount of options which receive this beneficial "lookback" to an ag-
+gregate of $200,000 of the fair market value of the stock with no more
+than $50,000 of that attributable to any one year. This provision could
+give rise to refund claims for employees previously taxed on such options
+where the employee still holds either the option or the stock. However, the
+employer may lose his deductions for those options under Code section 83(h).
+The Research Institute of America suggests that a pyramiding technique
+could be used in situations where the underlying stock appreciates to give
+the employee a valuable stake in the company at little cost. The technique
+involves paying the option price with shares of the company. More options
+may be then exercised with the newly received stock used as payment. This
+tactic works for three reasons. First, when the employee exercises an option,
+he realizes a gain because the fair market value of the stock received is
+greater than the option price. Second, by trading stock, the employee has
+low out-of-pocket costs. Third, the exchange of stock apparently is not taxed
+as a disposition which would violate the two-year holding period requirement.
+Of course, the number of outstanding options places a cap on use of this
+technique. The success of this technique, of course, is dependent on the ap-
+preciation in fair market value of the stock over time.
+The return to the Code of a tax-favored stock option allows corpora-
+tions to offer key employees a chance to participate in the future growth
+of the company. These options may be used to provide incentive to the
+employee to benefit the corporation by benefiting himself.
+3.11 Investment Credit - New Percentages Applicable
+I.R.C. §§ 46, 47, 48 - Act § 211. Effective as to property placed in
+service after December 30, 1980.
+Under prior law, an investment credit of 31/3% of the purchase price
+was allowed for assets with useful lives of 3 or 4 years; 6%a % was allowed
+for assets with useful lives of 5 or 6 years; and 10% was allowed for assets
+with useful lives of 7 or more years.
+Under the Economic Recovery Tax Act, investment credit is cal-
+culated by using the Accelerated Cost Recovery System (ACRS) recovery
+period of the property rather than its useful life. For eligible property with
+a recovery period of 3 years, the investment credit is 6%. For eligible prop-
+erty with a 5 or 10 year recovery period or public utility property with a
+15 year recovery period, the investment credit is 10%.
+[Vol. 15:2
+22
+Akron Law Review, Vol. 15 [1982], Iss. 2, Art. 3
+https://ideaexchange.uakron.edu/akronlawr view/ ol15/iss2/3
+ECONOMIC RECOVERY TAX ACT OF 1981
+The new law does not change the types of property which are eligible
+for the credit, but expands the credit's availability to facilities used to store
+petroleum and primary petroleum products. The new law does not limit the
+credit to production facilities, but extends it to also encompass distribution
+facilities.
+The new law also changes the recapture computation for property
+which is disposed of prior to expiration of its recovery period. Under prior
+law, if the disposition occurred before the useful life had expired, the in-
+vestment credit was recomputed using the actual holding period. Therefore,
+if an asset had been held for less than 3 years, the entire investment credit
+was recaptured. In comparison, the new method of recapture allows a 2%
+credit for each year the property is held. For example, if property is disposed
+of after 2 years, then only 2% is recaptured for 3 year property and 6%
+is recaptured for property with longer recovery periods. Another advantage
+of the new law is the extension of the carryforward period for unused in-
+vestment credit from 7 to 15 years.
+4.00 Retirement Savings Provisions
+4.01 Individual Retirement Accounts - Deductions, Contributions and
+Eligibility
+I.R.C. §§ 219, 220, 401, 405, 408, 409, 415 - Act §§ 311(a), (e), (h),
+313 & 314(b). Effective after December 31, 1981.
+Aware that personal savings have been declining in relation to per-
+sonal disposable income, Congress responded with legislation that would im-
+prove capital formation as it generally affects the economy as well as re-
+tirement resources for individuals. To promote greater retirement security,
+the Economic Recovery Tax Act expanded the contribution, deduction, and
+eligibility requirements with respect to Individual Retirement Accounts
+(I.R.A.'s). Banks, savings institutions and others who may qualify as I.R.A.
+sponsors should also benefit from this new influx of capital.
+Under prior law, an employee had to earn at least $10,000 before
+reaching the I.R.A. contribution limits of $1,500 or 15% of compensation.
+Under the Act, the annual I.R.A. contribution limit is raised to the lesser
+of $2,000 or 100% of compensation. An individual earning only $2,000
+compensation may now deduct the entire $2,000 contribution. As under
+the old I.R.A. rules, "compensation" does not include passive income, such
+as royalties, in

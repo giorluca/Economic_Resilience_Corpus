@@ -1,0 +1,903 @@
+Alternative Forms of Resilience. A typology of approaches for the study of Citizen Collective Responses in Hard Economic Times
+
+ PACO, ISSN: 2035-6609 - Copyright © 2017 - University of Salento, SIBA: http://siba-ese.unisalento.it 
+ 
+PArtecipazione e COnflitto 
+* The Open Journal of Sociopolitical Studies 
+http://siba-ese.unisalento.it/index.php/paco   
+ISSN: 1972-7623 (print version) 
+ISSN: 2035-6609 (electronic version) 
+PACO, Issue 10(1) 2017: 136-168 
+DOI: 10.1285/i20356609v10i1p135 
+ 
+Published in March 15, 2017 
+Work licensed under a Creative Commons 
+Attribution-Non commercial-Share alike 3.0 
+Italian License  
+RESEARCH ARTICLE 
+ 
+ALTERNATIVE FORMS OF RESILIENCE 
+A typology of approaches for the study of Citizen Collective 
+Responses in Hard Economic Times 
+ 
+Maria Kousis 
+University of Crete 
+ 
+Maria Paschou 
+University of Crete 
+ 
+ABSTRACT: A variety of theoretical and conceptual perspectives have been applied to studying collective 
+citizen initiatives arising in response to hard economic times, such as solidarity-based exchanges and 
+networks, cooperative structures, barter clubs, credit unions, ethical banks, time banks, alternative social 
+currency, citizens’ self-help groups, neighbourhood assemblies and social enterprises. Since the global 
+financial crisis of 2008, scholarly attention on novel, alternative, resilient structures has increased, 
+especially in regions that have been most affected. A comprehensive literature review is therefore needed 
+on these initiatives which usually aim to meet basic needs such as food, shelter, health and education at 
+the community level, or build and envision autonomous communities. This paper has four aims. First, it 
+proposes a new, all-encompassing conceptual framework, alternative forms of resilience, to embrace all 
+issues and groups related to such initiatives, during the new millennium and its economic and political 
+challenges, while taking into account the impact of the 2008 crisis. Secondly, it offers a comprehensive 
+literature review on collective citizen initiatives studied through different theoretical, methodological and 
+conceptual understandings. Thirdly, it provides a new typology of several approaches on novel, collective 
+and solidarity-oriented critical resilience initiatives which take into account political issues, be they policy 
+or social-movement related. Finally, it points to future research areas which would aim to systematically 
+address the political and non-political features of citizen-collective responses.   
+Maria Kousis and Maria Paschou, Alternative Forms of Resilience 
+ 
+ 
+ 
+137 
+1. Introduction1 
+ 
+Collective citizen responses to economic and political threats (Almeida 2007, Kousis 
+and Tilly 2005), during the recent global crisis, have varied. In this paper we 
+concentrate on those collective responses in the public sphere which are manifested in 
+alternative (to dominant) forms of economic and noneconomic activities by citizen 
+initiatives and community-based groups confronting hard economic times and 
+dwindling rights. Even though most of the activities under study could be considered to 
+be part of the substantive economy in the Polanyian sense, we would like to distinguish 
+the non-economic from the economic activities, so as to highlight the political and 
+social aspects which are usually set at the forefront of these initiatives such as civic 
+participation and empowerment, governance and advocacy. 
+These community practices, which address a multitude of existential and governance 
+problems, have been on the rise during the past decade in European regions, due to 
+policy changes leading to increases in unemployment and precarity, cuts in social 
+provisions, a decrease in credit access, changes in consuming practices and gloomy 
+prospects for the future of their children. They are even more noticeable where the 
+2008 global crisis - the first economic crisis of the 21st century comparable to the Great 
+Depression of 1929 (Ross 2016) - impacted more heavily on citizens in Southern 
+European countries (LIVEWHAT 2014a, 2014b, Norman and Uba 2015; Cruz et al this 
+issue, Baumgarten this issue, Papadaki and Kalogeraki this issue, Andretta and Giudi 
+this issue).  
+ 
+1 This paper, first presented at the 2014 ECPR General Conference, has been produced in the context of 
+the project “Living with Hard Times: How Citizens React to Economic Crises and Their Social and Political 
+Consequences” (LIVEWHAT), especially Work Package 6. The project was funded by the European 
+Commission under the 7th Framework Programme (grant agreement no. 613237). The constructive and 
+valuable comments of the anonymous reviewers and Francesca Forno, editor of PACO, as well as the 
+encouragement of Marco Giugni are gratefully acknowledged. 
+ 
+KEYWORDS: alternative economy, solidarity economy,  resilience, social innovation, economic crisis, social 
+movements, policy, social economy, third sector, degrowth 
+ 
+CORRESPONDING AUTHORS: Maria Kousis, email: kousis.m@uoc.gr; Maria Paschou, email: 
+paschoumaria@social.soc.uoc.gr 
+ 
+ 
+ 
+Partecipazione e conflitto, 10(1) 2017: 136-168, DOI: 10.1285/i20356609v10i1p136 
+                                                                                                                     138 
+Hard economic times and parallel governance challenges have led to transfor-
+mations in citizens’ practices - from adaptive and alternative to autonomous - aimed 
+towards their future survival (Conill, Castells, Cardenas and Servon 2012: 210, 222-229,  
+Kousis, Kalogeraki and Mexi 2015,  Kousis, Kalogeraki, Papadaki, Loukakis, and Velonaki 
+2015). Through a wide variety of solidarity practices, citizens have collectively 
+responded to these challenges during the past decade through: solidarity bartering 
+(Fernández 2009), Local Exchange Trading Schemes, LETS (Granger et al 2010), local 
+currencies (North 2013,  Seyfang and Longhurst 2013, Schroeder 2013,  Sahakian 
+2014), ethical banks (Cowton 2006,  San-Jose et al 2011,  Tischer 2013, Cornee and 
+Szafarz 2013), local market cooperatives (Phillips 2012), cooperatives for the supply of 
+social services, especially in health and education (Costa et al, 2012), alternative forms 
+of production (Corrado 2010), critical consumption (Fonte 2013), housing and anti-
+eviction citizen initiatives (Nez 2014, Fonimaya and Jimenez 2014, Romanos 2014, de 
+Andrés et al 2015), spontaneous actions of resistance and reclaim (Dalakoglou 2012) 
+and the reproduction of cultural knowledge via oral and artistic expression (Barkin 
+2012, Lamont et al  2013).  
+Most studies aim to portray and understand these initiatives through an array of 
+conceptual tools and theoretical frameworks on direct action, community solidarity, 
+reciprocity, citizenship and agency issues, or their intersections, in exploratory and 
+descriptive rather than comparative and explanatory works.  As the number of studies 
+on these alternative citizen initiatives increases, so does the number of theoretical 
+approaches which scholars apply to study them. 
+The purpose of this paper is four fold. First, it introduces the rich and encompassing 
+concept of Alternative Forms of Resilience (AFR), which is needed to embrace the 
+diversity of collective citizen initiatives aiming to respond to, bounce back from and 
+confront hard economic times that have existed before, but also since the new 
+millennium with its rising inequalities and the impact of the global financial crisis of 
+2008. Second, it offers a broad, all-encompassing overview of the field to highlight its 
+main development in the current period, as well as the key features of these collective 
+solidarity initiatives that remain understudied. Third, it proposes a typology of the 
+different conceptual and theoretical approaches that have been used for the study of 
+collective responses to hard economic times and governance problems in order to 
+show the rich diversity, not only in economic practices, but also in political orientation 
+and aims. Fourth, the paper points to future research issues aimed to further 
+understand AFR practices, imaginaries and approaches. 
+ 
+ 
+ 
+Maria Kousis and Maria Paschou, Alternative Forms of Resilience 
+ 
+ 
+ 
+139 
+What are Alternative Forms of Resilience? 
+ 
+Resilience is a contested concept stimulating a wide variety of interpretations and 
+theoretical perspectives by social scientists, from pro-governmental to critical ones. In 
+the case of family resilience, it has been defined “as the ability to withstand and 
+rebound from serious life challenges. Resilience involves dynamic processes that foster 
+positive adaptation in the context of significant adversity.” (Walsh 2015, 4). Critical 
+works focusing on the concept of resilience and its use in policy and academic fields 
+claim that it shifts responsibility away from the public sphere, while highlighting 
+people’s ability to ‘bounce back’ and downplaying the related costs (e.g. Harrison 
+2013). Following the 2008 crisis, however, resilience studies have moved beyond the 
+level of the individual and the family, to that of collective resilience aimed to confront 
+the failing social policies and social rights, to foster participatory democracy and 
+collaboration, and to develop empowerment, common purpose and collective wisdom 
+(Murray and Zautra 2012, 340).  Thus, recent studies on crisis and resilience reflect 
+public sphere issues and concerns, while they centre  on groups and communities, as 
+well as regions or countries, pointing out: ways in which collaborative processes can 
+lead to resilience through building trust and interdependence (Goldstein 2012); the 
+critical role of relatives, friends and mutual solidarity groups in 17 developing nations 
+(Heltberg, Hossain, Reva and Turk 2013); the importance of manufacturing 
+employment in shaping regional resilience (Davies 2011); and the resilience of 
+engagement and participation in poor, disadvantaged communities (Hancock, Mooney 
+and Neal 2012). 
+Thus, resilience has not only become a major concept illuminating policy frameworks 
+and addressing problems in different policy and other fields (Chandler 2014), but has 
+also recently attracted the attention of social scientists studying collective solidarity 
+initiatives.  In social change fields, the concept of “critical resilience” emerged out of 
+the utilization of ideology from a feminist critical perspective (Anzaldúa 1999; Collins 
+2000; Villenas et. al 2006) and focuses on the complexity of race, class, gender and age 
+for the negotiation of power and the navigations of the those-in-need within structures 
+which do not privilege them (Campa 2010, 432).  Community critical resilience has also 
+been viewed as a driving force of empowerment and common goals (Juntunen and 
+Hyvonen 2014, Murray and Zautra 2012, Berkes and Ross 2013), be they in developed 
+or developing regions facing hard economic times. Rarer still are resilience studies 
+addressing solidarity groups (Heltberg et al 2013), which include recent ones focused 
+on grassroots direct actions during the crisis years (D’Alisa, Forno and Maurano 2015)  
+that also engage in social movement participation (Papadaki and Kalogeraki this 
+Partecipazione e conflitto, 10(1) 2017: 136-168, DOI: 10.1285/i20356609v10i1p136 
+                                                                                                                     140 
+volume), based on the post-2008 experience of Southern European regions. Such 
+initiatives include urban squats as resistance and resilience to capitalist relations in 
+Barcelona and Rome (Cattaneo and Engel-Di Mauro 2015); resilient urban gardening 
+movements in Barcelona (Camps-Calvet, Langemeyer, Calvet-Mir, Gómez-Baggethun, 
+and March 2015); and resilient Italian Solidarity Purchase Groups under crisis and 
+austerity (Giudi and Andretta 2015). Following Keck and Sakdapolrak (2013), D’Alisa, 
+Forno and Maurano (2015, 334, 338) view these initiatives as “social resilience”, a 
+“dynamic process which describes the ability of embedded social actors to foster 
+collective transformation through a process of social learning and participative 
+decision-making”; they point to studies highlighting the capacity to build “socially 
+resilient systems” to confront the threats of neo-liberal policies at the grassroots level, 
+in Southern European regions.  
+Aiming to contribute in this area of work, we propose the new concept of Alternative 
+Forms of Resilience, inspired by, a) the increasing use of ‘resilience’ by scholars 
+studying direct actions of citizen empowerment, collectiveness, solidarity and 
+resistance in hard economic times, b) the potential high-capacity of the concept of AFR 
+which incorporates not only previous social and solidary economy initiatives, but also 
+the more recent multitude of alternative imaginaries by citizens who confront new 
+millennium challenges posed by falling rights and increasing, multiple and compound 
+inequalities, within and beyond the nation state, and c) recent comparative research 
+illustrating the wide array and aims of AFR practices across nine European countries2.  
+The concept of Alternative Forms of Resilience simultaneously embraces the entire 
+array of the conceptual and theoretical perspectives and citizen practices.  
+Alternative Forms of Resilience (AFR) comprise diverse repertoires of citizen direct 
+solidarity actions and aims, with economic as well as a socio-political transformative 
+capacity, which are alternative to the mainstream/dominant capitalist economy, or aim 
+at building autonomous communities. They usually flourish during hard economic 
+times marked by austerity policies, multiple, compound inequalities, governance 
+problems, the weakening of social policies, as well as the depletion of labour and social 
+welfare rights. Our definition takes into consideration the paradigm of comprehensive 
+alternative economy or free, constructed (not inherited), democratic (not 
+philanthropic/charity) solidarity (Laville 2006: 609-610 in Ould Ahmed 2014), which is 
+based on six main criteria: non-economic concerns of economic practices (related to 
+the environment, health, and other social justice and  welfare issues);  rejection of 
+ 
+2  LIVEWHAT Integrated report on alternative forms of resilience in times of crises (2016) D6.4, 
+http://www.livewhat.unige.ch/wp-content/uploads/2014/02/LIVEWHAT_D6.4.pdf  
+Maria Kousis and Maria Paschou, Alternative Forms of Resilience 
+ 
+ 
+ 
+141 
+competitive individualism of capitalist societies; promotion of self-management of 
+production;  economic empowerment of the excluded/disadvantaged groups; political 
+and economic equality; freedom of choice in solidarity action participation (Ould 
+Ahmed 2014, 5). In addition, however, our definition of AFR points out divergence in 
+their orientations. These citizen initiatives may be critical when they are formed by 
+ideologically committed participants aiming to construct autonomous communities 
+with collective identities (see Tilly 1994 on communitarian movements), or they may 
+be reformist, seeking policy changes at the state or EU level (Kousis, Kalogeraki and 
+Mexi, 2015). 
+As citizen-created strategic initiatives in the public sphere, AFR offer alternative 
+ways of enduring day-to-day difficulties and challenges under hard economic times, 
+related mainly to urgent needs (housing, food, health, clothing, education), the 
+economy, culture, energy and the environment, alternative consumption, food 
+sovereignty, communications, self-organized spaces, reclaimed spaces, and others. 
+Organized by formal or informal groups, AFR tend to rise from bottom up solidarity 
+initiatives, formed by mutual help groups or by networks offering support between 
+groups as reflected in direct actions created to help others, or themselves (LIVEWHAT 
+Integrated Report D6.4, 2016).  
+AFR are not always directly related to citizens facing hard economic times, but also 
+to the pursuit of cultural alternatives and empowering lifestyles, as culture has been 
+shaken in the past two decades and during the current economic crisis (Conill et al 
+2012). These alternative economic and noneconomic transformative direct actions 
+(Bosi and Zamponi 2015) aim to address a multitude of existential and governance 
+problems in a resilient manner that allows their survival and/or building of 
+autonomous communities covering needs linked to food, housing, health, clothes, 
+childcare, education and other needs, which have either not been satisfied (or 
+inadequately so), or are no longer covered by the respective social policies.  
+AFR are reflected in social strategies of building community bonds, local knowledge 
+systems and new networks of social interaction. Collective capacities contribute to the 
+ways in which inherited cultural knowledge promotes community wellbeing and the 
+protection of ecosystems, and delineates an alternative path of sustainable local 
+development (Barkin 2012). New relationships rise among producers, consumers, and 
+organizations with the aim of re-qualifying food as a common good instead of a 
+commodity (Corrado 2010). Furthermore, the crisis of democracy, participatory and 
+representative, gave impetus to the emergence of new political imaginaries and forms 
+of political participation as seen in the more intense experiences in countries hard hit 
+by the crisis, such as Greece (Kaika and Karaliotas 2014). 
+Partecipazione e conflitto, 10(1) 2017: 136-168, DOI: 10.1285/i20356609v10i1p136 
+                                                                                                                     142 
+AFR initiatives, therefore, carve out a new type of politics through the creation of 
+bottom-up participatory initiatives promoting a ‘solidarity economy’, as seen in 
+countries confronting crises in the past. They include new expressions of engagement, 
+in a wide repertoire of citizen-run, non-capitalist practices, which facilitate their 
+survival through reciprocity and networking with other communities facing similar 
+problems. More importantly, however, AFR may simultaneously foster and facilitate a 
+new form of political engagement/participation aimed to strengthen open, democratic 
+forms of governance. They may stem from social movements, labour unions, or other 
+associative structures.  
+As they have done in the past, AFR by community and collective citizen practices 
+illustrate the changing interactions between citizen groups and policies, especially over 
+the past two decades and since the global financial crisis of 2008. The subsequent 
+Eurozone crisis, whose impacts have been severe for Southern European citizens, 
+created conditions leading to the flourishing of local currencies and barter networks in 
+Greece, Italy, Portugal and Spain. In these crisis-hit regions, resilience is reflected in the 
+strengthening of social networks and community practices to foster solidarity in the 
+face of crises, changes of lifestyles towards more sustainable forms of consumption 
+and production, and/or developing new artistic expression  (LIVEWHAT Integrated 
+Report D6.4, 2016). 
+The paper offers a review of the streams of scholarly interest in  the various forms of 
+citizen collective responses in hard economic times. By utilizing the term Alternative 
+Forms of Resilience, it is our intention to begin a dialogue on different disciplinary 
+approaches and theoretical conceptualizations all of which contribute to the 
+understanding of multifarious citizen collective actions, of their dynamics and 
+transformative societal potential. It is, in particular, the new millennium and the 
+current context of the economic crisis which reinforces and broadens the scope of such 
+actions, while attracting academic interest. It is envisaged that Alternative Forms of 
+Resilience will contribute to moving the social and solidary economy a step forward, 
+where the political dimension of such actions will be further highlighted for the benefit 
+of future research.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maria Kousis and Maria Paschou, Alternative Forms of Resilience 
+ 
+ 
+ 
+143 
+2.  From Social and Solidarity Economy to Alternative Forms of Resilience  
+ 
+A rich literature3, in French, Spanish and English, has been developing on the ‘social 
+economy’, ‘human economy’, ‘third sector’ and ‘solidarity economy’ over  different 
+time periods across global regions. One of the widely used concepts, solidarity 
+economy, was coined by Chilean professor of philosophy Luis Razeto and used by one 
+of the oldest of such movements in Latin America (Ould Ahmed 2014). Although these 
+concepts aptly describe  their pluriactive character in times of crisis, AFR is a more 
+fitting term to encompass the richness and dynamism of such initiatives not only in the 
+past, but even more so during the new millennium and its new order of  hard 
+conditions which citizens increasingly confront due to austerity policies and 
+shrinking/subsiding social policies, especially since the global financial crisis of 2008,  as 
+was the case in previous waves of economic crises in global regions. 
+Three years before the onset of the current economic crisis, Moulaert and Ailenei 
+(2005) traced these alternative practices as far back as their ancient Egyptian, Greek 
+and Roman roots (citing Defourny and Develtere 1997, Demoustier 2001). 
+Concentrating on  the period since the medieval times, given the rich associative life in 
+Europe, but also in Byzantium, the Muslim countries, India, Africa and America 
+(Moulaert and Ailenei 2005,2038), they proposed that,  
+ 
+… each epoch has its own socioeconomic conditions bringing subsequent opportunities and 
+challenges to the lien solidaire (solidarity bond) which it produced….when the economic 
+growth engine starts to stutter, formal distribution mechanisms begin to fail and new social 
+forces develop and give rise to alternative institutions and mechanisms of solidarity and 
+redistribution as a means of addressing the failures of the institutions of the socioeconomic 
+movements to guarantee solidarity among economic agents. (Moulaert and Ailenei, 2005, 
+2038). 
+ 
+Thus, reflecting a concern comparable to that of political opportunities and threats 
+by political process scholars studying social movements (e.g. Goldstone and Tilly 2001), 
+Moulaert and Ailenei (2005) offer a promising historically-based perspective to the 
+study of collective citizens’ initiatives, pointing to the importance of structural 
+economic threats. Waves of ‘economie sociale’ and solidarity practices have emerged 
+ 
+3  See journals such as Revue international de l’economie sociale (RECMA) founded in 1921 - 
+http://www.recma.org/   
+Partecipazione e conflitto, 10(1) 2017: 136-168, DOI: 10.1285/i20356609v10i1p136 
+                                                                                                                     144 
+and re-emerged, especially since the industrial revolution/19th century, in reaction to 
+economic threats, exploitative relations and poverty faced by considerable segments of 
+populations (Moulaert and Ailenei 2005). The associations, co-operatives and other 
+alternative/social economy structures that arose across Europe and were subsequently 
+institutionalized at the close  of the 19th/start of 20th century were simultaneously 
+influenced by 18th and 19th utopian socialism, Christian socialism, and the liberal 
+movement – reflecting also the importance of cultural factors  (Defourny and Develtere 
+1997).  
+Three generations of social economy structures have been linked to the three large 
+pre-WWII crises (Moulaert and Ailenei 2005), while a new generation of similar 
+solidarity structures are linked to increasing inequalities in the new millennium and the 
+global financial crisis of 2008. The first generation refers to “those of the 1840s-1850s 
+transition from the old regulation (via craftsmen corporations) to competitive 
+regulation, leading to mutual support organisations (mutuelles) as a form of resistance 
+of craftsmen workers” (Moulaert and Ailenei 2005, 2041). The second generation is 
+comprised of the agricultural and savings cooperatives that rose in response to the 
+crisis (1873–95) of the extensive regime of accumulation with heavy investments in 
+agriculture and natural resources. The third generation sprang “from the economic 
+collapse of 1929–32 and was mostly a product of the crisis in competitive regulation. 
+The consumption cooperatives for food and housing supported workers and 
+unemployed people, allowing them to secure goods and services at prices they could 
+afford” (Moulaert and Ailenei 2005, 2041). 
+The  post-war period witnessed new reactions of a fourth wave, this time to the 
+crisis of the mass-production system in the 1970s with the rise of an alternative 
+movement incorporating the rise of co-operative and ecological actions, as well as the 
+‘small is beautiful’ local development schemes, offering alternatives to state services 
+encouraging social bond strengthening within communities. The social and solidary 
+economy movements of the post-war period first flourished in France and Latin 
+America. The UK, US, Africa and Asia have followed their own trajectories of solidarity 
+movements while developing strong links and networks among them - e.g. with the 
+British human economy movement - but not yet with those in the US (Ould Ahmed 
+2014). Scientific networks on AFR initiatives were established especially in 
+francophone, south American and African regions; such as EMES (Emergence des 
+Enterprises Sociales en Europe), RILESS (Red de Investigadores Latinoamericanos de 
+Economia Social y Solidaria), CRISES (Centre de Recherche sur les Innovations Sociales 
+in Quebec), PSES3 (Pôle de Socio-économie Solidaire) and REMESS (Réseau Marocain 
+d’Economie Sociale et Solidaire), (Ould Ahmed 2014, 2-3). International conferences 
+and forums were also organized worldwide; they include the Globalisation of Solidarity 
+Maria Kousis and Maria Paschou, Alternative Forms of Resilience 
+ 
+ 
+ 
+145 
+(Lima 1997; Québec 2001), which became RIPESS (Réseau Intercontinental de 
+Promotion de l’Economie Sociale et Solidaire) (Dakar 2005, Luxembourg 2009); the 
+World Social Forum, Brazil 2001–2003, India 2004, Kenya 2007, and other cities; and 
+FBES (Forum Brésilien de l’Economie Solidaire), active in most Brazilian cities (Laville et 
+al 2005 in Ould Ahmed 2014, 2-3).   
+Overall, during the 1980s and 1990s, high unemployment, public finance crisis and 
+decreasing welfare state provisions facilitated the creation of alternative structures 
+such as entreprises d’insertion and worker-owned cooperatives and reactions against 
+neo-liberal and individualistic ideology (Moulaert and Ailenei 2005, 2041). The South 
+American economic crisis of the late nineties triggered interest in studying Argentina 
+and Brazil (Fernández 2009, Primavera 2010). The nineties also witnessed a rise in a 
+wide variety of alternative consumer-producer practices and direct action initiatives, 
+under the influence of the Global Justice Movement, mostly in Europe and the US 
+(Forno and Graziano 2014, Bosi and Zamponi 2015). 
+A new fifth wave of solidarity structures and alternative actions have attracted the 
+attention of scholars during the new millennium, especially since the global crisis of 
+2008 - also called the Great Recession - and the rising inequalities (Piketty 2015) which 
+are multiple and compound.  As recent work has emphasized, direct social actions 
+aimed at social change are not new but (re)surface under hard economic times (Bosi 
+and Zamponi 2015). The more recent solidarity structures since the 2008 crisis period 
+have been studied as resilient actions (e.g. D’Alisa et al 2015,  Giudi and Andretta 2015,  
+Camps-Calvet et al 2015) aiming towards non-capitalist and political imaginaries. 
+During the last five years, there has been a rise of such actions and related studies, 
+especially  in Southern European countries, where the impacts of the crisis were 
+deeper: i.e. Greece (Dalakoglou 2012,  Sotiropoulou 2012,  Pautz and Komninou 2013,  
+Petropoulou 2013,  Papadaki 2015, Papadaki and Kalogeraki this issue); Spain (Conill et 
+al 2012,  Calvo and Morales 2014,  de Armino 2014,  de Andres et al 2015,  Nez 2014,  
+Cruz, Martinez and Blanco this issue); Portugal (Parente et al  2012, Baumgarten, this 
+issue); and Italy (Costa et al 2012,  Fonte 2013,  Forno and Graziano 2014,  Bosi and 
+Zamboni 2015,  Andretta and Giudi 2015). Using case studies, secondary data, as well 
+as online sources through quantitative and qualitative methods, these cover either 
+specific issues and initiatives, or local level case studies. 
+The focus of most studies during this period is either on the non-capitalist/post-
+capitalist, or on the political features of solidarity practices. Concerning the economy-
+related traits, studies focus on non-capitalist aspects, or on post-capitalist/degrowth 
+initiatives. A considerable number of studies focus on the enhancement of the local 
+economy, cooperatives, mutual companies, or social enterprises (e.g. Neamtan 2009; 
+Partecipazione e conflitto, 10(1) 2017: 136-168, DOI: 10.1285/i20356609v10i1p136 
+                                                                                                                     146 
+Nassioulas 2012a, 2012b, Buckingham and Teasdale 2013). Studies on, or including the 
+South European experience link alternative forms of resilience to hard economic times 
+and the recent Eurozone crisis. For example, alternative currencies have been studied 
+together with exchange networks, free bazaars and several sui generis schemes of 
+solidarity action in Greece (Sotiropoulou 2012), different contexts of alternative 
+currency adoption have been  compared across Germany, UK and the USA (North 
+2014), and  complementary currencies have been studied across Argentina, Japan and 
+Switzerland (Sahakian 2014). Regional social cooperatives and their role in terms of 
+economic and financial performance have attracted the attention of scholars (Costa et 
+al  2012), while local community cooperative structures across various sectors, from 
+food production and energy to ecotourism and handicrafts, have caught the attention 
+of other scholars (Barkin 2012). Ethical banks and how they differentiate from other 
+credit institutions are the focus of another group of studies (San-Jose Retolaza and 
+Gutierrez-Goiria 2009, 2011). The forms of action and the issues addressed by citizen 
+collective actions of resilience are simultaneously closely related to their physical 
+environments. For example, actions which are developed in rural environments 
+address issues of resource management and agricultural production (Barkin 2012, 
+Corrado 2010), seed networks of alternative agro-food systems (Corrado 2010), or 
+consumer networks which support buying products directly from producers on ethical 
+and/or solidarity grounds (Fonte 2013). Major dissatisfaction with capitalism and its 
+obstacles, as well as a wide repertoire of non-capitalist economic practices based on 
+altruism, non-monetary exchange and cooperation are the focus of other scholars (e.g. 
+Conill et al 2012).  
+Although economic factors have been a sustained issue for scholars of collective 
+reactions by citizens in Latin America and India (Uba 2005, Almeida 2007, 2010), during 
+the past two decades these factors have  been neglected in the collective action 
+literature and have only recently appeared in social movement discussions (Kousis and 
+Tilly 2005, Goodwin and Hetland 2009, Kousis 2014, Kriesi 2014) due to economic 
+threats posed by hard economic times and increasing multiple inequalities.   
+Focusing on political traits of solidarity practices in the new millennium, especially 
+since the 2008 crisis, scholars point to the political delegitimation of existing 
+institutions and parties in power and their impact on citizens’ lives. Especially in the 
+European periphery, the combination of austerity and neoliberal policies of 
+privatization and deregulation have led to the inability of governments to address 
+citizens’ demands to safeguard democracy and their rights (della Porta, Andretta, 
+Fernandes, Romanos, O’Connor and Vogiatzoglou 2017).  In this context, studies have 
+connected alternative forms of resilience with the politics of the crisis, i.e. with issues 
+of public resistance to austerity and collective tactics of recovery, offering, however, 
+Maria Kousis and Maria Paschou, Alternative Forms of Resilience 
+ 
+ 
+ 
+147 
+limited systematic empirical data. Some highlight the relationship to social movements, 
+such as the movement of the squares or the Indignados movement (e.g. Nez 2014, 
+Kaika and Karaliotas 2014). Others record the influx of human resources into projects 
+of alternative actions of public reclaim at the grassroots level such as guerrilla 
+gardening initiatives (Vradis and Dalakoglou 2011), or more confrontational forms of 
+actions such as collective supermarkets/expropriation as a symbolic means of wealth 
+re-distribution (Pautz and Komninou 2013), or actions of reclaim (Dalakoglou 2012). 
+Grassroots solidarity towards resilience building is also expressed by the movement 
+against the evictions in Spain, which adopts both contentious and conventional action 
+(Romanos 2014) and a protest tactic (escrache) transnationally transmitted from 
+another protest site (Fominaya and Jimenez 2014). 
+Furthermore, scholarly engagement (scientific activism) in the broad field of AFR also 
+contributes through participatory action research in which the researcher is involved in 
+critical, reflective and deliberately political modes of participation (Gibson-Graham 
+2006, Chatterton and Pickerill 2010,  Cornwell 2012,  Arampatzi 2016,  Darby 2016). 
+Since the mid 90s scholars in human geography and social anthropology around the 
+globe have comprised the research community of diverse economies who attempted 
+via means of action research “to counter the ingrained belief that capitalist economic 
+relations are the only driving economic force [and to] … reclaim the economy as a site 
+of ethical decision-making and practice” (Graham and Roelvink 2010, 329-330). This 
+stream of research invites the researcher into a ‘performative epistemology’, in which 
+academic production generates possibilities where none existed, and into an 
+experimental orientation to research ‘hybrid research collectives’, where researchers 
+view themselves as co-participants in the making of new worlds (Gibson-Graham 2008, 
+628). 
+Fresh empirical data on AFR, based on a random sample of 4,297 alternative action 
+organizations (AAOs) focused on solidarity practices from 2007 to 2016, across nine 
+European countries, illustrate the wide repertoire of actions, aims and groups which 
+reflect both creativity as well as resilience (LIVEWHAT Integrated report on Alternative 
+Forms of Resilience, D6.4, 2016). High peaks are visible during the crisis period for 
+countries more deeply affected by hard economic times – including almost half or 
+more than half of the AAOs found in Spain, Greece, France, Italy, and Poland. By 
+contrast, AAOs in the countries not significantly affected by the crisis are relatively 
+older and more institutionalized, since most of them were founded in the ‘80s and ‘90s 
+– with a noticeable rise in Germany in the late nineties. Furthermore, AAOs founded 
+prior to the global economic crisis show a higher frequency of rights-based values (e.g. 
+equality, civil rights, human rights, social justice, peace and safety) and economic issues 
+Partecipazione e conflitto, 10(1) 2017: 136-168, DOI: 10.1285/i20356609v10i1p136 
+                                                                                                                     148 
+(e.g. economic prosperity, accountability, professionalism). In stark contrast, AAOs 
+created after the economic crisis show the highest frequency of empowerment and 
+participation values, as well as embracing diversity and sustainability values (LIVEWHAT 
+Integrated report on Alternative Forms of Resilience, D6.4, 2016).  
+All the above contributions illustrate that the political and economic threats and 
+opportunities in the past two decades intensified, broadened and brought to the 
+surface resilient citizen collective participation in direct actions of civic empowerment, 
+solidarity, strengthening of community bonds and democratization. While Social and 
+Solidarity Economy provides a satisfactory framework for the understanding of a wide 
+repertoire of actions for the 20th century, given the rapid developments of the new 
+millennium, especially the global financial crisis and widening pervasive inequalities 
+across global regions, AFR offers an integrated, encompassing framework that brings 
+together the diverse solidarity activities and treats them as distinct manifestations 
+striving towards resilience, while they diverge in terms of their economic and political 
+imaginaries. 
+ 
+ 
+3. A Typology of Approaches for the study of AFR: Conceptual, Theoretical and 
+Political Orientations 
+ 
+Following the presentation of the transition from social and solidarity economy to 
+alternative forms of resilience, this section provides an encompassing typology of AFR, 
+embracing the different conceptual and theoretical approaches, while highlighting the 
+main features of citizen initiatives in relation to their economic and political traits.  
+To recap, Alternative Forms of Resilience are conceptualised as nonmainstream/-
+capitalist economic and noneconomic activities through which citizens build 
+community resilience when confronted with hard economic times, austerity policies, 
+decreasing social welfare policies and threatened economic and social rights. AFR cover 
+a broad spectrum of actions, which address existential and governance issues, draw on 
+values of solidarity, establish reciprocal relations and aim at civic empowerment or 
+new autonomous communities, by introducing alternative structures of economic 
+exchange and lifestyles, as well as new forms of political participation. By operationa-
+lizing “resilience” in our conceptualization of these citizen collective actions, we 
+emphasize the capacity to adapt and transform at the economic and political level. 
+AFR simultaneously constitute an inclusive theoretical framework, extending and 
+including that of “Social and Solidarity Economy” (Moulaert and Ailenei 2005), which 
+embraces perspectives focused on the transformative potential of such actions in the 
+Maria Kousis and Maria Paschou, Alternative Forms of Resilience 
+ 
+ 
+ 
+149 
+economy, as well as those which bring to the fore the political elements of the 
+alternativeness which these resilient initiatives promote. As seen in Figure 1 our 
+proposed typology extends and incorporates the three approaches of Moulaert and 
+Ailenei’s (2005) basic typology: Social Economy, Third Sector and Solidarity Economy. 
+Reflecting concerns related to the current crisis and 21st century hard economic times, 
+deepening inequalities, governance and environmental issues, Figure 1 offers a wider 
+typology scheme that includes more recent types of AFR which have appeared in the 
+past decade, especially through South European studies and perspectives.  It also 
+denotes the policy or social movement orientation of the initiatives studied. 
+Overall, the proposed typology distinguishes between nine, key theoretical 
+approaches, ranging from more reformist to radical or autonomous ones, engaged in 
+understanding and interpreting older as well as more recent waves of alternative 
+economic and noneconomic action organizations and groups, before and during the 
+2008 global crisis. Even though, due to the hybrid and similar nature of many 
+alternative initiatives, overlaps between these approaches do exist, each of the 
+approaches tends to focus on, or emphasize specific types of alternative citizen 
+structures and actions, especially when approaching the two contrasting poles. 
+The term ‘Third Sector’ was especially promoted by Rifkin in the mid-nineties, 
+referring to all non-public and non-profit oriented activities (Moulaert and Ailenei 
+2005), while following the recent crisis, it has been supported by Stiglitz (2009). It 
+constitutes an Anglo-American conception, which places emphasis on the voluntary 
+and non-statutory sector and the role of individual volunteers (Bryant and Pozdeev 
+2014), thereby diverging from continental European and Latin American perspectives 
+which also include co-operative and mutual support organizations (Moulaert and 
+Ailenei 2005, 2043,  Ould Ahmed 2014, 3). Studies illustrate the links with sponsors and 
+state agencies and the importance of individual volunteering, usually in third sector 
+organizations and initiatives. Recent works focus on the changing “austere relations” 
+between the market, the state and the third sector, as the latter is called to fill in the 
+gaps in welfare provision to cover citizen needs (Bennett et al 2015, 100, Macmillan 
+2015). Supporters such as Giddens (2008) emphasize the important role of NGOs under 
+neoliberalism, with more recent scholars pointing also to the impact of austerity on the 
+third sector (Milbourne 2013, Bennett Langmead and Archer2015, 100, Macmillan 
+2015, Clarke, Huliaras and Sotiropoulos 2015). 
+ 
+ 
+ 
+ 
+ 
+Partecipazione e conflitto, 10(1) 2017: 136-168, DOI: 10.1285/i20356609v10i1p136 
+                                                                                                                     150 
+ 
+Figure 1. A typology of AFR: from reformist to autonomous  
+  
+ 
+ 
+ 
+According to Moulaert and Ailenei (2005, 2044-2046) Social Economy is a hybrid 
+concept, yet, it could be defined as “the more restricted economy of co-operatives and 
+mutuelles” illustrated by “firms with social objectives or socially inspired work 
+organizations” where members are shareholders among whom profits are distributed. 
+This approach also includes studies on Human Economy or Social Enterprises. Scholars 
+addressing these concepts have also paid more attention to their relationship with 
+national and EU agencies and policies aiming to assist these socio-economic 
+entrepreneurs or Social Businesses, especially during hard economic times (Nassioulas 
+2012b,  Parente et al 2012,  Chavez  and Monzon  2012,  Sabatii, Modena, and 
+Tortia  2014,  Borzaga, Bodini, Carini, Depedri, Galera and Salvatori 2014,  Poledrini 
+2015). Recognizing the importance of Social Economy, states such as Brazil, Germany, 
+Italy, Spain and Greece have established social economy laws and agencies. Social 
+Economy introduces a wide array of innovations to the market, with a social purpose 
+(e.g. impact investment, socially responsible investment, social banking), which differ 
+from bottom-up, community based groups engaging in solidarity activities, like 
+cooperatives, community currencies and time banks (Neamtan 2009). EU institutions 
+have also recently launched a variety of initiatives and official documents (more than 
+170 since 2000) that support social and work integration policies and recognize the 
+importance of contribution towards social inclusion, quality jobs creation, 
+Maria Kousis and Maria Paschou, Alternative Forms of Resilience 
+ 
+ 
+ 
+151 
+entrepreneurship promotion, access to social services, social and environmental 
+innovation, the European Social model and social cohesion (Kousis, Kalogeraki and 
+Mexi 2015).  
+During the past decade, a Social Innovation approach has developed, making a 
+notable contribution to the literature on alternative economy studies, especially by 
+Moulaert and his co-authors (e.g. Moulaert et al 2007, Moulaert et al 2010, Cruz et al, 
+this issue). In a series of publications, such scholars promote bottom-up social 
+innovation as the outcome of social and institutional mobilization covering social needs 
+and empowering social groups towards open governance systems (Moulaert et al 
+2013). “Social innovation occurs when the mobilisation of social and institutional forces 
+succeeds in bringing about the satisfaction of previously alienated human needs, the 
+relative empowerment of previously silent or excluded social groups through the 
+creation of new ‘capabilities’ and ultimately, changes in the existing social –and 
+power–relations towards a more inclusive and democratic governance system” 
+(González et al, 2010, 54). Within the Social Innovation perspective “socio-political 
+transformation” is also promoted (Swyngedouw, Moulaert and Rodriguez 2003) 
+reflecting the momentum built by social innovation initiatives for a more effective 
+community empowerment and the democratization of state apparatus (Miquel, 
+Cabeza, and Anglada 2013, Haddock 2013).  Vaillancourt (2009) adopts a similar 
+approach, focused on reflexive modernity issues and on the ways in which the Social 
+Economy can contribute to the democratization of the state and public policy through 
+the processes of co-production and co-construction. Favouring a ‘solidarity-based’ 
+model in the context of an open-governance state, Vaillancourt finds that in the case of 
+housing policy in Canada and Quebec, Social Economy initiatives produced social 
+innovations that improved the related public policy. 
+Culture shapes the economy argue Castells, Caraca and Cardoso (2012,11-12) and 
+thus trust - build in networks by social support and personal contact - is vital for 
+engaging in non-profit Alternative Economy practices  (Conill et al 2012, 210, 222-229) 
+that include cooperative, barter and agricultural networks, social currencies, and self-
+management initiatives. Following the 2008 crisis in the US and the EU, these 
+alternative economic cultures are born into social movements which are rising in hard 
+economic times across the globe. They are based on different values concerning the 
+meaning of everyday life, and are one of four different layers of the economy in the 
+21st century.   
+Solidarity Economy approaches highlight the plethora of bottom-up alternative 
+initiatives and practices based on cooperation and reciprocity and stressing of lien 
+social (Moulaert and AIlenei 2005), not involving profits. For example, the importance 
+Partecipazione e conflitto, 10(1) 2017: 136-168, DOI: 10.1285/i20356609v10i1p136 
+                                                                                                                     152 
+of solidarity and people-centred cooperatives beyond the current structural dominance 
+of capital is highlighted by Satgar (2007). The term economie solidaire is used by 
+continental Europeans and Latin Americans to refer to a new generation of more 
+recent, social economy practices. Yet, European and South American approaches are 
+both distinct and complementary to each other (Ould Ahmed 2014, 3-4). Those actions 
+and initiatives, which follow solidarity economy principles, are mainly devoted to 
+covering urgent needs, as well as fostering self-determination and cooperation 
+(Bauhardt 2014).  
+A most recent approach has surfaced highlighting an important but understudied 
+dimension of alternative initiatives, i.e. the relationship of AFR to social movements. 
+Forno and Graziano (2014) make a vital contribution with their work that integrates 
+political consumerism and social movement theories and points out the importance of 
+Sustainable Community Movement Organizations (SCMOs). These involve collective 
+initiatives which empower consumer and producer networks, on a smaller scale, to 
+confront hard economic times. Related studies pay close attention to critical consumer 
+practices and the links of SCMOs with the Global Justice Movement (e.g. D’Alisa, Forno 
+and Maurano 2015,  Giudi and Andretta 2015,  Bosi and Zamponi 2015,  Andretta and 
+Giudi this issue, Papadaki and Kalogeraki this issue, Baumgarten this issue). 
+Departing from the above approaches, the last three (degrowth, post-capitalist and 
+anarchist) tend to be more autonomous and communitarian oriented, aiming to build 
+autonomous communities by ideologically committed participants (Tilly 1994). 
+“Degrowth/decroissance”  has been mainly a 21st century initiative towards a more 
+radical alternative economy pursued on a voluntary  basis, which confronts dominant 
+economic paradigms with grassroots strategies centring on building autonomous 
+collective alternatives outside of mainstream economic institutions, especially at the 
+local level (Martinez Alier 2012,  Demaria, Schneider, Sekulova and Martinez-Alier  
+2013).  One such example is Italy’s Reti de Economic Solidale (Solidarity Economy 
+Networks) consisting of more than twenty Solidarity Economy districts with hundreds 
+of small enterprises focused on socio-ecological objectives (Demaria et al 2013). The 
+‘Post-growth’ approach is also similar to Degrowth. It prioritizes people and the planet 
+over capitalism (D’Alisa, Demaria and Kallis 2014), as advocated by Joan Martinez-
+Allier, Serge Latouche, the New Economic Forum and others. The focus here is on 
+emerging forms of collective ownership by ecological and social entrepreneurs in 
+Western Europe (e.g. Kunze and Becker 2014).  One such example is that of the 
+cooperative Som Energia, established recently by Girona University of Catalonia staff 
+and students (Kunze and Becker 2014).  This theoretical perspective is inspired by the 
+Commons approach, influenced by Ostrom (1990) and the Global Justice Movement. 
+According to De Angelis (2014, 2003, 1), “Commons suggest alternative, noncom-
+Maria Kousis and Maria Paschou, Alternative Forms of Resilience 
+ 
+ 
+ 
+153 
+modified means to fulfill social needs… Commons are necessarily created and 
+sustained by communities, i.e. by social networks of mutual aid, solidarity, and 
+practices of human exchange that are not reduced to the market form.” The approach 
+has also been adopted in recent work on Southern Europe (D’Alisa et al  2015). 
+From a post-capitalist/post-foundational perspective, the emphasis is placed on the 
+everyday practices of autonomous activism, thus problematizing political activism 
+beyond the idea of the militant subject towards the establishment of ‘autonomous 
+geographies’ (Chatterton and Pickerill 2010). Allegedly ‘post-political’ initiatives such as 
+the Syntagma Square gatherings in Athens are seen as materializing “alternative ways 
+of being, doing and saying in common […]nurturing a nomadic re-territorialisation of 
+democratic politics” (Kaika and Karaliotas 2014, 256). In a similar vein, grassroots 
+conflicts under crisis generate practices of solidarity-making and new forms of self-
+organization which cultivate a philosophy of praxis for forging an alternative hegemony 
+against austerity (Calvário, Velegrakis and Kaika 2016). 
+Finally, other most critical approaches in the AFR continuum are those of anarchist 
+initiatives. Eco-anarchist approaches, such as social ecology (Bookchin 1986) and 
+bioregionalism have a long history of bottom-up alternative and autonomous 
+community building. In the past decade, works following  Anarchism, which offer an 
+alternative participatory economy perspective,  have linked  values of solidarity, 
+diversity, equity, with self-management anarchist ideology (e.g. Albert 2013). 
+Alternative agro-food networks are also inspired by critical, anarchist, and ecological 
+thinking (Corrado 2010). Anarchists are involved in popular social movements, 
+neighbourhood committees, or rank-and-file union organizing (Shantz 2013). Green 
+anarchists have largely supported the British LETS system for adopting an alternative 
+economy lifestyle (North 2007, 92). Anarchist thought has also influenced the squatting 
+phenomenon as a practice of alternative economic and socio-spatial relations 
+(Cattaneo and Gavalda 2010, 582).  Finally, the tactic of collective expropriation as an 
+action of resistance towards crisis policies is an anarchist expression with connotations 
+of redistribution and state power derogation (Pautz and Komninou 2013). 
+ 
+AFR Approaches: From Reformist to Autonomous 
+ 
+The approaches in Figure 1 are not presented in a strict scaling manner, but as a 
+more general ordering that takes into account the overall political orientation of the 
+initiatives, and illustrates the ways in which they diverge, in order to construct research 
+questions for future works on the political aspects of AFRs. More specifically, according 
+to our typology of AFR approaches, although most citizen initiatives have social 
+Partecipazione e conflitto, 10(1) 2017: 136-168, DOI: 10.1285/i20356609v10i1p136 
+                                                                                                                     154 
+movement links, Figure 1 reveals two major orientations based on the types of 
+initiatives covered. Listed towards the right axis are autonomous AFR, those that tend 
+to centre  on mutual help and communitarian values at the grassroots level, with 
+strong social movement identities and imaginaries,  while located towards the left axis 
+are reformist AFR, that tend to seek either state or supra-state policies and 
+collaborations, i.e. tend to be more policy oriented, with less critical orientations.  
+Intensified by the economic and governance challenges of the past two decades, 
+particularly during the harsh crisis period, scholarly interest in these two distinct types 
+of resilient practices (reformist vs autonomous), has underlined the need to recognize 
+the political orientation or disposition of citizen collective initiatives of resilience, or 
+AFR, as a critical factor in the formulation of research questions for their study. 
+These two research stream tendencies – supportive, corrective or remedial to 
+conventional state and institutionalized structures, or autonomous, rejecting the 
+former - are vividly reflected in resilient citizen practices. For example, recent calls by 
+solidarity activists (Hart, Laville, and Cattani  2010, 11) point to the need to strengthen 
+alliances of grassroots groups, to harness not only voluntary reciprocity but public 
+policy, while Alliance 21 takes a more developmental path, stressing the need for 
+measuring and assessing SSE activities, being politically recognized, establishing an 
+international lobby at UNDP, and pressuring national and international authorities such 
+as UNO, WTO, towards policies of intervention that incorporate SSE  as an integral part 
+of sustainable development (Fraisse et al in Ould Ahmed 2014,8).  In Brazil, a National 
+Secretariat for Solidarity Economy was established under the Ministry of Labour and 
+Employment,  inspired by  the thousands of “barter clubs” (clubes de trueque) created 
+in Argentina as a strategy to cope with the crisis (Primavera 2010). 
+The relationship of SSE and EU policies has been highlighted in a group of solidarity 
+and social economy works (e.g. Defourny and Nyssens 2012, Alix 1993, Alix 2012, 
+European Parliament 2011,  Kousis, Kalogeraki and Mexi 2015,  Mendell and Alain 
+2015). This is an outcome of the European Commission’s acknowledgement of social 
+economy as a sector and a specific form of governance based on cooperation during 
+the nineties (Alix and Baudet 2013). Scientific activists often propose a renewal of the 
+solidarity and social economy perspective through a ‘Commons approach’ following 
+Ostrom (2010) (Alix 2012). Such initiatives have trickled down to country level, as seen 
+in the 2011 Spanish Law on Social Economy and EU’s Small Business Act (Julia and 
+Chaves 2012) as well as the recent social economy initiatives (Nassioulas 2012a), and 
+the new law in Greece on social economy, Law 4430/2016, under SYRIZA’s govern-
+ment.  
+At the same time, over the past decade, AFR scholars have shifted towards the study 
+of political issues, brought into the field by the Social Innovation approach (Moulaert et 
+Maria Kousis and Maria Paschou, Alternative Forms of Resilience 
+ 
+ 
+ 
+155 
+al 2013,  Cruz, Martinez and Blanco this issue) as well as Alternative Economy, 
+Sustainable Community Movement Organizations, Degrowth, Postgrowth, Post-
+capitalist and Anarchist approaches (e.g. Castels et al 2012, Forno and Graziano 2014, 
+D’Alisa et al  2015, D’Alisa, Demaria and Kallis 2014, De Angelis 2014, Cattaneo and 
+Gavalda 2010, Andretta and Giudi this issue). While the former highlights issues of 
+empowerment and governance, the latter are especially attentive to the links with 
+social movements and action strategies. Although these studies are limited, the 
+political and economic context within which they arise, and the issues they point to, 
+contribute to a new research agenda for scholars of the area.   
+The contribution of the five recent approaches - Alternative Economy, Sustainable 
+Community Movement Organizations, Degrowth, Postgrowth, Post-capitalist/post-
+foundational and Anarchist - is especially important as it reflects the political-economic 
+opportunities and threats of the past two decades and the recent crisis, and sheds light 
+on the relationship between alternative socio-economic practices and social movement 
+organizations. 
+Scholarly interest in the two poles of resilience (reformist vs autonomous), as 
+intensified in the new millennium and particularly during the harsh crisis period, 
+underlines the need to recognize the political orientation or disposition of AFR as a 
+critical factor in the formulation of research hypotheses for future study. Reformist 
+resilient alternative actions are oriented towards policy, seek collaboration or 
+partnerships with state and economic actors, and are supportive or remedial to 
+existing and conventional structures, while critical resilience initiatives have strong ties 
+to social movements, are autonomous and dismissive of the latter.    
+ 
+ 
+4. Conclusion: reflections and areas of research for future studies of AFR  
+ 
+By proposing the encompassing concept of AFR, this paper first brought together the 
+multitude of studies and approaches on the expanding repertoire of collective and 
+resilient citizen initiatives confronting economic threats and governance challenges in 
+the new millennium. In so doing, it has also pointed to the diverging political 
+orientations and the links to social movements. 
+The development and creation of AFR has been influenced significantly by state 
+policies, mainly in the form of major economic threats to larger segments of 
+populations. This has been manifested either through the imposition of harsh austerity 
+policies, or through the dismantling or withdrawal, gradual or sudden, of social policies 
+Partecipazione e conflitto, 10(1) 2017: 136-168, DOI: 10.1285/i20356609v10i1p136 
+                                                                                                                     156 
+supporting economic and social rights. Therefore, AFR arise as alternative - to the 
+mainstream capitalist economy - and resilient citizen created initiatives, or they 
+flourish during hard economic times marked by austerity policies, the weakening of 
+social policies, as well as the depletion of labour and social welfare rights. Given 
+significant cuts in social policies, future research should examine: the extent to which 
+alternative activities are aimed at survival/basic needs oriented resilience i.e. at 
+covering urgent and basic needs related to food, housing and health, as well as the 
+types of participating/recipient-beneficiary groups it involves (such as families, children, 
+women and migrant groups). 
+As witnessed during  the global financial crisis of 2008, economic change and 
+variation also affect AFR, either by shaping citizen responses to political and economic 
+threats and opportunities, or by constituting themselves significant threats and 
+opportunities (Kousis and Tilly 2005, 7). Consequently, future research could centre on 
+the economic and political opportunities and threats which constrain or facilitate the 
+organizing of AFR by citizens confronting hard economic times as well as governance 
+challenges. Through comparative studies offering systematic data beyond the local 
+level, such research would lead to an examination of AFR cycles, the open or closed 
+nature of institutionalized political economy structures, access to resources and the 
+elite allies of AFR.  
+By applying AFR as a conceptual framework, we offer an overview of the basic 
+theoretical and empirical approaches on citizen organized or community based groups, 
+as well as the main issues they address, drawing also on the recent European 
+experience during the crisis period. All of the approaches studying AFR face the 
+challenge of a multi-faceted and complex social phenomenon with cultural, economic, 
+and political dimensions, which tend to involve social movement activism. Additionally, 
+the typology also depicts the variance in political orientation, from reformist to 
+autonomous. Although our typology illustrates that in general AFR citizen organizations 
+and groups tend to have a social movement orientation, they nevertheless portray 
+divergent political aims, from seeking to influence and collaborate on state policies, to 
+establishing autonomous, independent communities with strong social movement 
+identities. For example, AFR initiatives that tend to be policy orientated and seek 
+collaboration or partnerships with state and economic actors, are becoming more 
+visible, as seen for example, in the case of the new 2016 law on social economy in 
+Greece. This leads to a third research question for future works: What are the main 
+features of action repertoires and political partners, collaborators or networks, across 
+the wide array of citizen groups and organizations, especially for reformist and 
+autonomous organizations and groups?  
+Maria Kousis and Maria Paschou, Alternative Forms of Resilience 
+ 
+ 
+ 
+157 
+Based on the undertaken review, there has been a lack of systematic cross-national 
+research facilitating comparative analysis on the political character of alternative socio-
+economic practices, including the profile, frames and aims of the participants and 
+alternative organizational structures, the collaborations and links to informal networks, 
+formal institutions and associations, as well as to social movement organizations.  
+Systematically researching  the social movements’ dimension of AFR would facilitate 
+bringing together different strands of literature as well as understanding the 
+opportunities and threats related to the survival of formal organizations (e.g. 
+cooperatives) including community-based, mutual help groups, or networks of groups 
+supporting each other. This can be done using social movement oriented theories and 
+methods, such as political process theory and a new methodological approach 
+specifically created for the study of AFR, i.e. Alternative Action Organization analysis 
+(Kousis, Giugni and Lahusen 2016). This leads to a fourth research question for future 
+works: What are the AFR’s mobilizing structures, claims and framing processes 
+(diagnostic, prognostic frames), as well as their imaginaries (aims and proposed routes 
+to resolve the challenges they confront? Furthermore, following recent work by Cruz et 
+al, on this issue, a fifth research question is: What are the impacts of the spatial 
+features of AFR over the past decade?  How and why do regions and their respective 
+socio-political-economic structures matter in the rise and development of AFR? 
+Finally, although recent research is in progress, there have been a very limited 
+number of systematic, cross-national, multi-methods empirical studies on AFR. Such 
+research could offer valuable knowledge on cross-country differences and similarities, 
+especially on the political aspects and their major determining factors. Alternatively, in-
+depth studies could focus on new political arenas of AFR, bringing to light  new political 
+spaces beyond the local, national and supra-national, as well as novel issues through 
+open methodologies founded on an epistemology of plurality, yet grounded in 
+communitarian justice imaginaries.  
+Thus, inspired by the path of recent work on citizens’ alternative and resilient, 
+collective responses to economic and governance challenges, as well as a partial 
+convergence between alternative resilient citizens’ reactions and citizens’ collective 
+resistance, this  paper proposes the adoption of elements from social movement 
+related theoretical and methodological approaches to study AFR. This would enable 
+future research to enrich our understanding of the increasingly important Alternative 
+Forms of Resilience.  
+ 
+ 
+ 
+Partecipazione e conflitto, 10(1) 2017: 136-168, DOI: 10.1285/i20356609v10i1p136 
+                                                                                                                     158 
+References 
+Almeida P. (2007), “Defensive Mobilization: Popular Movements against Economic 
+Adjustment Policies in Latin America”, Latin American Perspectives, 34(3): 123-139. 
+doi: 10.1177/0094582X07300942  
+Almeida P.  (2010), “Social Movement Partyism: Collective Action and Oppositional 
+Political Parties”, in N. Van Dyke and H. J. McCommonm (eds), Strategic Alliances: 
+Coalition Building and Social Movements, Minneapolis: University of Minnesota 
+Press. 
+Albert M. (2013), “The parecon proposal”, in J. Shantz and J.B. Macdonald (eds.), 
+Beyond Capitalism: building democratic alternatives for today and the future, 
+London: Bloomsbury Academic.  
+Alix N. (1993), “Impact of European law on social welfare associations”, ISTR 

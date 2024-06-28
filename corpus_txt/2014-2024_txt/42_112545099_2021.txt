@@ -1,0 +1,239 @@
+Resilience of regional hospital nursing staff working during the COVID-19 pandemic measured by the Connor-Davidson resilience scale.
+
+MaineHealth 
+MaineHealth Knowledge Connection 
+Maine Medical Center All MaineHealth 
+2021 
+Resilience of regional hospital nursing staff working during the 
+COVID-19 pandemic measured by the Connor-Davidson resilience 
+scale. 
+Jill Petzel 
+Mid Coast Hospital 
+Follow this and additional works at: https://knowledgeconnection.mainehealth.org/mmc 
+ Part of the Nursing Commons 
+Recommended Citation 
+Petzel, Jill, "Resilience of regional hospital nursing staff working during the COVID-19 pandemic measured 
+by the Connor-Davidson resilience scale." (2021). Maine Medical Center. 2187. 
+https://knowledgeconnection.mainehealth.org/mmc/2187 
+This Article is brought to you for free and open access by the All MaineHealth at MaineHealth Knowledge 
+Connection. It has been accepted for inclusion in Maine Medical Center by an authorized administrator of 
+MaineHealth Knowledge Connection. For more information, please contact mckeld1@mmc.org. 
+Resilience of regional hospital nursing staff working during the COVID-19 
+pandemic measured by the Connor-Davidson resilience scale.
+Jill Petzel, RN, BSN
+Mid Coast Hospital
+Introduction 
+As the COVID-19 pandemic stretches on, the importance of resilience is increasing as it protects 
+against PTSD while aiding an individual in selecting healthy coping strategies. In a study of 657 
+healthcare workers in New York City in April 2020, more than half of healthcare workers 
+screened positive for acute stress (PTSD symptoms), almost half screened positive for 
+depression, and one third screened positive for anxiety; many also reported symptoms of 
+insomnia (Schecter et al., 2020). 
+Resilience is important in nursing because it ensures a viable, healthy workforce for the future. 
+Resilience has been described as the ability to ‘bounce back’ or effectively cope with adversity. 
+The literature shows that resilience has been studied only related to chronic problems such as 
+staffing issues, however, until this year; it has not been studied in the context of pandemics. 
+Background
+Duncan (2020) has recognized that resilience in staff [is] a critical attribute of a strong healthcare 
+system, which requires long-term investment and sustained attention once a crisis 
+abates. Resilience is important in nursing because it ensures a viable, healthy workforce for the 
+future. Previous research on resilience has focused on chronic issues such as staffing shortages, 
+but it has not been examined in the context of disasters (Duncan, 2020).  
+The concept refers to the means and ability for effective adjustment or to cope successfully with 
+adverse circumstances (Lin et al., 2020). Resilience can be viewed as either a process or a 
+personality trait (Duncan, 2020). 
+Resilience is protective against post-traumatic stress disorder (PTSD) which makes it of 
+particular importance during the current pandemic (Duncan, 2020). Anxiety and depression are 
+also inversely related to resilience (Jin et al., 2020). As described by Lin et al. (2020): ...nurses’ 
+resilience scored lower than doctors and other support staff.  Given the workload of nurses 
+during the pandemic and the level of close contact with patients, the differences in resilience 
+between nurses and other medical workers were not unexpected. 
+Purpose
+The purpose of the study was to examine and describe the perceived resilience of nursing staff at 
+a regional hospital who were working during the COVID-19 pandemic. 
+Materials and Methods
+This was a paper-and-pencil survey study conducted at Mid Coast Hospital. 
+Instrument
+The data were collected using the Connor-Davidson Resilience Scale (CD-RISC).  The selected 
+tool was the ten-item version to facilitate participation. Permission to use the scale was obtained 
+1
+through email from Johnathan Davidson (July 17, 2020).    
+The CD-RISC consists of ten items on a five-point scale where zero signifies ‘not true at all’ and 
+four means ‘true nearly all the time’. Total scores indicates resilience; the higher the total score, 
+the higher level of resilience is in the participant (min 4; max 40). Moreover, CD-RISC measures 
+six components of resilience: (1) the ability to adapt to change, (2) deal with what comes along 
+(3) cope with stress (4) to stay focused and think clearly (5) to not get discouraged in the face of 
+failure and (6) to handle unpleasant feelings such as anger, pain or sadness.
+The CD-RISC has been widely used and the psychometric data on validity, reliability and factor 
+structure have been obtained in various studies worldwide (Ahern, Kiehl, Sole & Byers, 2006). 
+Data Collection 
+After the IRB approval, recruitment flyers were distributed at the hospital [where?] inviting the 
+staff to participate the survey. The survey packages and a box for completed surveys were 
+distributed to different units (i.e. Emergency Department, Intensive Care Units [ICU], Inpatient 
+[non-ICU], Outpatient, COVID 19, and other units). The packages included an invitation letter, a 
+paper survey (CD-RISC) and a background information sheet. Altogether 109 packages were 
+distributed and 69 competed surveys were returned (response rate 63%) .  
+A completed survey constituted consent to participate in the study. Participation in the study was 
+voluntary and anonymous. 
+Data Analysis
+The data were exported from Excel database into SPSS, version 17.0 (SPSS, Inc., Chicago, IL, 
+USA). The data were analyzed statistically using descriptive and non-parametric tests. P values 
+<0.05 were considered statistically significant. 
+Ethical Review
+This expedited study was approved by the Institutional Review Board (protocol 20-09-1551) in 
+October 18, 2020. 
+Results
+Respondent Demographics 
+Majority of the respondents were RNs (95.7%) and represented two age groups of 25-34 years 
+(27.5%) and 55-64 years (27.5%). Most of the study subjects had over five years of work 
+experience (78.3%). Almost half of the respondents (44.9%) worked in an inpatient unit (non-
+ICU), 26.1% in Intensive Care Unit (ICU) and 17.4% in Energy Department. (Table 1.) 
+2
+Table 1. Demographic information
+Variables Frequency Percentage
+Age 
+18-24 years
+25-34 years
+35-44 years
+45-54 years
+55-64 years
+65 years or higher
+4
+19
+8
+14
+19
+5
+5.8%
+27.5%
+11.6%
+20.3%
+27.5%
+7.2%
+Years of work experience
+< 1 years
+1-2 years
+> 5 years 
+5
+4
+6
+54
+7.2%
+5.8%
+8.7%
+78.3%
+Clinical role
+RN
+Other
+66
+3
+95.7%
+4.3%
+Practice setting 
+Emergency Department 
+Intensive Care Unit (ICU) 
+Inpatient (non-ICU) 
+Outpatient, COVID 19 
+Other 
+12
+18
+31
+1
+7
+17.4%
+26.1%
+44.9%
+1.4%
+10.1%
+Resilience 
+The respondents’ answers to the CD-RISC-10 questions were first examined item-by-item. The 
+lowest found score (Q8: mean 2.42, SD .946) focused on experiences of failure and the highest 
+score (Q1: mean 3.33, SD .679) on adaptability. The total score (average) was obtained by 
+adding up all 10 items and dividing the sum by the number of respondents. In the sample of all 
+respondents, the total mean score was 29.74 (SD 5.64). This mean score, according to the cut-off 
+points suggested in CD-RISC manual, is in the second quartile of the average/nominal score 
+distribution, and may suggest problems in coping with stress or bouncing back from adversity.  
+In almost half of the respondents (46.4%), the total score was ≤ 29. (Table 2.) 
+  
+Table 2. Respondents’ answers to the CD-RISC-10 item-by-item
+CD-RISC-10 Questions Mean SD
+1. I’m able to adapt when changes occur 3.33 .679
+2. I can deal with whatever comes my way 3.09 .772
+years2-4
+3
+3. I try to see humorous side of things when I am facing with problems 3.10 .770
+4. Having to cope with stress can make me stronger 2.71 .865
+5. I tend to bounce back after illness, injury or other hardship 3.22 .745
+6. I believe I can achieve my goals, even if there are obstacles 3.14 .692
+7. Under pressure, I stay focused and think clearly 2.93 .649
+8. I’m not easily discouraged by failure 2.42 .946
+9. I think myself as a strong person when dealing with life’s challenges and difficulties 3.09 .842
+10. I am able to handle unpleasant or panful feelings like sadness, fear and anger 2.80 .815
+Total score 29.74 5.64
+Hardiness portrayed by different aspects of resilience 
+The instrument, CD-RISC-10 consists of 10 statements describing different aspects of resilience. 
+The scale serves mainly as a measure of hardiness, with items corresponding to flexibility (1 and 
+5), sense of self-efficacy (2, 4 and 9), ability to regulate emotions (10), optimism (3,6 and 8) and 
+cognitive focus/maintaining attention under stress (7). 
+The mean scores for the aspects of resilience were calculated by adding the scores and dividing 
+the sum by the number of items. In the respondents, the lowest resilience score was found in 
+‘Ability to regulate emotions’ (mean 2.80, SD .815) and the highest in ‘Flexibility’ (mean 3.28, 
+SD .645). (Table 3.) 
+ 
+Table 3. Aspects of resilience 
+Aspects of resilience Mean SD
+Flexibility (2 items) 3.28 .645
+Sense of self-efficacy (3 items) 2.97 .664
+Ability to regulate emotions (1 item) 2.80 .815
+Optimism (3 items) 2.89 .620
+Cognitive focus/maintaining attention under stress (1 item) 2.93 .649
+Resilience, age, work experience and practice setting 
+Resilience was examined next in the different age, work experience and practice setting groups 
+using non-parametric tests. Statistically significant differences (p <.05) were found in 
+‘flexibility’ between the age groups. This aspect of resilience was lowest in the age group of 35-
+44 years and highest in the group of 65 ≥ years. No other significant differences in resilience 
+were found between the age groups. An interesting finding was that, when comparing the 
+respondent groups based on the work experience, no statistically significant differences were 
+found. The lowest total resilience scores were found in the ‘Outpatient, COVID 19’ unit ‘ICU’, 
+followed by ‘Inpatient (non-ICU) units and ED. The findings suggest that there were statistically 
+significant differences (p<.05) in ‘flexibility’ between the practice settings. ‘Flexibility’ was 
+4
+lowest in ‘Outpatient COVID 19’ unit and highest in the ‘Other’ units. Examination of resilience 
+between different practice settings was challenging, because of the low response rates from some 
+units.
+Conclusions and Recommendations
+The CD-RISC-10 is intended neither to provide diagnostic information, nor to indicate that 
+treatment or counselling is required. However, in conjunction with other assessments, it can 
+provide useful information in deciding whether/what intervention is appropriate. A total score in 
+the lowest or second quartile may suggest problems in coping with stress or bouncing back from 
+adversity. 
+References:
+Ahern, N., Kiehl, E., Sole, M., & Byers, J. (2006). A review of instruments measuring resilience. 
+Issues in Comprehensive Pediatric Nursing, 29, 103-125. doi: 10.1080/01460600677643
+Duncan, D. (2020). What the COVID-19 pandemic tells us about the need to develop resilience   
+in the nursing workforce. Nursing Management. doi: 10.7748/nm.2020.e1933
+Connor, K. M., & Davidson, J. R.T. (2003). Development of a new resilience scale: The Connor-
+Davidson Resilience Scale (CD-RISC). Depression and Anxiety, 18(2), 76–82. 
+https://doi.org/10.1002/da.10113
+Fernandez, R., Lord, H., Halcomb, E., Moxham, L., Middleton, R., Alanazeh, I., & Ellwood, L. 
+(2020). Implications for COVID-19: a systematic review of nurses’ experiences of working in 
+acute hospital settings during a respiratory pandemic. International Journal of Nursing Studies. 
+doi: 10.1016/j.ijnurstu.2020.103637
+Graeme, D., & Cheung, W. (2020). COVID-19: Emerging compassion, courage and resilience in 
+the face of misinformation and adversity. Journal of Clinical Nursing, 29, 1425-1428. doi: 
+10.1111/jocn.15231
+Huang, L., Lin, G., Tang, L., Yu, L., & Zhou, Z. (2020). Special attention to nurses’ protection 
+during the COVID-19 epidemic. Critical Care, 24(120). doi: 10.1186/s13054-020-2841-7
+Lin, J., Yunhong, R., Gan, H., Chen, Y., Huang, Y., & You, X. (2020). Factors influencing 
+resilience of medical workers from other provinces  to Wuhan fighting against 2019 novel 
+coronavirus pneumonia. BMC Psychiatry. doi: 10.21203/rs.3.rs-17931/v1
+Shechter, A., Diaz, F., Moise, N., Anstey, D., Siqin, Y., … Abdalla, M. (2020). Psychological 
+distress, coping behaviors, and preferences for support among New York healthcare workers 
+during the COVID-19 pandemic. General Hospital Psychiatry, 66(6), 1-8. 
+https://doi.org/10.1016/j.genhosppsych.2020.06.007
+Wiernenga, K., & Moore, S. (2020). Adapting to uncertainty: Nursing responsiveness to 
+COVID-
+5
+19. Journal of Cardiovascular Nursing,  00(00), 00-00. doi: 
+10.1097/JCN.0000000000000712
+6

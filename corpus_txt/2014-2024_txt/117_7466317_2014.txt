@@ -1,0 +1,658 @@
+Estimated Impact of the American Recovery and Reinvestment Act on Employment and Economic Output in 2013
+
+Cornell University ILR School 
+DigitalCommons@ILR 
+Federal Publications Key Workplace Documents 
+2-2014 
+Estimated Impact of the American Recovery and Reinvestment 
+Act on Employment and Economic Output in 2013 
+Congressional Budget Office 
+Follow this and additional works at: https://digitalcommons.ilr.cornell.edu/key_workplace 
+Thank you for downloading an article from DigitalCommons@ILR. 
+Support this valuable resource today! 
+This Article is brought to you for free and open access by the Key Workplace Documents at DigitalCommons@ILR. 
+It has been accepted for inclusion in Federal Publications by an authorized administrator of DigitalCommons@ILR. 
+For more information, please contact catherwood-dig@cornell.edu. 
+If you have a disability and are having trouble accessing information on this website or need materials in an 
+alternate format, contact web-accessibility@cornell.edu for assistance. 
+Estimated Impact of the American Recovery and Reinvestment Act on 
+Employment and Economic Output in 2013 
+Abstract 
+[Excerpt] The effects of ARRA on output peaked in the first half of 2010 and have since diminished, CBO 
+estimates. The effects of ARRA on employment are estimated to lag slightly behind the effects on output; 
+CBO estimates that the employment effects began to wane at the end of 2010 and continued to do so 
+through 2013. 
+Although CBO has examined data on output and employment during the period since ARRA’s enactment, 
+those data are not as helpful in determining ARRA’s economic effects as might be supposed because 
+isolating the effects would require knowing what path the economy would have taken in the absence of 
+the law. Because that path cannot be observed, the new data add only limited information about ARRA’s 
+impact. 
+Keywords 
+American Recovery and Reinvestment Act, ARRA, employment, economic output 
+Comments 
+Suggested Citation 
+Congressional Budget Office. (2014). Estimated impact of the American Recovery and Reinvestment Act 
+on employment and economic output in 2013. Washington, DC: Author. 
+This article is available at DigitalCommons@ILR: https://digitalcommons.ilr.cornell.edu/key_workplace/1236 
+CBO
+FEBRUARY 2014
+Estimated Impact of the 
+American Recovery and Reinvestment Act on 
+Employment and Economic Output in 2013
+In February 2009, in response to significant weakness in 
+the economy, lawmakers enacted the American Recovery 
+and Reinvestment Act (ARRA). The legislation’s numer-
+ous spending and revenue provisions can be grouped into 
+several categories according to their focus:
+ Providing funds to states and localities—for example, 
+by raising federal matching rates under Medicaid, 
+providing aid for education, and increasing financial 
+support for some transportation projects;
+ Supporting people in need—such as by extending and 
+expanding unemployment benefits and increasing 
+benefits under the Supplemental Nutrition Assistance 
+Program (formerly the Food Stamp program);
+ Purchasing goods and services—for instance, by fund-
+ing construction and other investment activities that 
+could take several years to complete; and
+ Providing temporary tax relief for individuals and 
+businesses—such as by raising exemption amounts for 
+the alternative minimum tax, adding a new Making 
+Work Pay tax credit, and creating enhanced deduc-
+tions for depreciation of business equipment.
+When ARRA was being considered, the Congressional 
+Budget Office (CBO) and the staff of the Joint Commit-
+tee on Taxation estimated that it would increase budget 
+deficits by $787 billion between fiscal years 2009 and 
+2019. CBO now estimates that the total impact over the 
+2009–2019 period will amount to about $830 billion. By 
+CBO’s estimate, close to half of that impact occurred in 
+fiscal year 2010, and more than 95 percent of ARRA’s 
+budgetary impact was realized by the end of December 
+2013.
+Various recipients of ARRA funds (most recipients of 
+grants and loans, contractors, and subcontractors) are 
+required to report, after the end of each calendar quarter, 
+the number of jobs funded through ARRA. The law also 
+requires CBO to comment on those reported numbers.1
+During calendar year 2013, recipients reported, ARRA 
+funded an average of about 76,000 full-time-equivalent 
+(FTE) jobs.2 Those reports, however, do not provide a 
+comprehensive estimate of the law’s impact on U.S. 
+employment, which could be higher or lower than the 
+number of FTE jobs reported, for several reasons (in 
+addition to any issues concerning the quality of the 
+reports’ data).3 First, some of the jobs included in the 
+reports might have existed even without the stimulus 
+package, with employees working on the same activities 
+1. Sections 1512(c) and 1512(e) of the American Recovery and 
+Reinvestment Act of 2009, Public Law 111-5, 123 Stat. 115, 
+287–288. This report is the 15th in CBO’s series of reports. 
+Public Law 112-204, enacted on December 4, 2012, changed 
+CBO’s reporting requirements; the agency’s reports on ARRA are 
+now prepared annually, rather than quarterly. For the previous 
+report, see Congressional Budget Office, Estimated Impact of the 
+American Recovery and Reinvestment Act on Employment and 
+Economic Output From October 2012 Through December 2012 
+(February 2013), www.cbo.gov/publication/43945.
+2. Data compiled from recipients’ reports (on jobs funded and other 
+information) are shown at www.recovery.gov/arra/. Recipients 
+were asked to calculate FTEs by taking the total number of hours 
+worked in a quarter that were funded by ARRA and dividing the 
+total by the number of hours that a full-time employee would 
+have worked in that quarter.
+3. For a discussion of data quality, see Government Accountability 
+Office, Recovery Act: Opportunities to Improve Management and 
+Strengthen Accountability Over States’ and Localities’ Uses of Funds, 
+GAO-10-999 (September 2010), www.gao.gov/new.items/
+d10999.pdf (4.83 MB).
+2 ESTIMATED IMPACT OF THE AMERICAN RECOVERY AND REINVESTMENT ACT ON EMPLOYMENT AND ECONOMIC OUTPUT IN 2013 FEBRUARY 2014
+CBO
+or other activities. Second, the reports cover employers 
+that received ARRA funding directly and those employ-
+ers’ immediate subcontractors (the so-called primary 
+and secondary recipients of ARRA funding) but not 
+lower-level subcontractors. Third, the reports do not 
+attempt to measure the number of jobs that were created 
+or retained indirectly as a result of recipients’ increased 
+income, and the increased income of their employees, 
+which could boost demand for other products and ser-
+vices as they spent their paychecks. Fourth, the recipients’ 
+reports cover only certain ARRA appropriations, which 
+encompass about one-fifth of the total either spent by 
+the government or conveyed through tax reductions in 
+ARRA; the reports do not measure the effects of other 
+provisions of the stimulus package, such as tax cuts and 
+transfer payments (including unemployment insurance 
+payments) to individual people. 
+Estimating the law’s overall effects on employment 
+requires a more comprehensive analysis than can be 
+achieved by using the recipients’ reports. Therefore, 
+looking at recorded spending to date along with estimates 
+of the other effects of ARRA on spending and revenues, 
+CBO has estimated the law’s impact on employment 
+and economic output using evidence about the effects 
+of previous similar policies and drawing on various math-
+ematical models that represent the workings of the econ-
+omy.4 On that basis, and as summarized in Table 1, CBO 
+estimates that ARRA’s policies had the following effects in 
+calendar year 2013 compared with what would have 
+occurred otherwise:
+ They raised real (inflation-adjusted) gross domestic 
+product (GDP) by between 0.1 percent and 
+0.4 percent, 
+ They lowered the unemployment rate by an amount 
+between a small fraction of a percentage point and 
+0.3 percentage points,
+ They increased the number of people employed by 
+between 0.1 million and 0.5 million, and
+ They increased the number of full-time-equivalent 
+jobs by 0.1 million to 0.5 million. 
+The effects of ARRA on output peaked in the first half of 
+2010 and have since diminished, CBO estimates. The 
+effects of ARRA on employment are estimated to lag 
+slightly behind the effects on output; CBO estimates that 
+the employment effects began to wane at the end of 2010 
+and continued to do so through 2013. 
+Although CBO has examined data on output and 
+employment during the period since ARRA’s enactment, 
+those data are not as helpful in determining ARRA’s eco-
+nomic effects as might be supposed because isolating the 
+effects would require knowing what path the economy 
+would have taken in the absence of the law. Because that 
+path cannot be observed, the new data add only limited 
+information about ARRA’s impact.
+Measuring ARRA’s Impact Using 
+Recipients’ Reports
+ARRA requires primary and secondary recipients of more 
+than $25,000 from appropriations made under the law to 
+report a variety of information each calendar quarter. 
+That group includes most grant and loan recipients, con-
+tractors, and subcontractors, but it excludes individual 
+people. The information to be submitted includes the 
+amount of funding received and spent; the name, 
+description, and completion status of the project or activ-
+ity funded; the number of jobs funded; and, for invest-
+ments in infrastructure, the purpose and cost of the 
+investment. Recipients who filed reports in 2013 
+reported the number of jobs on the basis of the number 
+of employee hours paid for with ARRA funds.5
+4. For a more detailed discussion of CBO’s approach to analyzing 
+short-term fiscal policy, see Felix Reichling and Charles Whalen, 
+Assessing the Short-Term Effects on Output of Changes in Federal 
+Fiscal Policies, Working Paper 2012-08 (Congressional Budget 
+Office, May 2012), www.cbo.gov/publication/43278.
+5. Specifically, recipients were instructed to calculate the number of 
+FTE jobs funded through ARRA by counting the total number of 
+hours worked that were funded by ARRA during the fourth quar-
+ter, divided by the number of hours in a full-time schedule for a 
+quarter. For details and examples, see Office of Management and 
+Budget, “Recovery FAQs for Federal Contractors on Reporting” 
+(accessed February 19, 2014), http://go.usa.gov/BwZY.
+FEBRUARY 2014 ESTIMATED IMPACT OF THE AMERICAN RECOVERY AND REINVESTMENT ACT ON EMPLOYMENT AND ECONOMIC OUTPUT IN 2013 3
+CBO
+Table 1.
+Estimated Macroeconomic Impact of the American Recovery and 
+Reinvestment Act, 2009 to 2013
+Source: Congressional Budget Office.
+Note: * = Between -0.05 and 0.05.
+a. A year of full-time-equivalent employment years is 40 hours of employment per week for one year.
+2009
+Q1 * 0.1 * * * * * 0.1
+Q2 0.4 1.3 -0.1 -0.3 0.1 0.5 0.2 0.7
+Q3 0.6 2.4 -0.2 -0.6 0.3 1.1 0.4 1.7
+Q4 0.7 3.3 -0.2 -1.0 0.5 1.9 0.7 2.7
+2010
+Q1 0.9 4.3 -0.3 -1.5 0.6 2.7 0.9 3.9
+Q2 0.8 4.6 -0.4 -1.8 0.7 3.4 1.0 4.8
+Q3 0.7 4.1 -0.4 -2.0 0.7 3.6 1.0 5.1
+Q4 0.6 3.5 -0.3 -1.9 0.6 3.5 0.9 4.9
+2011
+Q1 0.6 3.2 -0.3 -1.8 0.6 3.3 0.8 4.6
+Q2 0.4 2.5 -0.3 -1.6 0.5 2.9 0.7 4.0
+Q3 0.3 2.0 -0.2 -1.3 0.4 2.4 0.5 3.3
+Q4 0.2 1.5 -0.2 -1.1 0.3 2.0 0.4 2.6
+2012
+Q1 0.1 1.0 -0.1 -0.8 0.2 1.5 0.3 1.9
+Q2 0.1 0.8 -0.1 -0.6 0.2 1.2 0.2 1.4
+Q3 0.1 0.7 -0.1 -0.5 0.2 0.9 0.2 1.0
+Q4 0.1 0.6 -0.1 -0.4 0.1 0.8 0.1 0.8
+2013
+Q1 0.1 0.5 -0.1 -0.3 0.1 0.6 0.1 0.6
+Q2 0.1 0.4 * -0.3 0.1 0.5 0.1 0.5
+Q3 0.1 0.4 * -0.3 0.1 0.5 0.1 0.4
+Q4 * 0.3 * -0.2 0.1 0.4 * 0.3
+2009 0.4 1.8 -0.1 -0.5 0.2 0.9 0.3 1.3
+2010 0.7 4.1 -0.4 -1.8 0.7 3.3 0.9 4.7
+2011 0.4 2.3 -0.2 -1.4 0.5 2.6 0.6 3.6
+2012 0.1 0.8 -0.1 -0.6 0.2 1.1 0.2 1.3
+2013 0.1 0.4 * -0.3 0.1 0.5 0.1 0.5
+ (Millions, annualized)a
+Change Attributable to ARRA
+Real Gross Domestic Unemployment Rate Employment Years
+Full-Time-Equivalent
+ Employment Years
+Low High
+Product (Percent) (Percentage points) (Millions, annualized)
+Calendar Year Quarters
+Calendar Year Average
+Low High
+Estimate Estimate Estimate Estimate Estimate Estimate Estimate Estimate
+Low High Low High
+4 ESTIMATED IMPACT OF THE AMERICAN RECOVERY AND REINVESTMENT ACT ON EMPLOYMENT AND ECONOMIC OUTPUT IN 2013 FEBRUARY 2014
+CBO
+According to those reports, about 76,000 full-time-equiv-
+alent jobs were funded by ARRA on average in 2013.6 
+However, the reported number of jobs funded is not a 
+comprehensive measure of ARRA’s effect on overall 
+employment or even of those provisions of ARRA for 
+which recipients’ reports are required. The actual impact 
+could, in principle, be significantly larger or smaller than 
+the number of jobs reported. 
+If, for example, recipients’ reports include employment 
+that would have occurred without ARRA, the impact on 
+employment suggested by the reports could be too great. 
+Some people whose employment was attributed to ARRA 
+might have worked on other activities in the absence of 
+the law—for example, a business might have bid on 
+other projects if its resources had not been committed to 
+projects funded by ARRA. In the case of government 
+employees, state or local taxes might have been raised in 
+the absence of ARRA funding (or transfer payments 
+might have been reduced) to pay for some of the jobs that 
+were counted as funded by ARRA. 
+Conversely, the reported figure could be too low because 
+the reporting requirement is limited to primary and sec-
+ondary recipients of funds and thus excludes lower-level 
+recipients, such as subcontractors hired by a main sub-
+contractor. Thus, if expenditures under ARRA led to 
+increases in employment among lower-level subcontrac-
+tors and vendors, those effects would be missed by 
+the reports. 
+Recipients’ reports also do not include indirect effects 
+that could increase or decrease the impact on employ-
+ment. Among those effects are potential declines in 
+employment in other businesses or economic sectors as 
+demand shifts toward the recipients of ARRA funding—
+a phenomenon often called the “crowding out” effect of 
+government policies. Conversely, spending under ARRA 
+could lead to higher employment at companies that are 
+not directly connected to that spending—for example, 
+because of additional purchases made by people who 
+would be unemployed were it not for ARRA funds. CBO 
+estimates that, under current conditions, the indirect 
+effects, on net, would tend to reinforce the direct effects 
+for most of the range of their estimated magnitude.
+Finally, the recipients’ reports reflect only about one-fifth 
+of the total amount of spending increases or tax reduc-
+tions that are attributable to ARRA’s provisions. The 
+reports cover direct government purchases of goods and 
+services, grants and loans to private entities, and some 
+grants to states and localities, but they do not cover tax 
+cuts or increases in transfer payments to individuals. 
+The tax reductions and spending that are not covered by 
+the recipients’ reports probably had substantial effects on 
+purchases of goods and services and, therefore, on 
+employment.
+Measuring ARRA’s Impact Using 
+Economic Models and Historical Data
+CBO used various economic models and historical 
+data to guide its estimate of the way in which output 
+and employment are affected by increases in outlays and 
+reductions in revenues under ARRA. CBO’s assessment is 
+that different elements of ARRA (such as particular types 
+of tax cuts, transfer payments, and government pur-
+chases) have had different effects on economic output per 
+dollar of higher spending or lower tax receipts. Multiply-
+ing estimates of those per-dollar effects by the dollar 
+amounts of each element of ARRA yields an estimate of 
+the law’s total impact on output. To produce estimates 
+of ARRA’s total impact on employment, CBO combined 
+that estimate with estimates of how changes in output 
+affect the unemployment rate and participation in the 
+labor force.
+CBO’s Modeling Approach
+CBO used evidence from models and historical relation-
+ships to determine estimated “multipliers” for each of 
+several categories of spending and tax provisions in 
+ARRA, as shown in Table 2. Each multiplier represents 
+the estimated direct and indirect effects on the nation’s 
+output of a dollar’s worth of a given policy. Therefore, a 
+provision’s multiplier can be applied to the budgetary cost 
+of that provision to estimate its overall impact on output. 
+Direct effects consist of immediate (or first-round) effects 
+on economic activity. Government purchases of goods 
+and services directly add to the nation’s output, dollar 
+for dollar. For reductions in taxes, increases in transfer 
+payments, and increases in aid to state and local 
+6. For the number of jobs by agency, see “Top Agencies, as Reported 
+by Recipients (Jan 1–Mar 31, 2013),” http://go.usa.gov/BwZQ; 
+“Top Agencies, as Reported by Recipients (Apr 1–June 30, 
+2013),” http://go.usa.gov/BwZw; “Top Agencies, as Reported by 
+Recipients (Jul 1–Sep 30, 2013),” http://go.usa.gov/BwBj; and 
+“Top Agencies, as Reported by Recipients (Oct 1–Dec 31, 
+2013),” http://go.usa.gov/BwBV (all accessed February 19, 2014).
+FEBRUARY 2014 ESTIMATED IMPACT OF THE AMERICAN RECOVERY AND REINVESTMENT ACT ON EMPLOYMENT AND ECONOMIC OUTPUT IN 2013 5
+CBO
+Table 2.
+Estimated Output Multipliers of Major Provisions of the American Recovery and 
+Reinvestment Act of 2009
+Continued
+governments, the size of the direct effect depends on the 
+policy’s impact on the behavior of recipients. If someone 
+receives a dollar in transfer payments and spends 80 cents 
+(saving the other 20 cents), production increases over 
+time to meet the additional demand generated by that 
+spending, and the direct impact on output is 80 cents. 
+Similarly, if a dollar in aid to a state government leads 
+that government to spend 50 cents more on employees’ 
+salaries (but causes no other changes in state spending or 
+revenues, with the other 50 cents used to reduce borrow-
+ing or build up rainy-day funds), the direct impact on 
+output is 50 cents.
+CBO reviewed evidence on the responses of households, 
+businesses, and governments to various types of tax cuts
+Type of Activity Major Provisions of ARRA
+Purchases of Goods and Services 0.5 2.5 Division A, Title II: Other; Title IV: Energy Efficiency and
+by the Federal Government Renewable Energy; Title IV: Innovative Technology Loan
+Guarantee Program; Title IV: Other Energy Programs; Title V: 
+Federal Buildings Fund; Title VIII: National Institutes of Health;
+Title VIII: Other Department of Health and Human Services
+Transfer Payments to State and 0.4 2.2 Division A, Title VII: Clean Water and Drinking Water State 
+Local Governments for Revolving Funds; Title XI: Other Housing Assistance; Title XII: 
+Infrastructure Highway Construction; Title XII: Other Transportation 
+Transfer Payments to State and 0.4 1.8 Division A, Title VIII: Education for the Disadvantaged; Title 
+Local Governments for Other VIII: Special Education; Title IX: State Fiscal Stabilization Fund; 
+Purposes Division B, Title V: State Fiscal Relief Fund
+Transfer Payments to Individuals 0.4 2.1 Division A, Title I: Supplemental Nutrition Assistance Program; 
+Title VIII: Student Financial Assistance; Division B, Title I: 
+Refundable Tax Credits; Title II: Unemployment 
+Compensation; Title III: Health Insurance Assistanceb
+One-Time Payments to Retirees 0.2 1.0 Division B, Title II: Economic Recovery Payments
+Two-Year Tax Cuts for Lower- 0.3 1.5 Division B, Title I: Making Work Pay Credit;
+and Middle-Income People American Opportunity Tax Credit
+One-Year Tax Cut for Higher- 0.1 0.6 Increase in Individual AMT Exemption Amount
+Income People
+Extension of First-Time 0.2 0.8 Extension of First-Time Homebuyer Credit
+Homebuyer Credit
+Estimated Output Multipliersa
+Low Estimate High Estimate
+6 ESTIMATED IMPACT OF THE AMERICAN RECOVERY AND REINVESTMENT ACT ON EMPLOYMENT AND ECONOMIC OUTPUT IN 2013 FEBRUARY 2014
+CBO
+Table 2. Continued
+Estimated Output Multipliers of Major Provisions of the American Recovery and
+Reinvestment Act of 2009
+Source: Congressional Budget Office.
+Notes: Provisions affecting outlays (including refundable tax provisions) are identified by the same names used by CBO in its cost estimate for 
+the conference agreement for H.R. 1, the American Recovery and Reinvestment Act of 2009 (February 13, 2009). Provisions affecting 
+revenues—all of which are included in title I of the American Recovery and Reinvestment Act of 2009 (ARRA)—are identified by the 
+names used in the Joint Committee on Taxation’s (JCT’s) estimate (see www.house.gov/jct/x-19-09.pdf). 
+The economic impact of three tax provisions with budgetary costs over $5 billion was analyzed using a different methodology, and 
+their effects cannot easily be summarized by a multiplier. Those provisions were titled “Extend by Three Years the Placed-in-Service 
+Date for Each Section 45 Qualified Facility” and “One-Year Extension of Special Allowance for Certain Property Acquired During 2009” 
+in JCT’s estimate and “Health Information Technology” in CBO’s estimate. Some other provisions, with total budgetary costs of less 
+than $7 billion, were included in the analysis but are not shown in the table.
+AMT = alternative minimum tax.
+a. The output multiplier is the cumulative impact of spending under the provisions on gross domestic product over several quarters. The 
+ranges shown in the table assume that the Federal Reserve is holding short-term interest rates about as low as possible and would not 
+tighten monetary policy in response to a fiscal stimulus.
+b. This provision is a reduction in taxes, but it is treated as having the same economic impact as transfer payments to individuals.
+and transfer payments to estimate the size of those 
+policies’ direct effects on output.7 For example:
+ A one-time cash payment is likely to have less impact 
+on a household’s purchases than is a longer-lasting 
+change to disposable income because the one-time 
+payment has a smaller effect on total lifetime dispos-
+able income. 
+ Increases in disposable income are likely to boost pur-
+chases more for lower-income than for higher-income 
+households. That difference arises, at least in part, 
+because a larger share of people in lower-income 
+households cannot borrow as much money as they 
+would wish in order to spend more than they do 
+currently. 
+ Changes to corporate taxes that primarily affect after-
+tax profits on past investment generally have a smaller 
+impact on output than do policies that alter the return 
+from new investment. 
+Government policies also can have indirect effects that 
+enhance or offset the direct effects. Direct effects are 
+enhanced when, for example, a government policy creates 
+jobs and those who are hired use their income to 
+boost consumption. Direct effects also are enhanced 
+when greater demand for goods and services prompts 
+companies to increase investment to bolster their future 
+production.
+Type of Activity Major Provisions of ARRA
+Corporate Tax Provisions 0 0.4 Deferral and Ratable Inclusion of Income Arising From Business 
+Primarily Affecting Cash Flow Indebtedness Discharged by the Reacquisition of a Debt 
+Instrument; Clarification of Regulations Related to Limitations 
+on Certain Built-In Losses Following an Ownership Change; 
+Recovery Zone Bonds; Qualified School Construction Bonds 
+Estimated Output Multipliersa
+Low Estimate High Estimate
+7. On household spending, for example, see Jonathan A. Parker 
+and others, Consumer Spending and the Economic Stimulus Pay-
+ments of 2008, Working Paper 16684 (National Bureau of Eco-
+nomic Research, January 2011), www.nber.org/papers/w16684; 
+Matthew D. Shapiro and Joel Slemrod, “Did the 2008 Tax 
+Rebates Stimulate Spending?” American Economic Review, vol. 9, 
+no. 2 (May 2009), pp. 374–379, www.jstor.org/stable/25592427; 
+Sumit Agarwal, Chunlin Liu, and Nicholas S. Souleles, “The 
+Reaction of Consumer Spending and Debt to Tax Rebates: Evi-
+dence From Consumer Credit Data,” Journal of Political Economy, 
+vol. 115, no. 6 (December 2007), pp. 986–1019, www.jstor.org/
+stable/10.1086/528721; and David S. Johnson, Jonathan A. 
+Parker, and Nicholas S. Souleles, “Household Expenditure and the 
+Income Tax Rebates of 2001,” American Economic Review, vol. 96, 
+no. 5 (December 2006), pp. 1589–1610, www.jstor.org/stable/
+30034986.
+FEBRUARY 2014 ESTIMATED IMPACT OF THE AMERICAN RECOVERY AND REINVESTMENT ACT ON EMPLOYMENT AND ECONOMIC OUTPUT IN 2013 7
+CBO
+In the other direction, substantial government spending 
+can cause a shift in resources (including employees) 
+away from production in other businesses and sectors 
+to government-funded projects. That indirect crowding-
+out effect could cause growth in employment among 
+recipients of ARRA funding to be offset by declines in 
+employment elsewhere in the economy. Increases in inter-
+est rates are one possible mechanism for such crowding 
+out: Higher interest rates discourage spending on invest-
+ment and on durable goods such as cars because they raise 
+the cost of borrowing. However, because the Federal 
+Reserve has kept short-term interest rates very low, that 
+mechanism does not appear to have been an important 
+factor in 2013. By another mechanism for crowding out, 
+activities funded by ARRA could reduce production 
+elsewhere in the economy if they used scarce materials or 
+workers with specific skills, creating bottlenecks that hin-
+dered other activities. That effect, too, has probably been 
+much smaller since ARRA was enacted than it might have 
+been otherwise because of high unemployment and a 
+large amount of unused resources (as well as the diversity 
+of activities funded under ARRA). 
+In estimating the magnitude of indirect effects, CBO 
+relied heavily on estimates from macroeconometric fore-
+casting models, informed by evidence from other types 
+of models, direct estimation using historical data, and 
+ongoing review of relevant research.8 
+The multipliers are applied to outlays when they occur 
+and to changes in taxes or transfer payments when they 
+affect disposable income. CBO’s estimates, therefore, 
+account for the different rates of spending for various 
+types of appropriations and, similarly, for the timing of 
+different tax cuts or transfer payments. In some cases, 
+when different elements of a single provision were esti-
+mated to have different multipliers, the total cost of a 
+provision was divided among more than one category. 
+In those cases, the provision is shown in Table 2 in the 
+category to which most of its budgetary cost applied. Pro-
+visions that affect outlays (including refundable tax cred-
+its) are identified by the same names used in CBO’s cost 
+estimate for the conference agreement on ARRA.9 Provi-
+sions that affect revenues are identified by the names used 
+in the revenue estimate prepared by the staff of the Joint 
+Committee on Taxation for the same legislation.10
+The estimates of ARRA’s effects on output were trans-
+lated into estimates of the effects on the unemployment 
+rate, total employment, and FTE employment in a series 
+of steps. First, the impact on the output gap—the per-
+centage difference between actual and potential output—
+was calculated.11 Next, the effect of the change in the out-
+put gap on the unemployment rate was estimated using 
+the historical relationship between those two measures.12 
+Then, the effect of changes in the unemployment rate on 
+the labor force was taken into account: If unemployment 
+declines and the economic environment improves, dis-
+couraged workers and people who have chosen to pursue 
+activities such as education rather than work will tend to 
+return to the labor force. Together, the estimated effect 
+on the unemployment rate and the effect on the labor 
+force were used to estimate the impact on the number of 
+people employed. The change in FTE employment was 
+then estimated using the historical relationship between 
+changes in hours per employed worker and changes in the 
+gap between the unemployment rate and CBO’s estimate 
+of the natural rate of unemployment.13 Because higher 
+spending and lower taxes can affect output and unem-
+ployment for some time after they occur, the impact of 
+ARRA on employment in 2013 depended partly on the 
+law’s effect on spending and revenues in previous years.
+A key advantage of the model-based approach used in 
+this analysis is the ability to provide estimates of the total 
+effects throughout the economy of the government 
+8. For a detailed discussion of those sources of information, see Felix 
+Reichling and Charles Whalen, Assessing the Short-Term Effects on 
+Output of Changes in Federal Fiscal Policies, Working Paper 2012-
+08 (Congressional Budget Office, May 2012), www.cbo.gov/pub-
+lication/43278.
+9. See Congressional Budget Office, cost estimate for the conference 
+agreement for H.R. 1, the American Recovery and Reinvestment 
+Act of 2009 (February 13, 2009), www.cbo.gov/publication/
+41762.
+10. See Joint Committee on Taxation, Estimated Budget Effects of the 
+Revenue Provisions Contained in the Conference Agreement for 
+H.R. 1, JCX-19-09 (February 12, 2009), www.jct.gov/x-19-09.pdf 
+(40 KB).
+11. Potential output is the maximum sustainable output of the 
+economy. 
+12. Changes in the output gap affect unemployment gradually over 
+several quarters. Initially, part of a rise in output shows up as 
+higher productivity and hours per worker rather than as reduced 
+unemployment.
+13. The natural rate of unemployment is the rate that arises from all 
+sources except cyclical fluctuations in economywide demand for 
+goods and services.
+8 ESTIMATED IMPACT OF THE AMERICAN RECOVERY AND REINVESTMENT ACT ON EMPLOYMENT AND ECONOMIC OUTPUT IN 2013 FEBRUARY 2014
+CBO
+spending, transfer payments, and tax cuts resulting from 
+ARRA. By focusing on the net change in employment, 
+that approach captures both the jobs created and the jobs 
+retained as a result of ARRA.
+A key disadvantage of the model-based approach is the 
+considerable uncertainty about many of the economic 
+relationships that are important in the modeling. Because 
+economists differ on which analytical approaches provide 
+the most convincing evidence about such relationships, 
+they can reach different conclusions about those relation-
+ships. In addition, each study involves uncertainty about 
+the extent to which the results reflect the true effects of 
+a given policy or the effects of other factors. For those 
+reasons, CBO provides ranges of estimates of ARRA’s 
+economic effects that are intended to encompass most 
+economists’ views and thereby reflect the uncertainty 
+involved in such estimates.
+Changes from CBO’s Previous Estimates of the 
+Impact of ARRA 
+CBO’s estimates of the economic effects of ARRA are 
+largely identical to those the agency published in Febru-
+ary 2013.14 Changes to CBO’s estimates of the economic 
+effects of ARRA in 2013 reflect small revisions to its pre-
+vious estimates of the timing and magnitude of changes 
+to federal spending as a result of ARRA. CBO’s estimate 
+of the budgetary impact of ARRA over the 2009–2019 
+period is about the same as it was in February 2013. 
+ARRA’s Long-Run Effects 
+In contrast to its positive near-term macroeconomic 
+effects, ARRA will reduce output slightly in the long run, 
+CBO estimates—by between zero and 0.2 percent after 
+2016. But CBO expects that the legislation will have no 
+long-term effects on employment because the U.S. econ-
+omy will have a high rate of use of its labor resources in 
+the long run.15 
+ARRA’s long-run impact on the economy will stem 
+primarily from the resulting increase in government 
+debt.16 To the extent that people hold their wealth in gov-
+ernment securities rather than in a form that can be used 
+to finance private investment, the increased debt tends to 
+reduce the stock of productive private capital. In the long 
+run, each dollar of additional debt crowds out about a 
+third of a dollar’s worth of private domestic capital, CBO 
+estimates. (The remainder of the rise in debt is offset by 
+increases in private saving and inflows of foreign capital.) 
+Because of uncertainty about the degree of crowding out, 
+however, CBO’s range of estimates of ARRA’s long-run 
+effects reflects the possibility that the extent of crowding 
+out could be more or less than one-third of the added 
+debt.
+Over the long term, the output of the economy depends 
+on the stock of productive capital, the supply of labor, 
+and productivity. The less productive capital there is as 
+a result of lower private investment, the smaller will be 
+the nation’s output over the long run.
+The effect of the crowding out of some private invest-
+ment under ARRA will be offset somewhat by other fac-
+tors. Some of ARRA’s provisions, including its funding 
+for roads and highways, may add to the economy’s poten-
+tial output in much the same way that private capital 
+investment does. Others, including its funding of 
+education, may raise long-term productivity by 
+enhancing people’s skills. Still other provisions create 
+incentives for increased private investment. According 
+to CBO’s estimates, the provisions that potentially add 
+to long-term output account for between one-fifth and 
+one-quarter of ARRA’s budgetary cost. 
+14. See Congressional Budget Office, Estimated Impact of the Ameri-
+can Recovery and Reinvestment Act on Employment and Economic 
+Output From October 2012 Through December 2012 (February 
+2013), www.cbo.gov/publication/43945. 
+15. The reduction in GDP is therefore estimated to be reflected in 
+lower wages rather than less employment, as workers will be 
+slightly less productive because the capital stock will be slightly 
+smaller. See Congressional Budget Office, letter to the Honorable 
+Judd Gregg concerning the estimated macroeconomic impacts of 
+H.R. 1 as passed by the House and the Senate (February 11, 
+2009), www.cbo.gov/publication/20474. CBO has not updated 
+those estimates.
+16. For a discussion of the long-run effects of other debt-financed pol-
+icies for boosting output and employment, see testimony of 
+Douglas W. Elmendorf, Director, Congressional Budget Office, 
+before the Senate Committee on the Budget, Policies for Increasing 
+Economic Growth and Employment in 2012 and 2013 
+(November 15, 2011), www.cbo.gov/publication/42717.
+FEBRUARY 2014 ESTIMATED IMPACT OF THE AMERICAN RECOVERY AND REINVESTMENT ACT ON EMPLOYMENT AND ECONOMIC OUTPUT IN 2013 9
+CBO
+ARRA’s long-run effect on output also depends on 
+whether it permanently changed people’s saving or their 
+ability or willingness to work. For example, to the extent 
+that ARRA reduced long-term unemployment during the 
+2009–2013 period, it might improve participation in 
+the labor force, employment, and productivity in later 
+years. However, CBO’s estimates of the long-term effects 
+of ARRA do not incorporate any effects of that sort.
+Section 1512(e) of the American Recovery and 
+Reinvestment Act of 2009 (ARRA) requires the 
+Congressional Budget Office (CBO) to comment 
+on reports filed by recipients of ARRA funding that 
+detail the number of jobs funded through their 
+activities. This CBO report fulfills that requirement. 
+Felix Reichling of CBO’s Macroeconomic Analysis 
+Division wrote the report under the supervision 
+of Wendy Edelberg and Benjamin Page. Jared 
+Brewster, Mark Lasky, and Joshua Shakin contrib-
+uted to the analysis. This report, along with previ-
+ous reports on the topic, is available at the agency’s 
+website (www.cbo.gov).
+Douglas W. Elmendorf 
+Director
+

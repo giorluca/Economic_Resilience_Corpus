@@ -1,0 +1,1266 @@
+Chaos Firefly Algorithm With Self-Adaptation Mutation Mechanism for Solving Large-Scale Economic Dispatch With Valve-Point Effects and Multiple Fuel Options
+
+Masthead Logo
+University of New Haven
+Digital Commons @ New Haven
+Electrical & Computer Engineering and Computer
+Science Faculty Publications
+Electrical & Computer Engineering and Computer
+Science
+8-17-2018
+Chaos Firefly Algorithm With Self-Adaptation
+Mutation Mechanism for Solving Large-Scale
+Economic Dispatch With Valve-Point Effects and
+Multiple Fuel Options
+Yude Yang
+Guangxi University
+Bori Wei
+Guangxi University
+Hui Liu
+Guangxi University
+Yiyi Zhang
+Guangxi University
+Junhui Zhao
+University of New Haven, JZhao@newhaven.edu
+See next page for additional authors
+Follow this and additional works at: https://digitalcommons.newhaven.edu/
+electricalcomputerengineering-facpubs
+Part of the Computer Engineering Commons, Computer Sciences Commons, and the Electrical
+and Computer Engineering Commons
+Comments
+(c) 2018 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other users, including reprinting/ republishing
+this material for advertising or promotional purposes, creating new collective works for resale or redistribution to servers or lists, or reuse of any
+copyrighted components of this work in other works. This article was originally published in IEEE Access at http://10.1109/ACCESS.2018.2865960.
+Publisher Citation
+Y. Yang, B. Wei, H. Liu, Y. Zhang, J. Zhao and E. Manla, "Chaos Firefly Algorithm With Self-Adaptation Mutation Mechanism for
+Solving Large-Scale Economic Dispatch With Valve-Point Effects and Multiple Fuel Options," in IEEE Access, vol. 6, pp.
+45907-45922, 2018.
+Authors
+Yude Yang, Bori Wei, Hui Liu, Yiyi Zhang, Junhui Zhao, and Emad Manla
+This article is available at Digital Commons @ New Haven: https://digitalcommons.newhaven.edu/electricalcomputerengineering-
+facpubs/89
+Received July 3, 2018, accepted August 7, 2018, date of publication August 17, 2018, date of current version September 7, 2018.
+Digital Object Identifier 10.1109/ACCESS.2018.2865960
+Chaos Firefly Algorithm With Self-Adaptation
+Mutation Mechanism for Solving Large-Scale
+Economic Dispatch With Valve-Point Effects
+and Multiple Fuel Options
+YUDE YANG1, (Member, IEEE), BORI WEI1, HUI LIU 1, (Senior Member, IEEE),
+YIYI ZHANG 1, (Member, IEEE), JUNHUI ZHAO2, (Member, IEEE),
+AND EMAD MANLA2, (Member, IEEE)
+1Guangxi Key Laboratory of Power System Optimization and Energy Technology, Guangxi University, Nanning 530004, China
+2Department of Electrical and Computer Engineering and Computer Science, University of New Haven, West Haven, CT 06516, USA
+Corresponding authors: Yiyi Zhang (yiyizhang@gxu.edu.cn) and Junhui Zhao (jzhao@newhaven.edu)
+This work was supported in part by the National Natural Science Foundation of China under Grant 51577085 and Grant 51867003, in part
+by the National High-Tech R&D Program of China (863 Program) under Grant 2015AA050204, in part by the Natural Science Foundation
+of Guangxi under Grant 2015GXNSFBA139235, in part by the Foundation of Guangxi Science and Technology Department under Grant
+AE020069, in part by the Foundation of Guangxi Education Department under Grant T3020097903, in part by the National Key Research
+and Development Program of China under Grant 2016YFB0900101, and in part by the Training Program for Thousands of Young and
+Middle-Aged Backbone Teachers in Guangxi, Guangxi Education Department.
+ABSTRACT This paper presents a newmetaheuristic optimization algorithm, the firefly algorithm (FA), and
+an enhanced version of it, called chaos mutation FA (CMFA), for solving power economic dispatch problems
+while considering various power constraints, such as valve-point effects, ramp rate limits, prohibited
+operating zones, and multiple generator fuel options. The algorithm is enhanced by adding a new mutation
+strategy using self-adaptation parameter selection while replacing the parameters with fixed values. The
+proposed algorithm is also enhanced by a self-adaptation mechanism that avoids challenges associated with
+tuning the algorithm parameters directed against characteristics of the optimization problem to be solved.
+The effectiveness of the CMFA method to solve economic dispatch problems with high nonlinearities is
+demonstrated using five classic test power systems. The solutions obtained are compared with the results
+of the original algorithm and several methods of optimization proposed in the previous literature. The high
+performance of the CMFA algorithm is demonstrated by its ability to achieve search solution quality and
+reliability, which reflected in minimum total cost, convergence speed, and consistency.
+INDEX TERMS Economic dispatch, firefly algorithm, multiple fuel options, valve-point effects.
+I. INTRODUCTION
+Facing the reduction of energy reserves and environmen-
+tal degradation due to excessive use of conventional fuels,
+the Economic Dispatch (ED)problem has become the focus
+of researchers [1], [2]. For ED, the main objective is to
+find the operating point leading to optimal generator output
+power so as to minimize the operating cost while meeting
+all the physical and operational constraints [3]. The ED is
+considered as an important economic operation optimiza-
+tion problem in power system. Under normal circumstances,
+the objective of the problem can be modeled as a convex cost
+function whose satisfactory solution can be found at a small
+cost. However, when actual characteristics of real power
+systems such as prohibited operating zones, transmission
+loss, ramp rate limits, and multiple fuel options are taken into
+consideration, the cost function becomes highly quadratic,
+non-smooth, non-convex, and multi-modal [4]–[7]. Solv-
+ing such a problem is no longer an easy task. Ignoring,
+approximating or inaccurately handling these character-
+istics may lead to erroneous results of the ED prob-
+lem and significant economic losses or accidents [8]–[10].
+In the published article on this issue, many methods have
+been applied to deal with the ED problem. These meth-
+ods can be divided into two categories as 1) classical
+optimization methods and 2) metaheuristic optimization
+methods.
+VOLUME 6, 2018
+2169-3536 
+ 2018 IEEE. Translations and content mining are permitted for academic research only.
+Personal use is also permitted, but republication/redistribution requires IEEE permission.
+See http://www.ieee.org/publications_standards/publications/rights/index.html for more information.
+45907
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+Classical optimization technologies include Lagrange
+relaxation [11], λ-iteration method [12] and nonlinear pro-
+gramming [13],etc. The advantages of the classical optimiza-
+tion methods are the guarantee of optimization convergence,
+the lack of parameters requiring special settings depending
+on the characteristics of the problem and computational effi-
+ciency; however, they deal mainly with convex cost functions
+because this kind of optimization method is based on the gra-
+dient theory, which has powerful ability when facing smooth
+and continuous functions. Regrettably, practical features of
+real power system form a complex non-convex model of
+ED problem with extremely high complexity and the appli-
+cation of the classical optimization methods is faced with
+difficult-to-handle restrictions. In order to improve the ability
+of classic optimization algorithms to solve ED problems,
+some improved algorithms have been proposed in recent
+years. Examples of this include, the dimensional steepest
+decline method [13] and Big-M method [14]. Although these
+methods show a stronger ability to solve non-convex objec-
+tive functions, the tradeoff introduces additional variables
+that need additional computation. Its performance, therefore,
+is increasingly worsened by the dimension of the problem.
+Manymodernmetaheuristic optimizationmethods, such as
+the genetic algorithm (GA) [15], the particle swarm optimiza-
+tion (PSO) [16], [17], and Differential Evolution (DE) [18]
+have been developed and utilized successfully to solve the
+ED problem due to their ability to find global or near-global
+solution of a nonconvex optimization problem. Furthermore,
+modified and improved versions of the metaheuristic meth-
+ods, with the intention of improving the convergence and
+global optimum search capability of the original algorithms,
+have been proposed for dealing with the ED problem. Exam-
+ples of these improved versions include, conventional genetic
+algorithm with multiplier updating (CGA-MU) [19], fuzzy
+adaptive particle swarm optimization (FAPSO) [20], new
+global particle swarm optimization (NGPSO) [21] and shuf-
+fled differential evolution (SDE) [22]. Also, hybrid meth-
+ods, generally combined with two methods, one method is
+used as the primary search tool, while the other is used to
+fine-tune the search process, like combined DE and PSO
+algorithms [23], hybrid chemical reaction optimization with
+differential evolution(HCRO-DE) [24], have been applied for
+solving the ED problem and achieved satisfactory effect
+by improving the global search capability while using fast
+computational analysis. However, for hybrid methods, how
+to determine the integration points between methods and
+balance the positive and negative effects of methods is a
+headache for practitioners.
+Many of the metaheuristic optimization methods reported
+in previous literature have a disturbing limitation. They
+require adjustment of the algorithm parameters based on the
+particular problem before they can be applied. When the
+parameters of the algorithm are determined, a satisfactory
+result may be obtained in a test system, but at the same time,
+satisfactory results may not always be obtained in another
+test system. Changes in system load or unit constraints will
+lead to the need for algorithm parameter adjustment, which
+is a difficult problem. To solve this problem, the mechanism
+for adaptively adjusting parameter values must be added
+to the algorithm. However, any metaheuristic optimization
+method that adds a parameter to the self-tuning mechanism
+may obtain the result of reduced computational efficiency
+because additional computational effort is required because
+of the need for adjusting algorithm parameters when solv-
+ing the main optimization problem. Because of this reason,
+only the method that adds self-adjusting parameter is highly
+efficient. A novel high efficiency optimization algorithm,
+firefly algorithm(FA), has been proposed in [25]. Yang [26]
+showed that the FA could compete and outperform many
+of metaheuristic optimization algorithms in many aspects,
+like convergence rate, numerical stability, and calculation
+accuracy. In fact, the FA has proven to have a great advan-
+tage over other recently developed algorithms in solving a
+variety of optimization problems, for instance the dynamic
+economic dispatch problem of power systems [27] and the
+optimal chiller loading design [28]. The author of the firefly
+algorithm, Yang, has successfully applied the FA to solve
+ED problem of small and medium power systems in [29],
+but the ED problem consider multiple fuel options was not
+considered in the study, which is the contribution of this
+paper.
+In this paper, FA is applied for solving non-convex and
+complex ED problem of five (medium and large) power
+systems considering actual characteristics such as prohibited
+operating zones, transmission loss, ramp rate limits, and mul-
+tiple fuel options. Large-scale test systems with both multiple
+fuel options and valve-point effects are included. Further-
+more, after carefully considering different components in
+designing the algorithms, two modifications are proposed to
+significantly increase the FA efficacy. The proposed modi-
+fications are to replace the fixed-parameters of the FA with
+a new dynamic adjustment of parameters in the FA, and to
+add a new powerful self-adaptive mutation mechanism while
+replacing the parameter of the mechanism as a fixed value.
+An improved version of firefly algorithm, called chaos muta-
+tion firefly algorithm(CMFA), is thus generated. In addition,
+in most of metaheuristic optimization methods, the equality
+constraints are usually handled using the penalty-function
+technique, which makes it difficult to generate feasible solu-
+tions and maintain feasibility after crossover and mutation
+operations, resulting in no good result. Thus, a constraint
+handling scheme was proposed for correcting a solution in
+infeasible domain region to the space of feasible region with-
+out adding any additional goal on the objective function. This
+mechanism not only has the ability to handle constraints,
+but also has the ability to prevent premature convergence
+by introducing a diversity strategy, which ensures that the
+fireflies always be a feasible solution to the problem. Indeed,
+the proposed measures have positive and reliable effect on the
+convergence of the algorithm and the quality of the solution
+provided by algorithm. Results of the proposed technique for
+solving the known ED problems are compared with other
+45908 VOLUME 6, 2018
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+algorithms that are recently published. The numerical anal-
+ysis of results proves the superiority performance of the
+proposed method over the other methods mentioned in this
+paper.
+The rest of this paper is organized as the follows: Section 2
+presents the ED problem formulation. Section 3 introduces
+the proposed methodology. Application of CMFA for solving
+ED shown in Section 4. Section 5 introduces the simulation
+results and discussion, followed by the conclusions and future
+work in Section 6.
+II. MATHEMATICAL FORMULATION OF THE ED PROBLEM
+A. OBJECTIVE FUNCTION
+The mathematical model of the ED problem of considering
+different conditions can be modeled as different objective
+functions. A comprehensive mathematical model of the ED
+problem can be presented as [30]:
+Minimize: FC =
+NG∑
+i=1
+Fi(Pi). (1)
+where, Pi represents the power output of ith generator;
+FC denotes the total generation cost; Fi(Pi) are generation
+cost of unit i; NG meaning the total number of generator.
+The objective function as a quadratic polynomial is convex
+when neglecting the VPE. It can be shown as:
+Fi(Pi) = ai ∗ P2i + bi ∗ Pi + ci. (2)
+where, ai($/MW2), bi($/MW), ci($) are the cost coefficients
+of the ith unit.
+Furthermore, the objective function becomes non-convex
+by adding a sinusoidal term to the quadratic objective func-
+tion when considering the VPE and can be modeled as:
+Fi(Pi) = aiP2i + biPi + ci + |ei(fi sin(Pmini − Pi))| (3)
+where, ei($) and fi(rad/MW) are the valve-point coefficients
+of generator i, Pmini is the minimum power output of the
+ith unit.
+If generators with multiple fuel options and the VPE are
+also considered, the objective function can be written as
+follows:
+Fi(Pi) = aijP2i + bijPi + cij + |eij(fij sin(Pminij − Pi))|
+if Pminij ≤ Pi ≤ Pmaxij . (4)
+where, aij($/MW2), bij($/MW), cij($) are the cost coeffi-
+cients, and eij($), fij(rad/MW) are the valve-point coefficients
+of the ith unit using fuel type j; Pminij and P
+max
+ij are the lower
+bound and upper bound of the ith unit using the jth fuel type,
+respectively.
+The objective function is subject to the following
+constraints.
+B. POWER BALANCE CONSTRAINTS
+The sum of generator output powers must be equal to the sum
+of load demand and transmission loss.
+NG∑
+i=1
+(Pi) = Pload + Ploss. (5)
+where Pload and Ploss are the load demand and the trans-
+mission loss, respectively. Ploss is calculated by B matrix
+coefficients as follow:
+Ploss =
+NG∑
+i=1
+NG∑
+i=1
+PiBijPj +
+NG∑
+i=1
+B0iPi + B00. (6)
+where Bij, B0i and B00 are the loss coefficients.
+C. POWER OUTPUT AND PROHIBITED
+OPERATING ZONES LIMITS
+In realistic power systems, the output of the generator should
+be within its output range. Also there are some prohibited
+operating zones for the generator due to the VPE. The limits
+can be described as follows:
+Pi =
+
+Pmini ≤ Pi ≤ Pli,1;
+. . .
+Pui,z−1 ≤ Pi ≤ Pli,z−1; z = 2, 3, . . . ,N
+Pui,z ≤ Pi ≤ Pmaxi .
+(7)
+where Pmini and P
+max
+i are the minimum and maximum output
+powers of the ith unit, and N is the total number of prohibited
+operating zones for unit i. Pui,z and P
+l
+i,z presented upper limit
+and lower limit the zth prohibited zone of unit i, respectively.
+D. RAMP RATE LIMITS
+In practice, the output of the generator cannot be adjusted
+instantaneously without limitation. The operating range of
+each generator is restricted by their corresponding ramp-up
+and ramp-down constraints, which can be formulated as
+follow:
+max(Pmini ,P
+0
+i − DRi) ≤ Pi ≤ min(Pmaxi ,P0i + URi). (8)
+where, P0i is power output of the ith unit at the previous time
+interval; DRi and URi are down-ramp rate and upper-ramp
+rate limitation of the ith generator, respectively.
+III. PROPOSED METHODOLOGY
+A. FIREFLY ALGORITHM
+The FA is categorized as one of the population-based algo-
+rithm proposed by Yang (2008) [25]. It simulates the social
+behavior of the flashing characteristics of fireflies. For the
+FA, a firefly of population means a potential solution of
+the optimal problem. In terms of the search space, a firefly
+represents a point that moves in the search space with the
+optimization process. The structure of each firefly in the
+candidate solution for solving ED problem, in this paper, can
+be described as the following:
+Xi = [Pi,1,Pi,2, . . . ,Pi,D]; i = 1, 2, . . . ,N . (9)
+VOLUME 6, 2018 45909
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+where N is the total number of population, and D is the
+dimensionality of the problem. In this paper, it if defined as
+D = NG.
+The higher the light intensity of a firefly, the greater its
+attractiveness to other nearby fireflies, and the attractiveness
+β of a firefly can be defined as:
+β(r) = β0e−γ r2 . (10)
+where γ is absorption coefficient and commonly set to 1 [26].
+β0 is the maximum attractiveness obtained when r = 0;
+r is the Cartesian or Euclidean distance between the mth and
+nth fireflies, which can be written as:
+rkmn =
+√√√√ NG∑
+i=1
+(X km,i − X kn,i)2; m, n = 1, 2, . . . ,N . (11)
+where X km,iand X
+k
+n,i are the ith variables of the kth generation
+of mth and nth fireflies, respectively.
+In the previous study, it was found that when β changes
+according to Eq.10, the resulting effects could not achieve
+the desired effect. So the researchers proposed a variety of
+transformation strategies for it. The most obvious strategy
+was proposed by Fister et al. [31] and can be described as:
+β = βmin + (βmax − βmin)e−γ r2 . (12)
+where βmax and βmin are set to 1 and 0.2, respectively.
+Fig. 1. Change of β based on different strategies.
+However, there are potential pitfalls. As we can see from
+Fig.1, Eq.12’s strategy keeps β’s value at the beginning of 0.2,
+and quickly increases to 1 after reaching a certain number
+of iterations. The value of β stays at 0.2 for too long, and
+increase from 0.2 to 1 too quickly. This will have an adverse
+influence on the optimization. Therefore, improved strategy
+based on Equation 12 was proposed, which can be written as:
+β = (βmin + (βmax − βmin)e−γ r2 )× ( kKmax ). (13)
+where βmax and βmin are set to 0.9 and 0.4, respectively. k
+and Kmax represent the current number of iterations and the
+maximum number of iterations, respectively.
+Figure 1 shows the effect of the proposed strategy. It can be
+clearly seen that, compared to Eq.12, the increase speed of β
+is significantly slower, which increases the ability to escape
+from the local optimum; and the later change is more gradual,
+which can increase the speed of convergence.
+Similar to other evolutionary algorithms, in the firefly algo-
+rithm, the fireflies update their position by moving towards
+the brighter fireflies which means better position in search
+space, and the modified position can be formulated as:
+X k+1m =
+
+X km + βk (X kn − X km)+ αk (rand(.)1×D − 0.5),
+if FC (X kn ) < FC (X
+k
+m);
+X km, otherwise.
+(14)
+where α is the randomness parameter which commonly
+selected in the rang [0, 1], and rand represents a ran-
+dom number generated from a uniformly distributed set
+between 0 and 1.
+The framework of the FA is given in Algorithm1.
+Algorithm 1 The Standard FA
+1: Generate an initial population X = (X k1 ,X
+k
+2 , . . . ,X
+k
+N ) and
+set k = 0.
+2: Define initial value of α and γ .
+3: Evaluate the fitness values F(X ki ) of all N initial fireflies.
+4: while k < Kmax do
+5: for i = 1 to n do
+6: for j = 1 to n do
+7: if F(X kj ) < F(X
+k
+i ) then
+8: Update position of X ki using the formula in
+(14).
+9: Evaluate the fitness values of X ki,move
+10: if F(X ki,move) < F(X
+k
+i ) then
+11: X k+1i = X ki,move; else,X k+1i = X ki .
+12: end if
+13: end if
+14: end for
+15: end for
+16: k = k + 1.
+17: end while
+18: Output the Optimum solution Xbest .
+B. CHAOS MUTATION FIREFLY ALGORITHM
+Because of its advantages, the application of FA to solve the
+problems in various aspects of the power system has aroused
+great concern Simple concept and low number of parameters
+need for tuning are its obvious advantages, Having the ability
+to seek global optimums and local optima at the same time
+makes it highly applicable. However, it also has a vexing
+defects. For instance, premature convergence or convergence
+to an inappropriate position often occurs because the algo-
+rithm falls into a local optimum. However, the existing mech-
+anism of diversifying populations does not have the ability to
+help it escape from the local optimum. Even if the algorithm
+45910 VOLUME 6, 2018
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+can successfully avoid the local optimum, the cost is an
+unbearable computational burden. When the FA is applied
+to solve constrained optimization problems, its performance
+depends largely on the selection of control parameters. Also,
+the population diversity has a great effect on computational
+efficiency and convergence rate. In addition, it is obvious that
+an appropriate constraint handling mechanism can improve
+the performance of the algorithm. Therefore, special care in
+redesigning the algorithm based on these considerations has
+been taken in this paper. The control parameters and mutation
+mechanism are discussed in the following few subsections.
+1) DYNAMIC ADJUSTMENT OF α AND γ
+As we know, a powerful optimization algorithm, not only
+have the ability to effectively exploit the current solutions that
+have good fitness, but also has a strong ability to explore the
+unknown fields in the search space. The random movement
+factor, α, controls the range of random search of firefly, and
+generally determined in the range [0, 1], has a huge impact
+on the balance between the ability of algorithm exploration
+and exploitation in search space. Too large value of an α
+makes the random search range of solution too large to cause
+convergence difficulties and the smaller α will trap firefly
+in the local optimum. The absorption coefficient γ controls
+the decrease of light intensity and commonly set to 1 [26].
+It is a fact that FA’s parameter control deeply influences its
+performance, and how to select the appropriate parameter is
+an intractable optimization problem..
+Numerous studies showed that the performance of the evo-
+lutionary optimization algorithms are improved when chaotic
+sequences were used [32]. Therefore, after testing different
+chaotic operator, a dynamic adjustment mechanism base
+on chaotic sequences for the random movement factor is
+deployed in this paper, opposed to monotonically decreased
+as the iterations progress in basic firefly algorithm, parameter
+α of the proposed methods also being variety decreased from
+its initial value based on chaotic formula with optimization
+process, which can be calculated as:
+αkc = xk × αkl . (15)
+where, αkc and α
+k
+l are the chaotic-based random movement
+factor and the random movement factor with linear decrease
+at iteration k . The value of αkl is decreased linearly from
+a set initial value to zero, and xk is the chaotic parame-
+ter at iteration k , which produced by a so-called sinusoidal
+iterator [32], can be represented as the following:
+xk+1 = sin(pi × xk ). (16)
+in this paper, x0 was set to 0.7.
+The chaotic-based α we introduced enhance the searching
+capability and efficiency of FA and illustrated in the numeri-
+cal results. Also, the performance of α in dynamic adjustment
+mechanism is shown in Fig. 2 for better understanding.
+As for the absorption coefficient γ , a fixed value is
+replaced with a variable that needs to be optimized, and then
+it was added to the firefly as a variable in the candidate
+Fig. 2. Two change trajectories of α.
+solution vector [27]. The new structure of solution vector can
+be written in the following form:
+Xi = [Pi,1,Pi,2, . . . ,Pi,D, γi], i = 1, 2, . . . ,N . (17)
+2) ADAPTIVE MUTATION MECHANISM
+In the previously mentioned methods, inappropriate con-
+vergence and local optima traps may still be impossible to
+avoid. Also, each enhancement of the algorithm optimization
+will become very slow before the global optimal solution is
+obtained. We have noticed that the optimization mechanism
+of FA itself is simple and efficient, even adding additional
+strategies that increase search power will not have an unac-
+ceptable negative impact on the computational efficiency of
+the algorithm. Therefore, a new powerful mutation mecha-
+nism, which mainly for enhancing the ability of the algorithm
+to exploit the unknown area of the search space, is introduced
+to solve the afore-discussed problems, thus the ability of the
+FA to eventually be enhanced.
+Sincemutation has been applied to the algorithmic process,
+many mutation operators have been proposed. Unfortunately,
+there exists no single optimal solution to all problems. There-
+fore, a new powerful mutation strategy that contains two
+mutation operators is considered in this paper. First, three vec-
+tors m1 to m3 obtained from solution are randomly selected
+as m1 6= m2 6= m3 6= m. Consequently, a mutant firefly Xmutm
+is generated as the following:
+Xmutm =
+
+X km1 + Fm(X km2 − X km3 ),
+if rand1 ≤ Crm and rand2 ≤ 0.5;
+X km + Fm((X km1 − X km3 )+ (X kbesk − X km2 )),
+if rand1 ≤ Crm and rand2 > 0.5;
+X km1 , otherwise.
+(18)
+where, rand1 and rand2 are random numbers generated from
+a uniform distribution in the interval [0, 1]. Fm is the scale
+factor and Crm is the crossover rate. They should be fixed
+values, but picking the optimum values for a specific problem
+is tricky. Thus, a self-adaptation strategy was introduced to
+select the most appropriate value. For each firefly in the
+VOLUME 6, 2018 45911
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+search space, with two control parameters (F and Cr) of the
+mutation mechanism. In the beginning, EF ∈ N (0.5, 0.1) and
+ECr ∈ N (0.5, 0.1). N (0.5, 0.1) means a normal distributions
+whose mean equals to 0.5 and standard deviation is 0.1.
+Consequently, Fm and Crm in (18) are generated as described
+below:
+Fm =
+{EFm1 + rand1(EFm2 − EFm3 ), if (rand2 < δ);
+rand3, otherwise.
+(19)
+Crm =
+{ ECrm1 + rand4( ECrm2 − ECrm3 ), if (rand5 < δ);
+rand6, otherwise.
+(20)
+where EFmλ and ECrmλ (λ = 1, 2, 3) are parameters of corre-
+sponding firefly (X kmλ ) in
+EF and ECr , respectively; and randµ ∈
+(0, 1)(µ = 1, 2, . . . , 6), are generated using uniform dis-
+tribution of 0 to 1. The value of δ, in this paper, set to
+0.75 according to the test, appropriate range of Fm and Crm is
+0.1 to 1, so, if their value is outside this range, it is truncated
+to 0.1 and 1, respectively [33].
+The proposed mutation mechanism followed by a greedy
+selection process is such that, the brightest one between
+the current firefly (X km) and the mutant firefly(X
+mut
+m ), will
+replace the position of the current firefly and become the new
+offspring of the fireflies. The process can be written as:
+X k+1m =
+{
+X k,muti , if (FC (X
+k,mut
+i ) ≤ FC (X km));
+X km, otherwise.
+(21)
+It is important to point out that the value of EF and ECr
+are also updated with the optimization process. If the mutant
+firefly is better than the current firefly, then, EFm = Fm andECrm = Crm.
+Fig. 3. A schematic diagram of the role of the first mutation operator.
+The main effect of the first mutation operator is to speed
+up the convergence, as shown in Fig. 3. The main purpose of
+the second one is to diversify population. The point behind
+using two multi-operators instead of more is to control the
+computing burden within a reasonable range. The main func-
+tion of this mechanism is to provide better information to
+the main algorithm of the proposed algorithm, rather than
+determine the optimization process of algorithm.
+The framework of the CMFA is given in Algorithm2.
+Algorithm 2 The Proposed CMFA
+1: Generate an initial population (X=X k1 ,X
+k
+2 , . . . ,X
+k
+N ) and
+set k = 0.
+2: Define initial value of α, F and Cr .
+3: Evaluate the fitness values F(X ki ) of all N initial fireflies.
+4: while k < Kmax do
+5: for i = 1 to N do
+6: for j = 1 to N do
+7: if F(X kj ) < F(X
+k
+i ) then
+8: Update position of X ki using the formula in
+(14).
+9: Evaluate the fitness values of Xmove,ki
+10: if F(Xmove,ki ) < F(X
+k
+i ) then
+11: X ki = Xmove,ki ;
+12: else
+13: X k+1i = X ki ;
+14: end if
+15: end if
+16: end for
+17: end for
+18: for i = 1 to N do
+19: Generate mutant firefly Xmutm using the formula in
+(18).
+20: Evaluate the fitness values of Xmutm using the for-
+mula in (1).
+21: if F(Xmut,km ) < F(X
+k
+i ) then
+22: X k+1i = Xmut,km ;
+23: else
+24: X k+1i = Xi(k);
+25: end if
+26: end for
+27: Update α using the formula in (15).
+28: Update Fm and Crm according to (19)-(20).
+29: k = k + 1.
+30: end while
+31: Output the Optimum solution Xbest .
+IV. IMPLEMENTING CMFA FOR SOLVING ED PROBLEM
+In this section, the steps of the proposed CMFA for solving
+the ED problems under various constraints of power system
+will be described. But before that, various constraints, espe-
+cially equality constraints, will be described. The ED problem
+is a nonlinear constrained optimization problem, which con-
+tains a large amount of equality and inequality constraints.
+Thus, the initial fireflies are hard to satisfy all the constraints
+due to the fact that they are randomly generated, even though
+45912 VOLUME 6, 2018
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+one may satisfy all the constraints, it is difficult to maintain
+it feasible after updating its position. Generally, there are
+two strategies to deal with constraints of the ED problem,
+one is to use a penalty function which is achieved through
+adding an extra objective function for punishing violations of
+constraints on the original objective function, and the other
+way is to generate solutions that satisfy all constraints by
+some strategies and maintain the feasibility of the solution
+in the optimization process so that optimization is only done
+in the feasible region. The first method is simple and can
+maintain population diversity but not adequate for handling
+constraints. The second method will lose a certain population
+diversity but with high efficiency in finding feasible solution.
+Therefore, in this paper, the latter method is chosen since
+mutation mechanism has been applied for diversifying the
+population. Also, the constraints handling mechanism we
+used, which will be described in detail next, will also improve
+the diversity of the population simultaneously.
+Implementing the CMFA for solving ED problem can be
+briefly described via the following steps:
+1) Generate initial individual Xi(i = 1, 2 . . . ,N ), consid-
+ering ramp rate limits:
+Xi = Pmini,t + rand(.)(Pmaxi,t − Pmini,t );{
+Pmini,t = max(Pmini ,P0i − DRi)
+Pmaxi,t = min(Pmaxi ,P0i + URi)
+(22)
+where Pmaxi,t and P
+min
+i,t are the maximum and minimum
+output powers of the ith unit in tth, respectively.
+2) Check whether the solution satisfies the other system
+constraints such as the prohibited operating zones,
+if the output of a unit(Pi) fall in a prohibited zone of
+[L,U ], its value will be determined by the following
+way:
+Pi =
+{
+L, if (Pi − L) < (U − Pi);
+U , otherwise.
+(23)
+3) To make solutions satisfy equality constraints, the fea-
+sibility of a solution is checked as:
+|
+NG∑
+i=1
+(Pi)− (Pload + Ploss)| < ε. (24)
+where, ε is a tolerance limit factor, the value of ε, in this
+paper, from a larger initial value gradually reduced to
+a small final value set to 10−5(an acceptable accuracy
+[34]). The way ε changes can be given as [35]:
+ε(0) = φ(xθ ) = εintialθ ; (25)
+ε(k) =
+ε(0)(1−
+k
+Tc
+)cp, if 0 < k < Tc;
+10−8, k ≥ Tc.
+(26)
+where xθ is the top θ th individual and θ = 0.4N . cp is
+a control parameter of the θ level and set to 5 in this
+paper. With the number of iterations k increase to the
+control generation Tc, The θ level has been updated.
+There are no solutions that violates the constraints in
+the population when the control generation is reached.
+The value of Tc is 150 in this paper.
+If the value of the power deviation is larger than the
+preset value, a slack unit Ps (s = 1, 2, . . . ,NG) that
+choose randomly from the unit poor was used to bal-
+ance the power deviation follow the following rules:
+Ps = (Pload + Ploss)−
+NG∑
+i=1(i6=s)
+(Pi);
+Ps =
+{
+Pmaxi,t , if Ps > P
+max
+i,t ;
+Pmini,t , if Ps < P
+min
+i,t .
+(27)
+If the power balance constraint is still not satisfied,
+similarly, one unit from the remaining units is randomly
+select as the slack generator to balance the power devi-
+ation. This process continues until all units are selected,
+and when the output is in a prohibited operation zone
+after balancing power deviation, its output can be deter-
+mined using Eq.21.
+4) Calculating the value of the objective function of all
+fireflies using the formula in Eq.1.
+5) Update the position of each firefly using Eq.14, calcu-
+late fitness of new firefly as described in Step4, and
+select the best solution among all fireflies as Pkbest .
+6) Generation mutant firefly using the formula in Eq.18.
+7) Modify the fireflies produced by the mutation mecha-
+nism to satisfy the constraints using Step2 and Step3,
+and generation offspring fireflies using the formula in
+Eq.21.
+8) Check stopping criterion. In this paper, the termination
+condition of the algorithm is reaching the maximum
+number of iterations. If the termination condition has
+not been reached, go to Step5. If the maximum number
+of iterations has been reached, stop and output the best
+optimization results.
+Figure 4 shows the flowchart of the CMFA method.
+V. SIMULATION RESULTS
+For comparison with other methods, several commonly ED
+tests of different sizes are used. A list of state-of-the-art
+algorithms and abbreviations of each algorithm mentioned
+in this paper is showed in Table 1. There are 65 methods in
+Table 1. The references for thesemethods are also exhibited in
+the same table. The simulations are carried out on MATLAB
+(R2013a) environment using a desktop machine, which CPU
+is Intel Core(TM) i7 processor with 3.6 G-Hz clock frequency
+and 8 GB of RAM.
+In order to more effectively verify the effectiveness of
+the proposed method of solving ED problem in large-scale
+systems, a few systems used by a large number of literature
+that involve up to 160 units are tested. Large-scale systems,
+like 160-unit system, make the cost function of ED problem
+highly non-convex and complex when both considering VPE
+and multiple fuel options. Thus, the ability to consistently
+VOLUME 6, 2018 45913
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+Fig. 4. The flow chart of the CMFA algorithm.
+obtain good optimization results, will demonstrate the effi-
+ciency of the algorithm. The robustness of the proposed
+algorithm, in this paper, will be validated from the results
+of 100 independent runs for each case study. The quality
+of the solution provided in this paper is compared with the
+results provided by the most advanced methods reported in
+the previous literature.
+In this paper, the number of populations is set to 20 for
+6-unit,10-unit and 15-unit system. The maximum number of
+generations for these three systems are 500. The population
+size of 80- and 160-unit are 25, and the optimized process
+will stop when 1000 generations are reached.
+A. CASE 1: 6-UNIT SYSTEM
+The system of this case study has six thermal generators and
+supply a total load demand of 1263 MW. In this case study,
+the prohibited operating zones, the ramp rate limits, and the
+transmission losses are considered. The data of the test system
+are the same as reported in [16].
+The detailed best output dispatch optimization results pro-
+vided by the FA, CMFA and other 8 algorithms reported
+in previous literature are listed in Table 2 for comparing
+TABLE 1. List of algorithms mentioned in the previous literature and
+corresponding Acronyms.
+the differences among the results of different methods. The
+accuracy of the calculations of the FA and CMFA are for
+this case are 3.28946E-08 and 9.89811E-06, respectively.
+45914 VOLUME 6, 2018
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+TABLE 2. The system generator parameters in case 1 (6-unit system).
+TABLE 3. Comparison of results in the 6-unit system.
+Table 3 shows the super efficiency of the CMFA in obtaining
+high quality solutions over 100 independent experiments,
+when compared with other methods. The bold values indi-
+cate the best result provided by its corresponding method.
+Obviously, the CMFA can provide better solutions than
+other algorithms under the condition of guaranteeing stability
+and computing efficiency. The standard deviation of GA is
+smaller than the proposed algorithm in this paper, however,
+even the worst result of the CMFA is better than the best
+solution of GA, which proves the superior ability of the
+proposed method to avoid trapping into local optimum.
+Fig. 5. Convergence characteristics of FA and CMFA (6-units system).
+Figure 5 shows the convergence properties of the FA and
+CMFA when the optimal results are obtained in 100 inde-
+pendent trials. It can be seen that the FA settles at about
+Fig. 6. Generation cost distribution of FA and CMFA (6-unit system).
+20 iterations and provides a value of the total generation cost
+of about 15451($/h); the settle iteration number of the CMFA
+is about 80 and achieves about 15450($/h). This indicates
+that the CMFA provides more accurate results, althoughmore
+iterations are needed, compared to the FA. The cost value
+distribution of the FA and CMFA running 100 times indepen-
+dently are shown in Fig.6, which proves that the CMFA has
+an obvious effect on improving the stability of results when
+comparing with the FA.
+B. CASE 2: 15-UNIT SYSTEM
+In this case study, a 15 thermal-unit system with the pro-
+hibited operating zones, ramp rate limits, transmission losses
+and the valve point effects are considered [16]. The detailed
+information of the generator parameters and the loss coeffi-
+cients are provided in [15]. The total power load demand is
+2630MW. Table 4 lists the detailed best results obtained by
+the CMFA and the FA, as well as the best solutions provided
+by the other eight methods reported in the previous literature.
+It can be seen that both the FA and the CMFA provide
+solutions that satisfy all constraints. The minimum, average
+and maximum generation cost value of the CMFA and the
+FA obtained from 100 independent trials are presented in
+Table 5 with the other twenty-seven state-of-the-art methods.
+Also, standard deviation(Std.dev) and computational average
+time are given in the same table. Obviously, the best solution
+of the proposed algorithm is better than the FA and many
+VOLUME 6, 2018 45915
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+TABLE 4. Best results for case 2 (15-unit system).
+TABLE 5. Comparison of results in the 15-unit system.
+algorithms that have been recognized as efficient in solving
+ED problems, which proves the superiority performance of
+the proposed algorithm. Furthermore, a small standard devi-
+ation reflects the robustness of the CMFA.
+Figure 7 shows the convergence properties of the FA and
+the CMFA. It can be seen that the FA and the CMFA settles
+at about 270 and 240 iterations with cost value of about
+32705($/h) and 32700 ($/h), respectively. This shows that
+the CMFA is superior to the FA in both efficiency and
+accuracy as the complexity of the problem increases. Fig. 8
+shows the distribution of the generation cost value obtained
+from running the FA and the CMFA with 100 independent
+trials, respectively. This figure clearly shows that the CMFA
+provides more consistent and reliable solutions, compared to
+those of the FA.
+C. CASE 3: 10-UNIT SYSTEM
+In this case study, a slightly larger benchmark system that
+has 10 units is used. The total load demand of the system
+Fig. 7. Convergence characteristics of FA and CMFA (15-unit system).
+Fig. 8. Generation cost distribution of FA and CMFA (15-unit system).
+is 2700MW. The valve point effects, the ramp rate limits,
+and multiple fuel options are considered when optimizing
+the allocation of unit output. The generators’ cost coeffi-
+cients, the valve-point coefficients, and multiple fuel data
+of this test system are given in [19]. The optimal allocation
+of unit output and fuel types provided by the FA and the
+45916 VOLUME 6, 2018
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+TABLE 6. Best results for case 3 (10-unit system).
+TABLE 7. Comparison of results in case 3 (10-unit system).
+CMFA are presented in Table 6, with the best solutions of
+4 literature published in recent years. It can be sure that the
+solution satisfies all the generation limit constraints. The total
+generation cost obtained by the CMFA is 623.8334 ($/h)
+when meeting the power demand of 2700MW while the
+violation of power balance is zero, which reveals a powerful
+ability of the proposed algorithm that provides better results
+in the case of keeping accuracy. Table 7 lists the compar-
+ison of generation cost values among the FA, the CMFA
+and other 23 methods. It can be seen that the least gener-
+ation cost is provided by the CMFA with a good standard
+deviation (0.0189) and a fast calculation time (3.78 s). The
+FA also provides a good standard deviation of results and
+calculation time, but it falls into a mediocre local mini-
+mum of 623.9351($/h), although it’s better than the other
+11 methods.
+Figure 9 shows the convergence properties of the FA and
+the CMFA. It can be seen that both the FA and the CMFA
+provide smooth convergence. Fig. 10 shows the distribution
+of the total generation cost value provided by running the
+Fig. 9. Generation cost distribution of FA and CMFA (10-unit system).
+Fig. 10. Generation cost distribution of FA and CMFA (10-unit system).
+FA and CMFA with 100 independent trials, respectively.
+It intuitively shows that the results provided by the CMFA are
+in a small range between 623.8334 ($/h) and 623.9062 ($/h),
+and the solutions of the FA are in a larger range between
+623.9351 ($/h) and 624.2512 ($/h). This demonstrates
+that the CMFA is more accurate, stable and reliable than
+the FA.
+VOLUME 6, 2018 45917
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+TABLE 8. Best results for case 4 (80-unit system).
+D. CASE 4: 80-UNIT SYSTEM
+In the third case study, an 80-unit power system 8 times
+larger than the system of case-3 supplying a load demand
+of 21600 MW is utilized. Multiple fuel options and the VPE
+are considered. The problem has become more complex due
+to the existence of as many as 80 nonconvex cost functions.
+It may be more difficult to solve an ED problem under such
+conditions than the real power system, because not all the
+units in a real system need to consider the valve-point effects.
+Table 8 shows the optimal unit output allocation results
+obtained by the FA and the CMFA. It is clear that all the
+constraints of the ED problem are satisfied. The comparison
+of objective function values among the FA, the CMFA and
+other recently reported methods are presented in Table 9,
+which shows that the cost of the CMFA is the lowest among
+the other methods, and the standard deviation is the least of
+all methods except for the ORCSA [62].
+Figure 11 shows the convergence properties of the FA
+and the CMFA. It can be seen that both the FA and the
+CMFA provide smooth convergence, and settles at about
+240 and 200 iterations, respectively. It indicates that, in spite
+of facing such a high dimension (d = 80) ED problem, both
+the FA and the CMFAcan still converge at a fast speed. Fig. 12
+shows the distribution of the total generation cost value pro-
+vided by running the FA and the CMFA with 100 indepen-
+dent trials, respectively. It intuitively shows that the results
+provided by the CMFA vary between 4992.06 ($/h) and
+4994.97 ($/h), and in the FA, it varies between 4994.06 ($/h)
+and 5006.63 ($/h). This demonstrates that the CMFA is more
+accurate, stable and reliable than the FA.
+E. CASE 5: 160-UNIT SYSTEM
+In this case study, a 160-unit system is generated by com-
+bining sixteen 10-unit systems, and supplying a load demand
+of 43200MW. Multiple fuel options and the VPE are con-
+sidered. In such a large system, the cost function is highly
+TABLE 9. Comparison of results in case 4 (80-unit system).
+Fig. 11. Convergence characteristics of FA and CMFA (80-unit system).
+non-smooth and dimensionality. Therefore, finding the global
+optimal result of this system is a very difficult challenge.
+In recent research, a large number of algorithms have been
+applied to solve this problem. Though have shown good
+results, but there still exists room for further improvement.
+The detailed optimization results provided by the CMFA are
+listed in Table 10. The detailed optimization results of other
+methods are no longer shown, as in previous cases. Table 11
+shows a comparison of the solution of the FA, the CMFA, and
+45918 VOLUME 6, 2018
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+TABLE 10. Best results for case 5 (160-unit system).
+Fig. 12. Generation cost distribution of FA and CMFA (80-unit system).
+the other 15 methods. It’s clear that the best generation cost
+provided by the CMFA is the lowest among all the methods
+mentioned. Furthermore, the average generation cost is better
+than the best cost value of residual algorithm, and a standard
+deviation is a small number that equal to 2.5174.
+Figure 13 shows the convergence curve of the FA and the
+CMFA when provided the best solution for case-5. It can be
+seen that the FA settles at about 350 iterations and for the
+CMFA is about 500, which indicates that the FA converges
+TABLE 11. Best results for case 5 (160-unit system).
+faster than the CMFA. However, the cost value provided by
+the CMFA is significantly better than that of the FA, which
+indicates that the FA has early convergence and trapped into a
+local minimum but the CMFA successfully avoided. The gen-
+eration costs distribution of the 100 independent run validates
+the robustness of the CMFA, which shown in Fig. 14 with the
+FA. This makes clear that the CMFA has the ability to provide
+a consistent and reliable optimal solution. On the other hand,
+The performance of the FA is weak and the optimal solution
+cannot be provided due to the high complexity of the problem.
+VOLUME 6, 2018 45919
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+Fig. 13. Convergence characteristics of FA and CMFA (160-units system).
+Fig. 14. Generation cost distribution of FA and CMFA (160-units system).
+VI. CONCLUSION
+In this paper, a new metaheuristic algorithm called firefly
+algorithm (FA) is proposed in which the concept is simple
+and easy to implement. The Firefly Algorithm is used to
+solve non-convex and large scale economic dispatch prob-
+lems when considering both the valve-point effects and the
+multiple fuel options. Furthermore, a modified version of the
+FA, the CMFA, is proposed for solving the ED problems
+after carefully considering different components in designing
+the method. A sinusoidal chaotic map was incorporated into
+FA for the adaptation of the random movement factor (α),
+and the absorption coefficient (γ ) was introduced into can-
+didate solutions as variables that need to be optimized for
+enhancing the search capability of the FA and eliminate the
+need for manually tuning the algorithm. Besides, a new pow-
+erful self-adaptive mutation mechanism is used to maintain
+diversity in the population and enhance the global searching
+ability of the CMFA. In addition to the above contribution,
+a new equality constraint handling mechanism is set up,
+a dynamic relaxation factor has been used and some solutions
+that slight violations of the constraint but have good fit-
+ness for the objective function are retained. This mechanism
+biases the optimization towards the feasible region, which
+enhances convergence rate and handling different constraints
+in ED problems simultaneously. The FA and the CMFA were
+applied to five test systems having 6, 10, 15, 80, 160-units
+and the analysis of simulation results demonstrates that the
+proposed methods exhibit superior performances in solv-
+ing ED problems including the prohibited operating zones,
+the valve-point effects, the transmission losses, the multiple
+fuel options, and other constraints of power systems like ramp
+rate limits and so on, compared to previously proposed state-
+of-the-art methods.
+In future work, we intend to apply these methods to
+solve other problems related to power systems optimization
+because the CMFA has shown good performance in solving
+the ED problem.
+REFERENCES
+[1] J. S. Li, H. W. Zhou, J. Meng, Q. Yang, B. Chen, and Y. Y. Zhang, ‘‘Carbon
+emissions and their drivers for a typical urban economy from multiple
+perspectives: A case analysis for Beijing city,’’ Appl. Energy, vol. 226,
+pp. 1076–1086, Sep. 2018.
+[2] Y. Zhang, H. Zheng, J. Liu, J. Zhao, and P. Sun, ‘‘An anomaly identification
+model for wind turbine state parameters,’’ J. Cleaner Prod., vol. 195,
+pp. 1214–1227, Sep. 2018.
+[3] P. Li and J. Hu, ‘‘An ADMM based distributed finite-time algorithm for
+economic dispatch problems,’’ IEEE ACCESS, vol. 6, pp. 30969–30976,
+2018.
+[4] G. Abbas, J. Gu, U. Farooq, andM. U. Asad, andM. El-Hawary, ‘‘Solution
+of an economic dispatch problem through particle swarm optimization:
+A detailed survey—Part I,’’ IEEE ACCESS, vol. 5, pp. 15105–15141, 2017.
+[5] N. A. Khan, G. A. S. Sidhu, and F. Gao, ‘‘Optimizing combined emission
+economic dispatch for solar integrated power systems,’’ IEEE ACCESS,
+vol. 4, pp. 3340–3348, 2016.
+[6] G. Abbas, J. Gu, U. Farooq, A. Raza, M. U. Asad, and
+M. E. El-Hawary, ‘‘Solution of an economic dispatch problem through
+particle swarm optimization: A detailed survey—Part II,’’ IEEE ACCESS,
+vol. 5, pp. 24426–24445, 2017.
+[7] S. Ma, Y. Wang, and Y. Lv, ‘‘Multiobjective environment/economic power
+dispatch using evolutionary multiobjective optimization,’’ IEEE ACCESS,
+vol. 6, pp. 13066–13074, 2018.
+[8] W. T. Elsayed and E. F. El-Saadany, ‘‘A fully decentralized approach for
+solving the economic dispatch problem,’’ IEEE Trans. Power Syst., vol. 30,
+no. 4, pp. 2179–2189, Jul. 2015.
+[9] J. Liu, H. Zheng, Y. Zhang, H. Wei, and R. Liao, ‘‘Grey relational analysis
+for insulation condition assessment of power transformers based upon
+conventional dielectric response measurement,’’ Energies, vol. 10, no. 10,
+P. 1526, 2017.
+[10] Y. Zhang, J. Liu, H. Zheng, H. Wei, and R. Liao, ‘‘Study on quantitative
+correlations between the ageing condition of transformer cellulose insula-
+tion and the large time constant obtained from the extended debye model,’’
+Energies, vol. 10, no. 11, P. 1842, 2017.
+[11] Z. Li,W.Wu, B. Zhang, H. Sun, and Q. Guo, ‘‘Dynamic economic dispatch
+using lagrangian relaxation with multiplier updates based on a quasi-
+Newton method,’’ IEEE Trans. Power Syst., vol. 28, no. 4, pp. 4516–4527,
+Nov. 2013.
+[12] J. P. Zhan, Q. H. Wu, C. X. Guo, and X. X. Zhou, ‘‘Fast λ-iteration
+method for economic dispatch with prohibited operating zones,’’ IEEE
+Trans. Power Syst., vol. 25, no. 2, pp. 990–991, Mar. 2014.
+[13] B. R. Adarsh, T. Raghunathan, T. Jayabarathi, and X.-S. Yang, ‘‘Economic
+dispatch using chaotic bat algorithm,’’ Energy, vol. 96, pp. 666–675,
+Feb. 2016.
+[14] T. Ding, R. Bo, W. Gu, and H. Sun, ‘‘Big-M based MIQP method for
+economic dispatch with disjoint prohibited zones,’’ IEEE Trans. Power
+Syst., vol. 29, no. 2, pp. 976–977, Mar. 2014.
+[15] M. Modiri-Delshad, S. H. A. Kaboli, E. Taslimi-Renani, and N. A. Rahim,
+‘‘Backtracking search algorithm for solving economic dispatch problems
+with valve-point effects and multiple fuel options,’’ Energy, vol. 116,
+pp. 637–649, Dec. 2016.
+45920 VOLUME 6, 2018
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+[16] Z.-L. Gaing, ‘‘Particle swarm optimization to solving the economic dis-
+patch considering the generator constraints,’’ IEEE Trans. Power Syst.,
+vol. 18, no. 3, pp. 1187–1195, Aug. 2003.
+[17] H. Zheng, Y. Zhang, J. Liu, H. Wei, J. Zhao, and R. Liao, ‘‘A novel
+model based on wavelet LS-SVM integrated improved PSO algorithm for
+forecasting of dissolved gas contents in power transformers,’’Electr. Power
+Syst. Res., vol. 155, pp. 196–205, Feb. 2018.
+[18] N. Noman and H. Iba, ‘‘Differential evolution for economic load dispatch
+problems,’’ Electr. Power Syst. Res., vol. 78, no. 8, pp. 1322–1331, 2008.
+[19] C.-L. Chiang, ‘‘Improved genetic algorithm for power economic dispatch
+of units with valve-point effects and multiple fuels,’’ IEEE Trans. Power
+Syst., vol. 20, no. 6, pp. 1690–1699, Nov. 2005.
+[20] T. Niknam, H. D. Mojarrad, and H. Z. Meymand, ‘‘Non-smooth economic
+dispatch computation by fuzzy and self adaptive particle swarm optimiza-
+tion,’’ Appl. Soft Comput., vol. 11, no. 2, pp. 2805–2817, 2011.
+[21] D. Zou, S. Li, Z. Li, and X. Kong, ‘‘A new global particle swarm opti-
+mization for the economic emission dispatch with or without transmission
+losses,’’ Energy Convers. Manage., vol. 139, pp. 45–70, May 2017.
+[22] A. S. Reddy and K. Vaisakh, ‘‘Shuffled differential evolution for large
+scale economic dispatch,’’ Electr. Power Syst. Res., vol. 96, pp. 237–245,
+Mar. 2013.
+[23] S. Sayah and A. Hamouda, ‘‘A hybrid differential evolution algorithm
+based on particle swarm optimization for nonconvex economic dispatch
+problems,’’ Appl. Soft Comput., vol. 13, no. 4, pp. 1608–1619, 2013.
+[24] P. K. Roy, S. Bhui, and C. Paul, ‘‘Solution of economic load dispatch using
+hybrid chemical reaction optimization approach,’’ Appl. Soft Comput.,
+vol. 24, pp. 109–125, Nov. 2014.
+[25] X.-S. Yang, Nature-Inspired Metaheuristic Algorithms. Beckington, U.K.:
+Luniver Press, 2008.
+[26] X. S. Yang, ‘‘Firefly algorithm, stochastic test functions and design opti-
+misation,’’ Int. J. Bio-Inspired Comput., vol. 2, no. 2, pp. 78–84, 2010.
+[27] T. Niknam, R. Azizipanah-Abarghooee, and A. Roosta, ‘‘Reserve con-
+strained dynamic economic dispatch: A new fast self-adaptive modified
+firefly algorithm,’’ IEEE Syst. J., vol. 6, no. 4, pp. 635–646, Dec. 2012.
+[28] L. dos Santos Coelho and V. C. Mariani, ‘‘Improved firefly algorithm
+approach applied to chiller loading for energy conservation,’’ Energy
+Buildings, vol. 59, pp. 273–278, Apr. 2013.
+[29] X.-S. Yang, S. S. S. Hosseini, and A. H. Gandomi, ‘‘Firefly algorithm
+for solving non-convex economic dispatch problems with valve loading
+effect,’’ Appl. Soft Comput., vol. 12, no. 3, pp. 1180–1186, 2012.
+[30] W. T. Elsayed, Y. G. Hegazy, M. S. El-bages, and F. M. Bendary,
+‘‘Improved random drift particle swarm optimization with self-adaptive
+mechanism for solving the power economic dispatch problem,’’ IEEE
+Trans. Ind. Informat., vol. 13, no. 3, pp. 1017–1026, Jun. 2017.
+[31] J. I. Fister, Jr., X.-S. Yang, and B. Ji, ‘‘Memetic firefly algorithm
+for combinatorial optimization,’’ in Proc. Bioinspired Optim. Methods
+Appl. (BIOMA), 2012, pp. 1–12.
+[32] R. Caponetto, L. Fortuna, S. Fazzino, and M. G. Xibilia, ‘‘Chaotic
+sequences to improve the performance of evolutionary algorithms,’’ IEEE
+Trans. Evol. Comput., vol. 7, no. 3, pp. 289–304, Jun. 2003.
+[33] S. M. Elsayed, R. A. Sarker, D. L. Essam, and N. M. Hamza, ‘‘Test-
+ing united multi-operator evolutionary algorithms on the CEC2014
+real-parameter numerical optimization,’’ in Proc. CEC, Beijing, China,
+Jul. 2014, pp. 1650–1657.
+[34] S. D. Calin, ‘‘A new modified artificial bee colony algorithm for the eco-
+nomic dispatch problem,’’ Energy Convers. Manage., vol. 89, pp. 43–62,
+Jan. 2015.
+[35] S.M. Elsayed, R. A. Sarker, and E.Mezura-Montes, ‘‘Particle SwarmOpti-
+mizer for constrained optimization,’’ in Proc. IEEE Congr. Evol. Comput.
+(CEC), Cancún, México, Jun. 2013.
+[36] S. Hemamalini and S. P. Simon, ‘‘Artificial bee colony algorithm for
+economic load dispatch problem with non-smooth cost functions,’’ Electr.
+Power Compon. Syst., vol. 38, no. 7, pp. 786–803, 2010.
+[37] N. Amjady and H. Nasiri-Rad, ‘‘Solution of nonconvex and nonsmooth
+economic dispatch by a new adaptive real coded genetic algorithm,’’Expert
+Syst. Appl., vol. 37, no. 7, pp. 5239–5245, 2010.
+[38] K. Bhattacharjee, A. Bhattacharya, and S. H. N. Dey, ‘‘Chemical reac-
+tion optimisation for different economic dispatch problems,’’ IET Gener.,
+Transmiss. Distrib., vol. 8, no. 3, pp. 530–541, Mar. 2014.
+[39] D. N. Vo, P. Schegner, and W. Ongsakul, ‘‘Cuckoo search algorithm for
+non-convex economic dispatch,’’ IET Gener., Transmiss. Distrib., vol. 7,
+no. 6, pp. -645–654, Jun. 2013.
+[40] A. Meng, J. Li, and H. Yin, ‘‘An efficient crisscross optimization solution
+to large-scale non-convex economic load dispatch with multiple fuel types
+and valve-point effects,’’ Energy, vol. 113, pp. 1147–1161, Oct. 2016.
+[41] L. Wang and L.-P. Li, ‘‘An effective differential harmony search algorithm
+for the solving non-convex economic load dispatch problems,’’ Int. J. Elect.
+Power Energy Syst., vol. 44, no. 1, pp. 832–843, 2013.
+[42] S. Khamsawang and S. Jiriwibhakorn, ‘‘DSPSO–TSA for economic dis-
+patch problemwith nonsmooth and noncontinuous cost functions,’’ Energy
+Convers. Manage., vol. 51, no. 2, pp. 365–375, 2010.
+[43] A. Dutta, S. Das, B. Tudu, and K. K.Mandal, ‘‘A novel improved algorithm
+using cuckoo search for economic load dispatch,’’ in Proc. IEEE 1st Int.
+Conf. Power Electron., Intell. Control Energy Syst., Jul. 2016, pp. 1–6.
+[44] Y. Wang, B. Li, and T. Weise, ‘‘Estimation of distribution and differential
+evolution cooperation for large scale economic load dispatch optimization
+of power systems,’’ Inf. Sci, vol. 180, no. 12, pp. 2405–2420, 2010.
+[45] N. Ghorbani and E. Babaei, ‘‘Exchange market algorithm for economic
+load dispatch,’’ Int. J. Elect. Power Energy Syst., vol. 75, pp. 19–27,
+Feb. 2016.
+[46] E. Naderia, A. Azizivahed, H. Narimani, M. Fathi, and
+M. R. Narimani, ‘‘A comprehensive study of practical economic
+dispatch problems by a new hybrid evolutionary algorithm,’’ Appl. Soft
+Comput., vol. 61, pp. 1186–1206, Dec. 2017.
+[47] N. J. Singh, J. S. Dhillon, and D. P. Kothari, ‘‘Surrogate worth trade-off
+method formulti-objective thermal power load dispatch,’’Energy, vol. 138,
+pp. 1112–1123, Nov. 2017.
+[48] K. Vaisakh and A. S. Reddy, ‘‘MSFLA/GHS/SFLA-GHS/SDE algorithms
+for economic dispatch problem considering multiple fuels and valve point
+loadings,’’ Appl. Soft Comput., vol. 13, no. 11, pp. 4281–4291, 2013.
+[49] L. T. A. Bahrani and J. C. Patra, ‘‘Orthogonal PSO algorithm for economic
+dispatch of thermal generating units under various power constraints in
+smart power grid,’’ Appl. Soft Comput., vol. 58, pp. 401–426, Sep. 2017.
+[50] M. Moradi-Dalvand, B. Mohammadi-Ivatloo, A. Najafi, and A. Rabiee,
+‘‘Continuous quick group search optimizer for solving non-convex eco-
+nomic dispatch problems,’’ Electr. Power Syst. Res., vol. 93, pp. 93–105,
+Dec. 2012.
+[51] M. Pradhan, P. K. Roy, and T. Pal, ‘‘Grey wolf optimization applied to
+economic load dispatch problems,’’ Int. J. Elect. Power Energy Syst.,
+vol. 83, pp. 325–334, Dec. 2016.
+[52] V. S. Aragón, S. C. Esquivel, and C. A. C. Coello, ‘‘An immune algorithm
+with power redistribution for solving economic dispatch problems,’’ Inf.
+Sci, vol. 295, pp. 609–632, Feb. 2015.
+[53] M. Basu, ‘‘Fast convergence evolutionary programming for economic
+dispatch problems,’’ IET Gener., Transmiss. Distrib., vol. 11, no. 16,
+pp. 4009–4017, Nov. 2017.
+[54] Q. Qin, S. Cheng, X. Chu, X. Lei, and Y. Shi, ‘‘Solving non-convex/non-
+smooth economic load dispatch problems via an enhanced particle swarm
+optimization,’’ Appl. Soft Comput., vol. 59, pp. 229–242, Oct. 2017.
+[55] A. K. Barisal, ‘‘Dynamic search space squeezing strategy based intelligent
+algorithm solutions to economic dispatch with multiple fuels,’’ Int. J. Elect.
+Power Energy Syst., vol. 45, no. 1, pp. 50–59, 2013.
+[56] M. Basu, ‘‘Kinetic gas molecule optimization for nonconvex economic
+dispatch problem,’’ Int. J. Elect. Power Energy Syst., vol. 80, pp. 325–332,
+Sep. 2016.
+[57] N. Amjady and H. Sharifzadeh, ‘‘Solution of non-convex economic dis-
+patch problem considering valve loading effect by a new modified differ-
+ential evolution algorithm,’’ Int. J. Elect. Power Energy Syst., vol. 32, no. 8,
+pp. 893–903, 2010.
+[58] L. T. Al-Bahrani and J. C. Patra, ‘‘Multi-gradient PSO algorithm for opti-
+mization of multimodal, discontinuous and non-convex fuel cost function
+of thermal generating units under various power constraints in smart power
+grid,’’ Energy, vol. 147, pp. 1070–1091, Mar. 2017.
+[59] G. Xiong, D. Shi, and X. Duan, ‘‘Multi-strategy ensemble biogeography-
+based optimization for economic dispatch problems,’’ Appl. Energy,
+vol. 111, pp. 801–811, Nov. 2013.
+[60] D. C. Secui, ‘‘A modified symbiotic organisms search algorithm for
+large scale economic dispatch problem with valve-point effects,’’ Energy,
+vol. 113, pp. 366–384, Oct. 2016.
+[61] K. Bhattacharjee, A. Bhattacharya, and S. H. N. Dey, ‘‘Oppositional
+real coded chemical reaction optimization for different economic dis-
+patch problems,’’ Int. J. Elect. Power Energy Syst., vol. 55, pp. 378–391,
+Feb. 2014.
+[62] T. T. Nguyen and D. N. Vo, ‘‘The application of one rank cuckoo search
+algorithm for solving economic load dispatch problems,’’ Appl. Soft Com-
+put., vol. 37, pp. 763–773, Dec. 2015.
+VOLUME 6, 2018 45921
+Y. Yang et al.: Chaos FA With Self-Adaptation Mutation Mechanism for Solving Large-Scale ED
+[63] J.-B. Park, Y.-W. Jeong, J.-R. Shin, and K. Y. Lee, ‘‘An improved particle
+swarm optimization for nonconvex economic dispatch problems,’’ IEEE
+Trans. Power Syst., vol. 25, no. 1, pp. 156–166, Feb. 2010.
+[64] H. Lu, P. Sriyanyong, Y. H. Song, and T. Dillon, ‘‘Experimental study
+of a new hybrid PSO with mutation for economic dispatch with non-
+smooth cost function,’’ Int. J. Elect. Power Energy Syst., vol. 32, no. 9,
+pp. 921–935, 2010.
+[65] A. Shukla and S. N. Singh, ‘‘Pseudo-inspired CBA for ED of units with
+valve-point loading effects and multi-fuel options,’’ IET Gener., Trans-
+miss. Distrib., vol. 11, no. 4, pp. 1039–1045, Mar. 2017.
+[66] V. Hosseinnezhad, M. Rafiee, M. Ahmadian, and M. T. Ameli, ‘‘Species-
+based quantum particle swarm optimization for economic load dispatch,’’
+Int. J. Elect. Power Energy Syst., vol. 63, pp. 311–322, Dec. 2014.
+[67] N. Amjady and H. Nasiri-Rad, ‘‘Nonconvex economic dispatch with AC
+constraints by a new real coded genetic algorithm,’’ IEEE Trans. Power
+Syst., vol. 24, no. 3, pp. 1489–1502, Aug. 2009.
+[68] N. J. Singh, J. S. Dhillon, and D. P. Kothari, ‘‘Synergic predator-prey
+optimization for economic thermal power dispatch problem,’’ Appl. Soft
+Comput., vol. 43, pp. 298–311, Jun. 2016.
+[69] S. Chalermchaiarbha and W. Ongsakul, ‘‘Stochastic weight trade-off par-
+ticle swarm optimization for nonconvex economic dispatch,’’ Energy Con-
+vers. Manage., vol. 70, pp. 66–75, Jun. 2013.
+[70] X. He, Y. Rao, and J. Huang, ‘‘A novel algorithm for economic load
+dispatch of power systems,’’ Neurocomputing, vol. 171, pp. 1454–1461,
+Jan. 2016.
+[71] M. A. Elhameed and A. A. El-Fergany, ‘‘Water cycle algorithm-based
+economic dispatcher for sequential and simultaneous objectives including
+practical constraints,’’Appl. Soft Comput., vol. 58, pp. 145–154, Sep. 2017.
+[72] V. Hosseinnezhad and E. Babaei, ‘‘Economic load dispatch using θ -PSO,’’
+Int. J. Elect. Power Energy Syst., vol. 49, pp. 160–169, Jul. 2013.
+YUDE YANG received the M.S. and Ph.D. degrees in electrical engineer-
+ing from the School of Electrical Engineering, Guangxi University, China,
+in 2004 and 2007, respectively. He is currently an Associate Professor with
+the Department of Electrical Engineering. His current research interests
+major in the transient stability of power system and power system optimal
+operation and control.
+BORI WEI is currently pursuing the M.S. degree in electrical engineer-
+ing with the School of Electrical Engineering, Guangxi University, China.
+He current research interests include intelligent computation and their
+applications.
+HUI LIU (M’12–SM’17) received the M.S. and Ph.D. degrees in electrical
+engineering from the School of Electrical Engineering, Guangxi University,
+China, in 2004 and 2007, respectively. He was with Jiangsu University as a
+Staff Member from 2007 to 2016 and Tsinghua University as a Post-Doctoral
+Fellow from 2011 to 2013. He visited the Energy Systems Division, Argonne
+National Laboratory, Argonne, IL, USA, as a Visiting Scholar from 2014 to
+2015. He joined the College of Electrical Engineering, Guangxi University,
+in 2016, where he is currently a Professor. His research interests include
+power sy

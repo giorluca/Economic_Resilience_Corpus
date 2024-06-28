@@ -1,0 +1,1141 @@
+Estimation of Probabilistic Seismic Losses and the Public Economic Resilience—An Approach for a Macroeconomic Impact Evaluation
+
+This article was downloaded by:[Consorci de Biblioteques Universitaries de Catalunya]
+On: 26 May 2008
+Access Details: [subscription number 789296669]
+Publisher: Taylor & Francis
+Informa Ltd Registered in England and Wales Registered Number: 1072954
+Registered office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+Journal of Earthquake Engineering
+Publication details, including instructions for authors and subscription information:
+http://www.informaworld.com/smpp/title~content=t741771161
+Estimation of Probabilistic Seismic Losses and the
+Public Economic Resilience—An Approach for a
+Macroeconomic Impact Evaluation
+Omar D. Cardona a; Mario G. Ordaz b; Mabel C. Marulanda c; Alex H. Barbat c
+a Instituto de Estudios Ambientales (IDEA), Universidad Nacional de Colombia,
+Manizales, Colombia
+b Instituto de Ingenier a, Universidad Nacional Aut noma de M xico (UNAM),
+M xico, DF
+c Centro Internacional de M todos Num ricos en Ingenier a (CIMNE),
+Universidad Polit cnica de Catalu a, Barcelona, Spain
+Online Publication Date: 01 January 2008
+To cite this Article: Cardona, Omar D., Ordaz, Mario G., Marulanda, Mabel C. and Barbat, Alex H. (2008) 'Estimation
+of Probabilistic Seismic Losses and the Public Economic Resilience—An Approach for a Macroeconomic Impact
+Evaluation', Journal of Earthquake Engineering, 12:1, 60 — 70
+To link to this article: DOI: 10.1080/13632460802013511
+URL: http://dx.doi.org/10.1080/13632460802013511
+PLEASE SCROLL DOWN FOR ARTICLE
+Full terms and conditions of use: http://www.informaworld.com/terms-and-conditions-of-access.pdf
+This article maybe used for research, teaching and private study purposes. Any substantial or systematic reproduction,
+re-distribution, re-selling, loan or sub-licensing, systematic supply or distribution in any form to anyone is expressly
+forbidden.
+The publisher does not give any warranty express or implied or make any representation that the contents will be
+complete or accurate or up to date. The accuracy of any instructions, formulae and drug doses should be
+independently verified with primary sources. The publisher shall not be liable for any loss, actions, claims, proceedings,
+demand or costs or damages whatsoever or howsoever caused arising directly or indirectly in connection with or
+arising out of the use of this material.
+D
+ow
+nl
+oa
+de
+d 
+B
+y:
+ [C
+on
+so
+rc
+i d
+e 
+B
+ib
+lio
+te
+qu
+es
+ U
+ni
+ve
+rs
+ita
+rie
+s 
+de
+ C
+at
+al
+un
+ya
+] A
+t: 
+08
+:2
+1 
+26
+ M
+ay
+ 2
+00
+8 
+Journal of Earthquake Engineering, 12(S2):60–70, 2008
+Copyright  A.S. Elnashai & N.N. Ambraseys
+ISSN: 1363-2469 print / 1559-808X online
+DOI: 10.1080/13632460802013511
+Estimation of Probabilistic Seismic Losses and
+the Public Economic Resilience—An Approach
+for a Macroeconomic Impact Evaluation
+OMAR D. CARDONA1, MARIO G. ORDAZ2,
+MABEL C. MARULANDA3, and ALEX H. BARBAT3
+1Instituto de Estudios Ambientales (IDEA), Universidad Nacional de Colombia,
+Manizales, Colombia
+2Instituto de Ingenierı´a, Universidad Nacional Auto´noma de Me´xico (UNAM),
+Me´xico, DF
+3Centro Internacional de Me´todos Nume´ricos en Ingenierı´a (CIMNE),
+Universidad Polite´cnica de Catalun˜a, Barcelona, Spain
+The Disaster Deficit Index (DDI) measures country risk from a macroeconomic and financial
+perspective, according to possible catastrophic events. The DDI captures the relationship between
+the demand for contingent resources to cover the maximum probable losses and the public sector’s
+economic resilience; that is, the availability of internal and external funds for restoring affected
+inventories. For calculating potential losses, the model follows the insurance industry in establish-
+ing a probable loss, based on the critical impacts during a given period of exposure, and for the
+economic resilience the model computes the country’s financial ability to cope with the situation
+taking into account: the insurance and reinsurance payments; the reserve funds for disasters; the
+funds that may be received as aid and donations; the possible value of new taxes; the margin for
+budgetary reallocations; the feasible value of external credit; and the internal credit the country
+may obtain. Access to these resources has limitations and costs that must be taken into account as
+feasible values according to the macroeconomic and financial conditions of the country. This
+article presents the model of DDI and proposes it as a simple way of measuring a country’s fiscal
+exposure and potential deficit—or contingency liabilities—in case of extreme disasters to guide the
+governmental decisionmaking from economic, financial, and disaster risk reduction perspectives.
+Keywords Disaster Deficit; Contingent Liabilities; Fiscal Sustainability; Seismic Vulnerability
+1. Introduction
+Disaster risk management requires measuring risk to take into account not only the
+expected physical damage, victims, and economic equivalent loss, but also social, organi-
+zational, and institutional factors [Carren˜o et al., 2007a,b). The difficulty in achieving
+effective disaster risk management has been, in part, the result of the lack of a compre-
+hensive conceptual framework of disaster risk to facilitate a multidisciplinary evaluation
+and intervention. Most existing indices and evaluation techniques do not adequately express
+risk and are not based on a holistic approach that invites intervention. The various planning
+agencies dealing with the economy, environment, housing, infrastructure, agriculture, or
+health, to mention but a few relevant areas, must be made aware of the risks that each sector
+Address correspondence to Omar D. Cardona, Instituto de Estudios Ambientales (IDEA), Universidad
+Nacional de Colombia, Manizales, Colombia; E-mail: odcardonaa@unal.edu.co
+60
+D
+ow
+nl
+oa
+de
+d 
+B
+y:
+ [C
+on
+so
+rc
+i d
+e 
+B
+ib
+lio
+te
+qu
+es
+ U
+ni
+ve
+rs
+ita
+rie
+s 
+de
+ C
+at
+al
+un
+ya
+] A
+t: 
+08
+:2
+1 
+26
+ M
+ay
+ 2
+00
+8 
+faces. In addition, the concerns of different levels of government should be addressed in a
+meaningful way. For example, risk is very different at the local level (a community or small
+town) than it is at the national level. If risk is not presented and explained in a way that
+attracts stakeholders’ attention, it will not be possible to make progress in reducing the
+impact of disasters. Risk is most detailed at a micro-social or territorial scale. As we
+aggregate and work at more macro scales, details are lost. However, decision making and
+information needs at each level are quite different, as are the social actors and stakeholders.
+This means that appropriate evaluation tools are necessary to make it easy to understand the
+problem and guide the decision-making process. It is fundamentally important to under-
+stand how vulnerability is generated, how it increases, and how it builds up. Performance
+benchmarks are also needed to facilitate decision makers’ access to relevant information as
+well as the identification and proposal of effective policies and actions.
+A system of indicators is proposed to meet this need and to enable the depiction of disaster
+risk at the national level, allowing the identification of key issues by economic and social
+category. It also makes possible the creation of national risk management performance
+benchmarks in order to establish performance targets for improving management effective-
+ness. Four components or composite indicators have been designed to represent the main
+elements of vulnerability and show each country’s progress in managing risk. This article
+presents one of them related to the macroeconomic potential impact: the Disaster Deficit Index
+(DDI). The system of indicators was developed by the Institute of Environmental Studies
+(IDEA in Spanish) of the National University of Colombia, in Manizales, for the Inter-
+American Development Bank, in the framework of its Program of Indicators for Disaster
+Risk and Risk Management in the Americas. Program reports, technical details, and the
+application results for the countries in the Americas can be consulted at the following web
+page: http://idea.unalmzl.edu.co [Cardona, 2005; Carren˜o et al., 2005; IDEA, 2005].
+2. Disaster Deficit Index
+The DDI measures country risk from a macroeconomic and financial perspective accord-
+ing to possible catastrophic events. It requires the estimation of critical impacts during a
+given period of exposure, as well as the country’s financial ability to cope with the
+situation. This index measures the economic loss that a particular country could suffer
+when a catastrophic event takes place, and the implications in terms of resources needed
+to address the situation. Construction of the DDI requires undertaking a forecast based on
+historical and scientific evidence, as well as measuring the value of infrastructure and
+other goods and services that are likely to be affected. The DDI captures the relationship
+between the demand for contingent resources to cover the losses, LPR, caused by
+the Maximum Considered Event (MCE),1 and the public sector’s economic resilience,
+RPE, that is, the availability of internal and external funds for restoring affected inven-
+tories2. Thus, DDI is calculated using Eq. 1, as follows:
+DDI ¼ L
+P
+R
+RPE
+(1)
+1This model follows the insurance industry in establishing a reference point for calculating
+potential losses [ASTM, 1999]; e.g. the Probable Maximum Loss, PML [Ordaz and Santa-Cruz,
+2003].
+2A similar approach estimating the resource gap has been proposed by Freeman et al. [2002].
+In this report, they say that being able to quickly access sufficient funds for reconstruction after a
+disaster is critical to a country’s ability to recover with minimal long-term consequences.
+Estimation of Probabilistic Seismic Losses and the Public Economic Resilience 61
+D
+ow
+nl
+oa
+de
+d 
+B
+y:
+ [C
+on
+so
+rc
+i d
+e 
+B
+ib
+lio
+te
+qu
+es
+ U
+ni
+ve
+rs
+ita
+rie
+s 
+de
+ C
+at
+al
+un
+ya
+] A
+t: 
+08
+:2
+1 
+26
+ M
+ay
+ 2
+00
+8 
+where
+LPR ¼ ’LR: (2)
+LPR represents the maximum direct economic impact in probabilistic terms on
+public and private stocks that are governments’ responsibility. The value of public
+sector capital inventory losses is a fraction ’ of the loss of all affected goods, LR,
+which is associated with an MCE of intensity IR, and whose annual exceedance rate
+(or return period, R) is defined in the same way for all countries (i.e., return
+periods of 50, 100 and 500 years, whose probability during any 10 years exposure
+period is 18%, 10%, and 2%, respectively). This total loss LR, can be estimated as
+follows:
+LR ¼ EVðIRCSÞK; (3)
+where E is the economic value of all the property exposed; V( ) is the vulnerability
+function, which relates the intensity of the event with the fraction of the value that is
+lost if an event of such intensity takes place; IR is the intensity associated to the
+selected return period; CS is a coefficient that corrects intensities to account for local
+site effects; and K is a factor that corrects for uncertainty in the vulnerability
+function.
+Economic resilience, RPE (the denominator of the index), is defined in Eq. 4:
+RPE ¼
+Xn
+i¼1
+FPi ; (4)
+where FPi represents the possible internal and external resources, that were available to
+the government, in its role as a promoter of recovery and as owner of affected goods,
+when the evaluation was undertaken. Access to these resources has limitations and costs
+that must be taken into account as feasible values according to the macroeconomic and
+financial conditions of the country. In this evaluation the following aspects have been
+taken into account: the insurance and reinsurance payments that the country would
+approximately receive for goods and infrastructure insured by government; the reserve
+funds for disasters that the country has available during the evaluation year; the funds that
+may be received as aid and donations, public or private, national or international; the
+possible value of new taxes that the country could collect in case of disasters; the margin
+for budgetary reallocations of the country, which usually corresponds to the margin of
+discretional expenses available to government; the feasible value of external credit that
+the country could obtain from multilateral organisms and in the external capital market;
+and the internal credit the country may obtain from commercial and, at times, the Central
+Bank, when this is legal, signifying immediate liquidity. Figure 1 shows a diagram
+illustrating the way to obtain the DDI.
+A DDI greater than 1.0 reflects the country’s inability to cope with extreme disasters
+even by going into as much debt as possible.The greater the DDI, the greater the gap
+between losses and the country’s ability to face them. If constrictions for additional debt
+exist, this situation implies the impossibility to recover.
+To help place the DDI in context, we have developed a complementary indicator,
+DDI’, to illustrate the portion of a country’s annual Capital Expenditure, EPC, that
+corresponds to the expected annual loss, LPy , or the pure risk premium. That is, DDI’
+62 O. D. Cardona et al.
+D
+ow
+nl
+oa
+de
+d 
+B
+y:
+ [C
+on
+so
+rc
+i d
+e 
+B
+ib
+lio
+te
+qu
+es
+ U
+ni
+ve
+rs
+ita
+rie
+s 
+de
+ C
+at
+al
+un
+ya
+] A
+t: 
+08
+:2
+1 
+26
+ M
+ay
+ 2
+00
+8 
+shows the percentage of the annual investment budget that would be needed to pay for
+future disasters:
+DDI ¼ L
+P
+y
+EPc
+: (5)
+The pure premium value is equivalent to the annual average investment or saving that a
+country would have to make in order to approximately cover losses associated with major
+future disasters. Other DDI’ was also estimated with respect to the amount of sustainable
+resources due to inter-temporal surplus, SPi . That is to say, the percentage the technical
+premium of potential savings at present values represents, as expressed in Eq. (6):
+DDI ¼ L
+P
+y
+SPl
+: (6)
+The sustainable amount of resources due to inter-temporal surplus, SPi , is the saving
+which the government can employ, calculated over a 10-year period, in order to best attend
+the impacts of disasters (see IDEA, 2005). What we need to know is if the government,
+from an orthodox perspective, complies with its inter-temporal budgetary restriction. That
+is to say, if the flows of expenditures and incomes guarantee—in present value terms—
+that current and future primary surpluses allow a canceling of the present stock of debt. In
+other words, financial discipline requires that government action be limited and that the
+financial capacity to deal with disasters must comply with the inter-temporal restriction of
+Description
+Insurance and reassurance payments F1
+p
+Reserve funds for disasters F2
+p
+Aid and donations F3
+p
+New taxes F4
+p
+Budgetary reallocations F5
+p
+External credit F6
+p
+Internal credit F7p
+Hazard
+⊗ =
+  Expected Intensity for the MCE
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+0.0 0.5 1.0 1.5 2.0 2.5 3.0
+Intensidad
+oña
+D
+TIPO 1
+TIPO 2
+TIPO 3
+TIPO 4
+TIPO 5
+Economic Resilience
+MCE lossDDI =
+Vulnerability Risk
+Damage functions for exposed goods Potential damages x Economic value 
+Indicators
+FIGURE 1 Diagram for DDI calculation.
+Estimation of Probabilistic Seismic Losses and the Public Economic Resilience 63
+D
+ow
+nl
+oa
+de
+d 
+B
+y:
+ [C
+on
+so
+rc
+i d
+e 
+B
+ib
+lio
+te
+qu
+es
+ U
+ni
+ve
+rs
+ita
+rie
+s 
+de
+ C
+at
+al
+un
+ya
+] A
+t: 
+08
+:2
+1 
+26
+ M
+ay
+ 2
+00
+8 
+public finances. In the case that annual losses exceed the amount of resources available in
+the surplus it is predicted that over time there will be a debt due to disasters that inevitably
+increase the overall debt levels. That is to say, the country does not have sufficient
+resources to attend future disasters. In the case that restrictions to additional indebtedness
+should exist, this situation would signify that recovery is impossible. In general, if inter-
+temporal surplus is negative, premium payment would increase the existent deficit.
+In the following paragraphs, we will consider the theoretical framework of risk and
+the variables involved in Eq. (3) from a specific hazard and vulnerability perspective.
+3. Estimating Probable Losses
+The computation of losses during future natural hazard events (index numerator) is
+always a very complex problem. Due to the uncertainties of this process, losses must
+be regarded as random variables, which can only be known in a probabilistic sense, i.e.,
+through their probability distributions. Consequently, this approach has been adopted in
+this model [Ordaz and Santa-Cruz, 2003]. Given existing knowledge, it is clearly
+theoretically impossible to predict the times of occurrence and magnitudes of all future
+natural hazard events. In view of the uncertain nature of the processes involved, our
+second best choice is to estimate the probability distribution of the times of occurrence
+and impacts of all future disasters. In general, however, this estimation is also a titanic
+task. A convenient way of describing the required probability distributions (those of the
+occurrence times and the sizes of the physical impact) is the use of the exceedance rate
+curve of the physical losses (Loss Exceedence Curve). This curve relates the value of the
+loss with the annual frequency with which this loss value is exceeded; the inverse of the
+exceedance rate is the return period. The PML curve is an equivalent curve to the LEC.
+An example of this risk metric is depicted in the Fig. 2.
+There is a large body of work in the past decades on earthquake loss estimation and
+more recently with GIS, e.g., the ATC-13 [ATC, 1985] and the HAZUS [FEMA, 1999]
+that have been considered outstanding methods. See also Coburn and Spence [1992] and
+the EERI Earthquake Spectra Loss Estimation Theme Issue [1997]. Details of modular
+risk model are described in the article ‘‘Earthquake loss assessment for integrated disaster
+risk management’’ of Cardona et al. [2005] of this JEE Special Issue.
+3.8
+6.8
+9.5
+12.6
+14.8
+16.4
+0
+5
+10
+15
+20
+0 250 500 750 1,000 1,250 1,500 1,750 2,000
+Return period [years]
+PM
+L 
+(%
+)
+FIGURE 2 Example of a PML curve with the results for several return periods.
+64 O. D. Cardona et al.
+D
+ow
+nl
+oa
+de
+d 
+B
+y:
+ [C
+on
+so
+rc
+i d
+e 
+B
+ib
+lio
+te
+qu
+es
+ U
+ni
+ve
+rs
+ita
+rie
+s 
+de
+ C
+at
+al
+un
+ya
+] A
+t: 
+08
+:2
+1 
+26
+ M
+ay
+ 2
+00
+8 
+3.1 Hazard
+In this context, intensity is defined as a local measure of the disturbance produced by a
+natural event in those physical characteristics of the environment relevant to the phenom-
+enon under study. For all types of hazards, it is almost impossible to describe the intensity
+with a single parameter. For instance, when dealing with earthquake hazards, the peak
+ground acceleration gives some general information about the size of the ground motion,
+but does not give indications about its frequency content. This is crucial for an accurate
+estimation of structural response. In view of this, it is understood that a single-parameter
+description of intensity will always be incomplete. However, a multi-variable description
+of intensity is far too complex for our goals (actually, very few, if any risk studies
+undertaken in the past, have considered multi-variable descriptions of intensity). We
+propose to use a single measure of intensity for each type of hazard that correlates well
+with damage and for which hazard measures are relatively easy to obtain. It should be
+noted that since we are mainly interested in disasters that have an economic impact at the
+national level, we have restricted ourselves to those hazards that produce large, immedi-
+ate economic losses, like earthquakes or hurricanes. Other hazards, like landslides, are
+extremely important to local level, and historically have produced many victims.
+However, their economic impact has been very limited. Slow on-set disasters, like
+drought, are also very important, but their economic impacts are deferred over time. As
+these do not have immediate effects, they are beyond the scope of the proposed estima-
+tion model.
+In many cases, hazard estimations are obtained from regional studies, or by assuming
+average environmental conditions. For example, seismic hazard maps are usually pro-
+duced assuming average firm soil conditions, i.e., assuming that there are no significant
+amplifications of seismic intensity due to soft soils. Also, wind velocity maps are
+generally produced assuming average exposure conditions, that is, velocities are not
+obtained for sites on hills, but for reference sites. However, for each type of hazard,
+particular environmental characteristics may exist in the cities under study that cause
+intensities to be larger or smaller than the intensities in the neighborhood. In other words,
+environmental characteristics may exist that differ from those corresponding to the
+standard characteristics used in hazard evaluation. These characteristics are known as
+local site conditions, and they give rise to local site effects. In the framework of the
+present project, the local site effects in all cities and for all types of hazards are
+impossible to take into account in any accurate manner. Our first rough approach
+would be to simply ignore the site effects. This amounts to taking FS = 1 in Eq. (3).
+However, there are cases in which the local site effects cannot be disregarded. Since by
+definition these site effects are local, it would be impossible for us to give general rules as
+to the adequate values of FS for all cities and types of hazard. In our view, appropriate
+values would have to be assigned by the local experts who participate in the loss
+estimations for different countries.
+Once an appropriate intensity is chosen for each type of phenomenon, a probabilistic
+hazard description must be given. Usually, the hazard is expressed in terms of the
+exceedance rates of intensity values. It must be noted that, for our purposes, we require
+local indications of hazard, that is, exceedance rates of intensity at the points or cities of
+interest (one of our assumptions is that all property in a city is concentrated in a point or
+in a geographical area of limited size). In principle, a hazard curve must be constructed
+for every type of hazard and every city under study. However, recalling Eq. (3), it is
+needed just a few points of this curve, namely those intensities associated to the selected
+return periods.
+Estimation of Probabilistic Seismic Losses and the Public Economic Resilience 65
+D
+ow
+nl
+oa
+de
+d 
+B
+y:
+ [C
+on
+so
+rc
+i d
+e 
+B
+ib
+lio
+te
+qu
+es
+ U
+ni
+ve
+rs
+ita
+rie
+s 
+de
+ C
+at
+al
+un
+ya
+] A
+t: 
+08
+:2
+1 
+26
+ M
+ay
+ 2
+00
+8 
+In the case of seismic hazard the intensity is calculated taking into consideration the
+sum of effects of all seismic sources located in a certain influence area. The hazard,
+expressed in terms of the exceedance rates of the peak accelerations for firm soil, a, is
+calculated through the following expression [Esteva, 1970]:
+vðaÞ ¼
+Xi¼N
+i¼1
+ZMu
+M0
+ @
+@M
+PrðA > ajM;RiÞdM; (7)
+where the sum includes all the seismic sources, N, and Pr(A > ajM,Ri) is the probability of
+the intensity exceeding a certain value, given the earthquake’s magnitude, M, and the
+distance between the ith source and the site, Ri. The (M) function represents the activity
+rates of the seismic sources. The integration is done from M0 to Mu,, which indicates that
+the contribution of all magnitudes is taken into account for each seismic source. It is
+important to note that the previous equation would be exact if the seismic sources were
+points. In reality, they are volumes, therefore the epicenters cannot only occur in the
+centers of the sources, but can also occur, with equal probability, in any point inside the
+corresponding volume. Supposing that the intensity variable has a lognormal distribution
+given the magnitude and distance, the probability Pr(A > ajM, Ri) is calculated in the
+following way:
+PrðA > ajM;RÞ ¼ f 1
+ln a
+ln
+MEDðAjM;RÞ
+a
+ 
+(8)
+being F() the standard normal distribution, MED(AjM, Ri) the median value of the
+intensity variable (given by the corresponding attenuation law), and sLna the standard
+deviation of the natural logarithm of a. In Eqs. (7) and (8), both the attenuation law and
+its uncertainty are included. The seismic hazard is expressed in terms of the exceedance
+rates of given values of seismic intensity. The seismic intensity, a, refers to the pseu-
+doacceleration response spectra ordinates for a 5% of critical camping for a given
+structural period, T. Once the attenuation laws are calculated for different structural
+periods, it is possible to determine uniform hazard spectra for a specific site, based on
+the calculated intensity value (acceleration) for a fixed return period.
+3.2 Vulnerability
+As indicated in Eq. (3), V(I) is the vulnerability function, which relates the intensity of the
+event, I, with the expected fraction of the value that is lost if an event of such intensity
+takes place.
+Vulnerability functions usually have shapes like that shown in Fig. 3. A building is
+said to be more vulnerable than another if greater damage is expected in the former than
+in the latter given similar hazard intensities. Vulnerability functions are highly hazard-
+specific. In other words, in the same city, buildings and infrastructure might be very
+vulnerable to a certain hazard and much less vulnerable to another. As defined, vulner-
+ability functions might change depending on technological, educational, cultural, and
+social factors. For instance, for the same seismic intensity, buildings in a city might be
+more vulnerable than buildings in another city due to higher dissemination of construc-
+tion technology or application of seismic-resistant design in the latter. In rigor, vulner-
+ability functions should be expressed in the following way:
+66 O. D. Cardona et al.
+D
+ow
+nl
+oa
+de
+d 
+B
+y:
+ [C
+on
+so
+rc
+i d
+e 
+B
+ib
+lio
+te
+qu
+es
+ U
+ni
+ve
+rs
+ita
+rie
+s 
+de
+ C
+at
+al
+un
+ya
+] A
+t: 
+08
+:2
+1 
+26
+ M
+ay
+ 2
+00
+8 
+VðIÞ ¼ VðI;Þ; (9)
+where F is a set of parameters that will be denoted as vulnerability factors. In fact, it is
+through these factors that the effects of prevention can be appreciated, and their economic
+impact can be assessed. Consider, for instance, that the vulnerability curves correspond to
+earthquake hazard. Here, it is conceivable that the application of seismic-resistant design in
+a city (a change in one of the vulnerability factors) could move the vulnerability function
+from the ‘‘more vulnerable’’ to the ‘‘less vulnerable’’ case of Fig. 3. Usually, the costs of
+development, implementation, and enforcement of seismic regulations would be much less
+than the amount saved by reducing the vulnerability, so improving the design practices
+would be a sound decision even from the economic point of view. A discussion about
+probabilistic benefit-cost ratio is presented in the article ‘‘Earthquake loss assessment for
+integrated disaster risk management’’ of Cardona et al. [2005] of this JEE Special Issue.
+As it may be noted in the preceding paragraphs, we always refer to V (I; F) as being
+related to the expected damage, that is, to the expected value (in the probabilistic sense)
+of the damage. Due to the uncertainties involved, it is impossible to deterministically
+predict the damage resulting from an event with a given intensity. Thus, we try to predict
+its expected damage with V (I; F), keeping in mind that there are uncertainties that cannot
+be neglected. There are, of course, rigorous probabilistic ways to account for this
+uncertainty. One way of solving this problem is to find a factor, that we call K (see Eq.
+(3), which relates the loss estimator that would be obtained accounting for the uncertainty
+with the loss estimators obtained disregarding this uncertainty. Factor K depends on
+several things: the uncertainty in the vulnerability relation, the shape of the intensity
+exceedance rate curve, and the return period. We have found that, under reasonable
+hypotheses, a factor of K = 1.21.3 is reasonable for our goals.3 The vulnerability
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+0 2 4 6 8 10
+Intensity (arbitrary units)
+V(
+I)
+Less vulnerable
+More vulnerable
+FIGURE 3 Representation of vulnerability functions.
+3Note that if a constant factor K = 1.2 is used for all countries, cities, and types of hazard then
+it becomes irrelevant for comparison purposes. However, we prefer to deal with K explicitly for two
+reasons. The first is of symbolic nature: it helps to keep in mind that our estimation process is
+uncertain and that we must account for uncertainty in a formal way. The second reason is that, as
+defined, our loss estimators have a clear meaning: they are economic losses, measured in monetary
+units. Thus, their scale is relevant.
+Estimation of Probabilistic Seismic Losses and the Public Economic Resilience 67
+D
+ow
+nl
+oa
+de
+d 
+B
+y:
+ [C
+on
+so
+rc
+i d
+e 
+B
+ib
+lio
+te
+qu
+es
+ U
+ni
+ve
+rs
+ita
+rie
+s 
+de
+ C
+at
+al
+un
+ya
+] A
+t: 
+08
+:2
+1 
+26
+ M
+ay
+ 2
+00
+8 
+functions can be expressed analytically using Eq. (10):
+VðIÞ ¼ 1  exp ln 0:5 1
+
+  
+; (10)
+where  and . are parameters that define the shape of the function. Table 1 shows some
+values of  and g for some building constructions [Ordaz and Santa-Cruz, 2003].
+So far, our analysis has been restricted to estimate losses in cities or regions of
+limited geographical size. The key to the definition of ‘‘limited geographical size’’ is our
+hypothesis that everything within the city is affected simultaneously by the event under
+study. In reality, damage during disasters varies, sometimes widely, even within a city, so
+our hypothesis hardly, if ever, holds. But, this assumption has to be made for the sake of
+simplicity. However, for extensive regions, comprising several cities, perhaps hundreds
+of kilometers apart, it would be extremely risky to assume that everything is affected
+simultaneously. In view of this, we have to derive ways to combine the computed loss
+estimators for each city in order to obtain a reasonable combined estimator for the whole
+country. We shall call these rules the aggregation rules. IDEA [2005] presents details
+about the mathematical relations between the exceedance rates and other interesting and
+useful measures of risk; the rigorous probabilistic ways to account for the vulnerability
+uncertainty and the derivation on the loss-aggregation rules proposed.
+4. Resources Potentially Available
+Economic resilience (the denominator of the index) represents internal and external
+resources that were available to the government when the evaluation was undertaken.
+Seven constraints are explicitly taken into consideration in this study: insurance and
+reinsurance payments FP1
+ 	
+for insured government-owned goods and infrastructure;
+disaster reserve funds FP2
+ 	
+; public, private, national, or international aid and donations
+FP3
+ 	
+; new taxes FP4
+ 	
+; budgetary reallocations FP5
+ 	
+which usually corresponds to the
+margin of discretional expenses available to the government; external credit FP6
+ 	
+that the
+country could obtain from development banks and in the capital market; and Internal
+credit FP7
+ 	
+the country may obtain from commercial banks as well as the central bank.
+IDEA [2005] presents a method for estimating taxes on financial transactions. In
+addition, it presents a model for calculating the external financial situation of a country
+and the access to internal credit taking into account the associated uncertainties. It is
+important to indicate that this estimation is proposed considering restrictions or feasible
+values and without considering possible associated costs of access to some of these funds
+and opportunity costs which could be important. Figures 4 and 5 presents the application
+results for some countries in the Americas [Cardona, 2005; IDEA, 2005].
+TABLE 1 Parameters for Some Vulnerability Functions
+Construction class  g
+Non reinforced masonry 5.0 0.25
+Confined masonry 5.5 0.50
+Reinforced concrete frames 3.0 0.40
+68 O. D. Cardona et al.
+D
+ow
+nl
+oa
+de
+d 
+B
+y:
+ [C
+on
+so
+rc
+i d
+e 
+B
+ib
+lio
+te
+qu
+es
+ U
+ni
+ve
+rs
+ita
+rie
+s 
+de
+ C
+at
+al
+un
+ya
+] A
+t: 
+08
+:2
+1 
+26
+ M
+ay
+ 2
+00
+8 
+5. Conclusions
+These indicators provide a simple way of measuring a country’s fiscal exposure and the
+implicit contingency liabilities for the governments in case of extreme disasters. They
+allow national decision makers to measure the budgetary implications of a hazard
+extreme event and highlight the importance of including this type of information in
+financial and budgetary processes. These results substantiate the need to identify and
+propose effective policies and actions such as, for example, using insurance and reinsur-
+ance (transfer mechanisms) to protect government resources or establishing reserves
+based on adequate loss estimation criteria. Other such actions include contracting con-
+tingency credits and, in particular, the need to invest in structural retrofitting and
+rehabilitation, and non structural prevention and mitigation, to reduce potential damage
+and losses as well as the potential economic impact of disasters.
+DDI 500, 2000
+0,76
+0 1 2 3 4 5 6 0 5000 10000 15000 20000
+1,24
+1,30
+1,32
+1,78
+2,77
+3,75
+4,09
+4,47
+4,56
+4,81
+5,34
+5,40
+5,70
+CRI
+ARG
+GTM
+MEX
+CHL
+SLV
+TTO
+JAM
+NIC
+ECU
+PER
+DOM
+COL
+BOL
+L 500 (US$ millIons), 2000
+1963
+2662
+2009
+14034
+5504
+8021
+2521
+4787
+1760
+6331
+11939
+6008
+20166
+2835
+FIGURE 4 DDI and probable maximum loss for 500 years return period.
+DDI'CE, 2000 (percent)
+0,41
+0 30 0 50 100 150 200 250 300 3502010
+1,81
+2,69
+3,41
+4,22
+5,90
+6,32
+7,14
+7,89
+8,07
+8,72
+8,82
+9,22
+32,31
+ARG
+GTM
+CHL
+MEX
+ECU
+COL
+NIC
+BOL
+CRI
+DOM
+PER
+JAM
+TTO
+SLV
+Ly (US$ millions) 2000
+11,7
+17,1
+65,2
+326,5
+38,5
+163,1
+22,5
+18,7
+29,7
+56,3
+123,5
+34,7
+15,9
+138,5
+FIGURE 5 DDICE’ and annual probable loss.
+Estimation of Probabilistic Seismic Losses and the Public Economic Resilience 69
+D
+ow
+nl
+oa
+de
+d 
+B
+y:
+ [C
+on
+so
+rc
+i d
+e 
+B
+ib
+lio
+te
+qu
+es
+ U
+ni
+ve
+rs
+ita
+rie
+s 
+de
+ C
+at
+al
+un
+ya
+] A
+t: 
+08
+:2
+1 
+26
+ M
+ay
+ 2
+00
+8 
+The present approach was chosen given that serious theoretical controversies still
+exist in terms of whether disasters cause a significant impact on economic development.
+According to the results obtained by Albala-Bertrand [1993] disasters have little effect on
+the macro economy of a country. Models formulated by IIASA and Freeman et al. (2002),
+Benson et al. [2003], and ECLAC [2003] argue that in the long run such impacts may be
+important. IDEA [2005] concludes that disasters may reduce the savings level in society
+and thus the amount of capital and product per person in the stationary state, i.e.,
+recurrent and random disasters affect per capita income and growth rates in the long term.
+References
+Albala-Bertrand, J. M. [1993] ‘‘Natural disaster situations and growth: a macroeconomic model for
+sudden disasters impacts,’’ World Development 21(9): 1417–1434.
+ASTM [1999] Standard Guide for the Estimation of Building Damageability in Earthquakes, E
+2026–99.
+ATC [1985] Earthquake Damage Evaluation Data for California, ATC-13 (FEMA), Applied
+Technology Council, Redwood City, CA.
+Benson, C. [2003] The Economy-wide Impact of Natural Disasters in Developing Countries,
+London University, London, UK.
+Cardona, O. D. [2005] ‘‘Indicators of disaster risk and risk management: program for Latin America
+and the Caribbean,’’ Summary Report [online], National University of Colombia, Manizales.
+Available at: http://idea.unalmzl.edu.co
+Carren˜o, M. L, Cardona, O. D., Barbat, A. H. [2007a] ‘‘Urban seismic risk evaluation: a holistic
+approach,’’ Journal of Natural Hazards 40(1), 137–172.
+Carren˜o, M. L, Cardona, O. D., Barbat, A. H. [2007b] ‘‘A disaster risk management performance
+index,’’ Journal of Natural Hazards, 41(1), 1–20.
+Carren˜o, M. L, Cardona, O. D., Barbat, A. H. [2005] ‘‘Sistema de indicadores para la evaluacio´n de
+riesgos,’’ Monografı´a CIMNE IS-52, Technical University of Catalonia, Barcelona.
+Coburn, A. and Spence, R. [1992] Earthquake Protection, Chichester, UK: John Wiley & Sons Ltd.
+ECLAC [2003] ‘‘Manual para la estimacio´n de los efectos socio-econo´micos y ambientales de los
+desastres,’’ Economic Commission for Latin American and the Caribbean and World Bank, four
+volumes, Washington, D.C.
+EERI [1997] Earthquake Spectra, Theme Issue: Loss Estimation, 13, 4 November, Earthquake
+Engineering Research Institute, Oakland, CA.
+Esteva, L. [1970] ‘‘Regionalizacio´n sı´smica de Me´xico para fines de ingenierı´a,’’ Serie Azul 246,
+Engineering Institute, UNAM, Me´xico.
+FEMA [1999] ‘‘Earthquake Loss Estimation Methodology, HAZUS,’’ National Institute of Building
+Science for Federal Emergency Management Agency, Washington, D.C.
+Freeman, P. K., Martin, L. A., Linneroot-Bayer, J., Mechler, R., Pflug G., and Warner, K. ]2002]
+‘‘Disaster risk management: national systems for the comprehensive management of disaster
+financial strategies for natural disaster reconstruction,’’ SDD/IRPD, Regional Policy Dialogue,
+Inter-American Development Bank, IDB, Washington.
+IDEA [2005] ‘‘System of indicators for disaster risk management: program for Latin American and
+the Caribbean,’’ Main Technical Report, [online], National University of Colombia, Manizales.
+Available at: http://idea.unalmzl.edu.co
+Ordaz, M. and Santa-Cruz, S. [2003] ‘‘Computation of physical damage to property due to natural
+hazard events,’’ IDB/IDEA Program of Indicators for Risk Management, National University of
+Colombia, Manizales. Available at: http://idea.unalmzl.edu.co
+70 O. D. Cardona et al.

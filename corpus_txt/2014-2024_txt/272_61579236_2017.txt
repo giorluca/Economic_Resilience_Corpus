@@ -1,0 +1,776 @@
+Changes of marketing culture expression: comparison analysis in times of economic recession and recovery
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=rero20
+Download by: [161.53.47.211] Date: 04 May 2017, At: 01:50
+Economic Research-Ekonomska Istraživanja
+ISSN: 1331-677X (Print) 1848-9664 (Online) Journal homepage: http://www.tandfonline.com/loi/rero20
+Changes of marketing culture expression:
+comparison analysis in times of economic
+recession and recovery
+Daiva Zostautiene, Renata Zvireliene & Dalia Susniene
+To cite this article: Daiva Zostautiene, Renata Zvireliene & Dalia Susniene (2017)
+Changes of marketing culture expression: comparison analysis in times of economic
+recession and recovery, Economic Research-Ekonomska Istraživanja, 30:1, 302-317, DOI:
+10.1080/1331677X.2017.1305806
+To link to this article:  http://dx.doi.org/10.1080/1331677X.2017.1305806
+© 2017 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 07 Apr 2017.
+Submit your article to this journal 
+Article views: 58
+View related articles 
+View Crossmark data
+Economic REsEaRch-Ekonomska istRaživanja, 2017
+voL. 30, no. 1, 302–317
+http://dx.doi.org/10.1080/1331677X.2017.1305806
+Changes of marketing culture expression: comparison 
+analysis in times of economic recession and recovery
+Daiva Zostautiene, Renata Zvireliene and Dalia Susniene
+Panevezys Faculty of technologies and Business, Department of Economics and Business, kaunas University 
+of technology, Panevezys, Lithuania
+ABSTRACT
+In the contemporary competitive environment, companies strive 
+to gain competitive advantage in their business. Strengthening 
+a company’s position in the market is closely related to marketing 
+culture. The article aims at revealing which marketing culture 
+dimensions come into the force in hard times and how these change as 
+hard times inch away and the economy recovers. Seeking to reveal the 
+change tendencies of marketing culture expression in Lithuania, firstly 
+the conception of marketing culture is presented and its elements and 
+peculiarities examined; then the research methodology is presented 
+together with the comparative analysis and interpretation of the 
+findings of questionnaire surveys.
+1. Introduction
+As competition strengthens, building of new relationships between the company and its 
+customers and customer retention gain increasing significance. Market undertakings, when 
+integrating in international business, operating under conditions of market economy and 
+globalisation and striving for more effective use of marketing tools, have to take cultural 
+aspects into account. The latter often are difficult to measure and even observe, but heavily 
+influence the behaviours and evaluations of customers and personnel of the organisations 
+(Terpstra & Sarathy, 2000).
+The interest in organisational culture coincided with the realisation that the company’s 
+market orientation is important. Hofstede was one of the first who researched the impli-
+cations of culture to management methods and their practical application. No strategic 
+changes in the organisation can bypass the examination of the role of organisational culture, 
+seeing that culture is deeply embedded in the theory and practice of management. The locu-
+tion ‘change the culture and the majority of company’s problems will resolve on their own 
+accord’ became a much-repeated subject among many management students, theoreticians 
+and consultants. This phrase (like the term ‘culture’) became all-encompassing, connecting 
+the broad aspects of company, including control, commitments, socialisation, structure and 
+KEYWORDS
+marketing; marketing 
+culture; Lithuania
+JEL CLASSIFICATIONS
+m31; m14; m30
+ARTICLE HISTORY
+Received 28 january 2014 
+accepted 5 February 2016
+© 2017 the author(s). Published by informa Uk Limited, trading as taylor & Francis Group.
+this is an open access article distributed under the terms of the creative commons attribution License (http://creativecommons.org/
+licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+CONTACT Daiva Zostautiene   daiva.zostautiene@ktu.lt
+ OPEN ACCESS
+ECONOMIC RESEARCH-EKONOMSKA ISTRAŽIVANJA  303
+quality of company’s staff work. Since 1980, interest in organisational culture has become 
+particularly obvious (Brown, 1995; Deshpande & Webster, 1989; Hofstede, Neuijen, Ohayv, 
+& Sanders, 1990; Juceviciene, Poskiene, Kudirkaite, & Damanskas, 2000; Paulauskaite & 
+Vanagas, 1998; Smircich, 1983).
+When analysing the organisational culture, we encounter its different definitions that 
+do not similarly define the concept in question. The diversity of organisational culture 
+perspectives descends from the multitude of different assumptions made by the researchers 
+about the ‘organisation’ and ‘culture’ (Smircich, 1983).
+Organisation culture is an encompassing concept that is valid for different organisational 
+functions, including marketing as well. Marketing analysis has received much attention, 
+seeing as it is related to the results of a company’s activities, such as growth of the company 
+in the long-term, provision of increased satisfaction to the customer, competitive advantage 
+(Dunn, Norburn, & Birley, 1994; Juscius & Snieska, 2008; Kok, Hillebrand, & Biemans, 
+2003; Palaima & Auruskeviciene, 2006; Sin & Tse, 2000; Webster, 1995). Severe competition 
+and rising requirements for quality, rapid changes in customers’ behaviours show that it 
+is not enough to use traditional marketing means in seeking effective marketing activity 
+(Virvilaite & Dovaliene, 2003).
+Marketing culture comes into play as a very important aspect for customer retention in 
+strengthening company’s position on the market. Application of effective marketing culture 
+creates the prerequisites for sustainable and successful operation of the company. Therefore, 
+the study seeks to reveal the manifestation and change tendencies of marketing culture and 
+its elements during periods of recession and recovery. While distinguishing the strong and 
+weak areas of marketing culture in the companies, the study seeks to shape them in such a 
+way as to provide sustainability and uniqueness for cooperating with market players and to 
+enhance the competitiveness of companies. Customer retention and strengthening of the 
+company’s position in the market is closely related to marketing culture. Its application in 
+the company creates the prerequisites for successful operation of the company. A connec-
+tion has been observed in scientific literature between the marketing culture, effectiveness 
+of marketing and company performance. The analysis of marketing culture elements and 
+their expression, as well as the emphasis on the aspects of marketing culture, has to be 
+strengthened; therefore, they represent a particularly relevant subject among different levels 
+of managers in companies and their divisions, scientists and students when examining the 
+issues of competitiveness enhancement in companies, as well as for everyone else interested 
+in this subject.
+2. Marketing culture conception
+Attempts have been made to define the concept of culture in several hundreds of descrip-
+tions, and none of them is universally acceptable to different shareholder groups, according 
+to Rauhe and Demmer (2004). Artists, scientists, politicians and educators constantly dis-
+pute which definition of culture should be applied – the broader or the narrower: should 
+culture be treated as a related notion of arts (music, theatre, dance, literature, fine arts, 
+etc.); or does culture imply a method of inter-communication? It is a system of collective 
+constructs of meaning invoked by people to experience, define, process, depict and modify 
+reality (Rauhe & Demmer, 2004). From this point of view, culture is a system of values and 
+304   D. ZOSTAUTIENE ET AL.
+norms created by individuals and helps to recognise and give sense to the reality, as well as 
+defining the criteria of activities.
+The glossary of international words provides five definitions, out of which, in the opinion 
+of Paulauskaite and Vanagas (1998, p. 49), culture is best defined by the following: ‘culture 
+refers to the outcomes of individual and social activity, its forms and systems, the func-
+tioning of which enables the creation, use and conveyance of material and spiritual values’.
+This suggests the position that marketing culture is of a derivative nature and it takes 
+over the culture components from the established cultures in different fields of human 
+activities in the country, business and organisation. It is examined as follows: Culture in the 
+broad sense → National culture → Business culture → Organisational culture → Marketing 
+culture.
+According to Jucevicius (2001), culture ‘in the broad sense’ represents the in-depth pro-
+cesses of a group, company or society that are not immediately noticed; however, they 
+affect a very broad spectrum of social life aspects. Based on this, it can be stated that the 
+conception of culture is one of the broadest conceptions in social sciences, as it encompasses 
+a multitude of meanings.
+Talking about national culture, Wood (1999) and Steenkamp (2001) emphasised that 
+managers should not leave the cultural differences of customers in different countries out 
+of consideration. However, the representatives of cultures of different countries might differ 
+less than individuals belonging to the culture of the same country. Differences between 
+people are determined by different understanding of the world and oneself, and of tasks 
+and issues under consideration.
+According to Hofstede (1994), culture is always a collective phenomenon, because culture 
+is at least partially shared by the people who live or lived in the same social surroundings 
+where they learned the culture. It is a collective way of thinking, distinguishing one group of 
+people from another. Culture is learned, because it is not hereditary. It appears in a certain 
+social environment and it is not pre-programmed in genes (Schein, 1992).
+Philosophers and historians, as well as scientists of the entire spectrum of social sciences, 
+are interested in understanding the behaviours of various nations; however, all these fields 
+of science approach culture in a slightly different manner.
+Business culture includes attitudes, values and norms, encompassing commercial activities 
+and helping to form the behaviour of the company in a specific country. The grounds for 
+business culture in each country encompasses the previous, current and future business 
+environment in that country. Business culture shapes the company’s behaviour in a specific 
+country, thus affecting the formation of marketing culture subject to attitudes, norms and 
+values in country’s commercial activities.
+Essentially, culture is difficult to understand, intangible, inexpressible in words and 
+considered to be self-explanatory; nonetheless, each company creates a set of key assump-
+tions, concepts and unwritten rules of its own which governs everyday behaviours at work. 
+Consequently, this leads to a conclusion that organisational culture has significant influence 
+on its employees, as it helps to create an internal climate that promotes the self-control and 
+consistency of behaviour, enables the staff to better understand the expectations of the com-
+pany towards them, encourages them to transform the everyday routine into valuable and 
+important actions, and connects the organisation with values that are important to the society.
+Hatch (1993) proposed a ‘dynamic model of organizational culture’. By accepting 
+the perspective of interaction between different strata of culture such as visible means, 
+ECONOMIC RESEARCH-EKONOMSKA ISTRAŽIVANJA  305
+behaviours, less visible values, rules and assumptions that are the least visible, but 
+approached naturally by the members of culture, Hatch (1993) builds upon and develops 
+the model of Schein (1992), focusing on interaction processes as well as culture strata. In 
+summary, one could state that Schein’s (1992) theory contributed to a three-component 
+approach to culture, whereas Hatch (1993) gave greater importance to dynamic processes 
+between the culture strata. After finding out that the organisational culture model encom-
+passes the structural strata of culture linked by dynamic processes, organisational culture 
+is perceived as the whole of values prevailing therein, attitudes, behavioural norms and 
+surface manifestations of behaviour of its members formed while the company strived 
+for internal integration and survival in the environment that reflects the individuality 
+of the company.
+Marketing culture is examined based on marketing theory as well as theory of organisa-
+tional and general culture. Marketing is one of the company’s spheres of activities while it 
+strives for economic and social objectives (Stanton, Etzel, & Walker, 1991), and because of 
+this we will analyse marketing culture as a component of organisational culture. Marketing 
+culture is an element of organisational culture manifesting through connections between 
+the company and other market subjects.
+Culture is noted for multi-dimensionality: its different components are evaluated in 
+different ways, because culture is a complex of its components. Webster (1995) defined mar-
+keting culture as a multidimensional construct encompassing service quality, inter-personal 
+relationships, sales tasks, organisation, internal communication and innovation. Marketing 
+culture reflects the professionalism of a company’s employees from the top managers to 
+workers. Like customers, employees should be able to feel the culture directly and indirectly 
+(for instance, the attitude of company staff towards punctuality, appearance, conduct, etc.). 
+Another expression of marketing culture could be the striving of the staff to introduce 
+innovations in their activities to improve performance.
+When examining market orientation, Narver and Slater (1990) singled out the marketing 
+culture as a very important feature of organisational culture, helping companies provide 
+a higher product value to the customers in the most effective and efficient way and, based 
+on this, to strengthen their position in the market. Marketing culture is considered to be 
+an abstract of a higher level than the market-oriented culture (Harrison & Shaw, 2004).
+According to Narver and Slater (1990), market orientation necessitates interest in the 
+customers while creating a higher value for them as well as in competitors. Scientists who 
+studied market-oriented culture stated that coordinated actions (inter-functional coordina-
+tion) in all functions of the company particularly constitute the key element when defining 
+a market-oriented concept (Kohli & Jaworski, 1990; Narver & Slater, 1990; Slater & Narver, 
+1999), because there would be no focus on customers and competitors if a company operated 
+in an uncoordinated manner.
+Organisational culture reveals the internal behaviour of the company, whereas the mar-
+keting culture, as an element of organisational culture, encompasses not only internal 
+behaviour but external as well (relationships with the environment), because the very 
+purpose of marketing reflects the environment orientation, i.e., focus on the customer 
+while seeking objectives beneficial for the company. Narver and Slater (1990) define mar-
+keting culture as organisational culture that is the most efficient and effective in creating 
+the behaviour of employees that confers exceptional value for the buyers of company’s 
+goods and allows for attaining excellent business results. The scientists emphasised that 
+306   D. ZOSTAUTIENE ET AL.
+if the market orientation would be a simple complex of different activities, completely 
+separated from the main values of the company, then whatever the organisational culture 
+is, the company could adopt the market orientation easily and at any time. However, it is 
+not that easy to change the culture.
+In line with the organisational culture definition, marketing objective and attitude stating 
+that marketing culture is an element of organisational culture, marketing culture is perceived 
+as an element of organisational culture, encompassing the entirety of values, norms (rules), 
+tools and behaviours prevailing therein, that reflects the individuality of the company through 
+its interaction (relationships) with market subjects.
+The definition reveals marketing culture as a constituent of organisational culture, com-
+prised of the elements identified analogically to strata established by Poskiene (1998) in a 
+study of organisational culture (common agreements, overlapping values, visible culture), 
+highlighting the dynamism of culture and conveyance of meanings within the sub-cultures. 
+Marketing culture is understood as a dynamic sub-culture that is market-oriented when 
+the uniqueness of company culture can result in a competitive advantage.
+3. Elements of marketing culture and peculiarities of their expression
+Elements of marketing culture are examined in accordance with a logical sequence that is 
+based on theoretical assumptions that values form norms, and means are selected and behav-
+iours are shaped subject to the latter (Deshpande & Webster, 1989; Homburg & Pflesser, 
+2000; Zostautiene & Daraskeviciute, 2009; Zostautiene & Urbanskiene, 2002).
+According to Schein (1992), values can be defined as a concept of the aim, either explicit 
+or implicit, that is inherent to an individual or group and that affects the choice subject to 
+prevailing customs, method and outcome of actions. Norms (rules) differ from values by 
+a higher degree of specificity and association with certain behaviour. In an organisation, 
+values constitute the grounds for the development of specific behavioural norms (rules). 
+Norms (rules) are set for expected behaviours or their outcomes, which are at least in part 
+common to the social group. Means include accounts, agreements, rituals and language, 
+which are created within an organisation and have a strong meaning that is characteristic 
+to symbols (Schein, 1992). Behaviours refer to company’s models of behaviour.
+The structure of marketing culture is comprised of four strata that are divided according 
+to the possibility of identifying, noticing or feeling them:
+•  the first level corresponds to the first stratum of marketing culture – values;
+•  the second level – to norms (rules);
+•  the third level coincides with the third stratum – means; and t
+•  the fourth stratum – behaviours.
+3.1. Values of marketing culture
+One of the key forms of culture expression refers to values. Values manifesting in marketing 
+activities of the company comprise the fundament of marketing culture. Values may serve 
+as some of the main connecting ties in a certain group of people, although the values of the 
+group members do not always coincide; however, from the company perspective, values are 
+important in that they direct the staff for common activity. Values are generally analysed 
+ECONOMIC RESEARCH-EKONOMSKA ISTRAŽIVANJA  307
+from the individual and societal points of view. Social values refer to things considered 
+important and significant by society; however, these values may vary from one society to 
+another. Individuals, based on their values of ‘what should be’, reflecting the values com-
+mon to the society and humanity (Juceviciene, 1996, p. 47), judge what is good and what is 
+bad. Individuals and their sets of values are affected by public institutions, family, friends 
+and media. Consequently, values of different individuals differ too; moreover, values of the 
+same individual may change subject to the influence of social surroundings. Values may be 
+equated to standards and principles, which are used by the people to evaluate things (peo-
+ple, objects, ideas, actions and situations) as being good and to be pursued or, conversely, 
+bad and unwelcome. From this perspective, a value is sort of equated to a standard, which 
+is selected due to different reasons. Values strongly influence the priorities of employees, 
+decisions being made and behaviours in the organisation, and it is therefore useful to eval-
+uate the influence of values to organisational culture.
+According to Janusonis (2000), a value is a continuous belief in the righteousness and 
+superiority over others of one’s activities and pursuits (ideas, objectives, actions, results) 
+that has become a common criterion for the evaluation of people, objects or phenomena. 
+The more members of the company acknowledge one or another value (aggregate of values), 
+the less frequently conflicts occur in an organisation.
+Values comprise an inseparable part of each company, one of the elements of organisa-
+tional culture. They form naturally in the course of company’s identity development, while 
+searching for an answer to the question ‘what we are?’ However, only clearly defined and 
+named values become a managerial tool helping to shape the desired behaviour of employees 
+and organisational culture in a well-focused manner. Because of this, when analysing the 
+organisational culture, it is very important to find out which values are characteristic to a 
+specific company.
+As market conditions change and become increasingly more complicated due to com-
+petition, managers of organisations have to find the ways to adapt to the ever-changing 
+environment. For this purpose, such methods of management are required that allow 
+controlling the behaviour of employees without restricting their activeness and creativity. 
+Thus, attention was drawn to the value-based management when only the main direction 
+and criteria to be followed when striving towards the objective should be specified. Such 
+companies acquire a competitive advantage – their staff is able to flexibly respond to the 
+changes in the environment and adapt to individual needs of the customers.
+An examinination of the values of marketing culture should be based upon the market-
+ing theory reflecting the issues of company profitability, competitiveness (as the organisa-
+tional objective), customer focus (as a prerequisite for attaining the objective) and systemic 
+approach (as the method to attain the objective) (Pranulis, Pajuodis, Urbonavicius, & 
+Virvilaite, 1999).
+The following values of marketing culture should be singled out as the ones mostly 
+strengthening the market orientation the company:
+(1)   open communication;
+(2)   employee responsibility.
+Companies upholding open communication as the key value of their marketing culture 
+have a strong marketing culture, because information about the sales and the market is 
+spread in the entire company instead of being retained as the responsibility of marketing 
+308   D. ZOSTAUTIENE ET AL.
+managers. Employee responsibility as a value of marketing culture enables decentralised 
+decision-making, thus making the influence of authority and hierarchical levels less impor-
+tant and facilitating the market orientation processes (Vranesevic, Vignali, & Vignali, 2002).
+Unlike market-oriented norms (rules), the values of marketing culture do not directly 
+affect the company’s behaviour on the market, rather helping to develop the market orien-
+tation. The difference between values and norms is that norms direct the behaviour in the 
+appropriate direction, while values refer to the general landmarks of behaviour (O’Reilly, 
+1989).
+3.2. Norms (rules) of marketing culture
+Norms (rules) form in the society and lesser groups of people as a certain desired behaviour 
+directing or even committing to behave in line with the norms (rules) accepted within the 
+group. In marketing culture, norms (rules) can be revealed based on values, while showing 
+the forms and ways of norm expression in marketing. A norm is a kind of idea that exists in 
+the minds of group members and that requires appropriate behaviour (Schein, 1992). Norms 
+form a special code of conduct for a specific group and indicate the behaviours determining 
+the activities of group members (Homburg & Pflesser, 2000). In order to function, norms 
+have to be accepted by the group members.
+One of the key aspects of marketing culture refers to the maintenance of relationships 
+between the company and the customer. From this perspective, communication acquires 
+special significance, and various norms of communication are being formed based on com-
+munication experience and values of marketing culture. Based on the distinguished values 
+of marketing culture and in line with the assumption that values form the norms, which 
+promote the market orientation, the following norms of marketing culture were identified:
+(1)   Open communication pertaining to market problems (issues);
+(2)   Responsibility of employees for activities on the market.
+When the members of the company openly communicate while perceiving this as a value, 
+then open communication on market issues represents the specific norm associated with 
+this value. Responsibility of employees for activities in the market is a norm associated with 
+the value of employee responsibility.
+3.3. Means of marketing culture
+Marketing culture means, such as accounts, agreements, rituals and language, represent the 
+more visible stratum of culture with verbal, behavioural or physical components (Homburg 
+& Pflesser, 2000). Marketing culture means is the most analysed stratum of marketing cul-
+ture, though we have to understand that marketing culture means include more than just, 
+for example, information systems (Jaworski & Kohli, 1993; Kohli & Jaworski, 1990), and 
+encompass the entirety of physical and verbal means used in marketing.
+The means display a higher or lower level of market orientation. Accounts may be related 
+to conversations of employees about other colleagues, whose behaviour is a great example 
+of market-oriented behaviour. Accounts motivate the staff and impel them to commit to 
+the company. An example of market-oriented agreement might be an open and friendly 
+meeting of customers and appropriate surroundings of the reception area. Market-oriented 
+ECONOMIC RESEARCH-EKONOMSKA ISTRAŽIVANJA  309
+rituals include customer events, for example, meetings with manufacturers of goods or 
+regular awards for market-oriented staff members. Language may also specify the level of 
+market orientation. For example, customer-oriented discussions (as opposite to the dis-
+cussions about company’s internal problems) during the meetings show a higher level of 
+market orientation.
+3.4. Behaviours of marketing culture
+Based on the literature on organisational behaviour and marketing as well as the scientific 
+insights referred to above, components distinguished by Kohli and Jaworski (1990) are used 
+when examining the market-oriented behaviours:
+(1)   Creation of market intelligence;
+(2)   Spreading of market intelligence;
+(3)   Responding to market intelligence.
+Intelligence is perceived as the ability to correctly anticipate, based upon the necessary 
+information and individual or company (organisational) culture. Future orientation is the 
+key feature of intelligence (Zostautiene & Urbanskiene, 2002).
+Creation of market intelligence occurs through the alignment of activities of separate 
+divisions, organisation of joint meetings and product improvement in line with the customer 
+needs. This dimension of a company’s marketing culture stipulates that the activities of 
+different units should be well coordinated; meetings of different units should be organised 
+to discuss the changes and further development opportunities in the market; cooperation 
+of the marketing division with other units should be assessed based on the time allocated 
+by marketing specialists to discuss the future customer needs with the employees of other 
+units. When creating marketing intelligence, it is important that product improvement 
+should be carried out in line with customer needs. Directions of product improvement while 
+seeking to find out if they correspond to what the customer needs should be frequently 
+revised; furthermore, marketing intelligence creation should involve marketing specialists 
+as well as other employees.
+The spreading of market intelligence is conducted by disseminating the information 
+about the customer product priorities and essential changes within business within the 
+company and to the general public. This dimension of marketing culture is assessed subject 
+to whether the information about product priorities of customers and changes, for instance, 
+in competition or technologies is publicised and whether the employees of the company 
+are promptly being made aware of important developments associated with the market or 
+the customers. Dissemination of information within the company should not be protracted 
+and the information about the fulfilment of customer needs should reach all employees of 
+the company.
+Responding to market intelligence is carried out through the meetings with the customers 
+and customer opinion surveys, evaluations of changes in the environment and responses 
+to them, as well as the attempts made to meet the customer needs. Meetings with the cus-
+tomers or customer opinion surveys should be evaluated, considering whether meetings 
+with the customers are organised at least once in a year to find out what products they are 
+going to need in the future and how they assess the quality of products or services provided. 
+When assessing the changes in the environment and responding to them, employees of the 
+310   D. ZOSTAUTIENE ET AL.
+company divisions should regularly organise meetings to form a response to environmental 
+changes. The striving to satisfy the customer needs is established subject to the efforts made 
+by the company’s staff to implement the product modifications when it has been determined 
+that customers require certain product modifications.
+Introduction of marketing culture through its elements presented above helps to attain 
+economic and non-economic benefits and affects the company performance: sales volumes, 
+profit; and success in selling new products. It also helps to build an exceptional and long-
+term competitive advantage, because it is not difficult to copy the products and presentation 
+specifics of competitors; however, the development of customer-oriented culture is a lengthy 
+process and is not easily achievable.
+4. Substantiation of research methodology of marketing culture expression 
+in companies
+Marketing culture has many expressions and it may be stated, therefore, that marketing 
+culture is formed based on various combinations of the dimensions of its components that 
+can be ascribed different significance by the companies and the customers. In line with the 
+theoretical concepts of marketing and organisational behaviour, distinguished levels, strata 
+and elements of marketing culture, as well as insights of Homburg and Pflesser (2000), we 
+will identify the dimensions of marketing culture components. Dimensions of marketing 
+culture are systemised and presented in Table 1 while highlighting the multi-dimensionality 
+of marketing culture.
+Certain dimensions of marketing culture components supporting the market orientation 
+may be acceptable and welcome in companies, as well as prevalent among the employees; 
+however, it is also possible that they will not be not accepted (or will be nearly rejected) 
+and practised.
+The research is aimed at identifying the expression of elements of marketing culture in 
+companies and based on the example of the companies operating in the city of Panevezys. 
+The research was carried out in the period August–September 2009 (the results were pre-
+sented in Engineering Economics 2009, No.5 and used for comparison in this article), and 
+repeated in September–October 2012.
+After revealing the key dimensions of marketing culture by its strata and presenting their 
+characteristics, it is observed that marketing culture is particularly important in a company 
+when seeking to maintain the market orientation. Components of company’s marketing cul-
+ture affect the company’s market orientation and, to be precise, the strength of this orientation, 
+i.e., they affect the actions of company members. The stronger the marketing culture, the more 
+the actions of company members will be market-oriented. The opposite is valid too: the weaker 
+the company’s marketing culture, the less market-oriented the actions of its members will be.
+In order to conduct an empirical research of marketing culture, it is necessary to present 
+each dimension of marketing culture components as a question or statement requiring 
+evaluation – description of significance in the case of individual surveyed company.
+The questionnaire survey was prepared based on scientific works of Homburg and Pflesser 
+(2000) and Zostautiene and Urbanskiene (2002). Managers of companies, directors, deputy 
+directors and heads of divisions related to marketing activities have been surveyed, while 
+making an assumption that executive personnel of the company have sufficient knowledge 
+about marketing.
+ECONOMIC RESEARCH-EKONOMSKA ISTRAŽIVANJA  311
+According to the database of the Department of Statistics (http://db1.stat.gov.lt), as of 
+the beginning of 2009 there were 2,431 companies and in 2012 there were 3,235 compa-
+nies operating in the city of Panevezys County. Panevezys County has been chosen for the 
+research because of the study carried out on demand and data comparison.
+Statistically processed data of the survey is considered to be true and reliable due to the 
+mathematical nature of the statistical analysis itself. However, when presenting the results, 
+representativeness of the research is very important. The number of respondents who need 
+to be surveyed in order to meet the criterion of representativeness can be calculated accord-
+ing to Paniotto’s formula:
+where:
+n = sample size (n),
+∆ = error (∆ = 0.5),
+N = population size (2009 N = 2,431, 2012 N = 3,235).
+(1)n = 1∕(Δ2 + (1∕N))
+Table 1. Dimensions of marketing culture (m.c.).
+source: compiled by the authors.
+M.C. layers M.C. components Dimensions of M.C. components
+1 layer m.c. values open communication innovation; flexibility; openness of internal 
+communication; inter-functional cooper-
+ation.
+Responsibility of employees striving for success; pursuit of quality and 
+competence; speed of work completion; 
+entrepreneurial thinking of employees; 
+appreciation of employees.
+2 layer m.c. norms open communication regarding market 
+problems
+market-oriented innovation; flexibility with 
+regard to market activities; openness 
+of internal communication of market 
+issues; market-oriented inter-functional 
+cooperation.
+Responsibility of employees for activities in 
+the market
+striving for success in the market; pursuit of 
+quality and competence; speed of work 
+completion; entrepreneurial thinking of 
+employees; appraisal of employees subject 
+to their activities on the market.
+3 layer m.c. means accounts accounts about ‘heroes’ oriented to the meet-
+ing of customer needs; discussions about 
+problems hindering market orientation.
+agreements agreements associated with market orien-
+tation.
+Rituals market orientation rituals.
+Language market-oriented and non-oriented language. 
+4 layer m.c. behaviour creation of market intelligence alignment of operations of different units 
+and organisation of joint meetings; coop-
+eration of marketing division with other 
+units; product improvement in line with the 
+customer needs. 
+Dissemination of market intelligence Public dissemination of information about 
+customer product priorities and material 
+changes in business; dissemination of infor-
+mation related to the market or customer 
+needs within the company. 
+Responding to market intelligence meetings with customers and opinion 
+surveys; assessment of and responding to 
+environmental changes; striving to meet 
+the customer needs. 
+312   D. ZOSTAUTIENE ET AL.
+In sociological studies, 5% is considered a standard error, when probability is 0.95. Based 
+on Paniotto’s formula, the surveyed sample is comprised of 345 companies in 2009 and of 
+357 companies in 2012.
+While taking into account the probability of refusing to participate in the research, 500 
+questionnaires have been prepared and distributed (delivered personally, sent by email, 
+mail and fax) in 2009, and 900 in 2012. In 2009, 198 fully completed questionnaires were 
+returned from Panevezys County companies; in 2012, 348 were completed and returned.
+Marketing culture is evaluated according to the points given by respondents to rate the 
+statements in the case of their company on a Likert scale from 1 to 5:
+Completely disagree 1 2 3 4 5 Completely agree
+On a Likert scale, one means a minimal possible rating confirming that the respondent 
+completely disagrees with the given statement. Five means a maximal possible rating. The 
+higher rating shows approval and prevalence, the lower rating – disagreement or partial 
+agreement.
+5. Peculiarities of marketing culture expression and change tendencies in 
+times of recession and recovery
+All research results in tables contain average ratings. Tables of marketing culture elements’ 
+assessment were compiled for each element of marketing culture individually (values, 
+norms, means and behaviours).
+The importance and observance of norms of marketing culture mostly depend on val-
+ues upheld. Ratings of marketing culture values of the companies are presented in Table 2. 
+Among those who replied, there were very few who disagreed completely or had no opinion, 
+while the most frequent response showing the significance of marketing culture values was 
+3–4 (moda).
+Companies appreciate flexibility and striving for success. These have been the best-
+rated marketing culture values in 2009, as well as in 2012. When comparing the research 
+results of different periods, it can be seen that the prevalence of values and their ratings 
+(2)n = 1∕(0.052 + (1∕2, 431)) = 345 in 2009
+(3)n = 1∕(0.052 + (1∕3, 235)) = 357 in 2012
+Table 2. Rating of marketing culture values, 2009 and 2012.
+source: authors’ calculations based on conducted executives survey.
+No. Values of marketing culture 2009 mean 2012 mean Change
+Open communication within the company
+1. innovativeness 3.7 3.9 +0.2
+2. Flexibility 4.6 4.5 −0.1
+3. openness of internal communication 4.2 3.2 −1.0
+4. inter-functional cooperation 4.2 3.3 −0.9
+Responsibility of employees
+5. striving for success 4.7 4.2 −0.5
+6. striving for quality and competence 4.2 4.0 −0.2
+7. speed of work completion 3.6 4.0 +0.4
+8. Entrepreneurial thinking of employees 4.3 3.8 −0.5
+9. Employees’ satisfaction with work 4.2 4.1 −0.1
+ECONOMIC RESEARCH-EKONOMSKA ISTRAŽIVANJA  313
+in the companies changed insignificantly, and this was expected, as values are not very 
+sensitive to changes or do not tend to change fast; nonetheless, at the time of recovery 
+following a decline, a reduction in rating and prevalence was observed; in particular, the 
+rating of values associated with open communication in companies, except innovation. 
+The latter, as a value, at the time of recovery was rated higher compared to the period 
+of economic decline. This can be logically explained: the companies perceive better that 
+stagnation without innovations is destructive, while communication within companies is 
+slack due to the recovering economy; however, the employees do not feel a real recovery 
+and perhaps there is not much willingness to communicate, share ideas and information; 
+dissociation and waiting for further developments can be sensed, perhaps even the fight to 
+survive without giving any thought to the overall objectives of the company. In particular, 
+openness of internal communication, inter-functional cooperation of employees, innovation 
+and entrepreneurial thinking should be enhanced. Often, employees working in the same 
+company compete among themselves; this might have determined the lack of the openness 
+of internal communication and inter-functional cooperation. Non-sharing of information 
+may cause unaligned and uncoordinated operations of the company.
+Ratings of norms of marketing culture are presented in Table 3.
+Questionnaire surveys showed that companies appreciate the completion speed of work 
+associated with market activities, seeing that prompt fulfilment of customer wishes and 
+needs builds customer trust and repeated purchases. Among the submitted statements 
+reflecting the norms of marketing culture companies increased their rate for almost all 
+open communication regarding market problems such as market-oriented innovativeness, 
+flexibility related with activity in the market, market-oriented inter-functional cooperation 
+and for almost all norms, related with responsibility of employees for activities in the mar-
+ket, except striving for quality and competence in market-related activities and speed of 
+completion of work related with activity in the market which practically unchanged. Only 
+the rate of openness of internal communication on market issues has decreased similarly 
+when comparing 2009 and 2012 research results. It may be concluded that marketing culture 
+norms have become even more acceptable and are perceived as important for companies 
+when seeking to survive at times of economic decline. They have become routine in every-
+day activities rather than just being declared how important they are to the company and 
+insufficiently expressed in activities, which could have been noticed when examining the 
+findings of the research carried out during the recession of 2009.
+Table 3. Rating of marketing culture norms, 2009 and 2012.
+source: authors’ calculations based on conducted executives survey.
+No. Norms of marketing culture 2009 mean 2012 mean Change
+Open communication regarding market problems (issues)
+1. market-oriented innovativeness 2.6 3.4 +0.8
+2. Flexibility related with activity in the market 4.0 4.1 +0.1
+3. openness of internal communication on market issues 3.3 3.0 −0.3
+4. market-oriented inter-functional cooperation 2.7 3.0 +0.3
+Responsibility of employees for activities in the market
+5. striving for success in the market 3.7 4.1 +0.4
+6. striving for quality and competence in market-related activities 4.3 4.2 −0.1
+7. speed of completion of work related with activity in the market 4.1 4.1 0
+8. market-oriented entrepreneurial thinking of employees 3.0 3.6 +0.6
+9. appraisal of employees subject to their activity in the market 3.6 4.1 +0.5
+314   D. ZOSTAUTIENE ET AL.
+Special attention should be paid to the openness of internal communication on market 
+issues, market-oriented inter-functional cooperation and market-oriented innovativeness, 
+which has to be improved in the companies.
+Rating of the means of marketing culture is revealed in Table 4. The obtained results about 
+means of marketing culture evidence that respondents are not sufficiently familiarised with 
+the input of means to the performance of companies. The most common ratings (moda) 
+in the scale of 5 were 3 (neither agree, nor disagree). Noteworthy are the ratings agreeing 
+with the importance of market-oriented agreements. The latter was the best-rated among 
+the means of marketing culture at the time of recession as well as recovery. This shows the 
+importance of such elements as clear layout of the building and the entire external com-
+plex, excellent organisation of meetings with the customers, attractiveness of reception 
+and discussion facilities, and creation of conditions for informal exchange of information.
+The rating of the means of marketing culture decreased or increased insignificantly 
+comparing the research findings of 2009 and 2012, except the agreements, related with mar-
+ket-orientation and market-oriented language. As the economy recovered, the significance 
+of these elements increased. In companies, market-orientation rituals are rated the worst, 
+although such rituals help to focus on the market, customer’s needs and their satisfaction 
+in order to develop loyal customers.
+Rating of marketing culture behaviours is presented in Table 5. The most frequent 
+response (moda) showing the significance of marketing culture behaviours was 3.
+No substantial changes have been observed in the rating of behaviours of marketing 
+culture in times of economic decline and recovery, except the fact that dissemination of 
+Table 4. Rating of marketing culture means, 2009 and 2012.
+source: authors’ calculations based on conducted executives survey.
+No. Means of marketing culture 2009 mean 2012 mean Change
+1. accounts about role model employees, oriented to fulfilment of 
+customer needs
+3.3 3.1 −0.2
+2. accounts and conversations about problems, impeding market-ori-
+entation
+3.2 3.2 0
+3. agreements, related with market-orientation 3.7 4.1 +0.4
+4. market-orientation rituals. 3.0 2.9 −0.1
+5. market-oriented language. 2.9 3.3 +0.4
+Table 5. Rating of marketing culture behaviours, 2009 and 2012.
+source: authors’ calculations based on conducted executives survey.
+No. Behaviours of marketing culture 2009 mean 2012 mean Change
+Creation of market intelligence
+1. coordination of activities of individual divisions and organisation 
+of general meetings
+3.2 3.0 −0.2
+2. cooperation of marketing division with other divisions 2.6 3.2 +0.6
+3. improvement of product/service according to customer needs 4.1 4.0 −0.1
+Dissemination of market intelligence
+4. Public dissemination of information about customer priorities for 
+the product and essential shifts in business
+3.6 3.8 +0.2
+5. Dissemination of information pertaining to market and customer 
+needs within the company
+4.7 3.9 −0.8
+Responding to market intelligence
+6. meetings with the customers and customer opinion research 3.2 3.2 0
+7. assessment of environmental changes and responding to them 3.4 3.2 −0.2
+8. striving to meet the customer needs 3.7 4.4 +0.7
+ECONOMIC RESEARCH-EKONOMSKA ISTRAŽIVANJA  315
+information associated with the market or customer needs slackened within companies, 
+as well as alignment of activities of different units and organisation of joint meetings. (It is 
+noteworthy that poorer rating of these dimensions corresponds to the weakening of open 
+communication in terms of values and norms.) However, at a time of economic recovery, the 
+striving to satisfy the customer needs strengthened, although the striving to identify these 
+needs was rated as a more important element at the time of recession than during recovery.
+Based on the available research findings, it can be concluded that economic decline 
+encouraged the companies to better apply the principles of marketing in their activities, to 
+focus on customers and meeting of their needs as an objective, because it is only thanks to 
+them that the companies may pursue their mission. A tendency was observed that during 
+the recovery following the economic decline, the gap between the declared values and 
+norms, which became a part of behaviour, decreases. However, there are some negative 
+tendencies, too. With the recovery, communication within the companies got worse, and 
+this may cause problems associated with the opportunities for the company to achieve its 
+objectives and use these opportunities. The lack of cooperation between employees and 
+different units may impede problem-solving, prompt decision-making and even weaken 
+the orientation to the market, customers and their needs.
+The ability to assess the changes in environment and adapt to them improved a little bit. 
+In the meantime, results of Panevezys County companies in rating marketing culture ele-
+ments are rather poor, while companies willing to become more competitive in the market 
+should make more effort.
+6. Conclusions
+Marketing culture is derived and takes over the cultural components formed from human 
+activities in nation, business and organisation. Marketing culture can be defined as integral 
+part of organisational culture than is market-oriented and comprises the elements revealing 
+the individuality of the company as it interacts with the market participants.
+While concluding that marketing culture forms a part of organisational culture, another 
+conclusion follows that the main elements of marketing culture are the same as in organisa-
+tional culture: values; norms; means; and behaviours. Values of marketing culture influence 
+norms, which influence well seen means and behaviours, and together they unite individual 
+efforts of employees for the common purpose when creating added value of the product 
+for the customers, which in turn ensures competitive advantage for the company. However, 
+their specifics manifest when striving for companies’ individuality and distinctness, fulfilling 
+the expectations of their customers and other market participants, in the relationships of 
+the company with other market participants.
+Empirical research was made on the theoretical background, that the ability of the com-
+pany to act quickly in a rapidly changing environment shaping the conditions of competition 
+and operation heavily depends on the prevailing marketing culture, its values, norms, means 
+and behaviours. The questionnaire survey aimed at identifying and comparing the market-
+ing culture through the elements of marketing culture in Panevezys County (Lithuania) 
+companies in 2009 and 2012.
+After summarising the data obtained during research, some peculiarities of marketing 
+culture elements’ expression in the companies of Panevezys County (Lithuania) in 2009 
+and 2012 could be distinguished. No substantial changes in expression of marketing culture 
+316   D. ZOSTAUTIENE ET AL.
+elements were observed when comparing the recession and recovery periods. It can be 
+explained by the nature of culture: culture doesn’t change rapidly. And because of it, a 
+strong market-oriented marketing culture can be a unique long-term source of competi-
+tive advantage: unique competitive advantage, because culture is always unique; long-term 
+competitive advantage, because culture is difficult to copy by the competitors.
+In summary, it can be concluded that during economic recovery in 2012 the gap between 
+declared values of marketing culture in companies and observance of these values in every-
+day activities decreased. Nonetheless, a negative tendency was also observed: dissemination 
+of information associated with the market or customer needs within the company slackened, 
+as well as alignment of operations of different units and organisation of joint meetings, i.e., 
+opened communication. It is vital to draw attention to this and to correct the situation, 
+because the worsened communication within the company may cause problems associated 
+with the opportunities to attain the company’s objectives and quick decision-making, or 
+even weaken the orientation to the market and the customer.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+References
+Brown, A. (1995). Organizational culture. England: Clays Ltd., St. Ives plc.
+Deshpande, R., & Webster, F. E. (1989). Organizational culture and marketing: Defining the research 
+agenda. Journal of Marketing, 53, 3–15.
+Dunn, M., Norburn, D., & Birley, S. (1994). The impact of organizational values, goals, and climate 
+on marketing effectiveness. Journal of Business Research, 30, 131–141.
+Harrison, P. J., & Shaw, R. N. (2004). Intra – organizational marketing culture and market orientation: A 
+case study of the implementation of the marketing concept in a public library. Library Management, 
+25, 391–398.
+Hatch, M. J. (1993). The dynamics of organizational culture. Academy of Management Review, 18, 
+657–693.
+Hofstede, G. (1994). Cultures and organizations. London: Harper Collins Business.
+Hofstede, G., Neuijen, B., Ohayv, D. D., & Sanders, G. (1990). Measuring organizational cultures: A 
+qualititive and quantitive study across twenty cases. Administrative Science Quarterly, 35, 286–316.
+Homburg, C., & Pflesser, C. (2000). A multiple – layer model of market – oriented organizational 
+culture: measurement issues and performance outcomes. Journal of Marketing Research, 37, 449–
+462.
+Janusonis, V. (2000). Sveikatos apsaugos sistemos organizacijų valdymas [Healthcare organization 
+management]. Klaipeda: Klaipedos rytas.
+Jaworski, B. J., & Kohli, A. K. (1993). Market orientation: Antecedents and consequences. Journal of 
+Marketing, 57, 53–70.
+Juceviciene, P. (1996). Organizacijos elgsena [Organizational Behaviour]. Kaunas: Technologija.
+Juceviciene, P., Poskiene, A., Kudirkaite, L., & Damanskas, N. (2000). Universiteto kultura ir jos tyrimas 
+[University culture and its research]. Kaunas: Technologija.
+Jucevicius, G. (2001). Lithuanian organization and its cultural characteristics in the European context. 
+Social Sciences, 2, 20–27.
+Juscius, V., & Snieska, V. (2008). Influence of corporate social responsibility on competitive abilities 
+of corporations. Engineering Economics, 3, 34–44.
+Kohli, A. K., & Jaworski, B. J. (1990). Market orientation: the construct, research propositions and 
+managerial implications. Journal of Marketing, 54, 1–18.
+ECONOMIC RESEARCH-EKONOMSKA ISTRAŽIVANJA  317
+Kok, R. A. W., Hillebrand, B., & Biemans, W. G. (2003). What makes product development market 
+oriented? Towards a conceptual framework. International Journal of Innovation Management, 7, 
+137–162.
+Narver, J. C., & Slater, S. F. (1990). The effect of a market orientation on business profitability. Journal 
+of Marketing, 54, 451–468.
+O’Reilly, Ch (1989). Corporations, culture, and commitment: Motivation and social control in 
+organizations. California Management Review, 31, 9–25.
+Palaima, T., & Auruskeviciene, V. (2006). Study of relationship quality dimensionality in the parcel 
+delivery services market. Engineering Economics, 4, 104–110.
+Paulauskaite, N., & Vanagas, P. (1998). Organizacijos kulturos tyrimas igyvendinant visuotines kokybes 
+vadyba [Organizational culture research implementing total quality management]. Kaunas: 
+Technologija.
+Poskiene, A. (1998). Universiteto organizacijos kultura – kompleksinis aukstojo mokslo edukacinis 
+veiksnys [The university culture – a complex factor of higher education]. Kaunas: Kaunas University 
+of Technology.
+Pranulis, V., Pajuodis, A., Urbonavicius, S., & Virvilaite, R. (1999). Marketingas [Marketing]. Vilnius: 
+Eugrimas.
+Rauhe, H., & Demmer, C. (2004). Kulturos vadyba: profesionalaus meno teorija ir praktika [Culture 
+management: professional art theory and practice]. Vilnius: Tyto alba.
+Schein, E. H. (1992). Organizational culture and leadership (2nd ed.). Jossey-Bass: San Francisco.
+Sin, L. Y. M., & Tse, A. C. B. (2000). How does marketing effectiveness mediate the effect of 
+organizational culture on business performance? The case of service firms. Journal of Services 
+Marketing, 14, 295–309.
+Slater, S. F., & Narver, J. C. (1999). Research notes and communications: Market-oriented is more 
+than being customer – led. Strategic Management Journal, 20, 1165–1168.
+Smircich, L. (1983). Concepts of culture and organizational analysis. Administrative Science Quarterly, 
+28, 339–358.
+Stanton, W. J., Etzel, M. J., & Walker, B. J. (1991). Fundamentals of marketing. New York, NY: McFraw-
+Hill.
+Steenkamp, J. B. E. M. (2001). The role of national culture in international marketing research. 
+International Marketing Review, 18, 30–44.
+Terpstra, V., & Sarathy, R. (2000). International marketing (8th ed.). London: Dryden Press.
+Virvilaite, R., & Dovaliene, A. (2003). Relationship marketing conceptual core and beginnings. 
+Engineering Economics, 2, 100–105.
+Vranesevic, T., Vignali, C., & Vignali, D. M. (2002). Culture in defining consumer satisfaction in 
+marketing. European Business Review, 5, 364–374.
+Webster, C. (1995). Marketing culture and marketing effectiveness in service firms. Journal of Services 
+Marketing, 9, 6–21.
+Wood, J. D. (1999). Kultura – dar ne viskas [Culture is not everything]. Verslo zinios [Business news]. 
+Priedas [Appendix] Efektyvi vadyba [Efficient management], 14, 2–4.
+Zostautiene, D., & Daraskeviciute, B. (2009). Peculiarities of competitive advantage development of 
+Panevezys city companies through the elements of marketing culture. Engineering economics, 5, 
+103–112.
+Zostautiene, D., & Urbanskiene, R. (2002). Formation and dimensions of marketing culture under 
+the contemporary conditions of competition. Economics: research works, Vilnius.

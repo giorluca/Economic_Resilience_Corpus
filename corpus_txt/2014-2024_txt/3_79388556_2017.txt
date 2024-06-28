@@ -1,0 +1,1279 @@
+Measuring resilience to economic shocks: an application to Spain
+
+Measuring resilience to economic shocks: an application to Spain 
+ 
+Angulo AM, Mur J, Trívez FJ 
+Universidad de Zaragoza 
+Gran Vía 2, 50.005 Zaragoza 
+ 
+Corresponding author: Angulo AM (aangulo@unizar.es) 
+ 
+Abstract 
+ 
+In this paper, we evaluate Spanish regions’ resistance to the economic crisis under three 
+main resilience notions: “Adaptative”, “Engineering” and “Ecological”. “Adaptative” resilience 
+is measured through a traditional shift-share approach applied to employment, whereas 
+“Engineering” and “Ecological” resilience pay attention to growth path and total employment 
+level, in the pre- and post-crisis period. The paper presents an application of the different notion 
+of resilience to the case of Spanish provinces in the last years. We find that provinces with 
+sectoral structure and location advantages, or those with locational advantages in the post-crisis 
+period (according to the “Adaptative” resilience measure), exhibit a significantly lower “drop” 
+in growth (according to the “Engineering” and “Ecological” resilience measure). Furthermore, 
+we conclude that the probability of presenting a better behavior (lower “drop” in growth than 
+the average) increases for those regions specialized in the service sector before the crisis. As 
+expected, the worse behavior has corresponds to those regions specialized in the pre-crisis 
+period in the construction sector.  
+ 
+Keywords: “Adaptative”, “Engineering” and “Ecological” resilience, shift-share analyses, 
+spatial panel data model, specialization. 
+JEL Classification: C21; C22; C23; C53; R15. 
+ 
+Acknowledgement 
+The authors are grateful for the financial support of the Spanish Government’s Ministry 
+of Economy and Competitiveness (ECO2015-65758-P), as well as for the financial 
+support of the Department of Industry and Innovation of Aragon Government and the 
+European Fund of Regional Development through the GAEC group. 
+1 
+ 
+Measuring resilience to economic shocks: an application to Spain 
+ 
+1. Introduction 
+Recent literature has popularized the term “resilience” which refers to the ability of a 
+local socio-economic system to recover from a shock or disruption as could be financial 
+crises, epidemics, natural disasters, etc. Foster (2007) defines regional resilience as “the 
+ability of a region to anticipate, prepared for, respond to, and recover from a disturbance”. 
+Similarly, Hill et al. (2008) define resilience as “the ability of a region… to recover 
+successfully from shocks to its economy that either throw it off its growth path or have the 
+potential to throw it off its growth path.  
+In the cases of shocks like economic and environmental crises, because of their global 
+and interconnected character, spatial economics turns to be very useful for the assessment of 
+regional resilience. A nice literature revision on this topic can be found in Modica and 
+Reggiani (2015). 
+Two main resilience notions, known as “Engineering” and “Ecological” resilience, are 
+depicted in Figure 1. “Engineering” resilience (Figure 1a) relates to regional economic 
+rebound. The only requisite for this category is the return to the pre-existing position or to the 
+path it would have been in the absence of the shock. In this view, recessionary shocks should 
+be transitory, and should have no permanent effect on the economy’s long-run growth ceiling 
+or growth trend. Hence, the focus of this approach is on resistance to shocks and stability near 
+equilibrium.  
+(Insert Figure 1) 
+“Ecological” resilience measures the shock that can be absorbed before the system 
+changes its form, function or position (Holling, 1973, 1996, 2001; McGlade et al., 2006; 
+Walker et al., 2006). This approach is related to the concept of “hysteresis”, which is defined 
+as a situation where disturbances permanently affect the path of the economy (Romer, 2001). 
+Hence, “Ecological” resilience is measured by comparing pre-shock and post-shock (stable) 
+state. More precisely, if the situation of certain economy after a shock is “worse” than its 
+position before the shock, then it presents low resilience or negative hysteresis. These are the 
+cases depicted in Figures 1b and Figures 1c. Figure 1b represents a recession that permanently 
+lowers the level of employment or output, although the region’s growth rate recovers its pre-
+shock rate (the region’s economy is able to resume its pre-recession growth rate, but on a 
+2 
+ 
+permanently lowered trend path). Figure 1c shows the case where both, the region’s level of 
+output or employment, and its post-shock growth rate, is lowered. In the opposite side, we 
+will refer to high “Ecological” resilience to shocks, or positive hysteresis, if after a 
+recessionary shock the economy is able to move to a “superior” state. Some examples are 
+depicted in Figures 1d and 1e. In both cases, the regional economy more than “rebounds” 
+from the recessionary downturn, and initially experiences rapid growth out of the recession, at 
+a rate above the pre-shock growth rate. However, while in the case of Figure 1d growth rate 
+resumes to pre-recession level, in the case of Figure 1e the recovery takes place to a sustained 
+higher growth rate.  
+In this context, Martin (2012) coined a third resilience term, called “Adaptative” 
+resilience, in reference to the capacity of a region to reconfigure itself; that is, to adapt its 
+structure (firms, industries, technologies and institutions) so as to maintain an acceptable 
+growth path in employment, output or wealth over time. It is assumed that after a recession, a 
+region will be high/low “Adaptative” resilient depending on its ability to develop 
+higher/lower productive sectors than those swept away by the recession.  
+Literature has integrated the three resilience notions. Modica and Reggiani (2015) 
+indicate that “Engineering resilience” seems more related to conventional global stability 
+theory while “Adaptative” resilience can be conceived as an insightful interpretation of 
+“Ecological” resilience. Nevertheless, there remains a lot of work to be done. For instance, 
+Martin (2012), and Martin and Sunley (2015) claim for clearer definitions, whereas Modica 
+and Reggiani (2015) ask for a more consistent analytical framework to achieve a clear 
+understanding and representation of the evolutionary of spatial economic processes 
+(“Ecological resilience”1). 
+The severe consequences of the recent crisis that has hit the World economy, and the 
+Spanish in particular, has been our main motivation. In this context, this paper aims two 
+objectives. First, we pursue to get insight into consistent analytical framework to determine 
+whether a specific (Spanish) region present low or high resilience. Second, after classifying 
+the provinces into categories according to resilience to recent downturn, we try to derive more 
+general conclusion about how the three notions are related. To accomplish this goal, various 
+probit models are estimated to measure whether well-behaved (wrong behaved) regions, in 
+                                                          
+1 “Ecological” resilience is related to evolutionary theories, which consider the region as the result of 
+social interactions subject to a process of transition and time is considered a flow.   
+3 
+ 
+terms of “Adaptative” resilience, are likely to be also well-behaved (wrong behaved) under 
+the two other resilience notions. Our conclusion in this point is that the results for each notion 
+must be understood under the framework under which they have been derived. However, in 
+general, they are related: the best behaved regions under the “Adaptative” resilience notion 
+are also the most likely to behave properly in term of the “Engineering” /“Ecological” 
+perspectives. 
+The methodological approach to resilience range from descriptive, interpretative case 
+studies to sophisticated statically and econometric models. Among them, we can find case 
+studies such as Evans and Karecha (2013); simple indices, such as Martin (2012) or 
+Augustine et al. (2013); statistical time series models as in Fingleton et al. (2012); and finally, 
+causal structural models, such as Doran and Fingleton (2013) or Fingleton and Palombi 
+(2013). In our proposal, we are going to approach the “Adaptative” notion of resilience 
+through two shift-share analyses (one for the pre-crisis period, the other for the post-crisis 
+period). Moreover, “Engineering”/“Ecological” resilience will be measured, following 
+Fingleton and Palombi (2013) by comparing the counterfactual (or projected) annual growth 
+rate of employment in absent of the economic crisis with the actual ones2. 
+Empirical evidence is obtained from quarterly employment provincial data in the four 
+main economic sectors (agriculture, industry, construction and services), for the period 
+2002:1-2015:4 in Spain. Before launching this study, we have to estimate the time of the 
+shock for the Spanish economy, which is in the second quarter of 2008, 2008:2. Then, as 
+regards “Adaptative” resilience, we derive two shift-share analyses to conclude on regional 
+behavior before and after the shock. From Industrial Mix (IM) and Regional Share (RS) 
+components, regions are classified among categories I to IV (from best to worst behavior) 
+before and after the crisis. Furthermore, the specialization pattern before and after the crisis is 
+also obtained. According to this approach, a region will be considered high resilient if it has 
+maintained, or even improved, its performance after the shock through a sectoral 
+restructuration. Results show that some provinces such as Malaga, A Coruña, Lugo, 
+Gipzzkoa, Palencia or Madrid, among others, can be considered high resilient within this 
+perspective. 
+                                                          
+2 Nevertheless, our counterfactual predictions are obtained through a different process that that 
+proposed in Fingleton and Palombi (2013). 
+4 
+ 
+Concerning “Engineering”/“Ecological” resilience, we will pay attention to both total 
+employment growth and level of employment in the pre- and post-crisis periods. Since the 
+shock for the Spanish economy is identified in 2008:2, we estimate a panel data model for the 
+pre-shock period for the annual growth rate of total employment. Afterwards, using these 
+estimates, we forecast total employment growth rates for the Spanish provinces for the post-
+crisis period. The predicted values for each province represent the counterfactual (or 
+projected) annual growth rate of employment, in absence of the economic crisis. The idea is 
+that forecasted values purged of the effect of the shock3. Finally, we measure the effect of the 
+crisis by comparing forecasted and actual values. According to these differences, the 
+“Engineering” notion classifies a province as high resilient only when its actual employment 
+growth and level are statistically the same as the forecasted one (as in Figure 1a). In an 
+analogous way, under the “Ecological” perspective, a province is classified as high resilient in 
+two cases: i) its actual growth is significantly higher than the forecasted one (as in Figure 1e); 
+or ii) its actual growth is statistically the same as the forecasted one but the employment level 
+is higher than the predicted one in absent of the crisis (as in Figure 1d). In any other case, the 
+respective province will be classified as low resilient. Results indicate that all Spanish 
+provinces can be considered as low resilient. 
+“Adaptative” versus “Engineering”/“Ecological” resilience results are different. 
+However, since they rely on different hypothesis, the key issue is to determine whether or not 
+they are connected. To answer this question, first, let’s define a dummy variable which takes 
+the value 1 for those provinces that present a better behaviour than the national average, and 
+zero otherwise, according to the “Engineering”/“Ecological” perspective. The dummy 
+variable so created will be the endogenous term of a probit model whose explicative variables 
+describe “Adaptative” resilience in the province. Results are clear: higher resilient provinces 
+(according the “Adaptative” perspective) are more likely to have also a better behaviour than 
+the rest (according to the two other perspectives). Furthermore, results reveal that an adequate 
+specialization strategy in the past does not have a significant effect in this equation.  
+Finally, to gain further insight into the specialization role, we analyse the relationship 
+between specialization and “Engineering”/“Ecological” resilience through the assessment of 
+the effect on resilience of the sectoral specialization of the region. In fact, our purpose is in 
+                                                          
+3 They are represented as dotted lines in graphs in Figure 1. 
+5 
+ 
+line with the work of Cuadrado-Roura and Maroto (2016) who also relate resilience to 
+regional productive specialization and productivity.  
+In our case, provincial specialization is measured by the location quotients, obtained 
+for each quarter of the sample. Next, we average location quotients for each of the two 
+periods (pre- and post- crisis) and for the four main economic sectors: agriculture, 
+construction, industry and services. Results are clear: the specialization in the pre-crisis period 
+in the construction sector reduces the probability of presenting a good performance in term of 
+the “Engineering”/“Ecological” resilience; the opposite takes place for provinces specialised 
+in the service sector. Specialization in agriculture and industry sector are positive but not 
+significant.  
+The structure of the paper is as follows. Section 2 shows the methodology for 
+accomplish the measure for the three resilience notions. Section 3 is devoted to employment 
+data used in the analysis. Section 4 shows the results obtained for the three approaches to 
+resilience as well as its relations. Finally, the paper finishes with a Section of conclusions. 
+ 
+2. Methodology 
+ As explained before, the first step in our proposal is to identify the time in which the 
+shock occurs for the Spanish case. This will allow us to define the pre-crisis (till the shock 
+happens) and the post-crisis period (from the shock onwards). Next, we will proceed to 
+measure the three resilience notions as explained below. 
+ 
+2.1. “Adaptative” resilience: shift-share analyses 
+ “Adaptative” resilience refers to the capacity of an economy to reconfigure, that is, to 
+adapt its structure so as to maintain and acceptable growth path. We approach this issue by 
+means of two shift-share analyses. The goal of the first is to identify the main factors affecting 
+for employment growth in the pre-crisis period, while the second will analyse the path of 
+growth in the post-crisis period. 
+As it is well-known, shift-share analysis is a technique to identify the factors 
+underpinning geographical variations in employment growth. Basically, it consists on 
+examining the interdependencies of a subarea with the parent area, trying to identify the 
+principal components of growth. First, we will decompose the temporal change in a 
+6 
+ 
+province’s employment over a given period into three additive components: National Share 
+(NS), Industry Mix (IM) and Regional Share (RS). Formally, denoting by ( )riL t  the level of 
+employment in sector i (i=1,…S) in province r (r=1,…,R) in period t (t=1,…,T), a temporal 
+change in employment in sector i and province r between t and t+m can be decomposed as: 
+( ) ( ) ( ) ( ) ( ) ( )r r r r r ri i i i i iL t m L t m L t NS t m IM t m RS t m∆ + = + − = + + + + +  
+Where each of these three components can be expressed as follows:  
+ 
+( ) ( )
+( ) ( )
+( ) ( )
+r r
+i i
+r r
+i i i
+r r r
+i i i i
+NS t m r L t
+IM t m r r L t
+RS t m r r L t
+•
+•
+• •
+•
+•
++ =
+ + = − 
+ + = − 
+ (1) 
+being  
+r•• = the national (percentage) growth of employment between t and t+m. 
+ir
+• =  the national (percentage) growth by sector i of employment during this period. 
+r
+ir =  the provincial (percentage) growth by sector i of employment during this period. 
+The National Share of sector i represents the change in employment due to the national 
+growth effect; is measured assuming that all sectors in a province are growing at the same 
+national rate. The Industry Mix for sector i represents the employment growth induced by the 
+specific economic structure. It is measured evaluating the provincial employment growth due 
+to the differences between the sectoral national growth rates and the average national rate. 
+Finally, the Regional Share of sector i is the difference between the actual change and the sum 
+of national and industry shares. It captures provincial-specific factors such as positive (or 
+negative) externalities arising from agglomeration effects, local labor force characteristics, 
+local incentives, locational advantages, environment, etc. 
+By summing over all sectors in a province, we arrive at the aggregated national, 
+industrial mix and regional share components for province r, as follows: 
+ 
+1
+1
+1
+( ) ( )
+( ) ( )
+( ) ( )
+S
+r r
+i
+i
+S
+r r
+i i
+i
+S
+r r r
+i i i
+i
+NS t m r L t
+IM t m r r L t
+RS t m r r L t
+•
+•
+=
+• •
+•
+=
+•
+=
++ =
+ + = − 
+ + = − 
+∑
+∑
+∑
+  (2) 
+7 
+ 
+The overall national component, ( )rNS t m+ , measures the national trend common to all 
+Spanish provinces. The overall industrial mix, ( )rIM t m+ , measures employment growth 
+generated by the economic structure of province r. If a province r presents a positive 
+industrial mix means that it is specialized in dynamic sectors ( ir r
+• •
+•> ) and consequently, it is 
+likely to present a positive growth for the aggregated employment. Finally, the regional share 
+reflects the extent to which the growth rate of the whole set of sectors improves, or not, the 
+national counterpart. Hence a positive regional share reflects positive provincial externalities 
+that contribute to impulse sectoral employment growth above the national sectoral average. 
+  The combination of industrial mix and regional shares allows us classifying each 
+province in one of the four categories displayed in Table 1. Provinces in Category I combine 
+advantages in sectoral structure (due to its specialization in dynamic sectors) with locational 
+advantages (positive externalities associated to localization). Provinces in Category II have 
+advantages due to its sectoral structure, since they are specialized in dynamic sectors, but their 
+performance in the province is not adequate. Provinces in Category III have advantages due to 
+its geographical location but not to its sectoral structure. Finally, provinces in Category IV 
+face problems since neither their sectoral structure nor their locational characteristics 
+contributes to employment growth. 
+(Insert Table 1) 
+Finally, to complete these results, we pay attention to Esteban (1972) who suggests a 
+further decomposition of the regional share component that links localization advantages and 
+specialization. He introduces the concept of homothetic employment, defined as the expected 
+employment level in sector i and province r if such province would have had the national 
+employment structure, in our notation: 
+
+
+
+
+
+=
+•
+•
+•
+•
+L
+LLL irri~ . The concept of homothetic employment 
+is related to specialization, measured by the location quotient (LQi,r), as: 
+ 
+r
+i
+rr
+i,ri
+i
+L
+Lrif LQ 1LLi L
+L
+•
+•
+•
+•
+⇒ = <<   (3) 
+Next, the Regional Share in (2) is decomposed into two additional terms, the so-called Net 
+Regional Share (NRS) and a Distributional Effect (DE), as follows: 
+8 
+ 
+  
+1 1 1
+( ) ( ) ( ) ( ) ( )
+S S Sr rr r r r r r
+i ii i i i i i i i
+i i i
+NRS DE
+RS t m r r L t r r L t r r L t L t• • •
+= = =
+      + = − = − + − −        ∑ ∑ ∑
+(((( ((((((((
+ (4) 
+For our purpose, we pay attention to the sign of the distributional effect, meaning that: 
+• A positive distributional effect corresponds to 
+
+
+
+>
+> •
+LL
+rr
+r
+i
+r
+i
+i
+r
+i
+~  or 
+
+
+<
+< •
+LL
+rr
+r
+i
+r
+i
+i
+r
+i
+~ . In the first case 
+the province r is specialized in sectors for which the province has location advantages, 
+while in the second case province r is not specialized in sectors for which the province 
+has not location advantages. In both cases, the specialization pattern is correct.  
+• A negative distributional effect occurs when 
+
+
+
+<
+> •
+LL
+rr
+r
+i
+r
+i
+i
+r
+i
+~  or 
+
+
+>
+< •
+LL
+rr
+r
+i
+r
+i
+i
+r
+i
+~ . In the first case, 
+province r has location advantages for sectors in which the province is not specialized. 
+In the second case, there are not location advantages for sectors in which the province 
+is specialized. In both cases, we detect problems in the specialization pattern. 
+ 
+2.2  “Engineering”/“Ecological” resilience 
+ We need a process in various stages in order to proxy the notion of 
+“Engineering”/“Ecological”. First, it is necessary to estimate a model for the pre-crisis period. 
+Second, estimation results are used to forecast the annual growth rate of total employment and 
+the total employment level in the post crisis period, by provinces. The forecasts are treated as 
+the counterfactual (or predicted) values in absence of the crisis. Finally, the comparison of 
+forecasts and actual values will enable us to conclude on the resilient nature of Spanish 
+provinces. 
+In order to estimate and forecast the provincial total employment growth, we adopt a 
+spatial panel data approach since, as it is well-known, they allow for unobservable cross-
+sectional and time effects, as well as to account for the spatial dependence between cross-
+sectional units at any point in time. Spatial dependence implies that, due to spillover effects 
+(e.g., commuters or trade flows), neighbouring regions may have similar economic 
+performance. Hence, we expect to improve traditional panel data models by paying attention 
+to geographical factors in the sample.  
+Prediction with spatial panel data models may be highly accurate, as shown by Baltagi 
+and Li (2004, 2006) in the case of per-capita cigarette and liquor consumption in the United 
+9 
+ 
+States. Similarly, Longhi and Nijkamp (2007) obtained good predictions for the regional 
+labour market in West German regions whereas Kholodilin et al. (2008) focused on GDP of 
+German Länders. A comparison of different spatial panel data models is carried out by 
+Baltagi et al. (2012). Furthermore, on the line of the present paper, Angulo and Trívez (2010) 
+conclude that a dynamic spatial lag panel data model outperforms fifty non spatial seasonal 
+ARIMA models, from a purely forecasting point of view. 
+We focus on the annual growth rate of total employment in all provinces (r=1,…,R) 
+(seasonally differenced) which, from now on, will be denoted by the vector 1[ ,..., ] 't t Rty y y= , 
+where 
+1
+( ) ( 4)100 with
+( 4)
+r r s
+r r
+rt ir
+i
+L t L ty L L
+L t =
+− −
+= =
+− ∑
+ 
+
+
+. Next, we compare three panel models 
+which exploit the temporal and spatial dimensions of the data. All of them introduce 
+provincial-specific intercepts, rµ  (r=1,2…,R), in order to account for the heterogeneity 
+among spatial units.  
+The first model under consideration is the dynamic Fixed Effect (FE) panel data 
+model, which is defined as follows: 
+ 1 2 t 3 t 4 trt rt
+2
+rt
+rrt 1yDq2 Dq3 Dq4y
+~N 0, η
+µ ηβ β β β t
+η σ
+− + += + + + + 
+
+    
+ (5) 
+where Dqj, with j=2,3 and 4, is a seasonal dummy which has a value of 1 when evaluating 
+growth for quarter j and 0 otherwise. 
+Model (5) considers the temporal dimension of data through the introduction of a lag 
+of the dependent variable; this term takes into account the serial dependence between 
+observations on each cross-sectional unit over time and it captures the inertia in the series. As 
+largely analyzed in literature (see Hsiao, 2003; Sevestre and Trognon, 1996; Baltagi, 2005), 
+Ordinary Least Square estimator applied to the demeaned equation4 is biased and inconsistent 
+for T finite, regardless the number of cross-section in the sample (R in our case). In fact, 
+demeaning creates a correlation of order (1/T) between the demeaned term and the demeaned 
+error term, known as the Nickel bias (Nickell, 1981). If T is fixed, alternative estimation 
+methods have been suggested such as Anderson and Hsiao (1981), Arellano and Bond (1991), 
+                                                          
+4 The demeaning equation is obtained by taking each variable in the regression equation in deviation 
+from its average over time, for instance for the endogenous variable: 
+T
+rt
+* t 1
+rt rt
+y
+y y
+T
+=
+∑
+= − . 
+10 
+ 
+Arellano and Bover (1995) or Blundell and Bond (1998). All of them propose to first 
+difference the data to eliminate the cross-sectional fixed effects and then apply Generalized 
+Method-of-Moments (GMM), using a set of appropriate instruments. Other proposals refer to 
+the construction of bias corrected estimators for the dynamic panel data model, by analytically 
+modifying the within estimator (Kiviet, 1995; Hahn and Kuersteiner, 2002; Bun and Carree, 
+2005). Finally, Hsiao et al. (2002) propose the use of Maximum Likelihood (ML) estimation 
+based on the unconditional likelihood function of the model, concluding that ML estimator is 
+asymptotically more efficient than the GMM. In this paper, Arellano and Bond (1991) 
+procedure will be applied. 
+Second, we are going to use a model that pays attention to the spatial dimension of the 
+data, by considering the cross-sectional dependence among the observations at each point in 
+time; this is the spatial autoregressive (SAR) model of Cliff and Ord (1973). The static SAR 
+specification includes the spatially lagged dependent variable as an additional regressor: 
+ 
+R
+rj 1 2 t 3 t 4 trt jt rt
+j 1
+2
+rt
+rw Dq2 Dq3 Dq4y y
+~N 0, η
+µ ηr β β β β
+η σ
+=
++ += + + + +∑ 
+
+   
+ (6) 
+where rjw  is the (r,j) element of the spatial weight matrix W. As is well known, this matrix is 
+pre-specified, nonnegative, of order RxR and describes the arrangement of the cross-sectional 
+units in the sample (Anselin, 1988, 2007). In the following, we refer this model as the Fixed 
+Effect SAR model (FE-SAR). 
+ Finally, to account simultaneously for the temporal and spatial dimensions of the data, 
+we consider the so-called dynamic Fixed Effect SAR model, which read as follows: 
+ 
+R
+rj 1 2 t 3 t 4 trt jt rt
+j 1
+2
+rt
+rrt 1yw Dq2 Dq3 Dq4y y
+~N 0, η
+µ ηtr β β β β
+η σ
+=
+−
++ += + + + + +∑ 
+
+   
+ (7) 
+The estimation of model (7) is a bit more difficult than the previous two, given the 
+strong endogeneity of the regressors. However, Yu et al. (2008) developed a bias corrected 
+maximum likelihood algorithm with good properties. 
+ Once models (5) to (7) have been estimated, we proceed to select the best specification 
+using standard specification tests. As indicated before, the model chosen will be used to 
+forecast the annual employment growth for the post-crisis period, which represents a proxy of 
+11 
+ 
+annual total employment growth in Spanish provinces in absence of the economic crisis. 
+Finally, we measure the effect of the crisis by comparing forecasted and actual values. 
+ 
+3. Data 
+The difference in resilience among Spanish regions is reinforced by the political 
+decentralization process taken place in Spain. In 1978 Spain embarked on a rapid transition 
+process from a highly centralized system in nearly every facet of public life (economy, 
+politics, culture etc.) to a quasi-federal structure with 17 Autonomous Communities (NUTS2 
+units) or 52 provinces (NUTS3). The completion of the so-called ‘Autonomic State’ was 
+achieved formally in 1983. Since then, the weight of the regions has increased systematically 
+at the expense of the central State. The decentralisation process included ‘own-source’ 
+revenues for sub-central governments and tax sharing agreements among the regions and the 
+central government. Currently, regional governments are responsible for 40%, approximately, 
+of total public expenditure and for more than 50% of government employment. This 
+autonomy facilitates the appearance of different policies among regions, which generate 
+important regional disparities in terms of sectoral specialization, employment, productivity, 
+etc.  
+We use data on total employment for each of the fifty5 Spanish provinces, obtained on 
+a quarterly basis for the period 2002:1 to 2015:4. The series are taken from the Encuesta de 
+Población Activa (EPA), published by the Instituto Nacional de Estadística (INE). As said 
+before, we will pay attention to employment distributions among the four main sectors 
+(agriculture, industry, construction and services) since resilience to the crisis may differ due 
+to the different sectoral employment structure. 
+Figure 2 presents the evolution and sectoral disaggregation of Spanish employment 
+along the analysed period. Figure 2a shows a strong decrease in employment starting in 
+2008:26 due to the global economic crisis; however, its impact is not equal for the four 
+sectors. Figure 2b shows that the economic crisis has provoked a strong decrease in the 
+                                                          
+5 We have excluded the Spanish autonomous cities of Ceuta and Melilla. 
+6 Such a breakpoint has also been confirmed through the calculation of successive F-Chow tests 
+applied to the proposed models for all possible time periods.    
+12 
+ 
+weight of construction in favour of the service sector, while agriculture and industrial shares 
+are less affected. 
+(Insert Figure 2) 
+To asset provinces specialization pattern, the location quotient for province r in sector 
+i in period t, has been calculated as appears in expression (3). These coefficients allows us to 
+declare a province r as specialized in sector i for that period t if the corresponding LQi,r (t) is 
+higher than 1. 
+ For the purpose of our study, we are interested in comparing the provincial 
+specialization patterns in two different periods (pre- and post- crisis) and for the four sectors. 
+A general overview of provincial specialization patterns appears in Figure 3, which depicts 
+the relative frequency of specialization by provinces and periods; darker colours mean that the 
+corresponding provinces appears as specialized in the respective sector at least half of the 
+quarters. 
+(Insert Figure 3) 
+The specialization patterns in the pre- and post- crisis periods are quite similar for all 
+the sectors except construction7. Furthermore, the maps show that, in general, the Northern 
+provinces are specialized in industry; the Southern and Western provinces are specialized in 
+agriculture; and finally, the coastal (such as Canary Islands, Málaga, Cádiz, Granada and 
+Valencia) and central regions (such as Madrid, Salamanca or Zaragoza) tend to be 
+specialized in the service sector. 
+ 
+4. Results 
+4.1 Adaptative resilience 
+ As explained before, we have solved two shift-share decompositions in order to analyze 
+employment growth before and after the shock. Hence, since the Spanish crisis has been 
+already determined in the period 2008:2, we decompose the employment growth between 
+industrial mix and regional share for the fifty Spanish provinces between 2002:1 and 2008:2, 
+                                                          
+7 In fact, the correlation coefficient among periods for each sector is the following: i) agriculture: 
+0.9644; ii) industry: 0.8984; iii) construction: 0.4307; and iv) services: 0.9561. 
+13 
+ 
+on one hand, and between 2008:2 and 2015:4, on the other. Results are shown in Figure 4, 
+and they are also mapped in Appendix (Figure A1).  
+(Insert Figures 4 and A1) 
+For our purposes, in relation to this notion of resilience, the most interesting part of the 
+two figures refers to the similarities and dissimilarities between them. We summarize the 
+changes according the following classification: (i) provinces that remain stable in categories I, 
+II or III among both periods; (ii) provinces that improve in both components, Industrial Mix 
+(IM) and Regional Share (RS); (iii) provinces that improve in only one component, IM or RS; 
+and finally (iv) the remaining cases will be classified as low-resilient provinces. The results 
+obtained are shown in Figure 5. 
+(Insert Figure 5) 
+In this Figure we identify a group of high resilient provinces among which Málaga 
+and Granada appear in the shift-share Category I in both sub periods. There is also a cluster 
+of provinces of group (i) following the Aragonese axe in the Ebro valley, in the North-East of 
+the peninsula, composed by Araba, Zaragoza, Huesca, Teruel, Cuenca and Lleida. The 
+provinces of group (ii), which have improved both shift-share components are concentrated in 
+the North, including cases in the Autonomous Community of Galicia (A Coruña, Lugo) and 
+Basque Country (Gipuzkoa), also Palencia. Provinces in group (iii) have improved at least 
+one the components, and they are very dispersed over the peninsula with cases in the North 
+(Asturias, Leon, Navarra), in the center (such as Salamanca, Badajoz or Madrid) and in the 
+South (Canary Islands or Almería). The remaining provinces should be classified as low-
+resilient, since they have worsened their situation after the crisis. Among them, we can find 
+Southern provinces such as Sevilla, Cádiz, Huelva or Cáceres together with most provinces 
+along the Mediterranean axe such as Girona, Barcelona, Tarragona, Castellón, Valencia, 
+Murcia and Baleares.  
+Figures 6 shows the decomposition of the Regional Share into the Net Regional Share 
+(NRS) and the distributional effect (DE) for the fifty Spanish provinces in pre-crisis (between 
+2002:1 and 2008:2) and post-crisis (2008:2 to 2015:4) periods. In addition, the sign of the 
+distributional effect for both sub-periods is mapped in the Figure A2 in the Appendix. 
+(Insert Figures 6 and A2) 
+As before, changes in the sign of the Distributional Effect (DE) between the two 
+periods are represented in Figure 7, which allows us to distinguish three groups of provinces: 
+14 
+ 
+(a) provinces that have improved their DE sign (in the sense that the sign changes from 
+negative to positive); (b) provinces that have not changed its sign between periods (stable DE 
+sign) and finally, (c) provinces that have worsened their DE sign (from positive to negative). 
+(Insert Figure 7) 
+In general, we can conclude that Spanish provinces have maintained or improved their 
+specialization profile in the post-crisis period. The worst situation corresponds to the Eastern 
+and Northern provinces such as Girona, Tarragona, León, Ourense, Cantabria, Gipuzkoa and 
+Navarra, who change the sign from positive to negative.  
+ 
+4.2 “Engineering”/“Ecological” resilience 
+Results for the estimation of the three proposed panel data models are gathered in 
+Table 2. Regarding the W matrix, among different alternatives (always based on measures of 
+geographical distance), we have chosen the four-nearest neighbor criteria because of its 
+simplicity, its balance between null and non-null elements and its adequacy in terms of 
+estimated models8. As can be seen in the Table, the inertia in employment growth and the 
+neighborhood effect are highly significant. Moreover, significance tests and measures of 
+goodness of fit indicate that the Dynamic Fixed Effect Spatial Autoregressive (Dynamic FE-
+SAR) is the best model for our case. Furthermore, annual employment growth does not 
+significantly differ among seasons. 
+(Insert Table 2) 
+To cope with our objective, and using this model, we forecast the annual employment 
+growth for the period 2008:3-2015:4, which represents a proxy of annual total employment 
+growth in Spanish provinces in absence of the economic crisis. The differences between the 
+respective forecast and the actual growth are positive for all regions and periods representing, 
+as said, the impact of the crisis on regional employment. Hence, as regards resilience, this 
+means that any Spanish province has been resilient to the crisis.  
+(Insert Figure 8) 
+                                                          
+8 Several studies have analyzed the consequences of sparser/denser matrix (see for instance Smith, 
+1999). Moreover, our results are consistent with other W matrices specified on the basis of the inverse 
+of the distance between centroids in the provinces or the inverse of the square of such distances. 
+Matrices based on the contiguity criteria have been discarded since we assume that (following Zeilstra 
+and Elhorst, 2014), interaction in employment markets is determined, mainly, by distance. 
+ 
+15 
+ 
+From now on, we will refer to these positive differences as “growth drop”. A summary 
+of them appears in Figure 8. Figure 8a depicts a map of the provincial average “growth 
+drops” after the crisis, which shows that the “growth drops” are not homogeneously 
+distributed among all the Spanish provinces. In fact, a Wald test of homogeneity among the 
+fifty provinces takes a value of 146.18, which is higher than the critical value of a 2 (49)χ at 
+the 5% level of significance. Differences among the provinces can be measured by comparing 
+each provincial average “growth drop” with the national average (equal to 5.259%). Results 
+appears in Figure 8b and show that the provinces with performance better than the average are 
+A Coruña, Lugo, Araba, Bizkaia, Salamanca, Palencia, Segovia, Soria and Canary Islands. 
+ 
+4.3 “Adaptative” versus “Engeniering”/“Ecological” resilience uses 
+As explained before, one of the purposes of this study is connected to the relation 
+between “Adaptative” and the other two notions of resilience. We envisage three procedures 
+to carry out this analysis. 
+First, the estimated “growth drop” for each province will be regressed on the 
+information on provincial specialization. Before doing the regression, we define six dummy 
+variables Dbccj and Dpccj, (j=1,2 and 3), with a value of 1 for all provinces that are classified 
+as category j according to Industry Mix and Regional Shift share for the pre-crisis period 
+(2002:1-2008:2) and post-crisis period (2008:2-2015:4), respectively (note that the reference 
+category is the fourth). Similarly, Dbcpde and Dpcpde are binary variables taking a value of 1 
+if a province presents a positive distributional effect (right specialization), and 0 otherwise, in 
+the pre- or post-crisis period. A trend variable is also included in the equation to account for a 
+global national trend along the post-crisis period. Three models, A, B and C, are estimated 
+with different combination of previous dummy variables: only post-crisis variables (Model 
+A), only before-crisis variables (Model B) and, finally, both types of variables (Model C). 
+Estimation results appear in Table 3. 
+(Insert Table 3) 
+As shown in this Table, provincial “growth drops” have significantly decreased across 
+time. Regarding sectoral composition effect, results indicate that provinces with advantages in 
+sectoral structure and localization (Category I) or those with advantage in location (Category 
+III) in the post-crisis period exhibit a significantly lower “growth drop”. The opposite takes 
+place in reference to the pre-crisis period: regions classified as strong, looking at their sectoral 
+16 
+ 
+composition, suffered the largest “growth drop”. These results can be interpreted in the sense 
+that the crisis changed dramatically the leading sectors of the Spanish economy. Finally, 
+Table 3 shows that the right/wrong specialization pattern does not have a significant effect in 
+“growth drops”. 
+The second block of results refers to the relationship between the “Adaptative” notion 
+(related to the Industrial Mix, IM and/or Regional Share, RS, together with the improvement 
+in specialization pattern) and the “drop growth” results (measured in terms of a dummy 
+variable that takes the value of one for provinces with a lower “drop growth” than the national 
+average). Results for the estimated probit model are shown in Table 4, together with some 
+diagnostics which enable us to validate our estimations. 
+(Insert Table 4) 
+As expected, results in Table 4 show that provinces that improve the two components, 
+IM and RS (according to the “Adaptative” perspective) are more likely to present a behavior 
+better than the national average. In fact, for this group, the probability of presenting a better 
+behavior is 0.536 higher than for the others. Furthermore, provinces that only improve one of 
+the two components also present a significantly higher probability of behaving better than the 
+others but, in this case, the marginal effect is lower (0.236). Finally, changes in the 
+specialization pattern does not have a significant influence on probability. 
+The third procedure considers the relation between “growth drops” and sector 
+specialization. To cope with this objective, we estimate a probit model to measure the 
+influence of sector specialization in the pre- and post- crisis periods on the probability of 
+presenting better behavior than the national average (or a significant lower “growth drop”). 
+Results appear in Table 5. 
+(Insert Table 5) 
+In first place, according to the significance tests in the Table, we can conclude that 
+“growth drops” are significantly related to pre-crisis provincial specialization. The probability 
+of having better performance than the national average increases for those provinces 
+specialized in the service sector in the pre-crisis period. As expected, the worse behavior is for 
+provinces specialized in the construction sector also in the pre-crisis period. Although not 
+significant, specialization in agriculture and industry is also positively related to the 
+probability of presenting better behavior than the average. These results are in line with 
+Cuadrado-Roura and Maroto (2016), who also concluded that the most resilient regions are 
+17 
+ 
+those previously specialized in some advanced market services together with dynamic and 
+productive industries.  
+ 
+5. Conclusions 
+There is wide consensus in the applied literature on the negative effects of the recent 
+global downturn. However, its impact differs substantially between countries, and even 
+between different regions in the same country; the same can be said in relation to the way the 
+territories overcame the crisis. Consequently, many economists have focused on identifying 
+the factors that minimise the impact of the crisis. This line of research is closely related with 
+the concept of resilience of a territory. Our objective is to evaluate the resilience of Spanish 
+provinces to the recent global downturn. 
+According to the literature, a region can be classified as resilient, in terms of the so-
+called “Adaptative” resilience, if it has the capacity to reconfigure, that is, to adapt its 
+structure (firms, industries, technologies and institutions) so as to maintain an acceptable 
+growth path in employment, output or wealth over time. In this paper, we have approached 
+this issue through a traditional shift-share analysis applied both, to the pre-and post-crisis 
+periods. Under this approach, a region is resilient if, after the economic crisis, it has 
+maintained, or even improved, its situation according to sectoral structure and locational 
+advantages. Results show that the most resilient Spanish provinces are Málaga, A Coruña, 
+Lugo, Gipuzkoa, Palencia, as well as some others in the Western part of Spain, in the North 
+or in the centre like, Madrid. 
+Other resilience notions, named as “Engineering” and “Ecological” resilience, refer to 
+differences in growth and level of total employment between both periods. According to an 
+“Engineering” approach, a province is high resilient if its actual employment growth (and 
+level of employment) is statistically the same as the forecasted one within a relatively short 
+period of time. According to the “Ecological” notion, a province is high resilient if its post-
+shock employment growth rate is higher or equal than the pre-shock growth rate within a 
+relatively short period of time. Furthermore, in the case of equality, the employment level 
+must also be higher than the predicted one in absent of the crisis. If some of the previous 
+requirements are not accomplished, the region will be classified as low resilient. To evaluate 
+this issue, in this paper we have used forecasts from a spatial panel data model to evaluate 
+provincial resilience to the crisis. Results have shown that all Spanish provinces have been 
+18 
+ 
+low resilient to the crisis. However, the provinces that exhibited a better behavior than the 
+national average are A Coruña, Lugo, Araba, Bizkaia, Salamanca, Palencia, Segovia, Soria 
+and Canary Islands. 
+Next, the paper has analysed the relationship between the different resilience notions, 
+for the case of Spain. We have found that provinces with sectoral structure and locational 
+advantages (appear in the shift-share Category I) or those with advantage in location 
+(Category III) in the post-crisis period, have a significantly lower “growth drop” (according 
+to the “Engineering” and “Ecological” resilience measures). The opposite takes place in 
+reference to the pre-crisis period, since the largest “growth drop” has been suffered by regions 
+that appeared to be in a stronger situation in the pre-crisis period. Moreover, those provinces 
+improving the two shift-share components, IM and RS (according to the “Adaptative” 
+perspective), are more likely to present a behavior better than the national average. Moreover, 
+the probability of presenting a better behavior (lower “growth drop” than the national 
+average) increases for those regions specialized in the service sector before the crisis. As 
+expected, the worse behavior corresponds to those regions specialized in the construction 
+sector. 
+To conclude, let us remark from our results that sectoral and locational advantages are 
+very important to mitigate the negative effects of a crisis. Furthermore, also in the Spanish 
+specific case, those regions specialized in the service sector (also in industry, to a lesser 
+extend) suffered the crisis in a smoother way. Consequently, in a decentralized economy, such 
+as the current Spanish case, it is important to develop a strong and persistent policy 
+supporting the most dynamic sectors of the economy. Only in this case, provinces will suffer 
+a global economic crisis, like that that hit the World economy in 2008, in a smoothest way. Of 
+course, this will not prevent from the crisis, but surely will reduce its impact on the territory. 
+Finally, let us conclude that although we have found certain relationship between the 
+different resilience notions, the conclusions depend to a great extent on the techniques for 
+measuring them. The selection of the most adequate technique is a matter of choice, but some 
+cautiousness must be taken when comparing different approaches. 
+ 
+ 
+ 
+ 
+19 
+ 
+References 
+Anderson TW, Hsiao C (1981) Estimation of dynamic models with error components. Journal of the 
+American Statistical Association 76: 598–606 
+Angulo A, Trívez FJ (2010) The impact of spatial elements on the forecasting of Spanish labour series. 
+Journal of Geographical Systems 12: 155–174 
+Anselin L (1988) Spatial econometrics: methods and models. Kluwer, Dordrecht 
+Anselin L (2007) Spatial Econometrics. In: Mills TC, Patterson K (eds) Handbook of 
+econometrics, Vol. 1. Palgrave, Basingstoke, pp 901-969 
+Arellano M, Bond S (1991) Some tests of specification for panel data: monte carlo evidence and 
+application to employment equations. Review of Economic Studies 58: 277–297  
+Arellano M, Bover O (1995) Another look at the instrumental-variable estimation of error-components 
+models. Journal of Econometrics 68, 29–51 
+Augustine N, Wolman H, Wial H, McMillen M (2013) Regional Economic Capacity, Economic 
+Shocks and Economic Resilience, MacArthur Foundation Network on Building Resilient 
+Regions, Working Paper May. 
+Baltagi BH (2005) Econometric Analysis of Panel Data (3rd Edition). Wiley, Chichester 
+Baltagi BH, Li D (2004) Prediction in the panel data model with spatial correlation. In: Anselin L, 
+Florax RJGM, Rey S (Eds) Advanced in spatial econometrics: methodology, tools and 
+application. Springer-Verlag, Heidelberg (Germany): 283–295 
+Baltagi BH, Li D (2006) Prediction in the panel data model with spatial correlation: the case of liquor. 
+Spatial Economic Analysis 1(2): 175–185 
+Baltagi BH, Bresson G, Pirotte A (2012) Forecasting with spatial panel data. Computational 
+Statistics and Data Analysis 56: 3381–3397 
+Blundell R, Bond S (1998) Initial conditions and moment restrictions in dynamic panel data models. 
+Journal of Econometrics 87: 115–143 
+Bun M, Carree M (2005) Bias-corrected estimation in dynamic panel data models. Journal of Business 
+& Economic Statistics 3 (2): 200-210(11) 
+Cliff AD, Ord JK (1973) Spatial Autocorrelation. Pion Ltd., London. 
+Cuadrado-Roura JR, Maroto A (2016) Unbalanced regional resilience to the economic crisis in Spain: 
+a tale of specialisation and productivity. Cambridge Journal of Regions, Economy and Society 
+9(1): 153-178 
+Doran J, Fingelton B (2013) US Metropolitan Area Resilience: Insights from Dynamic Spatial Panel 
+Estimation, Paper presented at the Annual Conference of the Regional Science Association 
+International (British and Irish Section),University of Cambridge, August 22 
+Esteban J (1972) A reinterpretation of shift-share analysis. Regional and Urban Economics 2: 249–
+261. 
+Evans R, Karecha J (2013) Staying on Top: Why is Munich so Resilient and Successful? European 
+Planning Studies, DOI:10.1080/09654313.2013.778958 
+Fingleton B, Garretsen, H, Martin R (2012) Recessionary Shocks and Regional Employment, Journal 
+of Regional Science 52 (1): 109–133 
+Fingleton B, Palombi S (2013) Spatial panel data estimation, counterfactual predictions and local 
+economic resilience among British towns in the Victorian era, Regional Science and Urban 
+Economics 43: 649–660 
+20 
+ 
+Foster KA (2007) A case study approach to understanding regional resilience. Working Paper 2007–
+08, Institute of Urban and Regional Development, Berkeley 
+Hahn J, Kuersteiner G (2002) Asymptotically unbiased inference for a dynamic panel model with 
+fixed effects when both n and T are Large. Econometrica 70(4): 1639–1657 
+Hill E, Wial H, Wolman H (2008) Exploring regional economic resilience. Working paper 2008 (4). 
+Institute Urban and Regional Development, UC Berkeley 
+Holling CS (1973) Resilience and stability of ecological systems. Annual Review of Ecology and 
+Systematics 4: 1–23 
+Holling CS (1996) Engineering resilience versus ecological resilience. In P. Schulze (ed.).Engineering 
+within Ecological Constraints, pp. 31–44. Washington, DC: National Academy Press 
+Holling CS (2001) Understanding the complexity of economic, ecological and social systems. 
+Ecosystems 4: 390–405 
+Hsiao C (2003) Analysis of panel data (2nd Edition). Cambridge University Press, Cambridge 
+Hsiao C, Pesaran MH, Tahmiscioglu AK (2002) Maximum Likelihood Estimation of Fixed 
+Effects Dynamic Panel Data Models Covering Short Time Periods. Journal of 
+Econometrics 109: 107–150 
+Instituto Nacional de Estadística, INE (several years). Encuesta de población activa. Madrid 
+Kholodilin KA, Siliverstovs B, Kooths S (2008) A dynamic panel data approach to the 
+forecasting of the GDP of German Länder. Spatial Economic Analysis 3(2): 195–207 
+Kiviet J (1995) On bias, inconsistency, and efficiency of various estimators in dynamic panel data 
+models. Journal of Econometrics 68: 81–126 
+Longhi S, Nijkamp P (2007) Forecasting regional labor market developments under spatial 
+heterogeneity and spatial correlation. International Regional Science Review 30: 100–119 
+Martin R (2012) Regional economic resilience, hysteresis and recessionary shocks. Journal of 
+Economic Geography 12: 1–32 
+Martin RL, Sunley P (2015) On the notion of regional economic resilience: conceptualization and 
+explanation. Journal of Economic Geography 15: 1–42 
+McGlade J, Murray R, Baldwin J, Ridgway K, Winder B (2006) Industrial resilience and decline: a co-
+evolutionary framework. In E. Garnsey, J. McGlade (eds) Complexity and Co-Evolution: 
+Continuity and Change in Socio-economic Systems, pp. 147–176. Cheltenham: Edward Elgar. 
+Modica M, Reggiani A (2015) Spatial economic resilience: overview and perspectives. Networks and 
+Spatial Economics 15: 211-233. 
+Nickell SJ (1981) Biases in dynamic models with fixed effects. Econometrica 49:1417–1426 
+Romer R (2001) Advanced Macroeconomics. New York: McGraw Hill 
+Sevestre P, Trognon A (1996) Dynamic linear models. In: Mátyás L, Sevestre P The econometrics of 
+panel data, 2nd revised edition. Kluwer, Dordrecht (The Netherlands) 
+Smith T (2009) Estimation Bias in Spatial Models with Strongly Connected Weight Matrices. 
+Geographical Analysis 41: 307-332. 
+Walker B, Gunderson L, Kinzig A, Folke C, Carpenter S, Schultz L (2006) A handful of heuristics and 
+some propositions for understanding resilience in socio-ecological systems. Ecology and Society, 
+11. Available online at: http://www.ecologyand society.org/vol11/iss1/art13/ [Accessed 1 
+December 2010] 
+Zeilstra J, Elhorst P (2014) Integrated Analysis of Regional and National Unemployment Differentials 
+in the European Union. Regional Studies 48: 1739-1755 
+21 
+ 
+Yu J, de Jong R, and Lee LF (2008) Quasi-maximum likelihood estimators for spatial dynamic panel 
+data with fixed effects when both N and T are large. Journal of Econometrics 146:118-134 
+22 
+ 
+Table 1. Region classification according to overall Industrial and Regional Share 
+Category Industrial Mix Regional Share 
+I + + 
+II + - 
+III - + 
+IV - - 
+ 
+ 
+Table 2. Results obtained for the panel data model specifications (a), (b), (c) 
+ Dynamic FE 
+Static 
+FE- SAR 
+Dynamic 
+FE- SAR 
+Constant 1.316*** (0.046)   
+t 
+0.622*** 
+(0.039)  
+0.553*** 
+(0.027) 
+Dq2 -0.169*** (0.039) 
+-0.198 
+(0.253) 
+-0.129 
+(0.228) 
+Dq3 0.297*** (0.041) 
+0.301 
+(0.266) 
+0.232 
+(0.238) 
+Dq4 0.066** (0.066) 
+0.187 
+(0.266) 
+0.066 
+(0.238) 
+r  0.266*** (0.038) 
+0.212*** 
+(0.036) 
+R2 0.374 0.138 0.398 
+Log Ver.  -2814.25 -2522.68 
+Number of 
+observations 1000 1100 1050 
+Tests for serial autocorrelation (b) 
+H0: No 
+autocorrelation of 
+order 1 
+ 
+-4.218*** 0.542 0.005 
+H0: No 
+autocorrelation of 
+order 2 
+0.318 0.280 0.064 
+Sargan test of overidentifying restrictions 
+H0: overidentifying 
+restrictions are valid 47.23   
+(a) Robust standard deviation in parenthesis. 
+(b) * means significant al 10%; ** means significant al 5%; *** means significant al 1%.  
+(c) Arellano-Bond tests in the case of dynamic FE model and Breusch-Godfrey test in the cases of FE-SAR 
+models. 
+ 
+23 
+ 
+Table 3. Relationship between “growth drop” and shift-share analyses(a), (b) 
+ Model A Model B Model C 
+Constant 47.96 *** 
+(2.56) 
+46.23 *** 
+(2.577) 
+47.09 *** 
+(2.57) 
+Trend -0.201 *** 
+(0.012) 
+-0.201 *** 
+(0.012) 
+-0.201 *** 
+(0.012) 
+Dbcc1  1.406 *** 
+(0.381) 
+1.383 *** 
+(0.381) 
+Dbcc2  -0.577 * 
+(0.326) 
+-0.111 
+(0.356) 
+Dbcc3  1.511 *** 
+(0.258) 
+1.086 *** 
+(0.294) 
+Dbcpde  0.429** 
+(0.2184) 
+0.156 
+(0.227) 
+Dpcc1 -2.394 *** 
+(0.285) 
+ -1.691 *** 
+(0.379) 
+Dpcc2 -0.483  
+(0.321) 
+ -0.385 
+(0.362) 
+Dpcc3 -0.794 *** 
+(0.266) 
+ -0.824 *** 
+(0.276) 
+Dpcpde 0.022 
+(0.215) 
+ -0.091 
+(0.224) 
+(a) Robust standard deviation in parenthesis. 
+(b) * means significant al 10%; ** means significant al 5%; *** means significant al 1%.  
+ 
+ 
+24 
+ 
+Table 4. “Ecological” versus “Adaptative” resilience. Relationship between changes 
+(between pre- and post- crisis period) in regional classification and Distributional Effect 
+(DE) sign and the fact of presenting better behavior than the national average (a), (b) 
+ ESTIMATED 
+PARAMETERS 
+ 
+MARGINAL EFFECT 
+(at mean) 
+From changes between regional classification among pre- and post- crisis period (c) 
+Stable in Cat. I, II or III 0.583 
+(0.674) 
+0.122 
+(0.140) 
+Improving in both, IM and RS 2.569*** 
+(0.717) 
+0.536*** 
+(0.182) 
+Improving in one, IM or RS 1.131* 
+(0.586) 
+0.236* 
+(0.123) 
+From changes in DE sign among pre- and post- crisis period(d) 
+Stable in sign 0.468 
+(0.819) 
+0.098 
+(0.164) 
+Improving in DE sign 0.904 
+(0.869) 
+0.189 
+(0.176) 
+Constant -2.278*** 
+(0.792) 
+ 
+SPECIFICATION TESTS 
+H0: Right specification   
+      LM test 0.37  
+      Hosmer-Lemeshow (4) 1.45  
+      Hosmer-Lemeshow (10) 3.04  
+H0: No differences among different 
+regional categories 
+13.95***  
+H0: No differences among difference 
+distributional sign 
+1.30  
+(a) Robust standard deviation in parenthesis. 
+(b) * means significant al 10%; ** means significant al 5%; *** means significant al 1%.  
+(c) The reference category is the non-resilience region group. 
+(d) The reference category is the region group that are worsening in DE sign (from positive in 2002:1-
+2008:2 to negative in 2008:2-2015:4). 
+ 
+25 
+ 
+Table 5. “Ecological” versus “Adaptative” resilience. Relationship between regional 
+specialization (before and post crisis) and the fact of presenting better behavior than the 
+national average(a), (b) 
+ For those regions 
+specialized before crisis in 
+For those regions 
+specialized after crisis in 
+ Parameters  
+Marginal 
+Effects 
+Parameters 
+ 
+Marginal 
+Effects 
+Agriculture 0.678 
+(1.880) 
+0.141 
+(0.398) 
+-0.318 
+(1.806) 
+-0.066 
+(0.378) 
+Industry 0.534 
+(1.154) 
+0.111 
+(0.237) 
+-1.434 
+(1.031) 
+-0.298 
+(0.212) 
+Construction -1.506** 
+(0.761) 
+-0.314** 
+(0.161) 
+1.088 
+(0.879) 
+0.226 
+(0.178) 
+Services 3.037** 
+(1.247) 
+0.631** 
+(0.288) 
+-2.289 
+(1.456) 
+-0.476 
+(0.315) 
+Hypothesis tests:     
+H0: Right specification     
+      LM test 0.21    
+      Hosmer-Lemeshow (4) 1.30    
+      Hosmer-Lemeshow (10) 7.49    
+H0: No differences among 
+specializations before crisis 
+13.84***    
+H0: No differences among 
+specializations after crisis 
+  4.74  
+(a) Robust standard deviation in parenthesis. 
+(b) * means significant al 10%; ** means significant al 5%; *** means significant al 1%.  
+26 
+ 
+Figure 1. “Engineering” versus “Ecological” resilience 
+“Engineering” Resilience or regional economic “rebound” 
+Figure 1a 
+ 
+Low “Ecological” resilience or negative regional economic “hysteresis” 
+Figure 1b Figure 1c 
+  
+High “Ecological” resilience or positive regional economic “hysteresis” 
+Figure 1d Figure 1e 
+  
+Source: Martin R (2012).
+27 
+ 
+Figure 2. Evolution of national employment 
+ 
+Figure 2a. Total and sectoral Spanish workers (miles of workers) 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2b: Sectoral share over total Spanish employment 
+ 
+ 
+ 
+28 
+ 
+Figure 3. Frequencies of specialization pattern by sectors and periods 
+ 
+Pre-crisis period: 2002:1-2008:2  
+ 
+Post-crisis period: 2008:3-2015:4 
+ 
+ 
+Agriculture  
+  
+ 
+Industry 
+  
+ 
+Construction 
+ 
+ 
+ 
+ 
+ 
+Services 
+ 
+ 
+29 
+ 
+Figure 4. Overall industrial mix and regional share and province classification for 
+employment growth  
+Pre-crisis period: 2002:1 and 2008:2 Post crisis period: 2008:2 and 2015:4 
+  
+ 
+Figure 5. Changes between category classification between pre- and post- crisis period in 
+relation to province classification attending overall Industrial Mix (IM) and Regional 
+Share (RS)  
+ 
+30 
+ 
+Figure 6. Net Regional Share (NRS) and Distributional Effect (DE) for employment 
+growth. 
+Pre-crisis period: 2002:1 and 2008:2 Post crisis period: 2008:2 and 2015:4 
+  
+ 
+Figure 7. Changes between Distributional Effect (DE) sign between pre- and post- crisis 
+period. 
+ 
+ 
+ 
+ 
+31 
+ 
+Figure 8. Provincial versus national “growth drops” after the crisis. 
+ 
+Figure 8a. Provincial average “Growth drops” after the crisis 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8b: Provincial versus national average “Growth drops” after the crisis 
+ 
+ 
+ 
+ 
+ 
+32 
+ 
+APPENDIX 
+ 
+Figure 1A. Mapping results shown in Figure 4 (Overall industrial mix and regional 
+share and province classification for employment growth) 
+ 
+Pre-crisis period: 2002:1 and 2008:2 Post crisis period: 2008:2 and 2015:4 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2A. Mapping of Distributional Effects (DE) show in Figure 6 
+ 
+Pre-crisis period: 2002:1 and 2008:2 
+ 
+Post crisis period: 2008:2 and 2015:4 
+ 
+ 
+ 
+ 
+ 

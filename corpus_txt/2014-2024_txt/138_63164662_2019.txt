@@ -1,0 +1,1009 @@
+Sovereign Resilience: Reviving Private-Sector Economic Institutions in Indian Country
+
+BYU Law Review
+Volume 2018 | Issue 6 Article 7
+Spring 5-1-2019
+Sovereign Resilience: Reviving Private-Sector
+Economic Institutions in Indian Country
+Robert J. Miller
+Follow this and additional works at: https://digitalcommons.law.byu.edu/lawreview
+Part of the Law Commons
+This Article is brought to you for free and open access by the Brigham Young University Law Review at BYU Law Digital Commons. It has been
+accepted for inclusion in BYU Law Review by an authorized editor of BYU Law Digital Commons. For more information, please contact
+hunterlawlibrary@byu.edu.
+Recommended Citation
+Robert J. Miller, Sovereign Resilience: Reviving Private-Sector Economic Institutions in Indian Country, 2018 BYU L. Rev. 1331 (2019).
+Available at: https://digitalcommons.law.byu.edu/lawreview/vol2018/iss6/7
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+ 
+1331 
+Sovereign Resilience: Reviving Private-Sector 
+Economic Institutions in Indian Country 
+Robert J. Miller* 
+CONTENTS 
+I. INTRODUCTION ........................................................................................ 1332 
+II. CURRENT ECONOMIC CONDITIONS IN INDIAN COUNTRY ........................... 1335 
+III. TRADITIONAL AMERICAN INDIAN PRIVATE-SECTOR INSTITUTIONS ........... 1339 
+A. Private Rights in Real Property ......................................................... 1341 
+B. Personal Property ............................................................................... 1347 
+C. Trade ................................................................................................... 1349 
+D. Native Business Skills ........................................................................ 1353 
+E. Indian Currencies................................................................................ 1354 
+F. Accumulating Wealth ......................................................................... 1356 
+IV. REVIVING INDIGENOUS INSTITUTIONS FOR PRIVATE-SECTOR ECONOMIC 
+DEVELOPMENT IN INDIAN COUNTRY ................................................. 1358 
+A. Strategies for Private-Sector Development in Indian Country ........ 1359 
+1. Financial literacy ......................................................................... 1359 
+2. Develop human capital ............................................................... 1360 
+3. Create entrepreneurs................................................................... 1362 
+4. Funding private businesses ........................................................ 1364 
+5. Tribal and federal Buy Indian acts ............................................. 1366 
+6. Legal infrastructure ..................................................................... 1369 
+7. Physical infrastructure ................................................................ 1373 
+8. Attracting human and financial capital investments ................ 1376 
+9. Nonprofit and nongovernmental social 
+welfare organizations ............................................................... 1379 
+B. Lessons from Indian Nations’ Economic Development .................... 1380 
+C. Lessons from Eastern Europe and China .......................................... 1384 
+ 
+ *  Professor, Sandra Day O’Connor College of Law, Arizona State University; Faculty 
+Director, Rosette LLP American Indian Economic Development Program; Navajo Nation 
+Council of Economic Advisors; Interim Chief Justice, Pascua Yaqui Tribe Court of Appeals; 
+Justice, Grand Ronde Tribe Court of Appeals and Northwest Inter-Tribal Court System; 
+Citizen, Eastern Shawnee Tribe. 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+BRIGHAM YOUNG UNIVERSITY LAW REVIEW 2018 
+1332 
+V. THE PRIVATE PROPERTY RIGHTS PANACEA? ............................................. 1386 
+A. Private Property Rights Approach .................................................... 1387 
+B. Allotment and Assimilation Era ......................................................... 1391 
+C. Communally Owned Lands in Scotland ........................................... 1397 
+VI. CONCLUSION ......................................................................................... 1401 
+ 
+I. INTRODUCTION 
+American Indians and Indian country1 are desperately poor. 
+Across the United States, more American Indian families per capita 
+live below the poverty line than any other racial or ethnic group.2 
+Economic conditions are even worse on the more than 300 Indian 
+reservations where unemployment reaches 80–90%, inadequate 
+housing and the absence of housing are at the highest rates 
+anywhere in the United States, and health conditions and life 
+expectancy rates are the worst in America.3 In fact, many commen-
+tators, including President Bill Clinton in 1999, have compared 
+reservations to “third-world countries.”4 
+In contrast, before contact with Europeans, most Indian nations 
+and peoples were fairly prosperous and healthy, and had thriving 
+societies that existed for hundreds and thousands of years with well-
+established governmental and economic systems.5 Most Indian 
+peoples supported themselves primarily through agriculture and 
+lived in permanent or semipermanent towns and settlements.6 
+Other tribal peoples were somewhat nomadic, engaging in buffalo 
+hunting or fishing for example, but even these nations and peoples 
+ 
+ 1. “Indian country” includes all lands within the boundaries of a reservation, no 
+matter who owns it, and all other lands held by tribes and individual Indians if the United 
+States has an ownership interest in the land. 18 U.S.C. § 1151 (2012). 
+ 2. See infra notes 12–16 and accompanying text. 
+ 3. See infra notes 12–25 and accompanying text. 
+ 4. Brenda Norrell, Clinton’s New Market Focus on Indian Country, INDIAN COUNTRY 
+TODAY, May 3, 2000, at A1; Michelle M. Taggart, Challenging the Traditional View of Tribal 
+Economics, AM. INDIAN REP., Oct. 1999, at 17; accord John M. Glionna, Rural Tribe Gives New 
+Meaning to ‘Wireless,’ OREGONIAN, Aug. 12, 2001, at A25, A29 (citing Yurok tribal chair-
+woman that her people live in third-world conditions). 
+ 5. E.g., ROBERT J. MILLER, RESERVATION “CAPITALISM”: ECONOMIC DEVELOPMENT IN 
+INDIAN COUNTRY 9–23 (2012); Richard H. Steckel & Joseph M. Prince, Nutritional Success on 
+the Great Plains: Nineteenth-Century Equestrian Nomads, 33 J. INTERDISC. HIST. 353, 362–
+67 (2003). 
+ 6. See infra notes 28–37 and accompanying text. 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19  2:25 PM 
+1331 Reviving Private-Sector Economic Institutions 
+ 1333 
+lived what are called “seasonal rounds” and traveled annually to 
+identical locations to live, harvest fish runs and animal migra-
+tions, and take ripening roots, nuts, and berries.7 These peoples 
+were not nomads in the sense of being lost and wandering aim-
+lessly about. All Indians pursued economic activities and created 
+the foods and resources they needed to survive in a systematic and 
+intelligent manner. 
+Indian nations and societies also developed governmental 
+institutions that controlled their economic activities and rights. 
+Tribal peoples had well-established legal rules that recognized 
+private property rights in, for example, the ownership of homes, 
+tools, art, crops, horses, captured animals, fish, and land.8 
+Individual American Indians also conducted extensive trade across 
+the continent and at regularly scheduled trade fairs that were held 
+annually at various locations and tribal towns. For example, in 
+1804–06, Lewis and Clark were impressed by the Indian trade they 
+observed during their expedition—especially the trade and objects 
+for sale at the Mandan and Hidatsa villages in modern-day North 
+Dakota and The Dalles in modern-day Oregon.9 William Clark 
+recorded in 1806 that The Dalles “is the Great Mart of all this 
+Country.”10 This trade was carried on by individual Indians 
+through their own private initiative, manufacturing, and economic 
+efforts to earn “profits” to support themselves and their families by 
+producing, selling, and enjoying necessary and luxury products. 
+In light of the current poverty and negative economic and social 
+conditions prevalent on most reservations, tribal governments are 
+heavily focused on economic development today. But one tribal 
+institution that I fear has been overlooked by almost all Indian 
+nations, the federal government, and reservation communities is 
+the historic institution of the tribal/reservation private-sector 
+economy. It is long overdue for Indian peoples and governments to 
+revive their traditional institutions that promoted and protected 
+ 
+ 7. See infra notes 35–37 and accompanying text. 
+ 8. See infra notes 33–79, 115–125 and accompanying text. 
+ 9. 12 SMITHSONIAN INST., HANDBOOK OF NORTH AMERICAN INDIANS 395, 403 
+(Deward E. Walker, Jr. ed., 1998) (stating that Lewis and Clark observed extensive trade at 
+The Dalles in dentalia, salmon, horses, roots, dried fish, buffalo robes, plains clothing, and 
+other products). 
+ 10. William Clark, Journal Entry (Apr. 16, 1806), in 7 THE JOURNALS OF THE LEWIS & 
+CLARK EXPEDITION 129 (Gary E. Moulton ed., 1991). 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+BRIGHAM YOUNG UNIVERSITY LAW REVIEW 2018 
+1334 
+private economic activities, and to look to their historical roots and 
+traditions of individual Indian and Indian family economic devel-
+opment efforts. Thus, this Article is not arguing for some new or 
+radical idea to address the negative economic conditions in Indian 
+country. Instead, this Article is calling for Indian nations and 
+Native Americans to revive their historical and traditional customs, 
+laws, values, behaviors, structures, and mechanisms for engaging 
+in economic activities and to restore their institutions and legal 
+regimes that promoted, supported, and protected Indian indivi-
+dual and family economic activities.  
+This endeavor will not be easy because Indian country is pro-
+ceeding from such a low economic baseline and such dire poverty 
+and deficits. Creating private-sector economies on reservations will 
+take the intelligent and coordinated efforts of tribal governments, 
+Indian individuals, reservation communities, the United States, 
+and nonprofit organizations. Indian nations and Indians will have 
+to revive their private business skills, their legal regimes for 
+promoting and protecting private economic activities, and their 
+historic support for reservation-based entrepreneurs and busi-
+nesses. The upside to such efforts is limitless, and success in this 
+field will create untold benefits for reservation communities and 
+economies, individual Indians, families, and their nations.11 
+Creating functioning reservation-based, private-sector economies 
+will go a long way toward diversifying economic activities on 
+reservations and will benefit everyone as the “multiplier effect” of 
+keeping money circulating and re-circulating in Indian country 
+creates more businesses, more jobs, more income, and better condi-
+tions for everyone. There can be no higher goal than to improve the 
+living conditions on reservations, guarantee the future livability of 
+reservations as Indian homelands, and, ultimately, ensure the 
+continued existence of Indian nations and peoples. These improve-
+ments will only occur if tribal governments and Indian peoples can 
+revive their traditional institutions that support private-sector 
+ 
+ 11. See, e.g., Michael E. Porter & Mark R. Kramer, Strategy and Society: The Link Between 
+Competitive Advantage and Corporate Social Responsibility, 84 HARV. BUS. REV. 76, 84 (2006) 
+(stating that firms create “shared value”—value for both business and society); JANE NELSON, 
+INT’L BUS. LEADERS FORUM, ECONOMIC MULTIPLIERS: REVISITING THE CORE RESPONSIBILITY 
+AND CONTRIBUTION OF BUSINESS TO DEVELOPMENT 3 (Policy Paper No. 4, 2003) (arguing that 
+private business activities create numerous “multiplier effects” that provide beneficial social 
+and economic development for the communities and areas where they operate). 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19  2:25 PM 
+1331 Reviving Private-Sector Economic Institutions 
+ 1335 
+economic activities. Needless to say, without some minimal level of 
+economic activities, jobs, and money in Indian country, reserva-
+tions will not be sustainable homelands for Indian nations, Indian 
+peoples, and Indian cultures into the future. 
+Part II briefly lays out the current depressed state of economic 
+conditions in Indian country and demonstrates the crying need for 
+tribal governments and individual Indians to take dramatic steps 
+to alleviate them. Part III then details the historical and traditional 
+institutions of Indian private economic activities that supported 
+native nations and Indian peoples for hundreds and thousands of 
+years. Part IV examines how Indian nations, individuals, and 
+organizations can revive their institutions to promote private-
+sector, reservation-based economies. Part V takes on the currently 
+popular private property rights cure for economic conditions in 
+Indian country. Lastly, Part VI concludes with my opinions on the 
+absolute imperative that tribal nations and American Indians im-
+prove their economic conditions in any way possible. Redeveloping 
+and reviving traditional private-sector economies and the tribal 
+institutions that promoted, supported, and sustained Indians for 
+centuries are efficient and effective methods to pursue the laudable 
+goal of ensuring reservations as Indian and Indian-nation home-
+lands for the centuries and generations yet to come. 
+II. CURRENT ECONOMIC CONDITIONS IN INDIAN COUNTRY 
+The desperate economic conditions that currently exist in 
+Indian country highlight the crucial need for Indian nations and 
+Indian peoples to correct these issues by building institutions that 
+create and support functioning reservation economies. As already 
+stated, if Indian families cannot attain some modest income levels, 
+and produce adequate housing and education services on 
+reservations, then Indian country will no longer be a sustainable 
+place for Indian governments, cultures, and peoples to survive 
+and thrive. 
+The employment rates across Indian country are uniformly bad. 
+A 2013 American Indian labor report from the U.S. Department of 
+the Interior showed only a 49–50% full- or part-time employment 
+rate for American Indians sixteen or older who lived on or near 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+BRIGHAM YOUNG UNIVERSITY LAW REVIEW 2018 
+1336 
+reservations.12 Thus, fully half of Indian peoples living on or near 
+reservations were unemployed. In contrast, the United States 
+unemployment rate was below 4% as of June 2018.13 In addition, 
+many other studies and reservations report unemployment rates as 
+high as 90% on some reservations.14 It is difficult to imagine how a 
+society and community can exist with such horrific unemployment. 
+Is it any wonder that many reservations suffer from the social 
+pathologies imposed by poverty? American Indians who live in 
+urban areas also suffer from a lack of jobs, income, and family 
+wealth, and furthermore experience home ownership at rates that 
+are far below United States averages.15 
+With these statistics in mind, it is no surprise that the percent-
+age of American Indian families living below the poverty line is 
+higher than any other ethnic or racial group in the United States.16 
+ 
+ 12. U.S. DEP’T OF THE INTERIOR, OFFICE OF THE ASSISTANT SEC’Y–INDIAN AFFAIRS, 2013 
+AMERICAN INDIAN POPULATION AND LABOR FORCE REPORT 10 (2014), https://www.bia 
+.gov/sites/bia.gov/files/assets/public/pdf/idc1-024782.pdf. Earlier federal reports found 
+similar rates of employment on reservations. U.S. DEP’T OF THE INTERIOR, BUREAU OF INDIAN 
+AFFAIRS, 2003 AMERICAN INDIAN POPULATION AND LABOR FORCE REPORT, at ii (2003), 
+https://www.bia.gov/sites/bia.gov/files/assets/public/pdf/idc-001777.pdf; U.S. DEP’T 
+OF THE TREASURY CMTY. DEV. FIN. INSTS. FUND, THE REPORT OF THE NATIVE AMERICAN 
+LENDING STUDY 13–14 (2001), https://www.cdfifund.gov/Documents/2001_nacta_lending 
+_study.pdf; see also Shelly Hagan, Where U.S. Unemployment Is Still Sky-High: Indian Reserva-
+tions, BLOOMBERG (Apr. 5, 2018, 10:30 AM), https://www.bloomberg.com/news/articles 
+/2018-04-05/where-u-s-unemployment-is-still-sky-high-indian-reservations (in twenty-
+seven counties where Indians or Alaska Natives are the majority, two-thirds of the counties 
+had unemployment rates in 2017 above the national average, and nine counties had 10% 
+unemployment or higher; the national jobless rate was 4.1% in February 2018). 
+ 13. Unemployment Rate Rose to 4.0 Percent in June 2018, U.S. DEP’T OF LABOR, BUREAU 
+OF LABOR STATISTICS (July 11, 2018), https://www.bls.gov/opub/ted/2018/unemployment 
+-rate-rose-to-4-point-0-percent-in-june-2018.htm. 
+ 14. Glionna, supra note 4, at A29 (stating that unemployment on the Yurok reservation 
+is 80%); Richard Read, Economic Forecast: Gloomy, OREGONIAN, June 21, 2011, at A1; Richard 
+Read, With 63% Unemployment, Oregon Tribe Clings to Hope, OREGONIAN, Dec. 5, 2009, at A1; 
+Naomi Schaefer Riley, One Way to Help Native Americans: Property Rights, ATLANTIC (July 30, 
+2016), https://www.theatlantic.com/politics/archive/2016/07/native-americans-property 
+-rights/492941 (stating that unemployment is 78% on the Northern Cheyenne Reservation 
+and the BIA reports 46.5% unemployment on the Crow Reservation); Kenneth E. Robbins, 
+Reflecting on the Numbers: Media Hype Breeds Misperception, AM. INDIAN REP., Sept. 2000, at 22 
+(stating that the average reservation unemployment nationwide was 50.42% compared to 
+6.3% in the United States). 
+ 15. Mark Fogarty, Study: More Data Needed on Urban Indian Issues, INDIAN COUNTRY 
+TODAY, Apr. 14, 2008, at 17. 
+ 16. SUZANNE MACARTNEY ET. AL., U.S. DEP’T OF COMMERCE & U.S. CENSUS BUREAU, 
+ACSBR/11-17, POVERTY RATES FOR SELECTED DETAILED RACE AND HISPANIC GROUPS BY 
+STATE AND PLACE: 2007–2011, at  2 (2013); MIRIAM JORGENSEN, NATIVE NATIONS INST., ACCESS 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19  2:25 PM 
+1331 Reviving Private-Sector Economic Institutions 
+ 1337 
+As a group, American Indians also have the lowest educational 
+attainment level in the United States.17 Further, reservation-based 
+Indian families suffer from the highest rates of substandard 
+housing in the United States.18 And, especially egregious, 
+reservation-based Indians suffer the shortest life spans, highest 
+infant mortality rates, and worst malnutrition rates in the country.19 
+Moreover, basic services and infrastructure that most Ameri-
+cans take for granted are missing on many reservations. Adequate 
+roads, clean water, housing, sanitation, telephones, and electricity 
+are in short supply in Indian country.20 A 2001 Department of the 
+Treasury report showed that more than 66% of reservation roads 
+ 
+TO CAPITAL AND CREDIT IN NATIVE COMMUNITIES 4 (2016) (stating that between 2006 and 2010 
+American Indian poverty rates were 32% compared to 14% for non-natives); Glionna, supra 
+note 4 (stating that 85% of Yurok people live below the poverty level); Robbins, supra note 
+14, at 22 (stating that the poverty rate on reservations was 31.6% compared to 6.3% for the 
+rest of the United States). 
+ 17. E.g., 143 CONG. REC. S5876 (daily ed. June 17, 1997) (statement of Sen. Domenici) 
+(“[O]ver 50 percent of American Indian fourth graders scored below the basic level in 
+reading proficiency, compared with 42 percent of all students . . . . Indian students have the 
+highest dropout rate of any racial ethnic group (36 percent) and the lowest high school 
+completion and college attendance rates of any minority group.”); Raymond Cross, American 
+Indian Education: The Terror of History and the Nation’s Debt to the Indian Peoples, 21 U. ARK. 
+LITTLE ROCK L. REV. 941, 943 (1999) (reporting that over 10% of Indian children are not 
+enrolled in school; over 75% of Indian children are at least one grade behind in school; 
+Indians have a significantly higher high school drop-out rate than other minorities); see also 
+Ward Churchill & Winona LaDuke, Native North America: The Political Economy of Radioactive 
+Colonialism, in THE STATE OF NATIVE AMERICA: GENOCIDE, COLONIZATION, AND RESISTANCE 
+246 (M. Annette Jaimes ed., 1992) (noting that Indians have the lowest level of formal 
+education of any group in the United States). 
+ 18. U.S. DEP’T OF HOUSING & URBAN DEV., ASSESSMENT OF AMERICAN INDIAN HOUS-
+ING NEEDS AND PROGRAMS: FINAL REPORT, at i, xii, 66–67, 76–78, 80 (May 1996) (reporting 
+that Indians have the worst housing problems in the United States; 40% live in substandard 
+housing as compared to 6% of the U.S. population); SAR A. LEVITAN & BARBARA HETRICK, 
+BIG BROTHER’S INDIAN PROGRAMS—WITH RESERVATIONS 11–13, 189, 197–98 (1971) (noting 
+BIA and Census figures showing median family income for reservation Indians at about 40% 
+of white families; reservations have “chronically depressed economic conditions” and 
+“substandard housing”); Robbins, supra note 14 (stating that reservation housing without 
+plumbing was 20% compared to 1% in the United States). 
+ 19. Churchill & LaDuke, supra note 17 (claiming reservations have the highest rates of 
+infant death, unemployment, and malnutrition; shortest life expectancy; and lowest per 
+capita incomes in the United States). 
+ 20. U.S. DEP’T OF THE TREASURY CMTY. DEV. FIN. INSTS. FUND, supra note 12, at 14, 39–
+40; see also California’s Largest Tribe Deploys 1st White Space Broadband, NEWS FROM INDIAN 
+COUNTRY, June 2011, at 23; Glionna, supra note 4; Norrell, supra note 4; Jodi Rave, U.S. 
+Senators Seek $2B for Tribes, MISSOULIAN (Dec. 11, 2008), https://missoulian.com/jodirave/u 
+-s-senators-seek-b-for-tribes/article_416848df-2c2a-5771-b271-f71dcd9d6a04.html; Taggart, supra 
+note 4. 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+BRIGHAM YOUNG UNIVERSITY LAW REVIEW 2018 
+1338 
+were unimproved and caused fatality rates more than four times 
+the national average.21 A mere 47% of reservation Indian house-
+holds had telephones, compared to 94% for non-native rural Ameri-
+cans.22 And only 9% of rural Indian houses had personal computers 
+with a meager 8% having internet access. Furthermore, only 14% of 
+Indian lands had financial institutions. In fact, more than one in six 
+American Indians had to travel over 100 miles to find a bank, and 
+one-third of Indians had to travel at least 30 miles to reach an ATM 
+or bank.23 A 2008 book reports that Indian housing in general, and 
+reservation housing in particular, is in deplorable condition and 
+that native peoples live in overcrowded conditions and lack 
+adequate plumbing and kitchen facilities at rates that far exceed the 
+national average for Americans.24 The Department of Energy 
+reported in 2000 that 14.2% of Indian homes on reservations had no 
+access to electricity, compared to just 1.4% of U.S. households.25 
+In light of these statistics, it is understandable why there is a 
+shortage of economic activity on reservations and why there are 
+very few private-sector economies in Indian country. Almost none 
+of the over 300 reservations in the lower forty-eight states, or the 
+more than 200 Alaska Native villages, have functioning private 
+economies. For example, few reservations have large grocery stores 
+or retail outlets, and there is an almost complete absence of 
+businesses where people can obtain the necessities and luxuries of 
+life. In fact, there are very few privately owned businesses on most 
+reservations. Not surprisingly, Indians own private businesses at 
+the lowest rate per capita for any ethnic or racial group in the 
+United States, and the businesses they own produce less income on 
+average than others.26 
+Conditions such as these demand solutions. 
+ 
+ 21. U.S. DEP’T OF THE TREASURY CMTY. DEV. FIN. INSTS. FUND, supra note 12, at 40. 
+ 22. Id.; see also Norrell, supra note 4; Robbins, supra note 14, at 22. 
+ 23. U.S. DEP’T OF THE TREASURY CMTY. DEV. FIN. INSTS. FUND, supra note 12, at 14,  
+39–40. 
+ 24. HARVARD PROJECT ON AM. INDIAN ECON. DEV., THE STATE OF THE NATIVE NATIONS: 
+CONDITIONS UNDER U.S. POLICIES OF SELF-DETERMINATION 253–55, 344 (2008). 
+ 25. ENERGY INFO. ADMIN., U.S. DEP’T OF ENERGY, SR/CNEAF/2000-01, ENERGY CON-
+SUMPTION AND RENEWABLE ENERGY DEVELOPMENT POTENTIAL ON INDIAN LANDS ix (2000). 
+ 26. U.S. CENSUS BUREAU, STATISTICS FOR ALL U.S. FIRMS BY INDUSTRY, GENDER, ETHNI-
+CITY, AND RACE FOR THE U.S., STATES, METRO AREAS, COUNTIES, AND PLACES: 2012 SURVEY OF 
+BUSINESS OWNERS (2012), https://factfinder.census.gov/bkmk/table/1.0/en/SBO/2012/00 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19  2:25 PM 
+1331 Reviving Private-Sector Economic Institutions 
+ 1339 
+III. TRADITIONAL AMERICAN INDIAN 
+PRIVATE-SECTOR INSTITUTIONS 
+American Indian nations and cultures developed and pos-
+sessed institutions that promoted and supported private economic 
+activities for centuries. “Institutions” include the common-law 
+principles, traditions, behaviors, rights, laws, structures, mechan-
+isms, moral beliefs, practices, customs, and governmental practices 
+and norms of a culture and society.27 As mentioned above, this 
+Article is calling for a revival of historical and traditional customs 
+to promote economic activities rather than a new or radical idea to 
+address the negative economic conditions in Indian country. This 
+Part will briefly highlight the historical evidence regarding Indian 
+private-sector economic activities, successes, and ingenuity. 
+History demonstrates clearly that the indigenous nations and 
+peoples located in what is now the United States supported 
+themselves for thousands of years with all sorts of private economic 
+activities. Many American Indians engaged in hunter-gatherer 
+activities, but a majority of tribal communities worked in small 
+family groups and through privately initiated individual efforts to 
+grow and create as necessary for their daily needs and to operate 
+manufacturing projects that helped sustain their lives. Indians did 
+not survive in North America for millennia just by living off the 
+natural bounty of the land. In fact, one historian noted that in the 
+1600s the Indians of the New England area produced 65% of their 
+diet from agriculture.28 When Europeans arrived on this continent, 
+ 
+CSA01/0100000US|0400000US41; see also STATISTICAL RECORD OF NATIVE NORTH AMERI-
+CANS 812 (Marlita A. Reddy ed., 2d ed. 1995) (Indian-owned businesses produce smaller 
+amounts of revenue on average than all other racial groups); Mark Fogarty, Many Indian 
+Entrepreneurs, but Revenue Is Lagging, INDIAN COUNTRY TODAY, Jan. 5, 2011 (business 
+magazine insert at 16); Felecia Fonseca, Navajo Nation Reaches Out to Entrepreneurs, NEWS 
+FROM INDIAN COUNTRY, Mar. 3, 2008, at 13; Courtenay Thompson, Adviser ‘Stands on Both 
+Sides of River,’ OREGONIAN, May 17, 1998, at C1, C6 (1992 Census shows white Oregonians 
+owned 81.8 businesses per 1000, while Native Americans owned 14.7 businesses per 1000—
+half the rate for Oregon’s Latinos and African Americans). 
+ 27. E.g., SAMUEL P. HUNTINGTON, POLITICAL ORDER IN CHANGING SOCIETIES 9 (1968) 
+(institutions are “stable, valued, recurring patterns of behavior”); WEBSTER’S THIRD NEW 
+INTERNATIONAL DICTIONARY 1171 (1981); Institution, WIKIPEDIA, https://en.wikipedia.org 
+/wiki/Institution (last visited Jan. 22, 2019). 
+ 28. Thomas R. Wessel, Agriculture, Indians, and American History, 50 AGRIC. HIST. 9–
+10 (1976). 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+BRIGHAM YOUNG UNIVERSITY LAW REVIEW 2018 
+1340 
+the lives and economies of Indian peoples and nations primarily 
+relied on agriculture and long-distance trade, specialized labor, and 
+manufacturing.29 Clearly then, Indian peoples worked in an organ-
+ized and intelligent fashion to create the foods and material goods 
+necessary to maintain their lives and families. They also developed, 
+as do all societies, property rights systems to protect the assets and 
+items that individuals and families created. As one professor has 
+noted, “aboriginals everywhere have had sophisticated property 
+rights and trading traditions.”30 
+Native peoples obviously understood, appreciated, and deve-
+loped principles that today we call private property rights and 
+entrepreneurship. Historians note that almost all Indian assets were 
+privately owned; “truly communal property was scant” among 
+Indians.31 Indian individuals voluntarily participated in producing 
+excess crops, manufacturing goods, and engaging in trade. Indian 
+peoples across North America regularly traded goods near and far 
+for survival and comfort. The extensive trade that took place across 
+the continent for several thousand years was conducted in free-
+market situations where private individuals voluntarily came 
+together to buy and sell items they had manufactured or amassed 
+ 
+ 29. Wessel, supra note 28, at 9–10, 14; see also PETER C. MANCALL, VALLEY OF OPPOR-
+TUNITY: ECONOMIC CULTURE ALONG THE UPPER SUSQUEHANNA, 1700–1800, at 39–40, 125 
+(1991); 15 SMITHSONIAN INST., HANDBOOK OF NORTH AMERICAN INDIANS: NORTHEAST 58, 
+162, 325 (William C. Sturtevant ed., 1978) (noting that Indians in Virginia, Delaware and the 
+Carolinas had well-developed farming; European explorers from 1524, 1605, 1606, and 1614 
+gave full descriptions of Indian horticulture and were impressed by the extent of farming in 
+New England; corn, beans, sunflowers, tobacco, and squash were found in abundance in 
+New York dating from 1070 A.D.); EDWARD H. SPICER, CYCLES OF CONQUEST 9–14, 119, 153, 
+541 (1962); Linda Barrington, The Mississippians and Economic Development Before European 
+Colonization, in THE OTHER SIDE OF THE FRONTIER: ECONOMIC EXPLORATIONS INTO NATIVE 
+AMERICAN HISTORY 86 (Linda Barrington ed., 1999); Leonard A. Carlson, Learning to Farm: 
+Indian Land Tenure and Farming Before the Dawes Act, in PROPERTY RIGHTS AND INDIAN 
+ECONOMIES 67, 70–71 (Terry L. Anderson ed., 1992); Neal Salisbury, The Indians’ Old World: 
+Native Americans and the Coming of Europeans, in AMERICAN ENCOUNTERS: NATIVES AND 
+NEWCOMERS FROM EUROPEAN CONTACT TO INDIAN REMOVAL 1500–1850, at 5–10 (Peter C. 
+Mancall & James H. Merrell eds., 2000); Vernon L. Smith, Economy, Ecology, and Institutions 
+in the Emergence of Mankind, in OTHER SIDE OF THE FRONTIER, supra at 57, 70–71. 
+ 30. Smith, supra note 29, at 70. 
+ 31. JULIAN H. STEWARD, BUREAU OF AM. ETHNOLOGY, BULLETIN 120: BASIN-PLATEAU 
+ABORIGINAL SOCIOPOLITICAL GROUPS 253 (1938). 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19  2:25 PM 
+1331 Reviving Private-Sector Economic Institutions 
+ 1341 
+and which they exchanged by barter and even sold for exchange 
+mediums that we would call “money” or “currencies.”32 
+A. Private Rights in Real Property 
+At the time of contact with Euro-Americans, the majority of 
+Indian societies lived permanently or semipermanently in towns 
+and villages and supported themselves primarily through farming 
+activities.33 In the eleventh through thirteenth centuries, for 
+example, some American Indian cities were larger and controlled 
+by more sophisticated societies than European countries of the 
+time.34 Even tribal groups who might be considered nomadic 
+followed “seasonal rounds” in which they moved to nearly identi-
+cal locations year after year to utilize food sources.35 For example, 
+tribal peoples would move to take advantage of seasonal salmon 
+runs, animal migrations, and ripening wild crops. Many of these 
+peoples also planted domestic crops and returned to harvest them 
+as part of their seasonal rounds.36 These “nomadic” peoples 
+recognized property rights in cultivated and gathered foods, their 
+ 
+ 32. OTHER SIDE OF THE FRONTIER, supra note 29, at 5, 72, 74, 108; RICHARD WHITE, THE 
+ROOTS OF DEPENDENCY: SUBSISTENCE, ENVIRONMENT, AND SOCIAL CHANGE AMONG THE 
+CHOCTAWS, PAWNEES, AND NAVAJOS 184, 198 (1988); CLARK WISSLER, INDIANS OF THE UNITED 
+STATES 37, 39–41 (rev. ed. 1966); Wessel, supra note 28, at 9–10, 13–14. 
+ 33. E.g., E. RICHARD HART, AMERICAN INDIAN HISTORY ON TRIAL: HISTORICAL EXPER-
+TISE IN TRIBAL LITIGATION 18, 63, 147, 185, 190–91, 193 (2017) (citing the Coeur d’Alene people 
+of modern-day Idaho who lived year-round on Coeur d’Alene Lake, the Hualapai and 
+Pueblos of the Southwest, and the Klamath in southern Oregon); 9 SMITHSONIAN INST., 
+HANDBOOK OF NORTH AMERICAN INDIANS 332 (William C. Sturtevant ed., 1979) (stating that 
+all Pueblo societies were sedentary farmers living in permanent villages). 
+ 34. Salisbury, supra note 29, at 5–10; see also WILBUR R. JACOBS, DISPOSSESSING THE 
+AMERICAN INDIAN: INDIANS AND WHITES ON THE COLONIAL FRONTIER 5–9, 111 (1972); 
+MANCALL, supra note 29, at 39–40, 125; 15 SMITHSONIAN INST., supra note 29, at 58, 162; SPICER, 
+supra note 29, at 9–14, 153. 
+ 35. 7 SMITHSONIAN INST., HANDBOOK OF NORTH AMERICAN INDIANS: NORTHWEST 
+COAST 547, 548 (Wayne Suttles ed., 1990) (stating the Kalapuya lived in permanent villages 
+during winter and during other seasons they lived in transitory camps as they followed their 
+foods); 12 SMITHSONIAN INST., supra note 9, at 378, 380, 448–49 (explaining that tribes mostly 
+lived year-round on the Columbia River but moved annually to dig roots and pick 
+huckleberries; they were not nomadic in the sense of wandering in search of food without 
+an established home base and range; they harvested a diverse array of species and resources 
+according to the season; the Klamath and Modocs lived an annual round in tune with 
+seasonal runs of fish, waterfowl, movement of game, and maturing of plant and roots 
+species; and fishing was a year-round activity). 
+ 36. JACOBS, supra note 34, at 5–9 (commenting that even semi-nomadic tribes planted 
+crops of corn, beans, squash, and tobacco). 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+BRIGHAM YOUNG UNIVERSITY LAW REVIEW 2018 
+1342 
+hunting and gathering territories, and the home sites they returned 
+to year after year. 
+Almost all American Indian tribes and societies recognized 
+various forms of permanent and semipermanent usufructuary 
+rights in lands.37 A usufructuary right is the right to use land that 
+belongs to another and is considered a private right under both 
+Anglo-American property law and tribal property rights.38 Most 
+American Indian societies considered land to be communal 
+property of the tribal group. However, tribal governments did not 
+prevent individual citizens and families from acquiring and 
+exercising rights to use specific pieces of land. Under Anglo-
+American property law, and under tribal property rights systems, 
+usufructuary rights are private property. 
+There are many examples across history and across tribal 
+nations of the widespread recognition of private usufructuary 
+rights in Indian cultures. Among the Choctaw people of 
+Mississippi, each family had its own small farming plot near its 
+cabin, and “most Choctaws had specific fields marked out within 
+the communally-prepared town lands. . . . A family . . . could take 
+any uncultivated land they thought suitable and hold it as long as 
+they used it.”39 Further, Pawnee women planted corn, beans, 
+melons, and squash in multi-acre plots that had been assigned them 
+by chiefs. The women were then entitled to the lands and crops they 
+produced as long as they wished, but the land would revert to the 
+tribal government upon a woman’s death.40 In many other tribes, 
+individual Indians and families who commenced farming, hunting, 
+or trapping on unused lands in effect made those communal lands 
+their own private property when they began individually 
+developing and working them. 
+ 
+ 37. E.g., TERRY L. ANDERSON, SOVEREIGN NATIONS OR RESERVATIONS? AN ECONOMIC 
+HISTORY OF AMERICAN INDIANS 8 (1995) (acknowledging that Indians always held and 
+recognized private property rights). 
+ 38. A “usufruct” is “the legal right of using and enjoying the fruits or profits of 
+something belonging to another.” WEBSTER’S DICTIONARY, supra note 27, at 1299. 
+ 39. WHITE, supra note 32, at 20. 
+ 40. ANDERSON, supra note 37; MELVILLE J. HERSKOVITS, THE ECONOMIC LIFE OF PRIMI-
+TIVE PEOPLES 362 (2d ed. 1952); WHITE, supra note 32, at 159; Julian H. Steward, Ethnography 
+of the Owens Valley Paiute, 33 AM. ARCHAEOLOGY & ETHNOLOGY 253 (1934). 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19  2:25 PM 
+1331 Reviving Private-Sector Economic Institutions 
+ 1343 
+Indian private use and property rights in communal lands are 
+also demonstrated by the Pueblos of the Southwest, where farming 
+rights were allotted to individuals by tribal leaders.41 Commen-
+tators have characterized these rights for Pueblo and Hopi families 
+and individuals as private property rights to use the lands and to 
+own any improvements they built, including the sophisticated 
+irrigation systems that some native peoples built communally to 
+serve tribal lands.42 The Pima Tribe, for example, worked coopera-
+tively to build irrigation systems; village headmen would assign 
+specific farming plots to individuals, and the lands became the 
+permanent property of the assignees and their heirs.43 And the 
+Havasupai Tribe also considered portions of communal tribal lands 
+privately owned by individuals as long as the land was put to a 
+productive use.44 
+The Navajo Nation in the American Southwest also considered 
+agricultural lands as private property that individuals or families 
+claimed by using them.45 Modern-day Navajo Nation court cases 
+demonstrate clearly that this type of “ownership” is still recognized 
+by Navajo people and their laws. The Navajo Supreme Court 
+stated, “While it is said that land belongs to the clans, more 
+accurately it may be said that the land belongs to those who live on 
+it and depend upon it for their survival.”46 Additionally, in 1986, 
+the Navajo Supreme Court also stated:  
+ Land use on the Navajo Reservation is unique and unlike pri-
+vate ownership of land off the reservation. While individual tribal 
+members do not own land similar to off reservation, there exists a 
+possessory use interest in land which we recognize as customary 
+ 
+ 41. GRAHAM D. TAYLOR, THE NEW DEAL AND AMERICAN INDIAN TRIBALISM: THE 
+ADMINISTRATION OF THE INDIAN REORGANIZATION ACT, 1934–1945, at 69–70 (1980). 
+ 42. 9 SMITHSONIAN INST., supra note 33, at 554–57 (claiming that the Hopis assigned 
+exclusive rights to land to matrilineal clans and the plots were marked by boundary stones); 
+Carlson, supra note 29, at 71. 
+ 43. 9 SMITHSONIAN INST., supra note 33, at 554–57; FOOD, FIBER, AND THE ARID LANDS 
+58 (William G. McGinnies ed., 1971); Carlson, supra note 29, at 70. 
+ 44. ANDERSON, supra note 37, at 32–34; ANGIE DEBO, A HISTORY OF THE INDIANS OF THE 
+UNITED STATES 13–14 (1970); Carlson, supra note 29, at 70–71. 
+ 45. HERSKOVITS, supra note 40, at 362 (recognizing that among the Navajo, the first 
+person to farm a plot of land retained permanent possession; Navajo marked their land with 
+boundaries and others needed permission even to farm a plot next to it); Carlson, supra note 
+29, at 71. 
+ 46. Tome v. Navajo Nation, 4 Navajo Rptr. 159, 161 (Navajo D. Ct. 1983). 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+BRIGHAM YOUNG UNIVERSITY LAW REVIEW 2018 
+1344 
+usage. An individual normally confines his use and occupancy of 
+land to an area traditionally inhabited by his ancestors.47 
+Furthermore, many eastern and southeastern tribes produced 
+the majority of their subsistence by farming, and individuals and 
+families held usufructuary rights to specific lands.48 The Creek and 
+Cherokee peoples from the American Southeast farmed their own 
+lands and put their crops into privately owned storehouses.49 
+Moreover, farming plots among native peoples of New England 
+and Virginia “were either owned outright by families or held in 
+usufruct by them.”50 In fact, all tribal communities that practiced 
+agriculture “definitely recognized exclusive land use.”51 
+In addition, American Indian institutions, laws, and cultures 
+recognized other types of private rights in land than just agricul-
+ture. Indian nations that relied heavily on fishing developed and 
+protected individual and private property rights in these resources. 
+Columbia River salmon fishing sites of man-made wooden 
+platforms or well-located rocks were individually and family-
+owned properties that were passed down by established inheri-
+tance principles.52 Others could fish at these sites only with 
+permission from the owner.53 Other native cultures also developed 
+ 
+ 47. In re Estate of Wauneka Sr., 5 Navajo Rptr. 79, 81 (Navajo 1986). 
+ 48. Carlson, supra note 29, at 70–71. 
+ 49. DEBO, supra note 44, at 13–14. 
+ 50. 15 SMITHSONIAN INST., supra note 29, at 84. 
+ 51. ANDERSON, supra note 37, at 32–34; Carlson, supra note 29, at 70–71; accord DEBO, 
+supra note 44, at 13–14. 
+ 52. United States v. Washington, 384 F. Supp. 312, 353 (W.D. Wash. 1974) (“Generally, 
+individual Indians had primary use rights in the territory where they resided.”), aff’d, 520 
+F.2d 676 (9th Cir. 1975), cert. denied, 423 U.S. 1086 (1976); CHARLES F. WILKINSON, CROSSING 
+THE NEXT MERIDIAN: LAND, WATER, AND THE FUTURE OF THE WEST 185 (1992); Bruce L. 
+Benson, Customary Indian Law: Two Case Studies, in PROPERTY RIGHTS AND INDIAN 
+ECONOMIES, supra note 29, at 27 (“Indians had well developed legal systems that emphasized 
+individual rights and individual ownership.”); Robert Higgs, Legally Induced Technical 
+Regress in the Washington Salmon Fishery, in RESEARCH IN ECONOMIC HISTORY 59–60 (Paul 
+Uselding ed., 1982) (positing that some tribes recognized individual ownership of river 
+fishing spots and platforms on the Columbia River and reef locations in the ocean were 
+inheritable individual properties passed from father to son); Leslie Spier & Edward Sapir, 
+Wishram Ethnography, 3 U. WASH. PUBLICATIONS ANTHROPOLOGY 151, 175 (1930) (right to fish 
+particular localities was owned by families among the Wasco, Cascades, and Wishram 
+peoples). That is still the case on the Hoopa Valley Reservation. MILLER, RESERVATION 
+“CAPITALISM,” supra note 5, at 14. 
+ 53. WILKINSON, supra note 52, at 185. 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19  2:25 PM 
+1331 Reviving Private-Sector Economic Institutions 
+ 1345 
+principles of private property that included the right to exclude 
+others from communally owned lands.54 These kinds of property 
+rights were firmly established in many tribes that are now located 
+in Oregon and California, for example. Owners could pass on their 
+privately owned rights by inheritance, and fishing sites could be 
+rented out or sold by the owners.55 One historian commented that 
+“Indians had well developed legal systems that emphasized 
+individual rights and individual ownership.”56 A U.S. judge even 
+wrote in 1974, “Generally, individual Indians had primary use 
+rights in the territory where they resided.”57 Moreover, these 
+principles still apply in modern times: the Chairman of the Hoopa 
+Valley Tribe in California stated in 2009 that many fishing sites on 
+the Hoopa Reservation, which is owned in common by the Tribe, 
+are still held today as private property by Hoopa individuals 
+and families.58 
+The Inuits in modern-day Alaska and Canada, and other tribes, 
+also enforced precise concepts of private ownership in tribally owned 
+hunting and fishing territories. Some Canadian tribes controlled 
+overhunting by assigning exclusive use rights in territories to indi-
+viduals.59 For instance, the James Bay Cree Tribe and the Montagnis 
+ 
+ 54. 7 SMITHSONIAN INST., supra note 35, at 536–37 (positing that fishing areas were 
+traditionally controlled by a group); Peter Collings, The Cultural Context of Wildlife Manage-
+ment in the Canadian North, in CONTESTED ARCTIC: INDIGENOUS PEOPLES, INDUSTRIAL STATES, 
+AND THE CIRCUMPOLAR ENVIRONMENT 22 (Eric Alden Smith & Joan McCarter eds., 1997); 
+Andrew P. Vayda, Pomo Trade Feasts, in TRIBAL AND PEASANT ECONOMIES 494, 495–96, 498 
+(George Dalton ed., 1967) (claiming that some California tribes allotted sections of rivers on 
+tribal lands to individuals who owned all the fish caught in that section). 
+ 55. STEPHEN DOW BECKHAM, ETHNOHISTORICAL CONTEXT OF RESERVED INDIAN 
+FISHING RIGHTS: PACIFIC NORTHWEST TREATIES, 1851–1855, at 40–41 (1984) (“[For Oregon 
+tribes f]ishing stations were highly prized and passed by inheritance. . . . No one else was 
+allowed to fish at a particular station without permission.”); E. ADAMSON HOEBEL, THE LAW 
+OF PRIMITIVE MAN 52, 55 (1954) (acknowledging that California tribes on the Klamath River 
+had exclusive use of fishing spots and would rent them out); Vayda, supra note 54, at 498 
+(noting that some California Indians traded clam shell beads to other Indians for the right to 
+fish at certain river sites). 
+ 56. Benson, supra note 52, at 27. 
+ 57. Washington, 384 F. Supp. at 353. 
+ 58. Interview with Clifford Lyle Marshall, Chairman Hoopa Valley Tribe (March 19, 
+2009), in MILLER, RESERVATION “CAPITALISM,” supra note 5, at 14; accord Benson, supra note 
+52, at 27; Smith, supra note 29, at 71; Vayda, supra note 54, at 495–96, 498. 
+ 59. Eleanor Leacock, The Montagnais’ Hunting Territory and the Fur Trade, 73 AM. 
+ANTHROPOLOGIST 56 (1954); Julius E. Lips, Naskapi Law, in TRANSACTIONS OF THE AMERICAN 
+PHILOSOPHICAL SOCIETY 379 (1947); John C. McManus, An Economic Analysis of Indian Behavior 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+BRIGHAM YOUNG UNIVERSITY LAW REVIEW 2018 
+1346 
+recognized exclusive individual ownership of fishing sites. Tribes 
+that became involved in the European fur trade also developed 
+principles of private property in rivers to control overharvesting and 
+allotted hunting territories to specific individuals.60 
+The Nootka peoples of the Pacific Northwest “carried the 
+concept of ownership to an incredible extreme.”61 Under the laws 
+of these cultures, individuals held as “privately owned property”62 
+land, houses, clam beds, beaches, salvage rights, river fishing spots, 
+and even fishing locations and sea lion rocks in the ocean.63 The 
+Tlingit Tribe in modern-day Alaska also protected private rights in 
+hunting grounds, salmon streams, sealing rocks, and the 
+accumulation of individual wealth, and most of these rights 
+were inheritable.64 
+In the vast majority of Indian nations, individuals and families 
+privately owned their housing and their home sites.65 Many tribal 
+cultures also recognized exclusive property rights to valuable 
+plants such as berry patches and fruit and nut trees.66 The property 
+ 
+in the North American Fur Trade, 32 TASKS ECON. HIST. 36, 39 (1972); Ronald L. Trosper, That 
+Other Discipline: Economics and American Indian History, in NEW DIRECTIONS IN AMERICAN 
+INDIAN HISTORY 210, 212 (Colin G. Calloway ed., 1988). 
+ 60. 6 SMITHSONIAN INST., HANDBOOK OF NORTH AMERICAN INDIANS 181 (William C. 
+Sturtevant et al. eds., 1981) (“[U]sufructuary rights to trap in specific territories became 
+established.”); see also 15 SMITHSONIAN INST., supra note 29, at 84; Leacock, supra note 59, at 
+56; McManus, supra note 59, at 39. 
+ 61. Phillip Drucker, The Northern and Central Nootkan Tribes, 144 BUREAU AM. ETHNO-
+LOGY BULL. 247 (1951). 
+ 62. Id. 
+ 63. Id.; Robert J. Miller, Exercising Cultural Self-Determination: The Makah Indian Tribe 
+Goes Whaling, 25 AM. INDIAN L. REV. 165 (2001); see also ELIZABETH COLSON, THE MAKAH 
+INDIANS: A STUDY OF AN INDIAN TRIBE IN MODERN AMERICAN SOCIETY 4 (1953) (noting that 
+Makah family heads owned property rights in “fishing grounds,” “coastal strips,” and 
+“ceremonial privileges”); FRANCES DENSMORE, NOOTKA AND QUILEUTE MUSIC 3 (1939) 
+(stating that men and families owned fishing sites, land rights, water rights, and salvage 
+rights to beached whales; these rights were inheritable); ALAN D. MCMILLAN, SINCE THE TIME 
+OF THE TRANSFORMERS: THE ANCIENT HERITAGE OF THE NUU-CHAH-NULTH, DITIDAHT, AND 
+MAKAH 13–14, 16, 22 (1999) (explaining that families owned (1) territorial boundaries that 
+ran into the ocean for halibut banks and sea lion rocks, (2) salmon streams, (3) clam beds, 
+and (4) salvage rights to beaches). 
+ 64. KALERVO OBERG, THE SOCIAL ECONOMY OF THE TLINGIT INDIANS 35 (1973). 
+ 65. Id. at 55; 7 SMITHSONIAN INST., supra note 35, at 418; Drucker, supra note 61. 
+ 66. COLSON, supra note 63; OBERG, supra note 64, at 55; Carlson, supra note 29, at 71; 
+Ralph M. Linton, Land Tenure in Aboriginal America, in THE CHANGING INDIAN 42, 47–48 
+(Oliver LaFarge ed., 1942) (noting some California tribes recognized property rights to berry 
+patches, and women who found sweet clover or cabbage had the exclusive harvesting 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19  2:25 PM 
+1331 Reviving Private-Sector Economic Institutions 
+ 1347 
+rights recognized in these assets were inheritable and some could 
+even be bought and sold.67 
+Indian nations, cultures, and their institutions recognized and 
+protected a wide array of individually and family-owned private 
+rights in land, even though the lands were owned in common by 
+the government and community. These indigenous property 
+systems encouraged entrepreneurial, individually directed, and 
+privately owned food production and manufacturing activities on 
+specific pieces of land. Individuals and their families owned the 
+fruits of their labors as private property and left their property to 
+their descendants under well-established tribal laws and customs. 
+Clearly, native cultures in North America developed and enforced 
+institutions of private property rights in land and benefited indi-
+vidually from exercising those rights. 
+B. Personal Property 
+All American Indian cultures recognized and protected private 
+property rights in assets other than land. For example in some 
+tribes, in a form of intellectual property law, individuals and 
+families owned exclusive rights to images, dances, marriage 
+ceremonies, names, stories, songs, medicines, masks, and rituals.68 
+These property rights were inheritable. All Indian peoples owned 
+as private and personal property their clothing, cooking utensils, 
+housing, animals, tools, weapons, canoes, handicraft and trade 
+goods, and the foods they produced.69 These items were privately 
+produced and owned by individuals and families. They were not 
+ 
+rights); Robert H. Lowie, Ethnographic Notes on the Washo, in AMERICAN ARCHAEOLOGY AND 
+ETHNOLOGY 301, 303 (1940) (observing that families owned nut trees and seed patches and 
+marked their ownership “by lines of rocks”). 
+ 67. ANDERSON, supra note 37, at xiv–xv, 24; K.N. LLEWELLYN & E. ADAMSON HOEBEL, 
+THE CHEYENNE WAY: CONFLICT AND CASE LAW IN PRIMITIVE JURISPRUDENCE 213–14, 216–20, 
+233 (1941); OTHER SIDE OF THE FRONTIER, supra note 29, at 71, 108; 9 SMITHSONIAN INST., supra 
+note 33, at 554–57; Linton, supra note 66, at 47–48; Carlson, supra note 29, at 71. 
+ 68. COLSON, supra note 63, at 4; MCMILLAN, supra note 63, at 21, 33; OBERG, supra note 
+64, at 55, 62–63, 79–83, 91–94; 7 SMITHSONIAN INST., supra note 35, at 418; Drucker, supra note 
+61, at 247. 
+ 69. ANDERSON, supra note 37, at 40; HERSKOVITS, supra note 40, at 372–73, 376; OBERG, 
+supra note 64, at 62–63, 79–83, 91–94; Benson, supra note 52, at 34. 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+BRIGHAM YOUNG UNIVERSITY LAW REVIEW 2018 
+1348 
+tribal or communal property but were “clearly owned by 
+the individual.”70 
+The ownership of horses demonstrates clearly how Indian 
+cultures viewed private property and economic affairs. After the 
+arrival of the horse, some formerly sedentary agricultural tribal 
+societies adopted semi-nomadic lifestyles in which increased 
+buffalo hunting played a prominent and profitable role. Horses 
+were always items of privately owned personal property. In fact, in 
+1855 the Cayuse people owned up to 20,000 horses with individual 
+Cayuses owning up to 1000 horses each, and they would leave their 
+herds to their children under tribal inheritance laws.71 Among the 
+Pawnee, the horse “took its place as a peculiar form of property . . . 
+[and] began to denote wealth and created the beginnings of a social 
+standing somewhat apart from the older distinctions of birth, 
+knowledge, and skill. Horses were personal property, and they 
+remained unevenly distributed.”72 Additionally, private property 
+rights in horses were so well protected that in some tribal societies 
+an individual retained rights to a horse even when it was recap-
+tured from others.73 Well-trained horses were very valuable private 
+assets, and Indians engaged in the entrepreneurial activity of 
+leasing them for payments of up to half of the game captured or 
+booty acquired by the lessee.74 In addition, principles of private 
+property gained by personal initiative are well demonstrated by the 
+fact that even in communal hunting, raiding, and warfare activities, 
+most tribes recognized and protected individual rights in 
+captured items.75 
+Big animal hunting also provides further examples of Indian 
+private property rights. These kinds of food production activities 
+and the ancillary products the animals provided were the main 
+ 
+ 70. HERSKOVITS, supra note 40, at 376. 
+ 71. Interview with Antone Minthorn, Chairman, Confederated Tribes of the Umatilla 
+Indian Reservation (March 31, 2009), in MILLER, RESERVATION “CAPITALISM,” supra note 5, 
+at 15–16. 
+ 72. WHITE, supra note 32, at 180. 
+ 73. LLEWELLYN & HOEBEL, supra note 67, at 225. 
+ 74. ANDERSON, supra note 37, at 43, 62; LLEWELLYN & HOEBEL, supra note 67, at 229; 
+Alan M. Klein, Political Economy of the Buffalo Hide Trade: Race and Class on the Plains, in THE 
+POLITICAL ECONOMY OF NORTH AMERICAN INDIANS 133, 141–42 (John H. Moore ed., 1993). 
+ 75. LLEWELLYN & HOEBEL, supra note 67, at 223, 233; WHITE, supra note 32, at 187; 
+Benson, supra note 52, at 34; Carlson, supra note 29, at 71; Klein, supra note 74, at 141. 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19  2:25 PM 
+1331 Reviving Private-Sector Economic Institutions 
+ 1349 
+subsistence and economic activity for Plains Indians and other trib-
+al peoples for centuries. These private endeavors also made some 
+individuals wealthy. The wealth created by successful buffalo hunt-
+ing and whaling, for example, was demonstrated by having large 
+families, amassing ample surpluses of material items, and increasing 
+community influence.76 Individuals worked hard to acquire the 
+skills and assets to succeed in these dangerous endeavors. 
+Indians from many nations also engaged in specific occupations 
+other than farming or hunting in which they sold their personal 
+services and expertise. These individuals gained private rights and 
+profits from their efforts. For example, the Makah Tribe had specific 
+careers and occupations that people aspired to because there was a 
+“degree of specialization, into whale hunters, seal hunters, doctors, 
+gamblers, warriors and fishermen.”77 And as one federal court 
+noted, “the Makah enjoyed a high standard of living [from] their 
+marine resources and extensive marine trade.”78 In other tribal 
+cultures, people specialized in professions such as healers, shamans, 
+manufacturers, singers, and songwriters and were paid fees for 
+their services.79 These private and voluntary economic endeavors 
+provided income and support for individuals and their families. 
+Without dispute, a wide variety of tribal cultures, across what is 
+now the United States, promoted and protected institutions of 
+private property rights in personal property. Indians worked 
+diligently and intelligently to acquire these rights and the profits 
+needed to support themselves and their families. 
+C. Trade 
+All American Indian peoples engaged in trade, barter, and the 
+buying and selling of goods. Indians produced, traded, and sold 
+their surplus foods and manufactured items to other peoples near 
+and far. Indian communities organized large fairs and markets that 
+ 
+ 76. ANDERSON, supra note 37, at 41, 62; 11 SMITHSONIAN INST., HANDBOOK OF NORTH 
+AMERICAN INDIANS 315 (William C. Sturtevant ed., 1986). 
+ 77. COLSON, supra note 63, at 4; see also id. at 249–50. 
+ 78. United States v. Washington, 384 F. Supp. 312, 364 (W.D. Wash. 1974), aff’d, 520 
+F.2d 676 (9th Cir. 1975), cert. denied, 423 U.S. (1976). 
+ 79. HERSKOVITS, supra note 40, at 123–24; OBERG, supra note 64, at 94–95; 10 SMITH-
+SONIAN INST., HANDBOOK OF NORTH AMERICAN INDIANS 714–15 (William C. Sturtevant ed., 
+1983); 11 SMITHSONIAN INST., supra note 76, at 315–16. 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+BRIGHAM YOUNG UNIVERSITY LAW REVIEW 2018 
+1350 
+were held at regularly scheduled locations and times across North 
+America. In fact, trade networks crisscrossed North America and 
+goods were often traded hundreds or even a thousand miles from 
+their original source.80 For example, seashells from the Gulf of 
+Mexico, Southeast Atlantic, Gulf of California, and Pacific Ocean 
+have been found a thousand miles from where they originated.81 
+These trading activities were controlled and motivated by private 
+property rights and individual initiative. The well-established prin-
+ciples of trade and the trade networks that developed demonstrate 
+the recognition and protection Indian cultures and institutions gave 
+to private property rights and entrepreneurial activities.82 
+Thousands of years before Europeans arrived in North 
+America, long-distance trade networks were developed to serve 
+indigenous peoples’ interests in acquiring necessary and luxury 
+items.83 Trade developed in all kinds of products including food, 
+manufactured items, stones, flint, copper, shells, and minerals.84 
+Indians began using copper to make tools and beads for their own 
+use and for the trade market.85 Other minerals including 
+ 
+ 80. JACOBS, supra note 34, at 42; MANCALL, supra note 29, at 24; OBERG, supra note 64, 
+at 105, 111–12; GEORGE QUIMBY, INDIAN CULTURE AND EUROPEAN TRADE GOODS 29 (1966); 10 
+SMITHSONIAN INST., supra note 79, at 8, 712–13; 9 SMITHSONIAN INST., supra note 33, at 79, 201; 
+7 SMITHSONIAN INST., supra note 35, at 150, 208–09, 560, 580; THE ENCYCLOPEDIA OF NATIVE 
+AMERICAN ECONOMIC HISTORY 247 (Bruce E. Johansen ed., 1999) [hereinafter ECONOMIC 
+ENCYCLOPEDIA]; James G. Swan, The Indians of Cape Flattery, in XVI SMITHSONIAN 
+CONTRIBUTIONS TO KNOWLEDGE 30–32, 36 (1870) (The Makah were well-located as a market 
+for southern to northern exchange, and they traded 5000 to 16,000 gallons of whale oil 
+annually.); Bruce G. Trigger & William R. Swagerty, Entertaining Strangers: North America in 
+the Sixteenth Century, in 1 THE CAMBRIDGE HISTORY OF THE NATIVE AMERICAN PEOPLES OF 
+NORTH AMERICA 329 (1996) (Eastern North America was crisscrossed with Indian 
+trade routes.). 
+ 81. JOHN C. EWERS, PLAINS INDIAN HISTORY AND CULTURE 24-25 (1997); OBERG, supra 
+note 64, at 105, 111–12; LYNDA NORENE SHAFFER, NATIVE AMERICANS BEFORE 1492: THE 
+MOUND BUILDING CENTERS OF THE EASTERN WOODLANDS 25 (1992); 15 SMITHSONIAN INST., 
+supra note 29, at 45; 10 SMITHSONIAN INST., supra note 79, at 712–13; 9 SMITHSONIAN INST., 
+supra note 33, at 79, 201; 7 SMITHSONIAN INST., supra note 35, at 150, 208–09, 560, 580. 
+ 82. MANCALL, supra note 29, at 47–48; OBERG, supra note 64, at 105; 15 SMITHSONIAN 
+INST., supra note 29, at 83; 9 SMITHSONIAN INST., supra note 33, at 25–26, 71–72, 127–28, 149; 7 
+SMITHSONIAN INST., supra note 35, at 418; Patricia C. Albers, Symbiosis, Merger, and War: 
+Contrasting Forms of Intertribal Relationship Among Historic Plains Indians, in THE POLITICAL 
+ECONOMY OF NORTH AMERICAN INDIANS 94, 99, 101 (John H. Moore ed., 1993); Salisbury, 
+supra note 29, at 447. 
+ 83. SHAFFER, supra note 81, at 21, 44–45; Salisbury, supra note 29, at 440, 444. 
+ 84. SHAFFER, supra note 81, at 21–22, 35–37; Salisbury, supra note 29, at 440, 444. 
+ 85. Salisbury, supra note 29, at 440. 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19  2:25 PM 
+1331 Reviving Private-Sector Economic Institutions 
+ 1351 
+chalcedony, quartz, galena, and hematite were traded in significant 
+amounts all along the Mississippi River.86 Jewelry and luxury items 
+were manufactured and traded. Silver from Ontario, chert, ceramic 
+figurines, carved soapstone pipes, mica, shell beads, animal teeth, 
+and turtle shells were also traded.87  
+Indian nations from the American Southwest manufactured 
+and traded food, turquoise, jewelry, and masks, which they pro-
+duced from materials they had grown and mined, to indigenous 
+peoples in Mexico for birds, feathers, and copper bells, and to 
+others in the Gulf of California for shells.88 In addition, the 
+extensive and well-established Indian trading networks spread 
+new Euro-American goods to many Indians long before they 
+actually encountered Euro-Americans. In fact, war axes that the 
+Lewis and Clark expedition made and very successfully traded for 
+food supplies at the Mandan and Hidatsa villages in modern-day 
+North Dakota ended up very quickly far to the west in Nez Perce 
+country via the native trade networks.89 Indians had no problems 
+incorporating Euro-American goods into their trade systems. 
+Indian peoples and tribes willingly engaged in trade and extended 
+their activities to new trading partners, new goods, and the fur 
+trade, as both sides became customers and traders in common.90 
+Native governments even adopted organized trading activities. 
+The indigenous Mississippian culture that created the city of 
+Cahokia was a society based on agriculture, manufacture, and 
+trade. Cahokia existed from 700 to 1300 A.D.91 By 1250, Cahokia had 
+a population of 20,000–50,000, larger than London’s at that time.92 
+The citizens of Cahokia used long-distance trade to import raw 
+ 
+ 86. SHAFFER, supra note 81, at 22–23, 35–37, 75–80; Salisbury, supra note 29, at 440. 
+ 87. SHAFFER, supra note 81, at 22–23, 35–37, 75–80. 
+ 88. 10 SMITHSONIAN INST., supra note 79, at 691–707, 711–22; 9 SMITHSONIAN INST., 
+supra note 33, at 201–05, 305, 559–61; Salisbury, supra note 29, at 442–44. 
+ 89. JAMES P. RONDA, LEWIS & CLARK AMONG THE INDIANS 102–04 (1998 ed.). 
+ 90. EWERS, supra note 81, at 24–25; 15 SMITHSONIAN INST., supra note 29, at 83, 85, 202–
+06, 344–47, 763–64; 10 SMITHSONIAN INST., supra note 79, at 711–22; 7 SMITHSONIAN INST., 
+supra note 35, at 120–21; SPICER, supra note 29, at 9, 147, 543; Salisbury, supra note 29, at 
+440, 444. 
+ 91. SHAFFER, supra note 81, at 51; MICHELE STRUTIN, CHACO: A CULTURAL LEGACY 50–
+51 (1994). 
+ 92. SHAFFER, supra note 81, at 53–54. 
+ 
+004.RMILLER_FIN2_NOHEADERS.DOCX (DO NOT DELETE) 5/6/19 2:25 PM 
+BRIGHAM YOUNG UNIVERSITY LAW REVIEW 2018 
+1352 
+materials from all over North America to manufacture products.93 
+Cahokian citizens worked in specialized labor and manufactured 
+pottery, baskets, leather clothing, stone tools, and ornamental ob-
+jects, and they began producing and trading salt around 900 A.D.94 
+Furthermore, Indian communities regularly hosted annual and 
+semiannual regional trade fairs and markets across North 
+America.95 Markets were held at regularly scheduled times and 
+places, and large numbers of Indians from a wide variety of nations 
+would attend. These markets were so important that Indian 
+nations, and later the Spanish, would even call truces to not disrupt 
+the markets.96 In the 1740s, for instance, a German count was very 
+impressed by the Indian market in eastern Pennsylvania and by the 
+amount and diversity of goods for sale. He stated that it was “like 
+the Hague in Holland.”97 In 1803–06, the Lewis and Clark 
+expedition marveled at the Indian trading fairs they encountered. 
+Lewis and Clark also observed the importance of trade in the winter 
+of 1804–05 in the Mandan and Hidatsa towns. They observed that 
+enemies of the Mandan and Hidatsa came to trade various buffalo 
+products for corn and other crops.98 Trade was so important and 
+integral to these communities, their economies, and lives that they 
+did not allow longstanding animosities to get in the way of 
+business. Later in 1805, Lewis and Clark witnessed the great Indian 
+market near present-day The Dalles, Oregon. They were amazed at 
+ 
+ 93. OTHER SIDE OF THE FRONTIER, supra note 29, at 5, 86; SHAFFER, supra note 81, at 56–
+58, 62–67; STRUTIN, supra note 91, at 50–51; Stephen H. Lekson et al., The Chaco Canyon 
+Community, 259 SCI. AM., July 1988, at 100, 108; Salisbury, supra note 29, at 441–42. 
+ 94. OTHER SIDE OF THE FRONTIER, supra note 29, at 5, 86; 7 SMITHSONIAN INST., supra 
+note 35, at 125, 208–09; STRUTIN, supra note 91, at 50–51; Lekson et al., supra note 93, at 108. 
+ 95. MANCALL, supra note 29, at 24, 47–48 (proposing that evidence exists of trade 
+among Indian tribes in eastern Pennsylvania since 500 B.C.); 15 SMITHSONIAN INST., supra 
+note 29, at 45, 83 (claiming that long-distance trade of pottery, shell beads, and native copper 
+is evident during 300 B.C.–1000 A.D.; more perishable goods were exchanged as well); 9 
+SMITHSONIAN INST., supra note 33, at 25–26, 71–72, 127–28, 149; 5 SMITHSONIAN INST., 
+HANDBOOK OF NORTH AMERICAN INDIANS 374 (William C. Sturtevant ed., 1984) (stating that 
+lamps and pots carved from soapstone from the central Canadian Arctic were traded to the 
+North Alaska Coast after 1200 A.D.); Salisbury, supra note 29, at 439, 447–48 (noting that in 
+the thirteenth to sixteenth centuries, Plains tribes, Apaches, and Navajos traded at 
+semiannual trad
