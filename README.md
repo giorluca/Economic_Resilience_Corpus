@@ -6,6 +6,7 @@ Each entry in the corpus contains a unique numerical identifier, the COREid, the
 
 <p align="center">
 ![image](https://github.com/user-attachments/assets/bde1c15c-b9c6-4972-b69f-d0de3a36253c)
+</p>
 
 ![image](https://github.com/user-attachments/assets/31ed0ae3-bfaf-483e-a083-60dfde46d46c)
 </p>
