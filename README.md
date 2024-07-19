@@ -12,3 +12,6 @@ _Data Preprocessing_
 <p align="justify">
 We make sure that the corpus contains no missing entries in both the title and text field. Then we drop 7 duplicate entries by title. We also append the titles to the beginning of the texts, separating them by two newline characters (‘\n’) in order to have all relevant textual data in the same string. Furthermore, we remove stopwords (e.g., ‘and’, ‘or’, ‘of’), as non-informative, functional and very common words which carry minimal semantic relevance can obscure potential interesting and meaningful patterns in content analysis3. Finally, for enhanced compatibility with the textual analysis toolkit, we export each preprocessed title-text pair in separate plain text format (.txt) files. 
 </p>
+
+To cite our work:
+[TBA]
